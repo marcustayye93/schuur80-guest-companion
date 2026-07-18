@@ -157,7 +157,7 @@ export function HeroImage({
           />
           <div className="absolute inset-x-0 bottom-0 p-5">
             {eyebrow && (
-              <p className="text-[11px] font-medium uppercase tracking-[0.18em] text-amber-200/90">
+              <p className="text-xs font-bold uppercase tracking-[0.18em] text-amber-200 [text-shadow:0_1px_4px_rgba(0,0,0,0.55)]">
                 {eyebrow}
               </p>
             )}

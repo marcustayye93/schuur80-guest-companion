@@ -29,7 +29,7 @@ export default function Emergency() {
       <div className="space-y-6 px-4 pt-2 pb-4">
         {/* Address card */}
         <div className="card-soft rounded-3xl bg-foreground p-5 text-background">
-          <p className="flex items-center gap-2 text-[11px] font-medium uppercase tracking-[0.18em] text-amber-200">
+          <p className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.18em] text-amber-200">
             <MapPin className="h-3.5 w-3.5" aria-hidden />
             {t("emergency.addressNote")}
           </p>
