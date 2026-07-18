@@ -6,7 +6,7 @@
  */
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { Route, Switch } from "wouter";
+import { Route, Router as WouterRouter, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import { LanguageProvider } from "./contexts/LanguageContext";
@@ -30,6 +30,13 @@ import SettingsPage from "./pages/SettingsPage";
 import SearchPage from "./pages/SearchPage";
 import OfflinePage from "./pages/OfflinePage";
 import NotFound from "./pages/NotFound";
+
+/**
+ * Base path support: on GitHub Pages the app is served from
+ * /schuur80-guest-companion/, locally and on root domains from "/".
+ * Vite injects BASE_URL at build time; strip the trailing slash for wouter.
+ */
+const BASE_PATH = import.meta.env.BASE_URL.replace(/\/$/, "");
 
 function Router() {
   return (
@@ -82,7 +89,9 @@ function App() {
         <LanguageProvider>
           <TooltipProvider>
             <Toaster />
-            <Router />
+            <WouterRouter base={BASE_PATH}>
+              <Router />
+            </WouterRouter>
           </TooltipProvider>
         </LanguageProvider>
       </ThemeProvider>

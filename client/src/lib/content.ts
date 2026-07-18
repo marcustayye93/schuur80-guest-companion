@@ -42,7 +42,19 @@ export const recommendations =
   recommendationsJson.recommendations as unknown as Recommendation[];
 export const hostPicksPending =
   recommendationsJson.hostPicksPending as unknown as PendingContent;
-export const mediaAssets = mediaJson.assets as unknown as MediaAsset[];
+/**
+ * Media src resolution: media.json stores root-absolute paths like
+ * "/manus-storage/x.jpg". When the app is served from a sub-path (GitHub
+ * Pages project site), prefix them with Vite's BASE_URL so the images that
+ * ship alongside the build resolve correctly. At "/" this is a no-op.
+ */
+const BASE = import.meta.env.BASE_URL.replace(/\/$/, "");
+export const mediaAssets = (mediaJson.assets as unknown as MediaAsset[]).map(
+  (m) => ({
+    ...m,
+    src: m.src.startsWith("/") && BASE ? `${BASE}${m.src}` : m.src,
+  })
+);
 export const pendingRegister =
   pendingRegisterJson.items as unknown as PendingRegisterItem[];
 
