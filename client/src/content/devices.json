@@ -404,6 +404,42 @@
       }
     },
     {
+      "id": "toaster",
+      "roomId": "kitchen",
+      "name": {
+        "en": "Bread Toaster",
+        "nl": "Broodrooster",
+        "fr": "Grille-pain",
+        "de": "Toaster",
+        "zh": "烤面包机",
+        "ko": "토스터",
+        "ja": "トースター"
+      },
+      "icon": "sandwich",
+      "instructions": {
+        "steps": [
+          {
+            "en": "The toaster lives on the kitchen counter — plug it in, drop in your bread and choose a browning level.",
+            "nl": "De broodrooster staat op het keukenblad — steek de stekker in, doe je brood erin en kies een bruiningsstand.",
+            "fr": "Le grille-pain se trouve sur le plan de travail — branchez-le, insérez votre pain et choisissez le niveau de dorage.",
+            "de": "Der Toaster steht auf der Küchenarbeitsplatte — einstecken, Brot einlegen und Bräunungsstufe wählen.",
+            "zh": "烤面包机放在厨房台面上——插上电源，放入面包并选择烘烤程度。",
+            "ko": "토스터는 주방 조리대에 있습니다 — 플러그를 꽂고 빵을 넣은 뒤 굽기 정도를 선택하세요.",
+            "ja": "トースターはキッチンカウンターにあります — プラグを差し、パンを入れて焼き加減を選んでください。"
+          },
+          {
+            "en": "Empty the crumb tray now and then, and never poke inside with metal utensils.",
+            "nl": "Leeg af en toe de kruimellade en steek nooit metalen voorwerpen in het toestel.",
+            "fr": "Videz le tiroir à miettes de temps en temps et n'introduisez jamais d'ustensiles métalliques.",
+            "de": "Leeren Sie ab und zu die Krümelschublade und stecken Sie niemals Metallbesteck hinein.",
+            "zh": "请不时清空碎屑托盘，切勿用金属器具伸入机内。",
+            "ko": "가끔 부스러기 받침을 비워 주시고, 금속 도구를 절대 넣지 마세요.",
+            "ja": "パンくずトレイは時々空にし、金属製の器具は絶対に差し込まないでください。"
+          }
+        ]
+      }
+    },
+    {
       "id": "projector",
       "roomId": "cinema",
       "name": {
@@ -595,6 +631,78 @@
       }
     },
     {
+      "id": "fire-pit",
+      "roomId": "garden",
+      "name": {
+        "en": "Wood Fire Pit",
+        "nl": "Vuurschaal",
+        "fr": "Brasero",
+        "de": "Feuerschale",
+        "zh": "户外火盆",
+        "ko": "야외 화로",
+        "ja": "ファイヤーピット"
+      },
+      "icon": "flame-kindling",
+      "instructions": {
+        "steps": [
+          {
+            "en": "The wood-burning fire pit stands in the garden — perfect for cool evenings under the orchard sky. Use only dry firewood, never household waste or treated wood.",
+            "nl": "De houtgestookte vuurschaal staat in de tuin — perfect voor frisse avonden onder de boomgaardhemel. Gebruik alleen droog brandhout, nooit huisvuil of behandeld hout.",
+            "fr": "Le brasero à bois se trouve dans le jardin — parfait pour les soirées fraîches sous le ciel du verger. Utilisez uniquement du bois sec, jamais de déchets ménagers ni de bois traité.",
+            "de": "Die holzbefeuerte Feuerschale steht im Garten — perfekt für kühle Abende unter dem Obstgartenhimmel. Nur trockenes Brennholz verwenden, niemals Hausmüll oder behandeltes Holz.",
+            "zh": "烧木柴的火盆位于花园中——凉爽的夜晚在果园星空下使用再合适不过。只可使用干柴，切勿焚烧生活垃圾或经处理的木材。",
+            "ko": "장작 화로는 정원에 있습니다 — 과수원 하늘 아래 서늘한 저녁에 안성맞춤입니다. 마른 장작만 사용하고, 생활 쓰레기나 가공 목재는 절대 태우지 마세요.",
+            "ja": "薪を使うファイヤーピットは庭にあります — 果樹園の空の下、涼しい夜にぴったりです。乾いた薪のみを使用し、家庭ごみや加工木材は絶対に燃やさないでください。"
+          },
+          {
+            "en": "Keep children at a safe distance, never leave the fire unattended, and let the ashes cool completely before your departure. Where firewood is stored will be confirmed by the host.",
+            "nl": "Houd kinderen op veilige afstand, laat het vuur nooit onbewaakt achter en laat de as volledig afkoelen vóór je vertrek. Waar het brandhout ligt, wordt nog bevestigd door de gastheer.",
+            "fr": "Gardez les enfants à distance, ne laissez jamais le feu sans surveillance et laissez les cendres refroidir complètement avant votre départ. L'hôte confirmera où est stocké le bois.",
+            "de": "Kinder auf sicherem Abstand halten, das Feuer nie unbeaufsichtigt lassen und die Asche vor der Abreise vollständig abkühlen lassen. Wo das Brennholz lagert, bestätigt der Gastgeber noch.",
+            "zh": "请让儿童保持安全距离，切勿让火堆无人看管，离开前请确保灰烬完全冷却。柴火存放位置将由房东确认。",
+            "ko": "아이들은 안전거리를 유지하게 하고, 불은 절대 방치하지 마시고, 떠나기 전에 재가 완전히 식도록 해 주세요. 장작 보관 위치는 호스트가 확인해 드립니다.",
+            "ja": "お子さまは安全な距離を保ち、火から絶対に目を離さず、お帰りの前に灰が完全に冷めたことを確認してください。薪の保管場所はホストが確認してお知らせします。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "garden-couch",
+      "roomId": "garden",
+      "name": {
+        "en": "Inflatable Garden Couch",
+        "nl": "Opblaasbare tuinbank",
+        "fr": "Canapé de jardin gonflable",
+        "de": "Aufblasbares Gartensofa",
+        "zh": "充气花园沙发",
+        "ko": "공기주입식 가든 소파",
+        "ja": "エアーガーデンソファ"
+      },
+      "icon": "armchair",
+      "instructions": {
+        "steps": [
+          {
+            "en": "An inflatable couch for lazy afternoons on the lawn — set it up on soft grass away from sharp edges, thorns and the fire pit.",
+            "nl": "Een opblaasbare bank voor luie namiddagen op het gazon — zet hem op zacht gras, weg van scherpe randen, doornen en de vuurschaal.",
+            "fr": "Un canapé gonflable pour les après-midis paresseux sur la pelouse — installez-le sur l'herbe douce, loin des arêtes vives, des épines et du brasero.",
+            "de": "Ein aufblasbares Sofa für faule Nachmittage auf dem Rasen — auf weichem Gras aufstellen, fern von scharfen Kanten, Dornen und der Feuerschale.",
+            "zh": "充气沙发适合在草坪上享受慵懒的午后——请放置在柔软的草地上，远离尖锐物、荆棘和火盆。",
+            "ko": "잔디밭에서 여유로운 오후를 즐기기 좋은 공기주입식 소파입니다 — 날카로운 것, 가시, 화로에서 떨어진 부드러운 잔디 위에 설치해 주세요.",
+            "ja": "芝生でのんびり過ごすためのエアーソファです — 鋭利なものやトゲ、ファイヤーピットから離れた柔らかい芝の上に設置してください。"
+          },
+          {
+            "en": "Deflate and store it indoors after use so wind and weather don't carry it off. Its storage spot will be confirmed by the host.",
+            "nl": "Laat hem na gebruik leeglopen en berg hem binnen op, zodat wind en weer er geen vat op krijgen. De opbergplek wordt nog bevestigd door de gastheer.",
+            "fr": "Dégonflez-le et rangez-le à l'intérieur après usage pour que le vent ne l'emporte pas. L'hôte confirmera son lieu de rangement.",
+            "de": "Nach Gebrauch Luft ablassen und drinnen verstauen, damit Wind und Wetter es nicht davontragen. Den Aufbewahrungsort bestätigt der Gastgeber noch.",
+            "zh": "使用后请放气并收纳到室内，以免被风吹走或受天气影响。存放位置将由房东确认。",
+            "ko": "사용 후에는 공기를 빼고 실내에 보관해 바람에 날아가지 않도록 해 주세요. 보관 장소는 호스트가 확인해 드립니다.",
+            "ja": "使用後は空気を抜いて屋内に保管し、風で飛ばされないようにしてください。保管場所はホストが確認してお知らせします。"
+          }
+        ]
+      }
+    },
+    {
       "id": "washing-machine",
       "roomId": "utility",
       "name": {
@@ -635,6 +743,42 @@
             "zh": "使用后请将门留一条缝以便滚筒晾干。",
             "ko": "사용 후 세탁기 문을 약간 열어 두어 내부 통이 마를 수 있도록 해 주세요.",
             "ja": "使用後はドアを少し開けておき、ドラムを乾かしてください。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dryer",
+      "roomId": "utility",
+      "name": {
+        "en": "Tumble Dryer",
+        "nl": "Droogkast",
+        "fr": "Sèche-linge",
+        "de": "Wäschetrockner",
+        "zh": "烘干机",
+        "ko": "건조기",
+        "ja": "乾燥機"
+      },
+      "icon": "fan",
+      "instructions": {
+        "steps": [
+          {
+            "en": "The dryer sits next to the washing machine in the utility area. A medium-heat programme suits most laundry.",
+            "nl": "De droogkast staat naast de wasmachine in de bergruimte. Een programma op middelhoge temperatuur volstaat voor de meeste was.",
+            "fr": "Le sèche-linge se trouve à côté du lave-linge dans la buanderie. Un programme à chaleur moyenne convient à la plupart du linge.",
+            "de": "Der Trockner steht neben der Waschmaschine im Hauswirtschaftsbereich. Ein Programm mit mittlerer Hitze genügt für die meiste Wäsche.",
+            "zh": "烘干机位于多功能间，紧挨着洗衣机。中温程序适用于大多数衣物。",
+            "ko": "건조기는 유틸리티 공간에서 세탁기 옆에 있습니다. 중온 프로그램이면 대부분의 빨래에 적합합니다.",
+            "ja": "乾燥機はユーティリティエリアの洗濯機の隣にあります。中温プログラムでほとんどの洗濯物に対応できます。"
+          },
+          {
+            "en": "Clean the lint filter after each cycle — it keeps drying fast and safe. Check care labels: wool and delicates prefer air-drying.",
+            "nl": "Maak na elke beurt de pluizenfilter schoon — zo droogt alles snel en veilig. Check de waslabels: wol en delicate stoffen drogen liever aan de lucht.",
+            "fr": "Nettoyez le filtre à peluches après chaque cycle — le séchage reste rapide et sûr. Vérifiez les étiquettes : la laine et le linge délicat préfèrent sécher à l'air libre.",
+            "de": "Reinigen Sie das Flusensieb nach jedem Durchgang — so bleibt das Trocknen schnell und sicher. Pflegeetiketten beachten: Wolle und Feines lieber lufttrocknen.",
+            "zh": "每次使用后请清理绒毛滤网——保持烘干快速安全。请查看洗涤标签：羊毛和精细衣物更适合晾干。",
+            "ko": "매 사용 후 보풀 필터를 청소해 주세요 — 빠르고 안전한 건조를 위해서입니다. 케어 라벨을 확인하세요: 울과 섬세한 의류는 자연 건조가 좋습니다.",
+            "ja": "使用後は毎回リントフィルターを掃除してください — 乾燥が速く安全に保てます。洗濯表示を確認し、ウールやデリケートな衣類は自然乾燥がおすすめです。"
           }
         ]
       }

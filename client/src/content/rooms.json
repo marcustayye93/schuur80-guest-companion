@@ -146,6 +146,33 @@
           "zh": "咖啡机",
           "ko": "커피 머신",
           "ja": "コーヒーメーカー"
+        },
+        {
+          "en": "Stainless steel pots & pans set",
+          "nl": "Roestvrijstalen potten- en pannenset",
+          "fr": "Batterie de cuisine en inox",
+          "de": "Edelstahl-Topf- und Pfannenset",
+          "zh": "全套不锈钢锅具",
+          "ko": "스테인리스 냄비·팬 세트",
+          "ja": "ステンレス製の鍋・フライパン一式"
+        },
+        {
+          "en": "Cast iron pans",
+          "nl": "Gietijzeren pannen",
+          "fr": "Poêles en fonte",
+          "de": "Gusseisenpfannen",
+          "zh": "铸铁锅",
+          "ko": "무쇠 팬",
+          "ja": "鋳鉄フライパン"
+        },
+        {
+          "en": "Bread toaster",
+          "nl": "Broodrooster",
+          "fr": "Grille-pain",
+          "de": "Toaster",
+          "zh": "烤面包机",
+          "ko": "토스터",
+          "ja": "トースター"
         }
       ],
       "deviceIds": [

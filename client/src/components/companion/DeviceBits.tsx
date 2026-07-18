@@ -17,6 +17,9 @@ import {
   Shirt,
   ShieldAlert,
   Wrench,
+  Sandwich,
+  Armchair,
+  Fan,
   type LucideIcon,
 } from "lucide-react";
 
@@ -35,6 +38,9 @@ const ICONS: Record<string, LucideIcon> = {
   "plug-zap": PlugZap,
   shirt: Shirt,
   "shield-alert": ShieldAlert,
+  sandwich: Sandwich,
+  armchair: Armchair,
+  fan: Fan,
 };
 
 export function DeviceIcon({ name, className }: { name: string; className?: string }) {
