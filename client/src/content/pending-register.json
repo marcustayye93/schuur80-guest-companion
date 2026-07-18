@@ -351,6 +351,114 @@
         "fr": "Avant votre séjour",
         "de": "Vor Ihrem Aufenthalt"
       }
+    },
+    {
+      "id": "quiet-hours",
+      "area": {
+        "en": "House",
+        "nl": "Huis",
+        "fr": "Maison",
+        "de": "Haus"
+      },
+      "item": {
+        "en": "Quiet hours & noise policy",
+        "nl": "Stiltemomenten & geluidsafspraken",
+        "fr": "Heures de calme & consignes de bruit",
+        "de": "Ruhezeiten & Lärmregeln"
+      },
+      "status": {
+        "en": "Awaiting host workshop",
+        "nl": "In afwachting van host-workshop",
+        "fr": "En attente de l'atelier hôte",
+        "de": "Wartet auf Gastgeber-Workshop"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt"
+      }
+    },
+    {
+      "id": "hot-tub-safety",
+      "area": {
+        "en": "Garden",
+        "nl": "Tuin",
+        "fr": "Jardin",
+        "de": "Garten"
+      },
+      "item": {
+        "en": "Hot tub — children & safety rules",
+        "nl": "Hottub — kinderen & veiligheidsregels",
+        "fr": "Jacuzzi — enfants & règles de sécurité",
+        "de": "Whirlpool — Kinder & Sicherheitsregeln"
+      },
+      "status": {
+        "en": "Awaiting host workshop",
+        "nl": "In afwachting van host-workshop",
+        "fr": "En attente de l'atelier hôte",
+        "de": "Wartet auf Gastgeber-Workshop"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt"
+      }
+    },
+    {
+      "id": "first-aid",
+      "area": {
+        "en": "Help",
+        "nl": "Hulp",
+        "fr": "Aide",
+        "de": "Hilfe"
+      },
+      "item": {
+        "en": "First aid kit & defibrillator location",
+        "nl": "EHBO-kit & locatie defibrillator",
+        "fr": "Trousse de secours & emplacement du défibrillateur",
+        "de": "Erste-Hilfe-Set & Defibrillator-Standort"
+      },
+      "status": {
+        "en": "Awaiting host workshop",
+        "nl": "In afwachting van host-workshop",
+        "fr": "En attente de l'atelier hôte",
+        "de": "Wartet auf Gastgeber-Workshop"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt"
+      }
+    },
+    {
+      "id": "outage",
+      "area": {
+        "en": "Help",
+        "nl": "Hulp",
+        "fr": "Aide",
+        "de": "Hilfe"
+      },
+      "item": {
+        "en": "Power & water outage steps",
+        "nl": "Stappen bij stroom- of waterpanne",
+        "fr": "Que faire en cas de coupure d'eau ou d'électricité",
+        "de": "Schritte bei Strom- oder Wasserausfall"
+      },
+      "status": {
+        "en": "Awaiting host workshop",
+        "nl": "In afwachting van host-workshop",
+        "fr": "En attente de l'atelier hôte",
+        "de": "Wartet auf Gastgeber-Workshop"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt"
+      }
     }
   ]
 }

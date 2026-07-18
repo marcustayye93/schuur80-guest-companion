@@ -44,10 +44,10 @@
       },
       "tips": [
         {
-          "en": "If the connection drops, the router restart guide will follow from the host.",
-          "nl": "Valt de verbinding weg, dan volgt de herstartgids voor de router nog van de gastheer.",
-          "fr": "En cas de coupure, le guide de redémarrage du routeur suivra de la part de l'hôte.",
-          "de": "Bei Verbindungsabbruch folgt die Router-Neustart-Anleitung noch vom Gastgeber."
+          "en": "Router restart instructions are being prepared with the host and will appear here once confirmed.",
+          "nl": "De herstartinstructies voor de router worden samen met de gastheer voorbereid en verschijnen hier zodra ze bevestigd zijn.",
+          "fr": "Les instructions de redémarrage du routeur sont en préparation avec l'hôte et apparaîtront ici une fois confirmées.",
+          "de": "Die Anleitung zum Neustart des Routers wird mit dem Gastgeber vorbereitet und erscheint hier, sobald sie bestätigt ist."
         }
       ]
     },

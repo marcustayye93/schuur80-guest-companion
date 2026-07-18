@@ -6,6 +6,12 @@ set -euo pipefail
 REPO="https://github.com/marcustayye93/schuur80-guest-companion.git"
 BASE="/schuur80-guest-companion/"
 
+# IMPORTANT: bump VERSION in client/public/sw.js before every content or shell
+# change, otherwise returning guests may keep seeing stale cached content.
+SW_VERSION=$(grep -oP 'const VERSION = "\K[^"]+' client/public/sw.js)
+echo "Service worker cache version: ${SW_VERSION} — make sure it was bumped for this release (Ctrl+C to abort)."
+sleep 3
+
 NODE_ENV=production pnpm exec vite build --mode production --base="$BASE"
 cp dist/public/index.html dist/public/404.html
 

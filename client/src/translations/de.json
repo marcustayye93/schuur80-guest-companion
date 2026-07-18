@@ -13,7 +13,7 @@
   },
   "actions": {
     "search": "Suchen",
-    "searchPlaceholder": "Haus, Anleitungen, FAQs durchsuchen…",
+    "searchPlaceholder": "Haus, Anleitungen und häufige Fragen durchsuchen…",
     "language": "Sprache",
     "contactHost": "Gastgeber kontaktieren",
     "back": "Zurück",
@@ -88,7 +88,7 @@
     "subtitle": "Antworten, Kontakt und Notfälle",
     "emergency": "Notfall",
     "emergencySub": "Nummern und was zu tun ist",
-    "faq": "FAQs",
+    "faq": "Häufige Fragen",
     "faqSub": "Schnelle Antworten auf häufige Fragen",
     "contact": "Gastgeber kontaktieren",
     "contactSub": "Fragen während Ihres Aufenthalts",
@@ -126,7 +126,7 @@
       "rooms": "Räume",
       "devices": "Geräte",
       "guides": "Anleitungen",
-      "faqs": "FAQs",
+      "faqs": "Häufige Fragen",
       "recommendations": "Unterwegs",
       "cats": "Katzen"
     }

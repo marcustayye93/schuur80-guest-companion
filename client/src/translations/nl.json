@@ -13,13 +13,13 @@
   },
   "actions": {
     "search": "Zoeken",
-    "searchPlaceholder": "Zoek in het huis, gidsen, FAQ's…",
+    "searchPlaceholder": "Zoek in het huis, gidsen en veelgestelde vragen…",
     "language": "Taal",
-    "contactHost": "Contacteer gastheer",
+    "contactHost": "Neem contact op met de gastheer",
     "back": "Terug",
     "close": "Sluiten",
     "viewAll": "Bekijk alles",
-    "openGuide": "Open gids",
+    "openGuide": "Gids openen",
     "settings": "Instellingen",
     "install": "App installeren",
     "retry": "Opnieuw proberen"
@@ -88,9 +88,9 @@
     "subtitle": "Antwoorden, contact en noodgevallen",
     "emergency": "Noodgeval",
     "emergencySub": "Nummers en wat te doen",
-    "faq": "FAQ's",
+    "faq": "Veelgestelde vragen",
     "faqSub": "Snelle antwoorden op veelgestelde vragen",
-    "contact": "Contacteer de gastheer",
+    "contact": "Neem contact op met de gastheer",
     "contactSub": "Vragen tijdens je verblijf",
     "pendingRegister": "Informatie in aanvraag",
     "pendingRegisterSub": "Wat we nog bevestigen met de gastheer"
@@ -103,7 +103,7 @@
     "doctor": "Dokter van wacht",
     "pharmacy": "Apotheek van wacht",
     "poison": "Antigifcentrum",
-    "hostContact": "Contact gastheer",
+    "hostContact": "Contact met de gastheer",
     "address": "Je adres hier",
     "addressNote": "Geef dit adres door aan de hulpdiensten",
     "call": "Bellen"
@@ -126,7 +126,7 @@
       "rooms": "Kamers",
       "devices": "Toestellen",
       "guides": "Gidsen",
-      "faqs": "FAQ's",
+      "faqs": "Veelgestelde vragen",
       "recommendations": "Eropuit",
       "cats": "Katten"
     }

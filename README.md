@@ -44,7 +44,8 @@ Every piece of guest-facing copy is a `LocalizedString` (`{ en, nl, fr, de }`). 
 1. Edit the relevant file in `client/src/content/` (for example, fill in the real Wi-Fi details in `devices.json`).
 2. Replace the `PendingContent` object with a `LocalizedString` (or plain string for non-translatable values like a network name).
 3. Remove the corresponding entry from `pending-register.json`.
-4. Commit and push — the site redeploys automatically.
+4. **Bump `VERSION` in `client/public/sw.js`** (e.g. `v1.3.0` → `v1.3.1`) — the service worker only refreshes cached content when the version changes, so skipping this step means returning guests may see stale instructions.
+5. Run `./deploy.sh` to publish the update.
 
 ## Development
 
@@ -63,7 +64,7 @@ The site is published to **GitHub Pages** from the `gh-pages` branch. To redeplo
 ./deploy.sh
 ```
 
-The script builds the app with the project-site base path (`/schuur80-guest-companion/`), adds a SPA fallback `404.html`, bundles the photographic assets under `manus-storage/`, and force-pushes the result to the `gh-pages` branch. Routing and media resolution are base-path aware (via Vite's `BASE_URL`), so the same code also works when hosted at a domain root.
+Before deploying, always bump `VERSION` in `client/public/sw.js` when content or the app shell has changed — the script prints the current version as a reminder. The script builds the app with the project-site base path (`/schuur80-guest-companion/`), adds a SPA fallback `404.html`, bundles the photographic assets under `manus-storage/`, and force-pushes the result to the `gh-pages` branch. Routing and media resolution are base-path aware (via Vite's `BASE_URL`), so the same code also works when hosted at a domain root.
 
 ## Languages
 

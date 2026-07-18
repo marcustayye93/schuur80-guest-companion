@@ -13,7 +13,7 @@
   },
   "actions": {
     "search": "Rechercher",
-    "searchPlaceholder": "Chercher dans la maison, guides, FAQ…",
+    "searchPlaceholder": "Chercher dans la maison, les guides et les questions fréquentes…",
     "language": "Langue",
     "contactHost": "Contacter l'hôte",
     "back": "Retour",
@@ -88,7 +88,7 @@
     "subtitle": "Réponses, contact et urgences",
     "emergency": "Urgence",
     "emergencySub": "Numéros et que faire",
-    "faq": "FAQ",
+    "faq": "Questions fréquentes",
     "faqSub": "Réponses rapides aux questions courantes",
     "contact": "Contacter l'hôte",
     "contactSub": "Questions pendant votre séjour",
@@ -126,7 +126,7 @@
       "rooms": "Pièces",
       "devices": "Appareils",
       "guides": "Guides",
-      "faqs": "FAQ",
+      "faqs": "Questions fréquentes",
       "recommendations": "Aux alentours",
       "cats": "Chats"
     }

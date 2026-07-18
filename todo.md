@@ -1,25 +1,12 @@
-# Wi-Fi + real photos update
+# Audit fixes (from Grok report)
 
-## Phase 10 — Wi-Fi
-- [ ] devices.json: wifi-router → network Schuur80 / password Schuur80, remove pending, all 4 languages
-- [ ] faqs.json: faq-wifi answer with real credentials
-- [ ] pending-register.json: remove wifi item (now confirmed)
-- [ ] Cat names remain pending (user confirmed still TBC)
-
-## Phase 11 — find real photos
-- [ ] Search Airbnb/Booking/host site for Schuur 80 Perstraat 80 Haasdonk listing photos
-- [ ] Download professional listing photos (exterior, living, kitchen, bedrooms, bathroom, garden, hot tub, cinema, bar if available)
-- [ ] Save findings + URLs to notes file
-
-## Phase 12 — replace imagery
-- [ ] Map real photos to media.json slots (hero, living, kitchen, garden, cinema, bedroom, bathroom, bar, cats, arrival, orchard, story)
-- [ ] For missing subjects: generate images modeled on the real building (reference real photos)
-- [ ] Optimize (resize/compress) into assets-images/ with same filenames or update media.json
-- [ ] Upload via manus-upload-file --webdev for dev preview parity
-
-## Phase 13 — deploy
-- [ ] pnpm check + production build (NODE_ENV=production, base=/schuur80-guest-companion/)
-- [ ] 404.html + manus-storage images -> gh-pages force push
-- [ ] Push source to github main
-- [ ] Bump SW version to invalidate cached images
-- [ ] Checkpoint + deliver
+- [x] 1. HIGH: Verified — /help/pending route exists in App.tsx, Help page has prominent "Pending information" card, and the live deep link renders the full register via the 404.html SPA fallback (HTTP 404 status is expected GH Pages behavior; content renders fine). No fix needed.
+- [x] 2. MED: NL translation polish: "FAQ's" → "veelgestelde vragen", "Contacteer gastheer" → "Neem contact op met de gastheer", "Open gids" → "Gids openen". Spot-check fr.json/de.json for similar stiffness.
+- [x] 3. MED: devices.json wifi-router tip → present-tense pending phrasing.
+- [x] 4. MED: Added 4 new pending-register items (quiet-hours, hot-tub-safety, first-aid, outage): quiet hours, hot tub child safety, first-aid kit/defibrillator location, power/water outage steps (multilingual).
+- [x] 5. MED: README.md + deploy.sh: add "bump VERSION in sw.js before every content change" step.
+- [x] 6. LOW: manifest.webmanifest — added screenshots array (home.jpg, wifi.jpg, 390x844 narrow): add screenshots array (capture 2 portrait shots from live app, bundle them).
+- [x] 7. LOW: Checked rooms.json — all pending microcopy already uses the consistent "will be confirmed by the host" phrasing in all languages; no change needed.
+- [ ] 8. Bump SW VERSION to v1.3.0, pnpm check, screenshots verify.
+- [ ] 9. Deploy: production build with base path, copy assets-images + 404.html, push gh-pages, push main, verify live.
+- [ ] 10. Checkpoint + deliver.

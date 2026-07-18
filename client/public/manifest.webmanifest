@@ -1,7 +1,7 @@
 {
   "name": "Schuur 80 Guest Companion",
   "short_name": "Schuur 80",
-  "description": "The digital guest companion for Schuur 80, a restored heritage barn in Haasdonk, Belgium. House manual, guides, cats and local tips \u2014 in four languages, even offline.",
+  "description": "The digital guest companion for Schuur 80, a restored heritage barn in Haasdonk, Belgium. House manual, guides, cats and local tips — in four languages, even offline.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -27,6 +27,22 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/home.jpg",
+      "sizes": "390x844",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Home — welcome to the barn"
+    },
+    {
+      "src": "screenshots/wifi.jpg",
+      "sizes": "390x844",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Wi-Fi guide with network and password"
     }
   ]
 }
