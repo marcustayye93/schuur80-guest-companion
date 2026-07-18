@@ -5,7 +5,7 @@
 import { Phone, MapPin, Siren, Shield, Stethoscope, Pill, Skull } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import PageHeader from "@/components/companion/PageHeader";
-import { PendingCard } from "@/components/companion/Primitives";
+import HostContactCard from "@/components/companion/HostContactCard";
 
 /**
  * Public, verifiable Belgian emergency numbers (not host-specific):
@@ -74,12 +74,12 @@ export default function Emergency() {
           ))}
         </section>
 
-        {/* Host contact — pending */}
+        {/* Host contact */}
         <section className="space-y-2.5" aria-labelledby="host-h">
           <p className="eyebrow" id="host-h">
             {t("emergency.hostContact")}
           </p>
-          <PendingCard />
+          <HostContactCard />
         </section>
       </div>
     </div>

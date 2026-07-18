@@ -182,5 +182,10 @@
     "steps": "Stappen",
     "tips": "Goed om te weten",
     "model": "Model"
+  },
+  "contact": {
+    "call": "Bel de gastheer",
+    "email": "E-mail",
+    "website": "Website"
   }
 }

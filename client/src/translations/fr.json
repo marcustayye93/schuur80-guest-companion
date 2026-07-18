@@ -182,5 +182,10 @@
     "steps": "Étapes",
     "tips": "Bon à savoir",
     "model": "Modèle"
+  },
+  "contact": {
+    "call": "Appeler l'hôte",
+    "email": "E-mail",
+    "website": "Site web"
   }
 }

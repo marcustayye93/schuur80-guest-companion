@@ -226,10 +226,10 @@
         "de": "Hilfe"
       },
       "item": {
-        "en": "Host & local emergency contacts",
-        "nl": "Gastheer- & lokale noodcontacten",
-        "fr": "Contacts hôte & urgences locales",
-        "de": "Gastgeber- & lokale Notfallkontakte"
+        "en": "Local emergency contacts (nearest hospital, vet)",
+        "nl": "Lokale noodcontacten (dichtstbijzijnd ziekenhuis, dierenarts)",
+        "fr": "Contacts d'urgence locaux (hôpital le plus proche, vétérinaire)",
+        "de": "Lokale Notfallkontakte (nächstes Krankenhaus, Tierarzt)"
       },
       "status": {
         "en": "Awaiting host workshop",

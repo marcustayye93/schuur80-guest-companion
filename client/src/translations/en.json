@@ -182,5 +182,10 @@
     "steps": "Steps",
     "tips": "Good to know",
     "model": "Model"
+  },
+  "contact": {
+    "call": "Call the host",
+    "email": "Email",
+    "website": "Website"
   }
 }

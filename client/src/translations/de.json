@@ -182,5 +182,10 @@
     "steps": "Schritte",
     "tips": "Gut zu wissen",
     "model": "Modell"
+  },
+  "contact": {
+    "call": "Gastgeber anrufen",
+    "email": "E-Mail",
+    "website": "Website"
   }
 }

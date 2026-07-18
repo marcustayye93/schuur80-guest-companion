@@ -3,8 +3,9 @@
  */
 import { Siren, BookOpen, MessageCircle, ClipboardList, Settings } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { SectionHeader, PendingCard } from "@/components/companion/Primitives";
+import { SectionHeader } from "@/components/companion/Primitives";
 import { ListRow } from "@/components/companion/Cards";
+import HostContactCard from "@/components/companion/HostContactCard";
 
 export default function Help() {
   const { t } = useLanguage();
@@ -49,7 +50,7 @@ export default function Help() {
         <p className="eyebrow" id="contact-h">
           {t("help.contact")}
         </p>
-        <PendingCard />
+        <HostContactCard />
         <p className="flex items-center gap-2 text-[13px] text-muted-foreground">
           <MessageCircle className="h-4 w-4 shrink-0" aria-hidden />
           {t("help.contactSub")}
