@@ -6,7 +6,7 @@ set -euo pipefail
 REPO="https://github.com/marcustayye93/schuur80-guest-companion.git"
 BASE="/schuur80-guest-companion/"
 
-pnpm exec vite build --base="$BASE"
+NODE_ENV=production pnpm exec vite build --mode production --base="$BASE"
 cp dist/public/index.html dist/public/404.html
 
 # Bundle photographic assets so they resolve on GitHub Pages
