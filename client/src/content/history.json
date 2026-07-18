@@ -2,42 +2,115 @@
   "chapters": [
     {
       "id": "origins",
-      "era": { "en": "Origins", "nl": "Oorsprong", "fr": "Origines", "de": "Ursprünge" },
-      "title": { "en": "A working barn in the Waasland", "nl": "Een werkschuur in het Waasland", "fr": "Une grange de travail au Waasland", "de": "Eine Arbeitsscheune im Waasland" },
+      "era": {
+        "en": "Origins",
+        "nl": "Oorsprong",
+        "fr": "Origines",
+        "de": "Ursprünge",
+        "zh": "起源",
+        "ko": "유래",
+        "ja": "起源について"
+      },
+      "title": {
+        "en": "A working barn in the Waasland",
+        "nl": "Een werkschuur in het Waasland",
+        "fr": "Une grange de travail au Waasland",
+        "de": "Eine Arbeitsscheune im Waasland",
+        "zh": "Waasland 的一座工作谷仓",
+        "ko": "Waasland의 농사용 헛간",
+        "ja": "Waaslandの現役の納屋について"
+      },
       "body": {
         "en": "Schuur 80 began life as an agricultural barn in the Waasland countryside of Haasdonk. The exact building history and dates will be documented with the host.",
         "nl": "Schuur 80 begon als landbouwschuur in het Waasland, in Haasdonk. De precieze bouwgeschiedenis en data worden samen met de gastheer gedocumenteerd.",
         "fr": "Schuur 80 était à l'origine une grange agricole dans la campagne du Waasland, à Haasdonk. L'histoire exacte du bâtiment sera documentée avec l'hôte.",
-        "de": "Schuur 80 begann als landwirtschaftliche Scheune im Waasland bei Haasdonk. Die genaue Baugeschichte wird mit dem Gastgeber dokumentiert."
+        "de": "Schuur 80 begann als landwirtschaftliche Scheune im Waasland bei Haasdonk. Die genaue Baugeschichte wird mit dem Gastgeber dokumentiert.",
+        "zh": "Schuur 80 最初是位于 Haasdonk 的 Waasland 农村的一座农用谷仓。具体的建筑历史与年代将由房东提供记录。",
+        "ko": "Schuur 80은 Haasdonk의 Waasland 전원 지역에서 농사용 헛간으로 시작했습니다. 건물의 정확한 연혁과 연도는 호스트와 함께 기록될 예정입니다.",
+        "ja": "Schuur 80はHaasdonkのWaaslandの田園地帯で農業用の納屋として始まりました。正確な建物の歴史や日付はホストとともに記録されます。"
       },
       "mediaId": "story"
     },
     {
       "id": "restoration",
-      "era": { "en": "Restoration", "nl": "Restauratie", "fr": "Restauration", "de": "Restaurierung" },
-      "title": { "en": "Craft, kept alive", "nl": "Vakmanschap, levend gehouden", "fr": "L'artisanat, préservé", "de": "Handwerk, bewahrt" },
+      "era": {
+        "en": "Restoration",
+        "nl": "Restauratie",
+        "fr": "Restauration",
+        "de": "Restaurierung",
+        "zh": "修复",
+        "ko": "복원",
+        "ja": "修復について"
+      },
+      "title": {
+        "en": "Craft, kept alive",
+        "nl": "Vakmanschap, levend gehouden",
+        "fr": "L'artisanat, préservé",
+        "de": "Handwerk, bewahrt",
+        "zh": "匠艺延续",
+        "ko": "계승된 장인정신",
+        "ja": "匠の技を継承しています。"
+      },
       "body": {
         "pending": true,
-        "status": { "en": "Awaiting the host's story", "nl": "In afwachting van het verhaal van de gastheer", "fr": "En attente du récit de l'hôte", "de": "Wartet auf die Geschichte des Gastgebers" },
+        "status": {
+          "en": "Awaiting the host's story",
+          "nl": "In afwachting van het verhaal van de gastheer",
+          "fr": "En attente du récit de l'hôte",
+          "de": "Wartet auf die Geschichte des Gastgebers",
+          "zh": "等待房东讲述",
+          "ko": "호스트의 이야기를 기다리는 중입니다.",
+          "ja": "ホストによる物語をお待ちしています。"
+        },
         "explanation": {
           "en": "The story of the restoration — the choices, the craftspeople, the materials — belongs to the host and will be recorded in their own words.",
           "nl": "Het verhaal van de restauratie — de keuzes, de vakmensen, de materialen — is van de gastheer en wordt in eigen woorden opgetekend.",
           "fr": "L'histoire de la restauration — les choix, les artisans, les matériaux — appartient à l'hôte et sera racontée avec ses propres mots.",
-          "de": "Die Geschichte der Restaurierung — die Entscheidungen, die Handwerker, die Materialien — gehört dem Gastgeber und wird in seinen eigenen Worten festgehalten."
+          "de": "Die Geschichte der Restaurierung — die Entscheidungen, die Handwerker, die Materialien — gehört dem Gastgeber und wird in seinen eigenen Worten festgehalten.",
+          "zh": "关于修复的故事——选择、工匠、材料——属于房东，将以他们自己的话记录下来。",
+          "ko": "복원 이야기 — 선택, 장인, 자재에 대한 모든 것 — 은 호스트의 몫이며, 그들의 말로 기록될 예정입니다.",
+          "ja": "修復の物語――選択、職人、素材についての話――はホストに属し、ホスト自身の言葉で記録されます。"
         },
-        "expectedUpdate": { "en": "Expected after the host workshop", "nl": "Verwacht na de workshop met de gastheer", "fr": "Prévu après l'atelier avec l'hôte", "de": "Erwartet nach dem Gastgeber-Workshop" }
+        "expectedUpdate": {
+          "en": "Expected after the host workshop",
+          "nl": "Verwacht na de workshop met de gastheer",
+          "fr": "Prévu après l'atelier avec l'hôte",
+          "de": "Erwartet nach dem Gastgeber-Workshop",
+          "zh": "预计在房东工作坊后更新",
+          "ko": "호스트 워크숍 이후 공개 예정",
+          "ja": "ホストのワークショップ後に公開予定です。"
+        }
       },
       "mediaId": "living-interior"
     },
     {
       "id": "today",
-      "era": { "en": "Today", "nl": "Vandaag", "fr": "Aujourd'hui", "de": "Heute" },
-      "title": { "en": "A place for togetherness", "nl": "Een plek voor samenzijn", "fr": "Un lieu de partage", "de": "Ein Ort des Zusammenseins" },
+      "era": {
+        "en": "Today",
+        "nl": "Vandaag",
+        "fr": "Aujourd'hui",
+        "de": "Heute",
+        "zh": "今日",
+        "ko": "오늘",
+        "ja": "今日について"
+      },
+      "title": {
+        "en": "A place for togetherness",
+        "nl": "Een plek voor samenzijn",
+        "fr": "Un lieu de partage",
+        "de": "Ein Ort des Zusammenseins",
+        "zh": "共聚之地",
+        "ko": "함께하는 공간",
+        "ja": "人々が集う場所です。"
+      },
       "body": {
         "en": "Today the barn spans roughly 300 m² with four bedrooms, three bathrooms, a cinema, a bar and a professional kitchen — restored to bring people together around fire, food and the orchard.",
         "nl": "Vandaag telt de schuur zo'n 300 m² met vier slaapkamers, drie badkamers, een cinema, een bar en een professionele keuken — gerestaureerd om mensen samen te brengen rond vuur, eten en de boomgaard.",
         "fr": "Aujourd'hui, la grange s'étend sur environ 300 m² avec quatre chambres, trois salles de bain, un cinéma, un bar et une cuisine professionnelle — restaurée pour réunir les gens autour du feu, de la table et du verger.",
-        "de": "Heute umfasst die Scheune rund 300 m² mit vier Schlafzimmern, drei Badezimmern, Kino, Bar und Profiküche — restauriert, um Menschen an Feuer, Tisch und Obstgarten zusammenzubringen."
+        "de": "Heute umfasst die Scheune rund 300 m² mit vier Schlafzimmern, drei Badezimmern, Kino, Bar und Profiküche — restauriert, um Menschen an Feuer, Tisch und Obstgarten zusammenzubringen.",
+        "zh": "如今，这座谷仓面积约 300 m²，设有四间卧室、三间浴室、一个影院、一个酒吧和一个专业厨房——修复的初衷是让人们围绕火炉、美食与果园相聚。",
+        "ko": "오늘날 이 헛간은 약 300 m²의 공간에 침실 네 개, 욕실 세 개, 시네마, 바, 프로페셔널 키친을 갖추고 있습니다 — 불과 음식, 그리고 과수원을 둘러싸고 사람들이 모일 수 있도록 복원되었습니다.",
+        "ja": "現在、この納屋はおよそ300 m²で、寝室が4室、バスルームが3室、シネマ、バー、プロ仕様のキッチンを備えています。火や食事、果樹園を囲んで人々が集えるように修復されています。"
       },
       "mediaId": "hero-exterior"
     }

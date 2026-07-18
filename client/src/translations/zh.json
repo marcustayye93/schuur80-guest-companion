@@ -1,0 +1,192 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "您的入住伙伴",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgium"
+  },
+  "nav": {
+    "home": "首页",
+    "house": "房屋",
+    "garden": "花园",
+    "guide": "指南",
+    "help": "帮助"
+  },
+  "actions": {
+    "search": "搜索",
+    "searchPlaceholder": "搜索房屋信息、指南、常见问题…",
+    "language": "语言",
+    "contactHost": "联系房东",
+    "back": "返回",
+    "close": "关闭",
+    "viewAll": "查看全部",
+    "openGuide": "打开指南",
+    "settings": "设置",
+    "install": "安装应用",
+    "retry": "重试"
+  },
+  "offline": {
+    "badge": "离线",
+    "banner": "您已离线 — 已保存的内容仍可查看。",
+    "title": "您已离线",
+    "body": "当前无网络连接。您已打开的所有内容都已保存并可访问。重新连接以获取最新更新。",
+    "cached": "可离线查看"
+  },
+  "home": {
+    "welcome": "欢迎来到谷仓",
+    "welcomeSub": "这间谷仓属于你——这里有你所需的一切。",
+    "beforeArrival": "抵达前",
+    "duringStay": "房屋周边",
+    "departure": "离开前",
+    "quickLinks": "快速访问",
+    "storyTitle": "谷仓的故事",
+    "storySub": "瓦斯兰地区一座修复的历史谷仓",
+    "exploreHouse": "探索房屋",
+    "exploreGarden": "走进花园",
+    "meetCats": "认识猫咪",
+    "arrivalCard": "抵达与入住",
+    "arrivalCardSub": "路线、停车与入内方式",
+    "checkoutCard": "退房",
+    "checkoutCardSub": "离开前的几点小提醒",
+    "emergencyCard": "紧急信息",
+    "emergencyCardSub": "电话号码与应急处置",
+    "recommendationsCard": "周边与出行",
+    "recommendationsCardSub": "安特卫普、根特与瓦斯兰地区"
+  },
+  "house": {
+    "title": "房屋",
+    "subtitle": "房间、器具及使用说明",
+    "rooms": "房间与空间",
+    "appliances": "电器",
+    "guides": "房屋指南",
+    "features": "在此空间",
+    "inRoom": "在此房间",
+    "map": "房屋地图",
+    "mapPending": "互动房屋地图将在房东确认平面图后添加。",
+    "group": {
+      "utility": "实用信息",
+      "garden": "花园与户外"
+    }
+  },
+  "garden": {
+    "title": "花园与果园",
+    "subtitle": "户外空间、热水浴缸、烧烤与猫咪",
+    "cats": "猫咪们",
+    "catsSub": "认识常住成员",
+    "outdoor": "户外设施"
+  },
+  "guide": {
+    "title": "指南",
+    "subtitle": "抵达、退房、房屋故事与周边",
+    "journey": "您的住宿",
+    "area": "周边出行",
+    "faqs": "常见问题",
+    "story": "谷仓的故事",
+    "hostPicks": "房东推荐"
+  },
+  "help": {
+    "title": "帮助",
+    "subtitle": "答疑、联系方式与紧急情况",
+    "emergency": "紧急情况",
+    "emergencySub": "电话号码与应急处置",
+    "faq": "常见问题解答",
+    "faqSub": "常见问题的简要答案",
+    "contact": "联系房东",
+    "contactSub": "入住期间的问题",
+    "pendingRegister": "待确认信息",
+    "pendingRegisterSub": "我们仍在向房东确认的事项"
+  },
+  "emergency": {
+    "title": "紧急情况",
+    "callEu": "欧洲紧急电话",
+    "callEuSub": "救护车 · 消防队",
+    "police": "警察",
+    "doctor": "值班医生",
+    "pharmacy": "值班药房",
+    "poison": "中毒控制中心",
+    "hostContact": "房东联系方式",
+    "address": "您的地址（此处）",
+    "addressNote": "将此地址提供给紧急救援人员",
+    "call": "拨打"
+  },
+  "cats": {
+    "title": "关于猫咪",
+    "personality": "性格",
+    "feeding": "喂食",
+    "notes": "温馨提示",
+    "rules": "如何成为一个好室友",
+    "fallbackName": "猫咪",
+    "pendingIntro": "等待介绍 — 房东会尽快告知它们的名字"
+  },
+  "search": {
+    "title": "搜索",
+    "noResults": "未找到相关结果：",
+    "noResultsHint": "试试其他关键词，或从首页浏览。",
+    "results": "搜索结果",
+    "sections": {
+      "rooms": "房间",
+      "devices": "家电",
+      "guides": "指南",
+      "faqs": "常见问题",
+      "recommendations": "周边与出行",
+      "cats": "猫咪"
+    }
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "languageSub": "选择首选语言",
+    "about": "关于此应用",
+    "aboutBody": "Schuur 80 的数字宾客指南 —— 取代纸质手册，把您需要的一切装进口袋，甚至可离线使用。",
+    "install": "安装到手机",
+    "installBody": "将 Schuur 80 添加到主屏幕，获得完整的应用体验，包括离线访问。",
+    "version": "版本"
+  },
+  "pending": {
+    "label": "待确认",
+    "defaultStatus": "等待房东确认",
+    "defaultExplanation": "这些信息会在与房东确认后添加，因此我们不会显示未经核实的说明。",
+    "defaultExpected": "预计在您入住前提供",
+    "expectedLabel": "预计"
+  },
+  "placeholderScreen": {
+    "title": "即将推出",
+    "body": "这部分内容正在与房东一起准备，确认后将显示在此处。"
+  },
+  "error": {
+    "title": "出了点状况",
+    "body": "操作未按预期完成。请重试，或返回首页。",
+    "notFoundTitle": "页面未找到",
+    "notFoundBody": "此页面不存在——也许它跑到果园里去了。",
+    "goHome": "返回首页"
+  },
+  "story": {
+    "title": "谷仓的故事",
+    "subtitle": "从工作谷仓到相聚之地"
+  },
+  "checkout": {
+    "checklistTitle": "退房清单",
+    "progress": "完成"
+  },
+  "arrival": {
+    "title": "抵达",
+    "weather": "Haasdonk 的天气",
+    "weatherPending": "在线时此处将显示实时天气。"
+  },
+  "common": {
+    "loading": "加载中",
+    "min": "min",
+    "km": "km",
+    "moreInfo": "更多信息",
+    "website": "网站",
+    "tip": "小贴士",
+    "steps": "步骤",
+    "tips": "温馨提示",
+    "model": "型号"
+  },
+  "contact": {
+    "call": "致电房东",
+    "email": "电子邮件",
+    "website": "网站",
+    "whatsapp": "WhatsApp"
+  }
+}

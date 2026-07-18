@@ -16,30 +16,38 @@ import en from "@/translations/en.json";
 import nl from "@/translations/nl.json";
 import fr from "@/translations/fr.json";
 import de from "@/translations/de.json";
+import zh from "@/translations/zh.json";
+import ko from "@/translations/ko.json";
+import ja from "@/translations/ja.json";
 import type { LocalizedString } from "@/content/types";
 
-export type Lang = "en" | "nl" | "fr" | "de";
+export type Lang = "en" | "nl" | "fr" | "de" | "zh" | "ko" | "ja";
 
 export const LANGUAGES: { code: Lang; label: string; native: string }[] = [
   { code: "en", label: "English", native: "English" },
   { code: "nl", label: "Dutch", native: "Nederlands" },
   { code: "fr", label: "French", native: "Français" },
   { code: "de", label: "German", native: "Deutsch" },
+  { code: "zh", label: "Chinese", native: "中文" },
+  { code: "ko", label: "Korean", native: "한국어" },
+  { code: "ja", label: "Japanese", native: "日本語" },
 ];
 
-const DICTS: Record<Lang, Record<string, unknown>> = { en, nl, fr, de };
+const DICTS: Record<Lang, Record<string, unknown>> = { en, nl, fr, de, zh, ko, ja };
+
+const LANG_CODES = ["en", "nl", "fr", "de", "zh", "ko", "ja"];
 
 const STORAGE_KEY = "schuur80.lang";
 
 function detectLang(): Lang {
   try {
     const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored && ["en", "nl", "fr", "de"].includes(stored)) return stored as Lang;
+    if (stored && LANG_CODES.includes(stored)) return stored as Lang;
   } catch {
     /* ignore */
   }
   const nav = (navigator.language || "en").slice(0, 2).toLowerCase();
-  if (["en", "nl", "fr", "de"].includes(nav)) return nav as Lang;
+  if (LANG_CODES.includes(nav)) return nav as Lang;
   return "en";
 }
 

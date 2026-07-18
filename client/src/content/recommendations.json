@@ -1,26 +1,56 @@
 {
   "hostPicksPending": {
     "pending": true,
-    "status": { "en": "Host favourites coming soon", "nl": "Favorieten van de gastheer volgen binnenkort", "fr": "Les coups de cœur de l'hôte arrivent bientôt", "de": "Favoriten des Gastgebers folgen bald" },
+    "status": {
+      "en": "Host favourites coming soon",
+      "nl": "Favorieten van de gastheer volgen binnenkort",
+      "fr": "Les coups de cœur de l'hôte arrivent bientôt",
+      "de": "Favoriten des Gastgebers folgen bald",
+      "zh": "房东精选即将发布",
+      "ko": "호스트 추천이 곧 제공됩니다",
+      "ja": "ホストのお気に入りはまもなく公開します"
+    },
     "explanation": {
       "en": "The host's personal restaurant, bakery and café recommendations will be gathered during the host workshop.",
       "nl": "De persoonlijke restaurant-, bakkerij- en cafétips van de gastheer worden verzameld tijdens de workshop.",
       "fr": "Les recommandations personnelles de l'hôte (restaurants, boulangeries, cafés) seront recueillies lors de l'atelier.",
-      "de": "Die persönlichen Restaurant-, Bäckerei- und Café-Tipps des Gastgebers werden beim Workshop gesammelt."
+      "de": "Die persönlichen Restaurant-, Bäckerei- und Café-Tipps des Gastgebers werden beim Workshop gesammelt.",
+      "zh": "房东会在工作坊中整理个人的餐厅、面包店和咖啡馆推荐。",
+      "ko": "호스트의 개인적인 레스토랑, 베이커리, 카페 추천은 호스트 워크숍에서 취합됩니다.",
+      "ja": "ホストの個人的なお勧め（レストラン、ベーカリー、カフェ）は、ホストのワークショップでまとめられます。"
     },
-    "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
+    "expectedUpdate": {
+      "en": "Expected before your stay",
+      "nl": "Verwacht vóór je verblijf",
+      "fr": "Prévu avant votre séjour",
+      "de": "Erwartet vor Ihrem Aufenthalt",
+      "zh": "预计在入住前完成",
+      "ko": "숙박 전에 제공될 예정입니다.",
+      "ja": "ご滞在前までに提供予定です"
+    }
   },
   "recommendations": [
     {
       "id": "antwerp",
       "category": "city",
       "name": "Antwerp",
-      "distance": { "en": "±15 min by car", "nl": "±15 min met de auto", "fr": "±15 min en voiture", "de": "±15 Min. mit dem Auto" },
+      "distance": {
+        "en": "±15 min by car",
+        "nl": "±15 min met de auto",
+        "fr": "±15 min en voiture",
+        "de": "±15 Min. mit dem Auto",
+        "zh": "驾车 ±15 min",
+        "ko": "차로 ±15분",
+        "ja": "車で ±15 min"
+      },
       "description": {
         "en": "Belgium's fashion and diamond city — the Cathedral of Our Lady, the MAS museum, the old town and the Scheldt riverside are all worth a day.",
         "nl": "De mode- en diamantstad van België — de Onze-Lieve-Vrouwekathedraal, het MAS, de oude binnenstad en de Scheldekaaien zijn samen een dag waard.",
         "fr": "La ville de la mode et du diamant — la cathédrale Notre-Dame, le musée MAS, la vieille ville et les quais de l'Escaut valent bien une journée.",
-        "de": "Belgiens Mode- und Diamantenstadt — die Liebfrauenkathedrale, das MAS-Museum, die Altstadt und das Schelde-Ufer sind einen Tag wert."
+        "de": "Belgiens Mode- und Diamantenstadt — die Liebfrauenkathedrale, das MAS-Museum, die Altstadt und das Schelde-Ufer sind einen Tag wert.",
+        "zh": "比利时的时尚与钻石之城 — 圣母大教堂、MAS 博物馆、老城与斯海尔德河畔都值得一日游。",
+        "ko": "벨기에의 패션과 다이아몬드 도시 — 성모 대성당, MAS 박물관, 구시가지와 스헬트강 강변은 하루 동안 둘러보기에 좋습니다.",
+        "ja": "ベルギーのファッションとダイヤモンドの街、アントワープ — 聖母大聖堂、MAS博物館、旧市街、スヘルデ川沿いは一日かけて楽しめます。"
       },
       "url": "https://visit.antwerpen.be"
     },
@@ -28,12 +58,23 @@
       "id": "ghent",
       "category": "city",
       "name": "Ghent",
-      "distance": { "en": "±40 min by car", "nl": "±40 min met de auto", "fr": "±40 min en voiture", "de": "±40 Min. mit dem Auto" },
+      "distance": {
+        "en": "±40 min by car",
+        "nl": "±40 min met de auto",
+        "fr": "±40 min en voiture",
+        "de": "±40 Min. mit dem Auto",
+        "zh": "驾车 ±40 min",
+        "ko": "차로 ±40분",
+        "ja": "車で ±40 min"
+      },
       "description": {
         "en": "A medieval city with a young heart: Gravensteen castle, the Ghent Altarpiece, canals and a celebrated food scene.",
         "nl": "Een middeleeuwse stad met een jong hart: het Gravensteen, het Lam Gods, de grachten en een geroemde eetcultuur.",
         "fr": "Une ville médiévale au cœur jeune : le château des Comtes, l'Agneau mystique, les canaux et une scène gastronomique réputée.",
-        "de": "Eine mittelalterliche Stadt mit jungem Herzen: die Burg Gravensteen, der Genter Altar, Grachten und eine gefeierte Foodszene."
+        "de": "Eine mittelalterliche Stadt mit jungem Herzen: die Burg Gravensteen, der Genter Altar, Grachten und eine gefeierte Foodszene.",
+        "zh": "一座保有中世纪印记却充满年轻活力的城市：格拉文斯廷城堡、根特祭坛画、运河与闻名的美食文化。",
+        "ko": "중세의 분위기를 간직하면서도 젊은 활기가 느껴지는 도시: 그라벤스틴 성, 겐트 제단화, 운하와 유명한 미식 문화가 있습니다.",
+        "ja": "古都でありながら若々しい魅力の街、ヘント：グラーヴェンステーン城、ヘントの祭壇画、運河、そして評判の高いグルメシーンが楽しめます。"
       },
       "url": "https://visit.gent.be"
     },
@@ -41,12 +82,23 @@
       "id": "verbeke",
       "category": "culture",
       "name": "Verbeke Foundation",
-      "distance": { "en": "±15 min by car", "nl": "±15 min met de auto", "fr": "±15 min en voiture", "de": "±15 Min. mit dem Auto" },
+      "distance": {
+        "en": "±15 min by car",
+        "nl": "±15 min met de auto",
+        "fr": "±15 min en voiture",
+        "de": "±15 Min. mit dem Auto",
+        "zh": "驾车 ±15 min",
+        "ko": "차로 ±15분",
+        "ja": "車で ±15 min"
+      },
       "description": {
         "en": "One of Europe's largest private art sites — contemporary art, bio-art and assemblage spread over 12 hectares of greenhouses and nature in Kemzeke.",
         "nl": "Een van de grootste private kunstsites van Europa — hedendaagse kunst, bio-art en assemblage verspreid over 12 hectare serres en natuur in Kemzeke.",
         "fr": "L'un des plus grands sites d'art privés d'Europe — art contemporain, bio-art et assemblages sur 12 hectares de serres et de nature à Kemzeke.",
-        "de": "Eines der größten privaten Kunstareale Europas — zeitgenössische Kunst, Bio-Art und Assemblagen auf 12 Hektar Gewächshäusern und Natur in Kemzeke."
+        "de": "Eines der größten privaten Kunstareale Europas — zeitgenössische Kunst, Bio-Art und Assemblagen auf 12 Hektar Gewächshäusern und Natur in Kemzeke.",
+        "zh": "欧洲最大的私人艺术场地之一 — 当代艺术、生物艺术与综合装置散布在 Kemzeke 占地 12 hectares 的温室与自然中。",
+        "ko": "유럽 최대 규모의 사립 미술 공간 중 하나 — Kemzeke의 12헥타르에 걸친 온실과 자연 속에서 현대미술, 바이오아트, 어셈블리지 작품을 감상하실 수 있습니다.",
+        "ja": "ヨーロッパ最大級の私設アートサイトのひとつ — 現代アート、バイオアート、アッサンブラージュがKemzekeの温室と自然の12ヘクタールにわたって展示されています。"
       },
       "url": "https://verbekefoundation.com"
     },
@@ -54,12 +106,23 @@
       "id": "waasland",
       "category": "nature",
       "name": "Waasland",
-      "distance": { "en": "All around you", "nl": "Overal om je heen", "fr": "Tout autour de vous", "de": "Rings um Sie herum" },
+      "distance": {
+        "en": "All around you",
+        "nl": "Overal om je heen",
+        "fr": "Tout autour de vous",
+        "de": "Rings um Sie herum",
+        "zh": "尽在周边",
+        "ko": "주변 곳곳",
+        "ja": "周辺に"
+      },
       "description": {
         "en": "The gentle polder and farmland region between the Scheldt and the Dutch border — ideal for cycling routes, village markets and slow walks.",
         "nl": "De zachte polder- en landbouwstreek tussen de Schelde en de Nederlandse grens — ideaal voor fietsroutes, dorpsmarkten en trage wandelingen.",
         "fr": "La douce région de polders et de terres agricoles entre l'Escaut et la frontière néerlandaise — idéale pour le vélo, les marchés de village et les balades.",
-        "de": "Die sanfte Polder- und Agrarlandschaft zwischen Schelde und niederländischer Grenze — ideal für Radrouten, Dorfmärkte und langsame Spaziergänge."
+        "de": "Die sanfte Polder- und Agrarlandschaft zwischen Schelde und niederländischer Grenze — ideal für Radrouten, Dorfmärkte und langsame Spaziergänge.",
+        "zh": "斯海尔德河与荷兰边境之间柔和的围垦平原与农田——非常适合骑行路线、村庄集市与慢行散步。",
+        "ko": "스헬트강과 네덜란드 국경 사이의 완만한 폴더(polder)와 농경지 지역 — 자전거 코스, 마을 시장, 느긋한 산책에 이상적입니다.",
+        "ja": "スヘルデ川とオランダ国境の間に広がる穏やかなポルダーと農地の地域 — サイクリングルート、村のマーケット、ゆっくり歩くのに最適です。"
       }
     }
   ]

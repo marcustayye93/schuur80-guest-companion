@@ -11,6 +11,9 @@ export interface LocalizedString {
   nl?: string;
   fr?: string;
   de?: string;
+  zh?: string;
+  ko?: string;
+  ja?: string;
 }
 
 /** Placeholder for content not yet confirmed by the host. */

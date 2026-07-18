@@ -7,25 +7,37 @@
         "en": "House",
         "nl": "Huis",
         "fr": "Maison",
-        "de": "Haus"
+        "de": "Haus",
+        "zh": "房屋",
+        "ko": "숙소",
+        "ja": "建物について"
       },
       "item": {
         "en": "Alarm system procedure",
         "nl": "Alarmprocedure",
         "fr": "Procédure d'alarme",
-        "de": "Alarmanlagen-Ablauf"
+        "de": "Alarmanlagen-Ablauf",
+        "zh": "警报系统操作",
+        "ko": "경보 시스템 절차",
+        "ja": "アラームシステムの操作手順です。"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "待房东工作坊",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップを待っています。"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전",
+        "ja": "ご滞在前に"
       }
     },
     {
@@ -34,25 +46,37 @@
         "en": "Arrival",
         "nl": "Aankomst",
         "fr": "Arrivée",
-        "de": "Ankunft"
+        "de": "Ankunft",
+        "zh": "抵达",
+        "ko": "도착",
+        "ja": "到着"
       },
       "item": {
         "en": "Lock & key procedure",
         "nl": "Slot- & sleutelprocedure",
         "fr": "Procédure serrures & clés",
-        "de": "Schloss- & Schlüsselablauf"
+        "de": "Schloss- & Schlüsselablauf",
+        "zh": "门锁与钥匙操作说明",
+        "ko": "열쇠 및 잠금 안내",
+        "ja": "鍵の受け渡しと施錠の手順です"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -61,25 +85,37 @@
         "en": "Cats",
         "nl": "Katten",
         "fr": "Chats",
-        "de": "Katzen"
+        "de": "Katzen",
+        "zh": "猫咪",
+        "ko": "고양이",
+        "ja": "猫たちについてのご案内です"
       },
       "item": {
         "en": "Names of the 14 cats (4 kittens, 10 large cats)",
         "nl": "Namen van de 14 katten (4 kittens, 10 grote katten)",
         "fr": "Noms des 14 chats (4 chatons, 10 grands chats)",
-        "de": "Namen der 14 Katzen (4 Kätzchen, 10 große Katzen)"
+        "de": "Namen der 14 Katzen (4 Kätzchen, 10 große Katzen)",
+        "zh": "14只猫的名字（4只小猫，10只成猫）",
+        "ko": "14마리 고양이 이름(새끼 4마리, 어른 10마리)",
+        "ja": "14匹の猫の名前（子猫4匹、成猫10匹）の一覧です"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -88,25 +124,37 @@
         "en": "Cats",
         "nl": "Katten",
         "fr": "Chats",
-        "de": "Katzen"
+        "de": "Katzen",
+        "zh": "猫咪",
+        "ko": "고양이",
+        "ja": "猫たちについてのご案内です"
       },
       "item": {
         "en": "Feeding instructions",
         "nl": "Voederinstructies",
         "fr": "Consignes de nourrissage",
-        "de": "Fütterungshinweise"
+        "de": "Fütterungshinweise",
+        "zh": "喂食指南",
+        "ko": "먹이 주기 안내",
+        "ja": "餌やりのご案内です"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -115,25 +163,37 @@
         "en": "House",
         "nl": "Huis",
         "fr": "Maison",
-        "de": "Haus"
+        "de": "Haus",
+        "zh": "房屋",
+        "ko": "숙소",
+        "ja": "館内についてのご案内です"
       },
       "item": {
         "en": "Fireplace guide",
         "nl": "Haardgids",
         "fr": "Guide cheminée",
-        "de": "Kaminanleitung"
+        "de": "Kaminanleitung",
+        "zh": "壁炉使用指南",
+        "ko": "벽난로 사용 안내",
+        "ja": "暖炉のご利用ガイドです"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -142,25 +202,37 @@
         "en": "Garden",
         "nl": "Tuin",
         "fr": "Jardin",
-        "de": "Garten"
+        "de": "Garten",
+        "zh": "花园",
+        "ko": "정원",
+        "ja": "庭についてのご案内です"
       },
       "item": {
         "en": "Hot tub guide",
         "nl": "Hottub-gids",
         "fr": "Guide jacuzzi",
-        "de": "Whirlpool-Anleitung"
+        "de": "Whirlpool-Anleitung",
+        "zh": "热水浴缸使用指南",
+        "ko": "온수 욕조 안내",
+        "ja": "ホットタブのご利用ガイドです"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -169,25 +241,37 @@
         "en": "Garden",
         "nl": "Tuin",
         "fr": "Jardin",
-        "de": "Garten"
+        "de": "Garten",
+        "zh": "花园",
+        "ko": "정원",
+        "ja": "庭についてのご案内です"
       },
       "item": {
         "en": "BBQ guide",
         "nl": "BBQ-gids",
         "fr": "Guide barbecue",
-        "de": "Grill-Anleitung"
+        "de": "Grill-Anleitung",
+        "zh": "烧烤指南",
+        "ko": "바비큐 안내",
+        "ja": "BBQのご利用ガイドです"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -196,25 +280,37 @@
         "en": "Help",
         "nl": "Hulp",
         "fr": "Aide",
-        "de": "Hilfe"
+        "de": "Hilfe",
+        "zh": "帮助",
+        "ko": "도움",
+        "ja": "お困りの際はこちらです"
       },
       "item": {
         "en": "Local emergency contacts (nearest hospital, vet)",
         "nl": "Lokale noodcontacten (dichtstbijzijnd ziekenhuis, dierenarts)",
         "fr": "Contacts d'urgence locaux (hôpital le plus proche, vétérinaire)",
-        "de": "Lokale Notfallkontakte (nächstes Krankenhaus, Tierarzt)"
+        "de": "Lokale Notfallkontakte (nächstes Krankenhaus, Tierarzt)",
+        "zh": "当地紧急联系方式（最近的医院、兽医）",
+        "ko": "지역 긴급 연락처(가장 가까운 병원, 동물병원)",
+        "ja": "現地の緊急連絡先（最寄りの病院、獣医）をご案内します"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -223,25 +319,37 @@
         "en": "House",
         "nl": "Huis",
         "fr": "Maison",
-        "de": "Haus"
+        "de": "Haus",
+        "zh": "房屋",
+        "ko": "숙소",
+        "ja": "館内についてのご案内です"
       },
       "item": {
         "en": "Full house rules",
         "nl": "Volledige huisregels",
         "fr": "Règles complètes de la maison",
-        "de": "Vollständige Hausregeln"
+        "de": "Vollständige Hausregeln",
+        "zh": "完整房屋守则",
+        "ko": "전체 숙소 규칙",
+        "ja": "館内規則（全文）をご確認ください"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -250,25 +358,37 @@
         "en": "Guide",
         "nl": "Gids",
         "fr": "Guide",
-        "de": "Guide"
+        "de": "Guide",
+        "zh": "指南",
+        "ko": "안내",
+        "ja": "ご案内です"
       },
       "item": {
         "en": "Host's local recommendations",
         "nl": "Lokale tips van de gastheer",
         "fr": "Recommandations locales de l'hôte",
-        "de": "Lokale Tipps des Gastgebers"
+        "de": "Lokale Tipps des Gastgebers",
+        "zh": "房东的本地推荐",
+        "ko": "호스트가 추천하는 지역 명소",
+        "ja": "ホストによる地元のおすすめをご案内します"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -277,25 +397,37 @@
         "en": "Checkout",
         "nl": "Uitchecken",
         "fr": "Départ",
-        "de": "Check-out"
+        "de": "Check-out",
+        "zh": "退房",
+        "ko": "체크아웃",
+        "ja": "チェックアウトのご案内です"
       },
       "item": {
         "en": "Checkout process details (times confirmed: check-in 3 PM, checkout 12 noon)",
         "nl": "Details uitcheckproces (tijden bevestigd: inchecken 15u, uitchecken 12u)",
         "fr": "Détails du processus de départ (horaires confirmés : arrivée 15 h, départ midi)",
-        "de": "Details zum Check-out-Ablauf (Zeiten bestätigt: Check-in 15 Uhr, Check-out 12 Uhr)"
+        "de": "Details zum Check-out-Ablauf (Zeiten bestätigt: Check-in 15 Uhr, Check-out 12 Uhr)",
+        "zh": "退房流程详情（时间已确认：check-in 3 PM，checkout 12 noon）",
+        "ko": "체크아웃 절차 세부사항(시간 확정: check-in 3 PM, checkout 12 noon)",
+        "ja": "チェックアウト手続きの詳細です（時間確認済み：チェックイン 3 PM、チェックアウト 12 noon）"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东内容待补充",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストの準備をお待ちください"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前须知",
+        "ko": "숙박 전 안내",
+        "ja": "ご滞在前にご確認ください"
       }
     },
     {
@@ -304,25 +436,37 @@
         "en": "Checkout",
         "nl": "Uitchecken",
         "fr": "Départ",
-        "de": "Check-out"
+        "de": "Check-out",
+        "zh": "退房",
+        "ko": "체크아웃",
+        "ja": "チェックアウトのご案内です"
       },
       "item": {
         "en": "Waste sorting rules",
         "nl": "Afvalsorteerregels",
         "fr": "Règles de tri des déchets",
-        "de": "Mülltrennungsregeln"
+        "de": "Mülltrennungsregeln",
+        "zh": "垃圾分类规则",
+        "ko": "쓰레기 분리 배출 규칙",
+        "ja": "ゴミの分別ルール"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东工作坊信息待完善",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップ情報を待っています"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
       }
     },
     {
@@ -331,25 +475,37 @@
         "en": "House",
         "nl": "Huis",
         "fr": "Maison",
-        "de": "Haus"
+        "de": "Haus",
+        "zh": "房屋",
+        "ko": "숙소",
+        "ja": "宿泊施設"
       },
       "item": {
         "en": "Quiet hours & noise policy",
         "nl": "Stiltemomenten & geluidsafspraken",
         "fr": "Heures de calme & consignes de bruit",
-        "de": "Ruhezeiten & Lärmregeln"
+        "de": "Ruhezeiten & Lärmregeln",
+        "zh": "安静时段与噪音规定",
+        "ko": "정숙 시간 및 소음 규정",
+        "ja": "静粛時間と騒音に関するお願い"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东工作坊信息待完善",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップ情報を待っています"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
       }
     },
     {
@@ -358,25 +514,37 @@
         "en": "Garden",
         "nl": "Tuin",
         "fr": "Jardin",
-        "de": "Garten"
+        "de": "Garten",
+        "zh": "花园",
+        "ko": "정원",
+        "ja": "庭"
       },
       "item": {
         "en": "Hot tub — children & safety rules",
         "nl": "Hottub — kinderen & veiligheidsregels",
         "fr": "Jacuzzi — enfants & règles de sécurité",
-        "de": "Whirlpool — Kinder & Sicherheitsregeln"
+        "de": "Whirlpool — Kinder & Sicherheitsregeln",
+        "zh": "热水浴缸 — 儿童与安全须知",
+        "ko": "온수 욕조 — 어린이 이용 및 안전 수칙",
+        "ja": "ホットタブ — お子さま・安全に関するルール"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东工作坊信息待完善",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップ情報を待っています"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
       }
     },
     {
@@ -385,25 +553,37 @@
         "en": "Help",
         "nl": "Hulp",
         "fr": "Aide",
-        "de": "Hilfe"
+        "de": "Hilfe",
+        "zh": "帮助",
+        "ko": "도움말",
+        "ja": "ヘルプ"
       },
       "item": {
         "en": "First aid kit & defibrillator location",
         "nl": "EHBO-kit & locatie defibrillator",
         "fr": "Trousse de secours & emplacement du défibrillateur",
-        "de": "Erste-Hilfe-Set & Defibrillator-Standort"
+        "de": "Erste-Hilfe-Set & Defibrillator-Standort",
+        "zh": "急救箱与AED（自动体外除颤器）的位置",
+        "ko": "구급상자 및 자동제세동기(AED) 위치 안내",
+        "ja": "救急箱と除細動器（AED）の場所"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东工作坊信息待完善",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップ情報を待っています"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
       }
     },
     {
@@ -412,25 +592,37 @@
         "en": "Help",
         "nl": "Hulp",
         "fr": "Aide",
-        "de": "Hilfe"
+        "de": "Hilfe",
+        "zh": "帮助",
+        "ko": "도움말",
+        "ja": "ヘルプ"
       },
       "item": {
         "en": "Power & water outage steps",
         "nl": "Stappen bij stroom- of waterpanne",
         "fr": "Que faire en cas de coupure d'eau ou d'électricité",
-        "de": "Schritte bei Strom- oder Wasserausfall"
+        "de": "Schritte bei Strom- oder Wasserausfall",
+        "zh": "断电与断水应对步骤",
+        "ko": "정전 및 단수 시 대처 방법",
+        "ja": "停電・断水時の対処方法"
       },
       "status": {
         "en": "Awaiting host workshop",
         "nl": "In afwachting van host-workshop",
         "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
+        "de": "Wartet auf Gastgeber-Workshop",
+        "zh": "房东工作坊信息待完善",
+        "ko": "호스트 워크숍 대기 중",
+        "ja": "ホストのワークショップ情報を待っています"
       },
       "expected": {
         "en": "Before your stay",
         "nl": "Vóór je verblijf",
         "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
       }
     }
   ]

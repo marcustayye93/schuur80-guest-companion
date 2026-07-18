@@ -1,0 +1,192 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "ご滞在の頼れるガイドです",
+    "address": "Perstraat 80, 9120 Haasdonk, ベルギー"
+  },
+  "nav": {
+    "home": "ホームに戻ります",
+    "house": "建物のご案内",
+    "garden": "庭のご案内",
+    "guide": "ご案内",
+    "help": "ヘルプ"
+  },
+  "actions": {
+    "search": "検索します",
+    "searchPlaceholder": "館内、ガイド、よくある質問を検索します…",
+    "language": "言語",
+    "contactHost": "ホストに連絡します",
+    "back": "前の画面に戻ります",
+    "close": "閉じます",
+    "viewAll": "すべて表示します",
+    "openGuide": "ガイドを開きます",
+    "settings": "設定",
+    "install": "アプリをインストールします",
+    "retry": "もう一度お試しください"
+  },
+  "offline": {
+    "badge": "オフラインです",
+    "banner": "現在オフラインです — 保存済みのコンテンツは引き続きご利用いただけます。",
+    "title": "現在オフラインです",
+    "body": "現在接続されていません。既に開いたコンテンツは保存されて利用可能です。再接続すると最新の更新を取得できます。",
+    "cached": "オフラインで利用可能です"
+  },
+  "home": {
+    "welcome": "納屋へようこそ",
+    "welcomeSub": "この納屋は皆さまのものです — 必要な情報をすべてご用意しています。",
+    "beforeArrival": "ご到着前に",
+    "duringStay": "館内と周辺",
+    "departure": "ご出発前に",
+    "quickLinks": "クイックアクセス",
+    "storyTitle": "納屋の物語",
+    "storySub": "Waaslandにある修復された歴史的納屋です。",
+    "exploreHouse": "館内をご覧ください",
+    "exploreGarden": "庭をご案内します",
+    "meetCats": "猫たちに会ってください",
+    "arrivalCard": "ご到着とチェックイン",
+    "arrivalCardSub": "道順、駐車、入室方法",
+    "checkoutCard": "チェックアウトについて",
+    "checkoutCardSub": "ご出発前にいくつかの確認事項があります",
+    "emergencyCard": "緊急時の情報",
+    "emergencyCardSub": "連絡先と対応方法",
+    "recommendationsCard": "周辺の見どころ",
+    "recommendationsCardSub": "アントワープ、ゲント、Waasland"
+  },
+  "house": {
+    "title": "建物について",
+    "subtitle": "部屋や家電、設備の使い方について",
+    "rooms": "部屋とスペース",
+    "appliances": "家電",
+    "guides": "館内ガイド",
+    "features": "このスペースについて",
+    "inRoom": "この部屋について",
+    "map": "館内マップ",
+    "mapPending": "間取りがホストにより確定次第、インタラクティブな館内マップを追加します。",
+    "group": {
+      "utility": "生活・実用情報",
+      "garden": "庭と屋外"
+    }
+  },
+  "garden": {
+    "title": "庭と果樹園",
+    "subtitle": "屋外設備（ホットタブ、BBQ）と猫について",
+    "cats": "猫たち",
+    "catsSub": "住人のご紹介",
+    "outdoor": "屋外設備"
+  },
+  "guide": {
+    "title": "ご案内",
+    "subtitle": "到着、チェックアウト、納屋の物語と周辺情報",
+    "journey": "ご滞在について",
+    "area": "お出かけ情報",
+    "faqs": "よくある質問",
+    "story": "納屋の物語",
+    "hostPicks": "ホストのおすすめ"
+  },
+  "help": {
+    "title": "サポート",
+    "subtitle": "回答、連絡先、緊急時の対応",
+    "emergency": "緊急時",
+    "emergencySub": "連絡先と対応方法",
+    "faq": "よくある質問",
+    "faqSub": "よくある質問への簡潔な回答",
+    "contact": "ホストに連絡する",
+    "contactSub": "滞在中のご質問",
+    "pendingRegister": "未確定の情報",
+    "pendingRegisterSub": "ホストとまだ確認中の内容"
+  },
+  "emergency": {
+    "title": "緊急時",
+    "callEu": "ヨーロッパの緊急番号",
+    "callEuSub": "救急車・消防",
+    "police": "警察",
+    "doctor": "当番医",
+    "pharmacy": "当番薬局",
+    "poison": "中毒情報センター",
+    "hostContact": "ホストの連絡先",
+    "address": "ここに宿の住所が入ります",
+    "addressNote": "この住所を緊急時にお伝えください",
+    "call": "電話する"
+  },
+  "cats": {
+    "title": "猫たち",
+    "personality": "性格",
+    "feeding": "餌やり",
+    "notes": "知っておくと良いこと",
+    "rules": "同居者としての心得",
+    "fallbackName": "猫",
+    "pendingIntro": "紹介をお待ちください — ホストがまもなく名前をお知らせします。"
+  },
+  "search": {
+    "title": "検索",
+    "noResults": "以下では何も見つかりませんでした",
+    "noResultsHint": "別の語でお試しください、またはホームからご覧ください。",
+    "results": "結果",
+    "sections": {
+      "rooms": "お部屋",
+      "devices": "家電",
+      "guides": "ガイド",
+      "faqs": "よくある質問",
+      "recommendations": "お出かけ情報",
+      "cats": "猫たち"
+    }
+  },
+  "settings": {
+    "title": "設定",
+    "language": "言語",
+    "languageSub": "ご希望の言語をお選びください",
+    "about": "このアプリについて",
+    "aboutBody": "Schuur 80 のデジタルゲストコンパニオン — 印刷のマニュアルに代わり、必要な情報をすべてポケットに。オフラインでもご利用いただけます。",
+    "install": "スマートフォンにインストール",
+    "installBody": "ホーム画面に Schuur 80 を追加すると、オフラインでも使えるフルアプリ体験をご利用いただけます。",
+    "version": "バージョン"
+  },
+  "pending": {
+    "label": "確認待ち",
+    "defaultStatus": "ホストの確認待ちです",
+    "defaultExplanation": "この情報はホストとのワークショップ後に追加します。未確認の案内は表示しないようにしています。",
+    "defaultExpected": "滞在前に公開予定です",
+    "expectedLabel": "公開予定"
+  },
+  "placeholderScreen": {
+    "title": "近日公開",
+    "body": "この部分はホストと調整中で、確認が取れ次第ここに表示されます。"
+  },
+  "error": {
+    "title": "うまくいきませんでした",
+    "body": "うまくいきませんでした。もう一度お試しいただくか、ホームに戻ってください。",
+    "notFoundTitle": "ページが見つかりません",
+    "notFoundBody": "このページは存在しません — もしかすると果樹園へお散歩に出かけたのかもしれません。",
+    "goHome": "ホームに戻る"
+  },
+  "story": {
+    "title": "納屋の物語",
+    "subtitle": "働く納屋から、みんなが集う場所へ"
+  },
+  "checkout": {
+    "checklistTitle": "チェックアウトのチェックリスト",
+    "progress": "完了"
+  },
+  "arrival": {
+    "title": "到着",
+    "weather": "Haasdonkの天気",
+    "weatherPending": "オンライン時にはここに最新の天気が表示されます。"
+  },
+  "common": {
+    "loading": "読み込み中",
+    "min": "分",
+    "km": "km",
+    "moreInfo": "詳細情報",
+    "website": "ウェブサイト",
+    "tip": "ヒント",
+    "steps": "手順",
+    "tips": "知っておくと良いこと",
+    "model": "モデル"
+  },
+  "contact": {
+    "call": "ホストに電話する",
+    "email": "メール",
+    "website": "ウェブサイト",
+    "whatsapp": "WhatsApp"
+  }
+}

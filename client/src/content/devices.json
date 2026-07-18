@@ -4,19 +4,28 @@
       "en": "Awaiting host confirmation",
       "nl": "In afwachting van bevestiging door de gastheer",
       "fr": "En attente de confirmation de l'hôte",
-      "de": "Wartet auf Bestätigung des Gastgebers"
+      "de": "Wartet auf Bestätigung des Gastgebers",
+      "zh": "等待房东确认",
+      "ko": "호스트 확인 대기 중",
+      "ja": "ホストの確認待ちです。"
     },
     "explanation": {
       "en": "This information will be added after the host workshop, so we never show you unverified instructions.",
       "nl": "Deze informatie wordt toegevoegd na de workshop met de gastheer, zodat we je nooit ongeverifieerde instructies tonen.",
       "fr": "Cette information sera ajoutée après l'atelier avec l'hôte, afin de ne jamais afficher d'instructions non vérifiées.",
-      "de": "Diese Information wird nach dem Gastgeber-Workshop ergänzt, damit wir nie ungeprüfte Anleitungen anzeigen."
+      "de": "Diese Information wird nach dem Gastgeber-Workshop ergänzt, damit wir nie ungeprüfte Anleitungen anzeigen.",
+      "zh": "此信息将在房东工作坊后补充，以确保不展示未经核实的说明。",
+      "ko": "이 정보는 호스트 워크숍 후에 추가됩니다. 검증되지 않은 안내는 표시하지 않습니다.",
+      "ja": "この情報はホストのワークショップ後に追加されます。未確認の案内は表示しないためです。"
     },
     "expectedUpdate": {
       "en": "Expected before your stay",
       "nl": "Verwacht vóór je verblijf",
       "fr": "Prévu avant votre séjour",
-      "de": "Erwartet vor Ihrem Aufenthalt"
+      "de": "Erwartet vor Ihrem Aufenthalt",
+      "zh": "预计在您入住前提供",
+      "ko": "숙박 전에 제공될 예정입니다.",
+      "ja": "ご滞在前にご案内する予定です。"
     }
   },
   "devices": [
@@ -27,7 +36,10 @@
         "en": "Wi-Fi",
         "nl": "Wifi",
         "fr": "Wi-Fi",
-        "de": "WLAN"
+        "de": "WLAN",
+        "zh": "无线网络 (Wi‑Fi)",
+        "ko": "와이파이",
+        "ja": "Wi‑Fi"
       },
       "brandModel": "Schuur80 network",
       "icon": "wifi",
@@ -37,13 +49,19 @@
             "en": "Open the Wi-Fi settings on your phone or laptop and choose the network \"Schuur80\".",
             "nl": "Open de wifi-instellingen op je telefoon of laptop en kies het netwerk \"Schuur80\".",
             "fr": "Ouvrez les réglages Wi-Fi de votre téléphone ou ordinateur et choisissez le réseau \"Schuur80\".",
-            "de": "Öffnen Sie die WLAN-Einstellungen auf Ihrem Handy oder Laptop und wählen Sie das Netzwerk \"Schuur80\"."
+            "de": "Öffnen Sie die WLAN-Einstellungen auf Ihrem Handy oder Laptop und wählen Sie das Netzwerk \"Schuur80\".",
+            "zh": "在手机或笔记本上打开无线网络设置，选择网络 \"Schuur80\"。",
+            "ko": "폰이나 노트북에서 와이파이 설정을 열고 네트워크 \"Schuur80\"을 선택하세요.",
+            "ja": "スマートフォンやノートパソコンでWi‑Fi設定を開き、ネットワーク「Schuur80」を選んでください。"
           },
           {
             "en": "Enter the password \"Schuur80\" and connect. Wi-Fi covers the whole barn.",
             "nl": "Voer het wachtwoord \"Schuur80\" in en verbind. Wifi dekt de hele schuur.",
             "fr": "Saisissez le mot de passe \"Schuur80\" et connectez-vous. Le Wi-Fi couvre toute la grange.",
-            "de": "Geben Sie das Passwort \"Schuur80\" ein und verbinden Sie sich. WLAN deckt die ganze Scheune ab."
+            "de": "Geben Sie das Passwort \"Schuur80\" ein und verbinden Sie sich. WLAN deckt die ganze Scheune ab.",
+            "zh": "输入密码 \"Schuur80\" 并连接。无线网络覆盖整个谷仓。",
+            "ko": "비밀번호 \"Schuur80\"을 입력하고 연결하세요. 와이파이는 헛간 전체에서 사용 가능합니다.",
+            "ja": "パスワード「Schuur80」を入力して接続してください。Wi‑Fiは倉庫全体でご利用いただけます。"
           }
         ]
       },
@@ -52,7 +70,10 @@
           "en": "Router restart instructions are being prepared with the host and will appear here once confirmed.",
           "nl": "De herstartinstructies voor de router worden samen met de gastheer voorbereid en verschijnen hier zodra ze bevestigd zijn.",
           "fr": "Les instructions de redémarrage du routeur sont en préparation avec l'hôte et apparaîtront ici une fois confirmées.",
-          "de": "Die Anleitung zum Neustart des Routers wird mit dem Gastgeber vorbereitet und erscheint hier, sobald sie bestätigt ist."
+          "de": "Die Anleitung zum Neustart des Routers wird mit dem Gastgeber vorbereitet und erscheint hier, sobald sie bestätigt ist.",
+          "zh": "路由器重启说明正在与房东确认中，确认后会在此处发布。",
+          "ko": "라우터 재시작 안내는 호스트와 함께 준비 중이며 확인되는 대로 여기에 게재하겠습니다.",
+          "ja": "ルーターの再起動手順はホストと調整中です。確認でき次第、こちらに掲載します。"
         }
       ]
     },
@@ -63,7 +84,10 @@
         "en": "Fireplace",
         "nl": "Haard",
         "fr": "Cheminée",
-        "de": "Kamin"
+        "de": "Kamin",
+        "zh": "壁炉",
+        "ko": "벽난로",
+        "ja": "暖炉"
       },
       "icon": "flame",
       "instructions": {
@@ -72,19 +96,28 @@
             "en": "Only use dry firewood provided at the house — never treated wood, paper briquettes or garden waste.",
             "nl": "Gebruik enkel het droge brandhout dat in het huis voorzien is — nooit behandeld hout, papierbriketten of tuinafval.",
             "fr": "Utilisez uniquement le bois sec fourni dans la maison — jamais de bois traité, de briquettes de papier ou de déchets verts.",
-            "de": "Verwenden Sie nur das im Haus bereitgestellte trockene Brennholz — niemals behandeltes Holz, Papierbriketts oder Gartenabfälle."
+            "de": "Verwenden Sie nur das im Haus bereitgestellte trockene Brennholz — niemals behandeltes Holz, Papierbriketts oder Gartenabfälle.",
+            "zh": "仅使用屋内提供的干柴 — 切勿使用经处理的木材、纸制压块或庭院杂物。",
+            "ko": "집에서 제공한 건조한 장작만 사용하세요 — 방부 처리된 목재, 종이 브리켓 또는 정원 쓰레기는 절대 사용하지 마세요.",
+            "ja": "家に用意してある乾いた薪のみをお使いください。防腐・処理された木材、紙のブリケット、庭の廃棄物は絶対に使用しないでください。"
           },
           {
             "en": "Open the air supply fully when lighting; reduce it once the fire burns steadily.",
             "nl": "Zet de luchttoevoer volledig open bij het aansteken; verminder zodra het vuur goed brandt.",
             "fr": "Ouvrez complètement l'arrivée d'air à l'allumage ; réduisez-la une fois le feu bien pris.",
-            "de": "Öffnen Sie die Luftzufuhr beim Anzünden vollständig; reduzieren Sie sie, sobald das Feuer gleichmäßig brennt."
+            "de": "Öffnen Sie die Luftzufuhr beim Anzünden vollständig; reduzieren Sie sie, sobald das Feuer gleichmäßig brennt.",
+            "zh": "点火时将进气口完全打开；火势稳定后再适度调小。",
+            "ko": "불을 붙일 때는 공기 공급을 완전히 열고, 불이 안정되면 공기량을 줄이세요.",
+            "ja": "着火の際は通気口を全開にしてください。火が安定してきたら通気量を絞ってください。"
           },
           {
             "en": "Never leave the fire unattended, and make sure it is fully out before going to bed or leaving the barn.",
             "nl": "Laat het vuur nooit onbewaakt achter en zorg dat het volledig uit is voor je gaat slapen of de schuur verlaat.",
             "fr": "Ne laissez jamais le feu sans surveillance et assurez-vous qu'il est complètement éteint avant d'aller dormir ou de quitter la grange.",
-            "de": "Lassen Sie das Feuer nie unbeaufsichtigt und stellen Sie sicher, dass es vollständig erloschen ist, bevor Sie schlafen gehen oder die Scheune verlassen."
+            "de": "Lassen Sie das Feuer nie unbeaufsichtigt und stellen Sie sicher, dass es vollständig erloschen ist, bevor Sie schlafen gehen oder die Scheune verlassen.",
+            "zh": "请勿让火独自燃烧，睡觉或离开谷仓前务必将火完全熄灭。",
+            "ko": "불을 절대 방치하지 마시고, 잠자리에 들기 전이나 헛간을 떠나기 전에는 완전히 꺼졌는지 확인하세요.",
+            "ja": "火は決して無人のままにせず、就寝や外出前には完全に消えていることを必ず確認してください。"
           }
         ]
       },
@@ -93,7 +126,10 @@
           "en": "Please only use the fireplace after reading the host's guide, which is being prepared.",
           "nl": "Gebruik de haard enkel na het lezen van de gids van de gastheer, die in voorbereiding is.",
           "fr": "Merci de n'utiliser la cheminée qu'après avoir lu le guide de l'hôte, en cours de préparation.",
-          "de": "Bitte nutzen Sie den Kamin erst nach dem Lesen der Anleitung des Gastgebers, die derzeit erstellt wird."
+          "de": "Bitte nutzen Sie den Kamin erst nach dem Lesen der Anleitung des Gastgebers, die derzeit erstellt wird.",
+          "zh": "请在阅读房东的使用指南后再使用壁炉，该指南正在准备中。",
+          "ko": "호스트의 안내서를 읽은 후에만 벽난로를 사용해 주세요. 안내서는 현재 준비 중입니다.",
+          "ja": "暖炉は、ホストのガイド（準備中）をお読みになってからご使用ください。"
         }
       ]
     },
@@ -104,7 +140,10 @@
         "en": "Underfloor Heating",
         "nl": "Vloerverwarming",
         "fr": "Chauffage au sol",
-        "de": "Fußbodenheizung"
+        "de": "Fußbodenheizung",
+        "zh": "地暖",
+        "ko": "바닥 난방",
+        "ja": "床暖房"
       },
       "icon": "thermometer",
       "instructions": {
@@ -113,19 +152,28 @@
             "en": "The thermostat in the living area controls the heating — adjust the target temperature there rather than opening windows.",
             "nl": "De thermostaat in de leefruimte regelt de verwarming — pas daar de gewenste temperatuur aan in plaats van ramen te openen.",
             "fr": "Le thermostat du séjour commande le chauffage — réglez-y la température souhaitée plutôt que d'ouvrir les fenêtres.",
-            "de": "Das Thermostat im Wohnbereich steuert die Heizung — stellen Sie dort die Wunschtemperatur ein, statt Fenster zu öffnen."
+            "de": "Das Thermostat im Wohnbereich steuert die Heizung — stellen Sie dort die Wunschtemperatur ein, statt Fenster zu öffnen.",
+            "zh": "客厅的温控器控制地暖 — 请在那里调节目标温度，不要通过开窗降温。",
+            "ko": "거실에 있는 온도조절기가 난방을 제어합니다 — 창문을 여는 대신 그곳에서 목표 온도를 조절하세요.",
+            "ja": "リビングにあるサーモスタットが暖房を管理しています。窓を開けるのではなく、そちらで設定温度を調整してください。"
           },
           {
             "en": "Give the system time: a barn this size warms up gradually, so avoid setting extreme temperatures.",
             "nl": "Geef het systeem tijd: een schuur van deze omvang warmt geleidelijk op, vermijd extreme instellingen.",
             "fr": "Laissez le temps au système : une grange de cette taille chauffe progressivement, évitez les réglages extrêmes.",
-            "de": "Geben Sie dem System Zeit: Eine Scheune dieser Größe erwärmt sich allmählich, vermeiden Sie extreme Einstellungen."
+            "de": "Geben Sie dem System Zeit: Eine Scheune dieser Größe erwärmt sich allmählich, vermeiden Sie extreme Einstellungen.",
+            "zh": "请给系统一些时间：像这样的谷仓升温较慢，因此请避免设定过高或过低的温度。",
+            "ko": "시스템에 시간을 주세요: 이만한 크기의 헛간은 서서히 따뜻해지니 극단적인 온도로 설정하지 마세요.",
+            "ja": "システムには時間が必要です：この大きさの倉庫はゆっくり温まるため、極端な温度設定はお控えください。"
           },
           {
             "en": "Please return the thermostat to its normal setting before checkout.",
             "nl": "Zet de thermostaat terug op de normale stand voor je uitcheckt.",
             "fr": "Merci de remettre le thermostat sur son réglage habituel avant le départ.",
-            "de": "Bitte stellen Sie das Thermostat vor dem Check-out auf die normale Einstellung zurück."
+            "de": "Bitte stellen Sie das Thermostat vor dem Check-out auf die normale Einstellung zurück.",
+            "zh": "退房前请将温控器恢复到正常设定。",
+            "ko": "체크아웃 전에는 온도조절기를 정상 설정으로 되돌려 주세요.",
+            "ja": "チェックアウト前にサーモスタットを通常の設定に戻してください。"
           }
         ]
       }
@@ -137,7 +185,10 @@
         "en": "Air Conditioning",
         "nl": "Airconditioning",
         "fr": "Climatisation",
-        "de": "Klimaanlage"
+        "de": "Klimaanlage",
+        "zh": "空调",
+        "ko": "에어컨",
+        "ja": "エアコン"
       },
       "icon": "wind",
       "instructions": {
@@ -146,19 +197,28 @@
             "en": "Use the remote in each room to set mode and temperature — snowflake for cooling, sun for heating.",
             "nl": "Gebruik de afstandsbediening in elke kamer voor modus en temperatuur — sneeuwvlok voor koelen, zon voor verwarmen.",
             "fr": "Utilisez la télécommande de chaque pièce pour le mode et la température — flocon pour rafraîchir, soleil pour chauffer.",
-            "de": "Nutzen Sie die Fernbedienung in jedem Raum für Modus und Temperatur — Schneeflocke zum Kühlen, Sonne zum Heizen."
+            "de": "Nutzen Sie die Fernbedienung in jedem Raum für Modus und Temperatur — Schneeflocke zum Kühlen, Sonne zum Heizen.",
+            "zh": "使用每个房间的遥控器设定模式和温度 — 雪花为制冷，太阳为制热。",
+            "ko": "각 방에 있는 리모컨으로 모드와 온도를 설정하세요 — 눈송이(냉방), 태양(난방) 기호를 사용합니다.",
+            "ja": "各部屋のリモコンでモードと温度を設定してください。雪のマークは冷房、太陽のマークは暖房です。"
           },
           {
             "en": "Keep windows and doors closed while the air conditioning is running.",
             "nl": "Houd ramen en deuren gesloten terwijl de airco draait.",
             "fr": "Gardez fenêtres et portes fermées pendant que la climatisation fonctionne.",
-            "de": "Halten Sie Fenster und Türen geschlossen, während die Klimaanlage läuft."
+            "de": "Halten Sie Fenster und Türen geschlossen, während die Klimaanlage läuft.",
+            "zh": "空调运行时请关闭门窗。",
+            "ko": "에어컨 작동 중에는 창문과 문을 닫아 두세요.",
+            "ja": "エアコン使用中は窓や扉を閉めてください。"
           },
           {
             "en": "Turn units off when you leave the barn for the day.",
             "nl": "Zet de units uit als je de schuur voor langere tijd verlaat.",
             "fr": "Éteignez les unités lorsque vous quittez la grange pour la journée.",
-            "de": "Schalten Sie die Geräte aus, wenn Sie die Scheune für längere Zeit verlassen."
+            "de": "Schalten Sie die Geräte aus, wenn Sie die Scheune für längere Zeit verlassen.",
+            "zh": "外出全天离开谷仓时请关闭空调。",
+            "ko": "하루 외출 시에는 에어컨을 꺼 주세요.",
+            "ja": "外出時はエアコンの電源をお切りください。"
           }
         ]
       }
@@ -170,7 +230,10 @@
         "en": "Oven",
         "nl": "Oven",
         "fr": "Four",
-        "de": "Backofen"
+        "de": "Backofen",
+        "zh": "烤箱",
+        "ko": "오븐",
+        "ja": "オーブン"
       },
       "icon": "cooking-pot",
       "instructions": {
@@ -179,19 +242,28 @@
             "en": "Choose the heating mode with the dial or touch panel — fan mode suits most dishes; allow a short preheat.",
             "nl": "Kies de verwarmingsmodus met de draaiknop of het aanraakpaneel — heteluchtmodus past bij de meeste gerechten; laat even voorverwarmen.",
             "fr": "Choisissez le mode de cuisson avec la molette ou l'écran tactile — la chaleur tournante convient à la plupart des plats ; laissez préchauffer un instant.",
-            "de": "Wählen Sie die Betriebsart über den Drehknopf oder das Touchfeld — Umluft eignet sich für die meisten Gerichte; kurz vorheizen lassen."
+            "de": "Wählen Sie die Betriebsart über den Drehknopf oder das Touchfeld — Umluft eignet sich für die meisten Gerichte; kurz vorheizen lassen.",
+            "zh": "通过旋钮或触控面板选择加热模式 — 对多数料理风扇（循环）模式最合适；请稍作预热。",
+            "ko": "다이얼이나 터치 패널로 가열 모드를 선택하세요 — 팬 모드는 대부분의 요리에 적합합니다. 짧은 예열을 해주세요.",
+            "ja": "ダイヤルまたはタッチパネルで加熱モードを選んでください。ファン（コンベクション）モードはほとんどの料理に適しています。短時間の予熱をしてください。"
           },
           {
             "en": "Use oven gloves — handles and glass get hot — and keep the door closed as much as possible while baking.",
             "nl": "Gebruik ovenwanten — handgrepen en glas worden heet — en houd de deur zoveel mogelijk gesloten tijdens het bakken.",
             "fr": "Utilisez des gants de cuisine — poignées et vitre deviennent chaudes — et gardez la porte fermée autant que possible pendant la cuisson.",
-            "de": "Verwenden Sie Ofenhandschuhe — Griffe und Glas werden heiß — und halten Sie die Tür beim Backen möglichst geschlossen."
+            "de": "Verwenden Sie Ofenhandschuhe — Griffe und Glas werden heiß — und halten Sie die Tür beim Backen möglichst geschlossen.",
+            "zh": "使用烤箱手套 — 手柄和玻璃会变热 — 烘烤时尽量保持烤箱门关闭。",
+            "ko": "오븐 장갑을 사용하세요 — 손잡이와 유리가 뜨거워집니다 — 굽는 동안에는 가능한 문을 닫아 두세요.",
+            "ja": "ミトン（オーブングローブ）を使用してください：取っ手やガラスは熱くなります。焼いている間は扉をできるだけ閉めておいてください。"
           },
           {
             "en": "Wipe up spills once the oven has cooled so they don't burn in at the next use.",
             "nl": "Veeg gemorste resten weg zodra de oven is afgekoeld, zodat ze niet inbranden bij het volgende gebruik.",
             "fr": "Essuyez les débordements une fois le four refroidi pour qu'ils ne brûlent pas à la prochaine utilisation.",
-            "de": "Wischen Sie Verschüttetes nach dem Abkühlen aus, damit es beim nächsten Gebrauch nicht einbrennt."
+            "de": "Wischen Sie Verschüttetes nach dem Abkühlen aus, damit es beim nächsten Gebrauch nicht einbrennt.",
+            "zh": "烤箱冷却后请清理溅出物，以免下次使用时烧焦粘在内部。",
+            "ko": "오븐이 식은 뒤에 흘린 자국을 닦아 다음 사용 시 타지 않도록 해주세요.",
+            "ja": "オーブンが冷めてからこぼれを拭き取ってください。次回使用時に汚れが焼き付くのを防げます。"
           }
         ]
       }
@@ -203,7 +275,10 @@
         "en": "Induction Hob",
         "nl": "Inductiekookplaat",
         "fr": "Plaque à induction",
-        "de": "Induktionskochfeld"
+        "de": "Induktionskochfeld",
+        "zh": "感应灶",
+        "ko": "인덕션 레인지",
+        "ja": "IHクッキングヒーター"
       },
       "icon": "flame-kindling",
       "instructions": {
@@ -212,19 +287,28 @@
             "en": "The hob only heats pans with a magnetic base placed on the marked zones — it stays off otherwise.",
             "nl": "De kookplaat verwarmt enkel pannen met een magnetische bodem op de gemarkeerde zones — anders blijft ze uit.",
             "fr": "La plaque ne chauffe que les casseroles à fond magnétique posées sur les zones marquées — sinon elle reste éteinte.",
-            "de": "Das Kochfeld erhitzt nur Töpfe mit magnetischem Boden auf den markierten Zonen — sonst bleibt es aus."
+            "de": "Das Kochfeld erhitzt nur Töpfe mit magnetischem Boden auf den markierten Zonen — sonst bleibt es aus.",
+            "zh": "只有带磁性底座并放在标示区的锅具才能加热 — 否则灶面不会工作。",
+            "ko": "인덕션은 표시된 구역 위에 자성이 있는 바닥의 냄비만 가열합니다 — 그 외에는 작동하지 않습니다.",
+            "ja": "IHは、磁性のある底の鍋だけを、表示されたゾーンに置いたときに加熱します。それ以外では加熱されません。"
           },
           {
             "en": "Touch the power symbol to switch on, then set the level per zone with + and − or the slider.",
             "nl": "Raak het aan/uit-symbool aan om in te schakelen en stel per zone het niveau in met + en − of de schuifregelaar.",
             "fr": "Touchez le symbole marche/arrêt pour allumer, puis réglez la puissance de chaque zone avec + et − ou le curseur.",
-            "de": "Berühren Sie das Ein/Aus-Symbol zum Einschalten und stellen Sie die Stufe pro Zone mit + und − oder dem Schieberegler ein."
+            "de": "Berühren Sie das Ein/Aus-Symbol zum Einschalten und stellen Sie die Stufe pro Zone mit + und − oder dem Schieberegler ein.",
+            "zh": "触碰电源符号开启，再用 + 和 − 或滑条为各区域调节火力。",
+            "ko": "전원 기호를 터치해 켜고, +와 − 또는 슬라이더로 각 구역의 출력을 조절하세요.",
+            "ja": "電源マークに触れて電源を入れ、各ゾーンは＋・−またはスライダーで火力を調整してください。"
           },
           {
             "en": "An 'H' on a zone means it is still hot — don't touch it and keep tea towels off the glass.",
             "nl": "Een 'H' op een zone betekent dat ze nog heet is — raak ze niet aan en leg geen handdoeken op het glas.",
             "fr": "Un « H » sur une zone signifie qu'elle est encore chaude — ne la touchez pas et ne posez pas de torchons sur le verre.",
-            "de": "Ein „H“ auf einer Zone bedeutet Restwärme — nicht berühren und keine Geschirrtücher auf das Glas legen."
+            "de": "Ein „H“ auf einer Zone bedeutet Restwärme — nicht berühren und keine Geschirrtücher auf das Glas legen.",
+            "zh": "区域上显示 'H' 表示仍然很热 — 请勿触碰，且不要把茶巾放在玻璃上。",
+            "ko": "구역에 'H'가 표시되어 있으면 아직 뜨겁다는 뜻입니다 — 만지지 말고 유리 위에 행주를 올려두지 마세요.",
+            "ja": "ゾーンに「H」が表示されている場合はまだ熱いことを示します。触れないでください。また、布類をガラス天板に置かないでください。"
           }
         ]
       }
@@ -236,7 +320,10 @@
         "en": "Dishwasher",
         "nl": "Vaatwasser",
         "fr": "Lave-vaisselle",
-        "de": "Geschirrspüler"
+        "de": "Geschirrspüler",
+        "zh": "洗碗机",
+        "ko": "식기세척기",
+        "ja": "食器洗い機"
       },
       "icon": "waves",
       "instructions": {
@@ -245,19 +332,28 @@
             "en": "Scrape plates (no need to pre-rinse), load with spray arms free to turn, and add one tablet to the dispenser.",
             "nl": "Schraap borden af (voorspoelen hoeft niet), laad zo dat de sproeiarmen vrij kunnen draaien en doe één tablet in het bakje.",
             "fr": "Grattez les assiettes (inutile de prérincer), chargez en laissant les bras de lavage libres et mettez une tablette dans le compartiment.",
-            "de": "Teller abkratzen (Vorspülen nicht nötig), so einräumen, dass sich die Sprüharme frei drehen, und einen Tab ins Fach geben."
+            "de": "Teller abkratzen (Vorspülen nicht nötig), so einräumen, dass sich die Sprüharme frei drehen, und einen Tab ins Fach geben.",
+            "zh": "刮净餐盘（无需事先冲洗），摆放时确保喷臂能自由转动，并在投放盒中放入一片洗碗机清洁块。",
+            "ko": "접시의 음식물은 긁어내세요(사전 헹굼은 필요 없습니다), 분사 암이 자유롭게 회전하도록 넣고 세제 디스펜서에 정제 하나를 넣으세요.",
+            "ja": "皿の汚れはこそげ落として（事前洗いは不要です）、スプレーアームが回るように配列し、専用投入口にタブレットを1錠入れてください。"
           },
           {
             "en": "The eco or auto programme handles everyday loads; use an intensive programme only for heavily soiled pans.",
             "nl": "Het eco- of automatische programma volstaat voor dagelijkse vaat; gebruik enkel een intensief programma voor sterk vervuilde pannen.",
             "fr": "Le programme éco ou auto suffit au quotidien ; réservez le programme intensif aux casseroles très sales.",
-            "de": "Das Eco- oder Automatikprogramm genügt im Alltag; ein Intensivprogramm nur für stark verschmutzte Töpfe verwenden."
+            "de": "Das Eco- oder Automatikprogramm genügt im Alltag; ein Intensivprogramm nur für stark verschmutzte Töpfe verwenden.",
+            "zh": "Eco 或 Auto（自动）程序适合日常清洗；仅在锅具特别脏时使用强力程序。",
+            "ko": "일상적인 세척은 에코 또는 자동 프로그램으로 충분합니다; 심하게 더러운 냄비에는 강력 프로그램을 사용하세요.",
+            "ja": "普段の使用にはエコまたはオートプログラムで十分です。ひどく汚れた鍋には集中的な（強力）プログラムをお使いください。"
           },
           {
             "en": "Before checkout, please run and empty the dishwasher one last time.",
             "nl": "Laat voor het uitchecken de vaatwasser nog één keer draaien en maak hem leeg.",
             "fr": "Avant le départ, merci de lancer et de vider le lave-vaisselle une dernière fois.",
-            "de": "Bitte lassen Sie die Spülmaschine vor dem Check-out ein letztes Mal laufen und räumen Sie sie aus."
+            "de": "Bitte lassen Sie die Spülmaschine vor dem Check-out ein letztes Mal laufen und räumen Sie sie aus.",
+            "zh": "退房前请再运行一次洗碗机并清空。",
+            "ko": "체크아웃 전에는 식기세척기를 한 번 더 돌려 비워 주세요.",
+            "ja": "チェックアウト前に食器洗い機を最後に1回運転し、空にしておいてください。"
           }
         ]
       }
@@ -269,7 +365,10 @@
         "en": "Coffee Machine",
         "nl": "Koffiemachine",
         "fr": "Machine à café",
-        "de": "Kaffeemaschine"
+        "de": "Kaffeemaschine",
+        "zh": "咖啡机",
+        "ko": "커피 머신",
+        "ja": "コーヒーマシン"
       },
       "icon": "coffee",
       "instructions": {
@@ -278,19 +377,28 @@
             "en": "Check the water tank is filled with fresh water before brewing.",
             "nl": "Controleer of het waterreservoir gevuld is met vers water voor je koffie zet.",
             "fr": "Vérifiez que le réservoir est rempli d'eau fraîche avant de préparer le café.",
-            "de": "Prüfen Sie vor dem Brühen, ob der Wassertank mit frischem Wasser gefüllt ist."
+            "de": "Prüfen Sie vor dem Brühen, ob der Wassertank mit frischem Wasser gefüllt ist.",
+            "zh": "冲煮前请检查水箱是否加满清水。",
+            "ko": "커피 내리기 전에 물탱크에 깨끗한 물이 채워져 있는지 확인하세요.",
+            "ja": "抽出する前に給水タンクに新しい水が入っていることを確認してください。"
           },
           {
             "en": "Coffee for the machine is provided in the kitchen — help yourself.",
             "nl": "Koffie voor de machine ligt klaar in de keuken — bedien jezelf.",
             "fr": "Le café pour la machine est fourni dans la cuisine — servez-vous.",
-            "de": "Kaffee für die Maschine steht in der Küche bereit — bedienen Sie sich."
+            "de": "Kaffee für die Maschine steht in der Küche bereit — bedienen Sie sich.",
+            "zh": "厨房有供咖啡机使用的咖啡——请随意取用。",
+            "ko": "커피는 주방에 준비되어 있으니 자유롭게 이용하세요.",
+            "ja": "マシン用のコーヒーはキッチンに用意してあります。ご自由にお使いください。"
           },
           {
             "en": "Empty the drip tray and grounds container if the machine asks for it, and leave it clean at checkout.",
             "nl": "Leeg het lekbakje en het koffiediklaatje als de machine erom vraagt, en laat ze proper achter bij het uitchecken.",
             "fr": "Videz le bac d'égouttement et le collecteur de marc si la machine le demande, et laissez-la propre au départ.",
-            "de": "Leeren Sie Tropfschale und Tresterbehälter, wenn die Maschine es anzeigt, und hinterlassen Sie sie beim Check-out sauber."
+            "de": "Leeren Sie Tropfschale und Tresterbehälter, wenn die Maschine es anzeigt, und hinterlassen Sie sie beim Check-out sauber.",
+            "zh": "若机器提示，请清空滴水盘和咖啡渣盒，退房时请保持咖啡机清洁。",
+            "ko": "머신이 요청하면 드립 트레이와 찌꺼기 통을 비우고, 체크아웃 시에는 깨끗이 정리해 주세요.",
+            "ja": "マシンがドリップトレイや出がらし容器を空にするよう指示したら、空にしておき、チェックアウト時には清潔な状態で元に戻してください。"
           }
         ]
       }
@@ -302,7 +410,10 @@
         "en": "Projector",
         "nl": "Projector",
         "fr": "Projecteur",
-        "de": "Projektor"
+        "de": "Projektor",
+        "zh": "投影仪",
+        "ko": "프로젝터",
+        "ja": "プロジェクター"
       },
       "icon": "projector",
       "instructions": {
@@ -311,19 +422,28 @@
             "en": "Turn on the projector with its remote and give it a moment to warm up.",
             "nl": "Zet de projector aan met de afstandsbediening en geef hem even tijd om op te warmen.",
             "fr": "Allumez le projecteur avec sa télécommande et laissez-lui un instant pour chauffer.",
-            "de": "Schalten Sie den Projektor mit der Fernbedienung ein und geben Sie ihm einen Moment zum Aufwärmen."
+            "de": "Schalten Sie den Projektor mit der Fernbedienung ein und geben Sie ihm einen Moment zum Aufwärmen.",
+            "zh": "使用遥控器开启投影仪，开机后请稍等片刻让其暖机。",
+            "ko": "리모컨으로 프로젝터를 켜고 잠시 예열 시간을 주세요.",
+            "ja": "リモコンでプロジェクターの電源を入れ、立ち上がるまで少しお待ちください。"
           },
           {
             "en": "Pick the input matching your source — streaming stick, laptop over HDMI, or casting from your phone.",
             "nl": "Kies de ingang die bij je bron past — streamingstick, laptop via HDMI of casten vanaf je telefoon.",
             "fr": "Choisissez l'entrée correspondant à votre source — clé de streaming, ordinateur en HDMI ou diffusion depuis votre téléphone.",
-            "de": "Wählen Sie den Eingang passend zur Quelle — Streaming-Stick, Laptop über HDMI oder Übertragung vom Handy."
+            "de": "Wählen Sie den Eingang passend zur Quelle — Streaming-Stick, Laptop über HDMI oder Übertragung vom Handy.",
+            "zh": "选择与信号源匹配的输入 — 流媒体棒、通过 HDMI 连接的笔记本，或手机投屏。",
+            "ko": "스트리밍 스틱, HDMI로 연결된 노트북, 또는 휴대폰 캐스트 등 사용 중인 기기에 맞는 입력을 선택하세요.",
+            "ja": "ストリーミングスティック、HDMI接続のノートパソコン、スマホからのキャストなど、ご使用の入力に合わせて入力切替をしてください。"
           },
           {
             "en": "Power it off after your film night — projector lamps don't like running unattended.",
             "nl": "Zet hem uit na je filmavond — projectorlampen houden er niet van om onbewaakt te blijven draaien.",
             "fr": "Éteignez-le après votre soirée cinéma — les lampes de projecteur n'aiment pas tourner sans surveillance.",
-            "de": "Schalten Sie ihn nach dem Filmabend aus — Projektorlampen mögen keinen unbeaufsichtigten Dauerbetrieb."
+            "de": "Schalten Sie ihn nach dem Filmabend aus — Projektorlampen mögen keinen unbeaufsichtigten Dauerbetrieb.",
+            "zh": "观影结束请关闭电源 — 投影灯不宜长时间无人看管运行。",
+            "ko": "영화 관람 후에는 프로젝터 전원을 꺼 주세요 — 프로젝터 램프는 무인 상태로 계속 켜두면 좋지 않습니다.",
+            "ja": "映画鑑賞の後は電源を切ってください。プロジェクターのランプは無人で長時間点灯するのを好みません。"
           }
         ]
       }
@@ -335,7 +455,10 @@
         "en": "Hot Tub",
         "nl": "Hottub",
         "fr": "Jacuzzi",
-        "de": "Whirlpool"
+        "de": "Whirlpool",
+        "zh": "热水浴缸",
+        "ko": "온수 욕조",
+        "ja": "ホットタブ"
       },
       "icon": "bath",
       "instructions": {
@@ -344,19 +467,28 @@
             "en": "Shower before entering and keep the tub free of soap, oils and drinks glasses.",
             "nl": "Douche voor je erin gaat en houd de hottub vrij van zeep, oliën en drinkglazen.",
             "fr": "Douchez-vous avant d'entrer et gardez le bain libre de savon, d'huiles et de verres.",
-            "de": "Duschen Sie vor dem Einstieg und halten Sie den Whirlpool frei von Seife, Ölen und Trinkgläsern."
+            "de": "Duschen Sie vor dem Einstieg und halten Sie den Whirlpool frei von Seife, Ölen und Trinkgläsern.",
+            "zh": "入池前请先淋浴，保持池水无肥皂、油脂和饮料杯等杂物。",
+            "ko": "입수 전에는 샤워를 하고, 비누·오일·음료 컵 등은 온수 욕조에 넣지 마세요.",
+            "ja": "入る前にシャワーを浴び、石鹸・オイル・飲み物のグラスはタブに入れないでください。"
           },
           {
             "en": "Replace the cover after every use — it keeps the water warm and the leaves out.",
             "nl": "Leg het deksel na elk gebruik terug — zo blijft het water warm en blijven bladeren eruit.",
             "fr": "Remettez la couverture après chaque utilisation — elle garde l'eau chaude et les feuilles dehors.",
-            "de": "Legen Sie die Abdeckung nach jeder Nutzung wieder auf — sie hält das Wasser warm und Laub fern."
+            "de": "Legen Sie die Abdeckung nach jeder Nutzung wieder auf — sie hält das Wasser warm und Laub fern.",
+            "zh": "每次使用后请盖好盖子 —— 它能保温并防止落叶进入。",
+            "ko": "사용 후에는 항상 커버를 다시 씌워 주세요 — 물을 따뜻하게 유지하고 낙엽 등을 막아줍니다.",
+            "ja": "使用後は必ずカバーを元に戻してください。水を温かく保ち、葉などの侵入を防ぎます。"
           },
           {
             "en": "Children only under constant adult supervision; specific temperature and timing rules will be confirmed by the host.",
             "nl": "Kinderen enkel onder voortdurend toezicht van een volwassene; specifieke temperatuur- en gebruiksregels worden nog bevestigd door de gastheer.",
             "fr": "Enfants uniquement sous la surveillance constante d'un adulte ; les règles précises de température et d'horaires seront confirmées par l'hôte.",
-            "de": "Kinder nur unter ständiger Aufsicht Erwachsener; genaue Temperatur- und Nutzungsregeln werden noch vom Gastgeber bestätigt."
+            "de": "Kinder nur unter ständiger Aufsicht Erwachsener; genaue Temperatur- und Nutzungsregeln werden noch vom Gastgeber bestätigt.",
+            "zh": "儿童须始终由成人全程看护；具体的温度与时长规则由房东确认。",
+            "ko": "어린이는 항상 성인의 지속적인 감독 아래에만 허용됩니다; 구체적인 온도 및 시간 규정은 호스트가 확인해 드립니다.",
+            "ja": "お子さまは必ず大人が常に付き添ってください。具体的な温度や使用時間のルールはホストが確認してお知らせします。"
           }
         ]
       },
@@ -365,7 +497,10 @@
           "en": "Please shower before use and keep the cover on when not in use.",
           "nl": "Douche voor gebruik en houd het deksel erop wanneer niet in gebruik.",
           "fr": "Merci de vous doucher avant utilisation et de remettre la couverture après usage.",
-          "de": "Bitte vor der Nutzung duschen und die Abdeckung bei Nichtgebrauch geschlossen halten."
+          "de": "Bitte vor der Nutzung duschen und die Abdeckung bei Nichtgebrauch geschlossen halten.",
+          "zh": "使用前请淋浴，闲置时请盖上盖子。",
+          "ko": "사용 전에 꼭 샤워해 주시고, 사용하지 않을 때는 덮개를 닫아 주세요.",
+          "ja": "ご利用前にシャワーを浴び、使用していないときはカバーをかけてください。"
         }
       ]
     },
@@ -376,7 +511,10 @@
         "en": "BBQ",
         "nl": "BBQ",
         "fr": "Barbecue",
-        "de": "Grill"
+        "de": "Grill",
+        "zh": "烧烤",
+        "ko": "바비큐",
+        "ja": "バーベキュー（BBQ）"
       },
       "icon": "beef",
       "instructions": {
@@ -385,19 +523,28 @@
             "en": "Set the barbecue on a stable spot away from the facade and overhanging branches before lighting.",
             "nl": "Zet de barbecue op een stabiele plek, weg van de gevel en overhangende takken, voor je hem aansteekt.",
             "fr": "Installez le barbecue sur un emplacement stable, loin de la façade et des branches, avant de l'allumer.",
-            "de": "Stellen Sie den Grill vor dem Anzünden an einen stabilen Platz, weg von Fassade und überhängenden Ästen."
+            "de": "Stellen Sie den Grill vor dem Anzünden an einen stabilen Platz, weg von Fassade und überhängenden Ästen.",
+            "zh": "点火前请将烧烤架放在稳固的地方，远离建筑立面和上方悬垂的树枝。",
+            "ko": "불을 붙이기 전에 바비큐 그릴을 벽면이나 처진 가지에서 떨어진 안정된 장소에 놓아 주세요.",
+            "ja": "点火する前に、外壁や垂れ下がった枝から離れた安定した場所にバーベキューを設置してください。"
           },
           {
             "en": "Never use spirit or petrol to light it; use firelighters and let coals grey over before grilling.",
             "nl": "Gebruik nooit spiritus of benzine om aan te steken; gebruik aanmaakblokjes en laat de kolen grijs worden voor je grilt.",
             "fr": "N'utilisez jamais d'alcool ou d'essence pour l'allumage ; utilisez des allume-feux et attendez que les braises blanchissent.",
-            "de": "Niemals Spiritus oder Benzin zum Anzünden verwenden; Anzünder benutzen und die Kohlen grau werden lassen."
+            "de": "Niemals Spiritus oder Benzin zum Anzünden verwenden; Anzünder benutzen und die Kohlen grau werden lassen.",
+            "zh": "切勿使用酒精或汽油点燃；请使用助燃块，待炭火表面发灰后再开始烤制。",
+            "ko": "휘발유나 가솔린 같은 인화성 연료는 절대 사용하지 마시고, 착화제(파이어라이터)를 사용한 뒤 숯이 은회색으로 변할 때까지 기다리세요.",
+            "ja": "火付けにスピリットやガソリンを絶対に使用しないでください。着火剤を使い、炭が白くなるまで待ってから焼いてください。"
           },
           {
             "en": "Let ashes cool completely before disposal, and leave the grill clean for the next guests.",
             "nl": "Laat de as volledig afkoelen voor je ze weggooit en laat de grill proper achter voor de volgende gasten.",
             "fr": "Laissez les cendres refroidir complètement avant de les jeter et laissez la grille propre pour les invités suivants.",
-            "de": "Lassen Sie die Asche vollständig abkühlen, bevor Sie sie entsorgen, und hinterlassen Sie den Grill sauber."
+            "de": "Lassen Sie die Asche vollständig abkühlen, bevor Sie sie entsorgen, und hinterlassen Sie den Grill sauber.",
+            "zh": "灰烬完全冷却后再处理，请将烤架清洁好留给下一位客人。",
+            "ko": "재는 완전히 식힌 후 버리시고, 다음 손님을 위해 그릴을 깨끗이 정리해 주세요.",
+            "ja": "灰は完全に冷えるまで待ってから処分し、次のゲストのためにグリルをきれいにしておいてください。"
           }
         ]
       }
@@ -409,7 +556,10 @@
         "en": "EV Charging",
         "nl": "EV-laadpunt",
         "fr": "Borne de recharge",
-        "de": "E-Ladestation"
+        "de": "E-Ladestation",
+        "zh": "电动车充电",
+        "ko": "전기차 충전",
+        "ja": "EV充電"
       },
       "icon": "plug-zap",
       "instructions": {
@@ -418,19 +568,28 @@
             "en": "Park within cable reach of the charging point and connect your own Type 2 cable if required.",
             "nl": "Parkeer binnen kabelbereik van het laadpunt en sluit indien nodig je eigen type 2-kabel aan.",
             "fr": "Garez-vous à portée de câble de la borne et branchez votre propre câble type 2 si nécessaire.",
-            "de": "Parken Sie in Kabelreichweite der Ladestation und schließen Sie bei Bedarf Ihr eigenes Typ-2-Kabel an."
+            "de": "Parken Sie in Kabelreichweite der Ladestation und schließen Sie bei Bedarf Ihr eigenes Typ-2-Kabel an.",
+            "zh": "请将车停放在充电点电缆可触及的范围内，若需要请连接您自己的 Type 2 充电线。",
+            "ko": "충전 포인트와 케이블 길이가 닿는 범위 내에 주차해 주세요. 필요 시 본인 소유의 Type 2 케이블을 연결해 주십시오.",
+            "ja": "充電ポイントからケーブルが届く位置に駐車し、必要であればご自身のType 2ケーブルを接続してください。"
           },
           {
             "en": "Charging starts automatically once connected; check your car's app or dashboard to confirm.",
             "nl": "Het laden start automatisch na het aansluiten; controleer de app of het dashboard van je auto ter bevestiging.",
             "fr": "La charge démarre automatiquement une fois branché ; vérifiez l'application ou le tableau de bord de votre voiture.",
-            "de": "Das Laden startet automatisch nach dem Anschließen; prüfen Sie zur Bestätigung App oder Anzeige Ihres Autos."
+            "de": "Das Laden startet automatisch nach dem Anschließen; prüfen Sie zur Bestätigung App oder Anzeige Ihres Autos.",
+            "zh": "连接后充电会自动开始；请通过您车辆的应用或仪表盘确认。",
+            "ko": "연결되면 충전이 자동으로 시작됩니다; 차량 앱이나 계기판에서 충전 상태를 확인하세요.",
+            "ja": "接続されると充電は自動で開始します。ご自身の車のアプリやダッシュボードで確認してください。"
           },
           {
             "en": "Availability and any charging costs will be confirmed by the host — please ask before your stay.",
             "nl": "Beschikbaarheid en eventuele laadkosten worden nog bevestigd door de gastheer — vraag het na voor je verblijf.",
             "fr": "La disponibilité et les éventuels frais de charge seront confirmés par l'hôte — renseignez-vous avant votre séjour.",
-            "de": "Verfügbarkeit und etwaige Ladekosten werden noch vom Gastgeber bestätigt — bitte vor dem Aufenthalt erfragen."
+            "de": "Verfügbarkeit und etwaige Ladekosten werden noch vom Gastgeber bestätigt — bitte vor dem Aufenthalt erfragen.",
+            "zh": "充电的可用性及收费情况由房东确认——请在入住前咨询。",
+            "ko": "충전 가능 여부와 요금은 호스트가 확인해 드립니다 — 숙박 전에 문의해 주세요.",
+            "ja": "利用可能性や充電料金についてはホストが確認してお知らせします — ご滞在前にご確認ください。"
           }
         ]
       }
@@ -442,7 +601,10 @@
         "en": "Washing Machine",
         "nl": "Wasmachine",
         "fr": "Lave-linge",
-        "de": "Waschmaschine"
+        "de": "Waschmaschine",
+        "zh": "洗衣机",
+        "ko": "세탁기",
+        "ja": "洗濯機"
       },
       "icon": "shirt",
       "instructions": {
@@ -451,19 +613,28 @@
             "en": "Detergent is in the utility area — dose modestly and use the drawer's main compartment.",
             "nl": "Wasmiddel vind je in de bergruimte — doseer bescheiden en gebruik het hoofdvak van de lade.",
             "fr": "La lessive se trouve dans la buanderie — dosez modérément et utilisez le compartiment principal du tiroir.",
-            "de": "Waschmittel finden Sie im Hauswirtschaftsbereich — sparsam dosieren und das Hauptfach der Schublade verwenden."
+            "de": "Waschmittel finden Sie im Hauswirtschaftsbereich — sparsam dosieren und das Hauptfach der Schublade verwenden.",
+            "zh": "洗涤剂放在多功能间——请适量使用，并倒入抽屉的主槽。",
+            "ko": "세제는 유틸리티 공간에 비치되어 있습니다 — 적당량만 사용하시고, 세제 서랍의 주칸을 이용해 주세요.",
+            "ja": "洗剤はユーティリティエリアにあります — 適量を、引き出しのメインコンパートメントに入れてください。"
           },
           {
             "en": "A 30–40 °C programme covers most laundry; empty pockets and close zips first.",
             "nl": "Een programma van 30–40 °C volstaat voor de meeste was; maak eerst zakken leeg en sluit ritsen.",
             "fr": "Un programme à 30–40 °C convient à la plupart du linge ; videz les poches et fermez les fermetures éclair.",
-            "de": "Ein 30–40-°C-Programm genügt für die meiste Wäsche; vorher Taschen leeren und Reißverschlüsse schließen."
+            "de": "Ein 30–40-°C-Programm genügt für die meiste Wäsche; vorher Taschen leeren und Reißverschlüsse schließen.",
+            "zh": "30–40 °C 的程序适用于大多数衣物；洗前请清空口袋并拉好拉链。",
+            "ko": "30~40°C 프로그램이면 대부분의 빨래에 적합합니다; 사용 전 주머니를 비우고 지퍼를 잠가 주세요.",
+            "ja": "30〜40 °C のプログラムでほとんどの洗濯物に対応できます。ポケットは空にし、ファスナーは閉めてください。"
           },
           {
             "en": "Leave the door ajar after use so the drum can dry.",
             "nl": "Laat de deur op een kier na gebruik zodat de trommel kan drogen.",
             "fr": "Laissez la porte entrouverte après usage pour que le tambour sèche.",
-            "de": "Lassen Sie die Tür nach Gebrauch einen Spalt offen, damit die Trommel trocknen kann."
+            "de": "Lassen Sie die Tür nach Gebrauch einen Spalt offen, damit die Trommel trocknen kann.",
+            "zh": "使用后请将门留一条缝以便滚筒晾干。",
+            "ko": "사용 후 세탁기 문을 약간 열어 두어 내부 통이 마를 수 있도록 해 주세요.",
+            "ja": "使用後はドアを少し開けておき、ドラムを乾かしてください。"
           }
         ]
       }
@@ -475,7 +646,10 @@
         "en": "Alarm System",
         "nl": "Alarmsysteem",
         "fr": "Système d'alarme",
-        "de": "Alarmanlage"
+        "de": "Alarmanlage",
+        "zh": "报警系统",
+        "ko": "알람 시스템",
+        "ja": "アラームシステム"
       },
       "icon": "shield-alert",
       "instructions": {
@@ -484,13 +658,19 @@
             "en": "If the house uses an alarm, the host will walk you through arming and disarming at check-in.",
             "nl": "Als het huis een alarm gebruikt, overloopt de gastheer het in- en uitschakelen bij het inchecken.",
             "fr": "Si la maison est équipée d'une alarme, l'hôte vous montrera l'activation et la désactivation à l'arrivée.",
-            "de": "Falls das Haus eine Alarmanlage nutzt, erklärt der Gastgeber beim Check-in das Scharf- und Unscharfschalten."
+            "de": "Falls das Haus eine Alarmanlage nutzt, erklärt der Gastgeber beim Check-in das Scharf- und Unscharfschalten.",
+            "zh": "若房屋配有报警系统，房东将在入住时向您演示设防与撤防。",
+            "ko": "집에 알람이 설치되어 있는 경우, 체크인 시 호스트가 설정 및 해제 방법을 안내해 드립니다.",
+            "ja": "家にアラームがある場合、チェックイン時にホストがセット方法（警戒／解除）をご案内します。"
           },
           {
             "en": "If the alarm sounds unexpectedly, call the host right away — the number is on the Help page.",
             "nl": "Gaat het alarm onverwacht af, bel dan meteen de gastheer — het nummer staat op de Hulp-pagina.",
             "fr": "Si l'alarme se déclenche de façon inattendue, appelez l'hôte immédiatement — le numéro figure sur la page Aide.",
-            "de": "Ertönt der Alarm unerwartet, rufen Sie sofort den Gastgeber an — die Nummer steht auf der Hilfe-Seite."
+            "de": "Ertönt der Alarm unerwartet, rufen Sie sofort den Gastgeber an — die Nummer steht auf der Hilfe-Seite.",
+            "zh": "若报警意外触发，请立即联系房东——电话号码见帮助页面。",
+            "ko": "알람이 예기치 않게 울리면 즉시 호스트에게 연락하세요 — 전화번호는 도움말 페이지에 있습니다.",
+            "ja": "不意にアラームが鳴った場合はすぐにホストに電話してください — 番号はヘルプページに記載されています。"
           }
         ]
       }

@@ -7,13 +7,19 @@
         "en": "What is the Wi-Fi password?",
         "nl": "Wat is het wifi-wachtwoord?",
         "fr": "Quel est le mot de passe Wi-Fi ?",
-        "de": "Wie lautet das WLAN-Passwort?"
+        "de": "Wie lautet das WLAN-Passwort?",
+        "zh": "Wi-Fi 密码是什么？",
+        "ko": "Wi‑Fi 비밀번호가 무엇인가요?",
+        "ja": "Wi‑Fiのパスワードは何ですか？"
       },
       "answer": {
         "en": "Connect to the network \"Schuur80\" with the password \"Schuur80\". Wi-Fi covers the whole barn.",
         "nl": "Verbind met het netwerk \"Schuur80\" met het wachtwoord \"Schuur80\". Wifi dekt de hele schuur.",
         "fr": "Connectez-vous au réseau \"Schuur80\" avec le mot de passe \"Schuur80\". Le Wi-Fi couvre toute la grange.",
-        "de": "Verbinden Sie sich mit dem Netzwerk \"Schuur80\" mit dem Passwort \"Schuur80\". WLAN deckt die ganze Scheune ab."
+        "de": "Verbinden Sie sich mit dem Netzwerk \"Schuur80\" mit dem Passwort \"Schuur80\". WLAN deckt die ganze Scheune ab.",
+        "zh": "连接到网络 \"Schuur80\"，密码为 \"Schuur80\"。Wi-Fi 覆盖整个谷仓。",
+        "ko": "네트워크 \"Schuur80\"에 비밀번호 \"Schuur80\"으로 연결하세요. Wi‑Fi는 헛간 전체를 커버합니다.",
+        "ja": "ネットワーク \"Schuur80\" にパスワード \"Schuur80\" で接続してください。Wi-Fiは納屋全体をカバーしています。"
       }
     },
     {
@@ -23,13 +29,19 @@
         "en": "What time can we check in?",
         "nl": "Vanaf wanneer kunnen we inchecken?",
         "fr": "À quelle heure peut-on arriver ?",
-        "de": "Ab wann können wir einchecken?"
+        "de": "Ab wann können wir einchecken?",
+        "zh": "我们什么时候可以入住？",
+        "ko": "체크인은 몇 시부터 가능한가요?",
+        "ja": "何時からチェックインできますか？"
       },
       "answer": {
         "en": "Check-in is from 3:00 PM (15:00). Arriving later in the evening is fine — just let the host know.",
         "nl": "Inchecken kan vanaf 15u00. Later op de avond aankomen is geen probleem — verwittig gewoon even de gastvrouw.",
         "fr": "L'arrivée est possible à partir de 15 h. Arriver plus tard dans la soirée ne pose aucun problème — prévenez simplement l'hôte.",
-        "de": "Der Check-in ist ab 15:00 Uhr möglich. Eine spätere Ankunft am Abend ist kein Problem — informieren Sie einfach kurz die Gastgeberin."
+        "de": "Der Check-in ist ab 15:00 Uhr möglich. Eine spätere Ankunft am Abend ist kein Problem — informieren Sie einfach kurz die Gastgeberin.",
+        "zh": "入住时间从3:00 PM (15:00)开始。晚些时候抵达也可以——只需告知房东一声。",
+        "ko": "체크인은 3:00 PM (15:00)부터입니다. 저녁에 늦게 도착하셔도 괜찮지만, 호스트에게 알려 주세요.",
+        "ja": "チェックインは3:00 PM (15:00)からです。夜遅く到着される場合も問題ありません — ホストに一言お知らせください。"
       }
     },
     {
@@ -39,13 +51,19 @@
         "en": "What time is checkout?",
         "nl": "Hoe laat is het uitchecken?",
         "fr": "À quelle heure est le départ ?",
-        "de": "Wann ist der Check-out?"
+        "de": "Wann ist der Check-out?",
+        "zh": "退房时间是几点？",
+        "ko": "체크아웃은 몇 시인가요?",
+        "ja": "チェックアウトは何時ですか？"
       },
       "answer": {
         "en": "Checkout is by 12:00 noon on your day of departure.",
         "nl": "Uitchecken doe je uiterlijk om 12u00 's middags op de dag van vertrek.",
         "fr": "Le départ se fait au plus tard à midi le jour de votre départ.",
-        "de": "Der Check-out ist bis 12:00 Uhr mittags am Abreisetag."
+        "de": "Der Check-out ist bis 12:00 Uhr mittags am Abreisetag.",
+        "zh": "退房时间为您离开的当天12:00（中午）。",
+        "ko": "체크아웃은 출발 당일 12:00 noon까지입니다.",
+        "ja": "チェックアウトはご出発日の12:00 noonまでです。"
       }
     },
     {
@@ -55,13 +73,19 @@
         "en": "How many guests can stay?",
         "nl": "Hoeveel gasten kunnen er verblijven?",
         "fr": "Combien de personnes peuvent séjourner ?",
-        "de": "Wie viele Gäste können übernachten?"
+        "de": "Wie viele Gäste können übernachten?",
+        "zh": "最多可住多少位客人？",
+        "ko": "몇 명이 머물 수 있나요?",
+        "ja": "何名まで宿泊できますか？"
       },
       "answer": {
         "en": "Schuur 80 sleeps around twelve guests across four bedrooms, with three bathrooms.",
         "nl": "Schuur 80 slaapt ongeveer twaalf gasten verdeeld over vier slaapkamers, met drie badkamers.",
         "fr": "Schuur 80 accueille environ douze personnes dans quatre chambres, avec trois salles de bain.",
-        "de": "Schuur 80 bietet Platz für rund zwölf Gäste in vier Schlafzimmern mit drei Badezimmern."
+        "de": "Schuur 80 bietet Platz für rund zwölf Gäste in vier Schlafzimmern mit drei Badezimmern.",
+        "zh": "Schuur 80 可容纳约十二位客人，分布在四间卧室内，拥有三间浴室。",
+        "ko": "Schuur 80은 네 개의 침실과 세 개의 욕실로 구성되어 있으며, 대략 twelve명의 게스트가 머물 수 있습니다.",
+        "ja": "Schuur 80はおよそ12名まで、寝室4室、バスルーム3室を備えています。"
       }
     },
     {
@@ -71,13 +95,19 @@
         "en": "Can I charge my electric car?",
         "nl": "Kan ik mijn elektrische auto opladen?",
         "fr": "Puis-je recharger ma voiture électrique ?",
-        "de": "Kann ich mein Elektroauto laden?"
+        "de": "Kann ich mein Elektroauto laden?",
+        "zh": "可以给电动车充电吗？",
+        "ko": "전기차를 충전할 수 있나요?",
+        "ja": "電気自動車を充電できますか？"
       },
       "answer": {
         "en": "Yes — EV charging is available on the property. Charger type, tariff and instructions will be confirmed by the host.",
         "nl": "Ja — er is een EV-laadpunt op het domein. Type lader, tarief en instructies worden nog bevestigd door de gastheer.",
         "fr": "Oui — une borne de recharge est disponible sur place. Le type, le tarif et les instructions seront confirmés par l'hôte.",
-        "de": "Ja — auf dem Grundstück gibt es eine E-Ladestation. Ladetyp, Tarif und Anleitung werden noch vom Gastgeber bestätigt."
+        "de": "Ja — auf dem Grundstück gibt es eine E-Ladestation. Ladetyp, Tarif und Anleitung werden noch vom Gastgeber bestätigt.",
+        "zh": "可以 — 物业内提供电动车充电。充电桩类型、费用与使用说明由房东确认。",
+        "ko": "네 — 숙소에 전기차 충전 시설이 있습니다. 충전기 종류, 요금 및 사용법은 호스트가 확인해 알려드립니다.",
+        "ja": "はい — 敷地内でEVの充電が利用できます。充電器の種類、料金、利用方法はホストが確認してお知らせします。"
       }
     },
     {
@@ -87,7 +117,10 @@
         "en": "How do I use the hot tub?",
         "nl": "Hoe gebruik ik de hottub?",
         "fr": "Comment utiliser le jacuzzi ?",
-        "de": "Wie benutze ich den Whirlpool?"
+        "de": "Wie benutze ich den Whirlpool?",
+        "zh": "如何使用热水浴缸？",
+        "ko": "온수 욕조는 어떻게 사용하나요?",
+        "ja": "ホットタブの使い方を教えてください。"
       },
       "answer": {
         "pending": true
@@ -100,13 +133,19 @@
         "en": "Are the cats allowed inside?",
         "nl": "Mogen de katten binnen?",
         "fr": "Les chats peuvent-ils entrer ?",
-        "de": "Dürfen die Katzen ins Haus?"
+        "de": "Dürfen die Katzen ins Haus?",
+        "zh": "猫可以进屋吗？",
+        "ko": "고양이는 실내에 들어와도 되나요?",
+        "ja": "猫は屋内に入れますか？"
       },
       "answer": {
         "en": "House access rules for the cats will be confirmed by the host. Until then, please keep them out of the bedrooms and cinema room.",
         "nl": "De toegangsregels voor de katten worden nog bevestigd door de gastheer. Houd hen tot dan uit de slaapkamers en cinemakamer.",
         "fr": "Les règles d'accès pour les chats seront confirmées par l'hôte. En attendant, merci de les tenir hors des chambres et de la salle de cinéma.",
-        "de": "Die Zugangsregeln für die Katzen werden noch vom Gastgeber bestätigt. Bitte bis dahin nicht in Schlafzimmer und Kinoraum lassen."
+        "de": "Die Zugangsregeln für die Katzen werden noch vom Gastgeber bestätigt. Bitte bis dahin nicht in Schlafzimmer und Kinoraum lassen.",
+        "zh": "猫咪的入屋规则由房东确认。在此之前，请勿让它们进入卧室和影院。",
+        "ko": "고양이의 출입 규칙은 호스트가 알려드립니다. 그때까지는 침실과 시네마 룸에는 고양이를 들이지 않도록 해 주세요.",
+        "ja": "猫の出入りに関するルールはホストが確認してお知らせします。それまでは寝室とシネマルームには入れないようにしてください。"
       }
     },
     {
@@ -116,13 +155,19 @@
         "en": "Is smoking allowed?",
         "nl": "Mag er gerookt worden?",
         "fr": "Peut-on fumer ?",
-        "de": "Darf man rauchen?"
+        "de": "Darf man rauchen?",
+        "zh": "允许吸烟吗？",
+        "ko": "흡연이 허용되나요?",
+        "ja": "喫煙は許可されていますか？"
       },
       "answer": {
         "en": "Smoking is not allowed inside the barn. The host will confirm whether a designated outdoor spot exists.",
         "nl": "Roken is niet toegestaan binnen in de schuur. De gastheer bevestigt nog of er een aangeduide buitenplek is.",
         "fr": "Il est interdit de fumer à l'intérieur de la grange. L'hôte confirmera s'il existe un espace extérieur dédié.",
-        "de": "In der Scheune ist Rauchen nicht erlaubt. Der Gastgeber bestätigt noch, ob es einen Außenbereich dafür gibt."
+        "de": "In der Scheune ist Rauchen nicht erlaubt. Der Gastgeber bestätigt noch, ob es einen Außenbereich dafür gibt.",
+        "zh": "谷仓内禁止吸烟。房东会确认是否有指定的户外吸烟区。",
+        "ko": "헛간 내부에서는 흡연이 금지되어 있습니다. 야외에 지정된 흡연 장소가 있는지 여부는 호스트가 확인해 알려드립니다.",
+        "ja": "納屋の内部での喫煙は許可されていません。屋外に指定の喫煙場所があるかどうかはホストが確認します。"
       }
     },
     {
@@ -132,13 +177,19 @@
         "en": "Where is the nearest supermarket?",
         "nl": "Waar is de dichtstbijzijnde supermarkt?",
         "fr": "Où est le supermarché le plus proche ?",
-        "de": "Wo ist der nächste Supermarkt?"
+        "de": "Wo ist der nächste Supermarkt?",
+        "zh": "最近的超市在哪里？",
+        "ko": "가장 가까운 슈퍼마켓은 어디에 있나요?",
+        "ja": "最寄りのスーパーマーケットはどこですか？"
       },
       "answer": {
         "en": "There are supermarkets in Haasdonk and nearby Beveren, a few minutes away by car. The host's favourite local shops will be added to the Guide.",
         "nl": "Er zijn supermarkten in Haasdonk en het nabijgelegen Beveren, op enkele minuten met de auto. De favoriete winkels van de gastheer worden toegevoegd aan de Gids.",
         "fr": "Il y a des supermarchés à Haasdonk et à Beveren, à quelques minutes en voiture. Les adresses préférées de l'hôte seront ajoutées au Guide.",
-        "de": "Es gibt Supermärkte in Haasdonk und im nahen Beveren, wenige Autominuten entfernt. Die Lieblingsläden des Gastgebers werden im Guide ergänzt."
+        "de": "Es gibt Supermärkte in Haasdonk und im nahen Beveren, wenige Autominuten entfernt. Die Lieblingsläden des Gastgebers werden im Guide ergänzt.",
+        "zh": "Haasdonk 和附近的 Beveren 都有超市，开车几分钟可到。房东喜欢的本地商店会列在指南中。",
+        "ko": "Haasdonk와 인근 Beveren에 슈퍼마켓이 있으며, 차로 몇 분 거리입니다. 호스트가 추천하는 동네 상점들은 가이드에 추가될 예정입니다.",
+        "ja": "Haasdonkと近隣のBeverenにスーパーマーケットがあり、車で数分です。ホストのお気に入りの地元のお店はガイドに追加されます。"
       }
     },
     {
@@ -148,13 +199,19 @@
         "en": "What do I do in an emergency?",
         "nl": "Wat doe ik bij een noodgeval?",
         "fr": "Que faire en cas d'urgence ?",
-        "de": "Was tue ich im Notfall?"
+        "de": "Was tue ich im Notfall?",
+        "zh": "遇到紧急情况怎么办？",
+        "ko": "긴급 상황에서는 어떻게 해야 하나요?",
+        "ja": "緊急時はどうすればよいですか？"
       },
       "answer": {
         "en": "For life-threatening emergencies in Belgium call 112. For police call 101. The full emergency card, including host contacts, is under Help → Emergency.",
         "nl": "Bel bij levensbedreigende noodgevallen in België 112. Voor politie bel 101. De volledige noodkaart, inclusief contact met de gastheer, vind je onder Hulp → Noodgeval.",
         "fr": "En cas d'urgence vitale en Belgique, appelez le 112. Pour la police, le 101. La carte d'urgence complète, avec les contacts de l'hôte, se trouve sous Aide → Urgence.",
-        "de": "Bei lebensbedrohlichen Notfällen in Belgien wählen Sie 112. Für die Polizei 101. Die vollständige Notfallkarte, inklusive Gastgeberkontakt, finden Sie unter Hilfe → Notfall."
+        "de": "Bei lebensbedrohlichen Notfällen in Belgien wählen Sie 112. Für die Polizei 101. Die vollständige Notfallkarte, inklusive Gastgeberkontakt, finden Sie unter Hilfe → Notfall.",
+        "zh": "在比利时遇有危及生命的紧急情况，请拨打 112。报警请拨 101。完整的紧急信息卡（含房东联系方式）位于“帮助 → 紧急情况”。",
+        "ko": "벨기에에서 생명이 위급한 응급 상황이 발생하면 112로 전화하세요. 경찰은 101입니다. 호스트 연락처를 포함한 전체 비상 카드는 도움말 → 비상(Emergency)에서 확인하실 수 있습니다.",
+        "ja": "ベルギーで生命に関わる緊急事態が発生したら112に電話してください。警察は101です。ホストの連絡先を含む詳細な緊急カードは「ヘルプ → 緊急」にあります。"
       }
     }
   ]

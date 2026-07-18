@@ -7,13 +7,19 @@
         "en": "Arrival & Check-in",
         "nl": "Aankomst & Check-in",
         "fr": "Arrivée & Check-in",
-        "de": "Ankunft & Check-in"
+        "de": "Ankunft & Check-in",
+        "zh": "抵达与入住手续",
+        "ko": "도착 및 체크인",
+        "ja": "到着とチェックインについて"
       },
       "summary": {
         "en": "Directions, parking and how to get inside",
         "nl": "Routebeschrijving, parkeren en hoe je binnenkomt",
         "fr": "Itinéraire, parking et comment entrer",
-        "de": "Anfahrt, Parken und wie Sie hineinkommen"
+        "de": "Anfahrt, Parken und wie Sie hineinkommen",
+        "zh": "路线、停车与入屋方式",
+        "ko": "길찾기, 주차 및 입실 방법",
+        "ja": "道順、駐車場所、入室方法についてのご案内です。"
       },
       "icon": "key-round",
       "mediaId": "arrival",
@@ -23,13 +29,19 @@
             "en": "Getting here",
             "nl": "Hierheen komen",
             "fr": "Venir ici",
-            "de": "Anreise"
+            "de": "Anreise",
+            "zh": "如何到达",
+            "ko": "찾아오시는 길",
+            "ja": "アクセス方法"
           },
           "body": {
             "en": "Schuur 80 is at Perstraat 80, 9120 Haasdonk, Belgium — about 15 minutes from Antwerp and 40 minutes from Ghent by car. Set your navigation to 'Perstraat 80, Haasdonk'.",
             "nl": "Schuur 80 ligt aan Perstraat 80, 9120 Haasdonk, België — zo'n 15 minuten van Antwerpen en 40 minuten van Gent met de auto. Stel je navigatie in op 'Perstraat 80, Haasdonk'.",
             "fr": "Schuur 80 se trouve Perstraat 80, 9120 Haasdonk, Belgique — à environ 15 minutes d'Anvers et 40 minutes de Gand en voiture. Réglez votre GPS sur « Perstraat 80, Haasdonk ».",
-            "de": "Schuur 80 liegt in der Perstraat 80, 9120 Haasdonk, Belgien — etwa 15 Minuten von Antwerpen und 40 Minuten von Gent mit dem Auto. Geben Sie 'Perstraat 80, Haasdonk' ins Navi ein."
+            "de": "Schuur 80 liegt in der Perstraat 80, 9120 Haasdonk, Belgien — etwa 15 Minuten von Antwerpen und 40 Minuten von Gent mit dem Auto. Geben Sie 'Perstraat 80, Haasdonk' ins Navi ein.",
+            "zh": "Schuur 80 位于 Perstraat 80, 9120 Haasdonk, Belgium——开车约距安特卫普 15 分钟，距根特 40 分钟。导航请设置为 'Perstraat 80, Haasdonk'。",
+            "ko": "Schuur 80은 Perstraat 80, 9120 Haasdonk, Belgium에 있습니다 — 차로 앤트워프에서 약 15분, 겐트에서 약 40분 거리입니다. 내비게이션은 'Perstraat 80, Haasdonk'로 설정하세요.",
+            "ja": "Schuur 80はPerstraat 80, 9120 Haasdonk, Belgiumにあります — 車でアントワープ（アントワープ）から約15分、ゲント（ヘント）から約40分です。ナビには「Perstraat 80, Haasdonk」と入力してください。"
           }
         },
         {
@@ -37,13 +49,19 @@
             "en": "Parking",
             "nl": "Parkeren",
             "fr": "Parking",
-            "de": "Parken"
+            "de": "Parken",
+            "zh": "停车",
+            "ko": "주차",
+            "ja": "駐車場について"
           },
           "body": {
             "en": "There is private parking on the property, including EV charging. Exact parking layout and charger instructions will be confirmed by the host.",
             "nl": "Er is privéparking op het domein, inclusief EV-laadpunt. De exacte parkeerindeling en laadinstructies worden nog bevestigd door de gastheer.",
             "fr": "Un parking privé est disponible sur la propriété, avec borne de recharge. Le plan exact du parking et les instructions de recharge seront confirmés par l'hôte.",
-            "de": "Auf dem Grundstück gibt es private Parkplätze inklusive E-Ladestation. Die genaue Parkanordnung und Ladeanweisungen werden noch vom Gastgeber bestätigt."
+            "de": "Auf dem Grundstück gibt es private Parkplätze inklusive E-Ladestation. Die genaue Parkanordnung und Ladeanweisungen werden noch vom Gastgeber bestätigt.",
+            "zh": "院内设有私人停车位，并提供电动车充电。具体的停车布局与充电使用说明由房东确认。",
+            "ko": "부지 내에 전용 주차장이 있으며 전기차 충전 시설도 있습니다. 정확한 주차 배치와 충전기 사용 방법은 호스트가 안내해 드립니다.",
+            "ja": "敷地内に専用駐車場があり、EV充電設備もあります。正確な駐車レイアウトと充電器の使い方はホストがご案内します。"
           }
         },
         {
@@ -51,13 +69,19 @@
             "en": "Check-in",
             "nl": "Inchecken",
             "fr": "Check-in",
-            "de": "Check-in"
+            "de": "Check-in",
+            "zh": "入住",
+            "ko": "체크인",
+            "ja": "チェックイン"
           },
           "body": {
             "en": "Check-in is from 3:00 PM (15:00). If you expect to arrive much later in the evening, send the host a quick message so they know to expect you.",
             "nl": "Inchecken kan vanaf 15u00. Kom je pas later op de avond aan? Stuur de gastvrouw dan even een berichtje zodat ze weet dat je eraan komt.",
             "fr": "L'arrivée est possible à partir de 15 h. Si vous prévoyez d'arriver tard dans la soirée, envoyez un petit message à l'hôte pour la prévenir.",
-            "de": "Der Check-in ist ab 15:00 Uhr möglich. Wenn Sie erst später am Abend ankommen, geben Sie der Gastgeberin bitte kurz Bescheid."
+            "de": "Der Check-in ist ab 15:00 Uhr möglich. Wenn Sie erst später am Abend ankommen, geben Sie der Gastgeberin bitte kurz Bescheid.",
+            "zh": "入住时间从3:00 PM (15:00)开始。如果预计会在晚上很晚抵达，请给房东发个简短消息，让他们知晓并等候您。",
+            "ko": "체크인은 3:00 PM (15:00)부터입니다. 저녁에 훨씬 늦게 도착할 것 같으면, 호스트에게 간단히 메시지를 보내 도착을 알려 주세요.",
+            "ja": "チェックインは3:00 PM (15:00)からです。夜遅く到着される予定がある場合は、到着が遅くなる旨をホストに一言ご連絡ください。"
           }
         },
         {
@@ -65,7 +89,10 @@
             "en": "Alarm & locks",
             "nl": "Alarm & sloten",
             "fr": "Alarme & serrures",
-            "de": "Alarm & Schlösser"
+            "de": "Alarm & Schlösser",
+            "zh": "警报与门锁",
+            "ko": "알람 및 잠금장치",
+            "ja": "アラームと鍵"
           },
           "body": {
             "pending": true
@@ -76,13 +103,19 @@
             "en": "First evening tips",
             "nl": "Tips voor de eerste avond",
             "fr": "Conseils pour le premier soir",
-            "de": "Tipps für den ersten Abend"
+            "de": "Tipps für den ersten Abend",
+            "zh": "首晚提示",
+            "ko": "첫 저녁 팁",
+            "ja": "到着初夜のおすすめ"
           },
           "body": {
             "en": "Once you're in: find the kitchen, put something in the fridge, and take a slow walk through the orchard before dark. The barn reveals itself best at dusk.",
             "nl": "Eenmaal binnen: vind de keuken, zet iets in de koelkast en maak voor het donker een trage wandeling door de boomgaard. De schuur toont zich het mooist in de schemering.",
             "fr": "Une fois entré : repérez la cuisine, mettez quelque chose au frigo et promenez-vous lentement dans le verger avant la nuit. La grange se révèle au crépuscule.",
-            "de": "Sobald Sie drin sind: Küche finden, etwas in den Kühlschrank stellen und vor Einbruch der Dunkelheit langsam durch den Obstgarten spazieren. Die Scheune zeigt sich in der Dämmerung am schönsten."
+            "de": "Sobald Sie drin sind: Küche finden, etwas in den Kühlschrank stellen und vor Einbruch der Dunkelheit langsam durch den Obstgarten spazieren. Die Scheune zeigt sich in der Dämmerung am schönsten.",
+            "zh": "一进门：先找到厨房，往冰箱里放点东西，天黑前在果园里慢慢散步。谷仓在黄昏时分最能显露它的魅力。",
+            "ko": "도착하시면 먼저 주방을 찾아 냉장고에 무엇인가를 넣고, 어둑해지기 전에 과수원을 천천히 산책해 보세요. 헛간은 황혼에 가장 아름답게 모습을 드러냅니다.",
+            "ja": "到着したら、まずキッチンを見つけて何か冷蔵庫に入れ、暗くなる前にゆっくりと果樹園を散歩してください。納屋は夕暮れに最も魅力を見せてくれます。"
           }
         }
       ]
@@ -94,13 +127,19 @@
         "en": "Checkout",
         "nl": "Uitchecken",
         "fr": "Départ",
-        "de": "Check-out"
+        "de": "Check-out",
+        "zh": "退房",
+        "ko": "체크아웃",
+        "ja": "チェックアウト"
       },
       "summary": {
         "en": "A few small things before you go",
         "nl": "Een paar kleine dingen voor je vertrekt",
         "fr": "Quelques petites choses avant de partir",
-        "de": "Ein paar kleine Dinge vor der Abreise"
+        "de": "Ein paar kleine Dinge vor der Abreise",
+        "zh": "离开前的几件小事",
+        "ko": "떠나시기 전 몇 가지 부탁드립니다.",
+        "ja": "お帰り前の小さなお願い"
       },
       "icon": "door-open",
       "steps": [
@@ -109,13 +148,19 @@
             "en": "Checkout time",
             "nl": "Uitchecktijd",
             "fr": "Heure de départ",
-            "de": "Check-out-Zeit"
+            "de": "Check-out-Zeit",
+            "zh": "退房时间",
+            "ko": "체크아웃 시간",
+            "ja": "チェックアウト時間"
           },
           "body": {
             "en": "Checkout is by 12:00 noon. That leaves time for a relaxed last morning — coffee in the garden, one final look for the cats — before handing the barn back.",
             "nl": "Uitchecken doe je uiterlijk om 12u00 's middags. Zo blijft er tijd voor een rustige laatste ochtend — koffie in de tuin, nog één keer katten spotten — voor je de schuur teruggeeft.",
             "fr": "Le départ se fait au plus tard à midi. De quoi profiter d'une dernière matinée tranquille — un café au jardin, un dernier repérage des chats — avant de rendre la grange.",
-            "de": "Der Check-out ist bis 12:00 Uhr mittags. So bleibt Zeit für einen ruhigen letzten Morgen — Kaffee im Garten, ein letzter Blick nach den Katzen — bevor Sie die Scheune zurückgeben."
+            "de": "Der Check-out ist bis 12:00 Uhr mittags. So bleibt Zeit für einen ruhigen letzten Morgen — Kaffee im Garten, ein letzter Blick nach den Katzen — bevor Sie die Scheune zurückgeben.",
+            "zh": "退房时间为12:00（中午）。这样你还有时间享受悠闲的最后一上午——在花园喝杯咖啡，再最后找找猫咪们——然后交还谷仓。",
+            "ko": "체크아웃은 12:00 noon까지입니다. 마지막 아침을 여유롭게 보내실 시간 — 정원에서의 커피 한 잔, 고양이들을 마지막으로 둘러보시고 — 헛간을 반납해 주세요.",
+            "ja": "チェックアウトは12:00 noonまでです。ゆったりした最後の朝—庭でのコーヒーや最後に猫たちを探す時間—を楽しんでいただいたうえで、納屋をお返しください。"
           }
         }
       ],
@@ -125,7 +170,10 @@
             "en": "Load and run the dishwasher",
             "nl": "Vul en start de vaatwasser",
             "fr": "Remplissez et lancez le lave-vaisselle",
-            "de": "Geschirrspüler einräumen und starten"
+            "de": "Geschirrspüler einräumen und starten",
+            "zh": "装好并运行洗碗机",
+            "ko": "식기세척기를 채워 작동시켜 주세요.",
+            "ja": "食器洗い機に食器を入れ、運転してください。"
           }
         },
         {
@@ -133,7 +181,10 @@
             "en": "Take out waste — sorting rules to be confirmed",
             "nl": "Zet het afval buiten — sorteerregels nog te bevestigen",
             "fr": "Sortez les déchets — règles de tri à confirmer",
-            "de": "Müll rausbringen — Trennregeln werden noch bestätigt"
+            "de": "Müll rausbringen — Trennregeln werden noch bestätigt",
+            "zh": "清理垃圾 —— 垃圾分类规则待确认",
+            "ko": "쓰레기 배출 — 분류 규칙은 추후 안내됩니다.",
+            "ja": "ゴミを出してください — 分別ルールは後ほどご案内します。"
           }
         },
         {
@@ -141,7 +192,10 @@
             "en": "Close all windows and doors",
             "nl": "Sluit alle ramen en deuren",
             "fr": "Fermez toutes les fenêtres et portes",
-            "de": "Alle Fenster und Türen schließen"
+            "de": "Alle Fenster und Türen schließen",
+            "zh": "关闭所有窗户和门",
+            "ko": "모든 창문과 문을 닫아 주세요.",
+            "ja": "すべての窓とドアを閉めてください。"
           }
         },
         {
@@ -149,7 +203,10 @@
             "en": "Switch off lights and appliances",
             "nl": "Schakel lichten en toestellen uit",
             "fr": "Éteignez lumières et appareils",
-            "de": "Licht und Geräte ausschalten"
+            "de": "Licht und Geräte ausschalten",
+            "zh": "关闭灯光和电器",
+            "ko": "조명과 전자기기를 꺼 주세요.",
+            "ja": "照明や電化製品の電源を切ってください。"
           }
         },
         {
@@ -157,7 +214,10 @@
             "en": "Put the hot tub cover back on",
             "nl": "Leg het deksel terug op de hottub",
             "fr": "Remettez la couverture du jacuzzi",
-            "de": "Whirlpool-Abdeckung wieder auflegen"
+            "de": "Whirlpool-Abdeckung wieder auflegen",
+            "zh": "把热水浴缸的盖子放回原处",
+            "ko": "온수 욕조 덮개를 다시 덮어 주세요.",
+            "ja": "ホットタブのカバーを元に戻してください。"
           }
         },
         {
@@ -165,7 +225,10 @@
             "en": "Return keys — procedure to be confirmed",
             "nl": "Geef de sleutels terug — procedure nog te bevestigen",
             "fr": "Rendez les clés — procédure à confirmer",
-            "de": "Schlüssel zurückgeben — Ablauf wird noch bestätigt"
+            "de": "Schlüssel zurückgeben — Ablauf wird noch bestätigt",
+            "zh": "归还钥匙 —— 具体手续待确认",
+            "ko": "열쇠 반납 — 절차는 추후 안내됩니다.",
+            "ja": "鍵の返却 — 手順は後ほどご案内します。"
           }
         }
       ]
@@ -177,13 +240,19 @@
         "en": "Garden & Orchard",
         "nl": "Tuin & Boomgaard",
         "fr": "Jardin & Verger",
-        "de": "Garten & Obstgarten"
+        "de": "Garten & Obstgarten",
+        "zh": "花园与果园",
+        "ko": "정원 및 과수원",
+        "ja": "庭と果樹園"
       },
       "summary": {
         "en": "The hot tub, BBQ, orchard and outdoor life",
         "nl": "De hottub, BBQ, boomgaard en het buitenleven",
         "fr": "Le jacuzzi, le barbecue, le verger et la vie dehors",
-        "de": "Whirlpool, Grill, Obstgarten und das Leben draußen"
+        "de": "Whirlpool, Grill, Obstgarten und das Leben draußen",
+        "zh": "热水浴缸、烧烤、果园与户外生活",
+        "ko": "온수 욕조, 바비큐, 과수원과 야외 생활",
+        "ja": "ホットタブ、BBQ、果樹園と屋外での過ごし方"
       },
       "icon": "trees",
       "mediaId": "garden",
@@ -193,13 +262,19 @@
             "en": "The orchard",
             "nl": "De boomgaard",
             "fr": "Le verger",
-            "de": "Der Obstgarten"
+            "de": "Der Obstgarten",
+            "zh": "果园",
+            "ko": "과수원",
+            "ja": "果樹園について"
           },
           "body": {
             "en": "The orchard and large garden are yours to wander. In season, you're welcome to taste the fruit — please leave the trees and beds as you found them.",
             "nl": "De boomgaard en grote tuin zijn van jou om in rond te dwalen. In het seizoen mag je van het fruit proeven — laat de bomen en borders achter zoals je ze vond.",
             "fr": "Le verger et le grand jardin sont à vous. En saison, goûtez les fruits — merci de laisser arbres et massifs tels que vous les avez trouvés.",
-            "de": "Obstgarten und großer Garten stehen Ihnen offen. In der Saison dürfen Sie das Obst probieren — bitte hinterlassen Sie Bäume und Beete, wie Sie sie vorgefunden haben."
+            "de": "Obstgarten und großer Garten stehen Ihnen offen. In der Saison dürfen Sie das Obst probieren — bitte hinterlassen Sie Bäume und Beete, wie Sie sie vorgefunden haben.",
+            "zh": "果园和宽阔的花园可以随意漫步。果实季节欢迎采摘品尝——请保持树木和种植床的原样。",
+            "ko": "과수원과 넓은 정원은 자유롭게 둘러보셔도 됩니다. 제철에는 과일을 맛보셔도 좋지만, 나무와 화단은 원래 상태 그대로 두어 주세요.",
+            "ja": "広い果樹園と庭は自由に散策していただけます。季節によっては果実を味見していただいて構いませんが、木や植え床は見つけた状態のままにしておいてください。"
           }
         },
         {
@@ -207,7 +282,10 @@
             "en": "Hot tub",
             "nl": "Hottub",
             "fr": "Jacuzzi",
-            "de": "Whirlpool"
+            "de": "Whirlpool",
+            "zh": "热水浴缸",
+            "ko": "온수 욕조",
+            "ja": "ホットタブ"
           },
           "body": {
             "pending": true
@@ -218,7 +296,10 @@
             "en": "BBQ",
             "nl": "BBQ",
             "fr": "Barbecue",
-            "de": "Grill"
+            "de": "Grill",
+            "zh": "烧烤",
+            "ko": "바비큐",
+            "ja": "BBQ（バーベキュー）"
           },
           "body": {
             "pending": true
@@ -229,13 +310,19 @@
             "en": "Evenings outside",
             "nl": "Avonden buiten",
             "fr": "Soirées dehors",
-            "de": "Abende draußen"
+            "de": "Abende draußen",
+            "zh": "户外夜间时光",
+            "ko": "야외에서의 저녁",
+            "ja": "屋外での夜の過ごし方"
           },
           "body": {
             "en": "Haasdonk is quiet countryside — please keep outdoor noise low after 22:00 out of respect for the neighbours and the cats.",
             "nl": "Haasdonk is rustig platteland — houd het buiten stil na 22:00 uit respect voor de buren en de katten.",
             "fr": "Haasdonk est une campagne paisible — merci de rester discret dehors après 22h, par respect pour les voisins et les chats.",
-            "de": "Haasdonk ist ruhiges Land — bitte nach 22:00 Uhr draußen leise sein, aus Rücksicht auf Nachbarn und Katzen."
+            "de": "Haasdonk ist ruhiges Land — bitte nach 22:00 Uhr draußen leise sein, aus Rücksicht auf Nachbarn und Katzen.",
+            "zh": "Haasdonk 是宁静的乡村——请在22:00后尽量降低户外噪音，以尊重邻居和猫咪。",
+            "ko": "Haasdonk은 조용한 전원 지역입니다 — 이웃과 고양이들을 배려해 22:00 이후에는 야외 소음을 낮춰 주세요.",
+            "ja": "Haasdonkは静かな田園地帯です — 22:00以降はご近所と猫たちへの配慮から、屋外の騒音は控えめにしてください。"
           }
         }
       ]
@@ -247,13 +334,19 @@
         "en": "Fireplace",
         "nl": "Haard",
         "fr": "Cheminée",
-        "de": "Kamin"
+        "de": "Kamin",
+        "zh": "壁炉",
+        "ko": "벽난로",
+        "ja": "暖炉について"
       },
       "summary": {
         "en": "How to light and tend the fire safely",
         "nl": "Hoe je het vuur veilig aansteekt en onderhoudt",
         "fr": "Comment allumer et entretenir le feu en sécurité",
-        "de": "Wie man das Feuer sicher entzündet und pflegt"
+        "de": "Wie man das Feuer sicher entzündet und pflegt",
+        "zh": "如何安全地点火与维护火势",
+        "ko": "벽난로를 안전하게 붙이고 관리하는 방법",
+        "ja": "安全に火を起こし、管理する方法"
       },
       "icon": "flame",
       "steps": [
@@ -262,7 +355,10 @@
             "en": "Before lighting",
             "nl": "Voor het aansteken",
             "fr": "Avant d'allumer",
-            "de": "Vor dem Anzünden"
+            "de": "Vor dem Anzünden",
+            "zh": "点火前",
+            "ko": "불을 피우기 전",
+            "ja": "点火前のご注意"
           },
           "body": {
             "pending": true
@@ -277,13 +373,19 @@
         "en": "House Rules",
         "nl": "Huisregels",
         "fr": "Règles de la maison",
-        "de": "Hausregeln"
+        "de": "Hausregeln",
+        "zh": "房屋守则",
+        "ko": "하우스 규칙",
+        "ja": "ハウスルール"
       },
       "summary": {
         "en": "How we care for the barn together",
         "nl": "Hoe we samen zorg dragen voor de schuur",
         "fr": "Comment prendre soin de la grange ensemble",
-        "de": "Wie wir gemeinsam die Scheune pflegen"
+        "de": "Wie wir gemeinsam die Scheune pflegen",
+        "zh": "我们如何一同呵护这座谷仓",
+        "ko": "헛간을 함께 돌보는 방법입니다.",
+        "ja": "納屋（Schuur 80）を皆で大切に使うために"
       },
       "icon": "scroll-text",
       "steps": [
@@ -292,7 +394,10 @@
             "en": "Full house rules",
             "nl": "Volledige huisregels",
             "fr": "Règles complètes",
-            "de": "Vollständige Hausregeln"
+            "de": "Vollständige Hausregeln",
+            "zh": "完整房屋守则",
+            "ko": "전체 하우스 규칙",
+            "ja": "ハウスルール全文"
           },
           "body": {
             "pending": true
@@ -307,13 +412,19 @@
         "en": "Waste & Recycling",
         "nl": "Afval & Sorteren",
         "fr": "Déchets & Tri",
-        "de": "Müll & Recycling"
+        "de": "Müll & Recycling",
+        "zh": "垃圾与回收",
+        "ko": "쓰레기 및 재활용",
+        "ja": "ゴミとリサイクル"
       },
       "summary": {
         "en": "Where everything goes",
         "nl": "Waar alles naartoe gaat",
         "fr": "Où tout va",
-        "de": "Wohin alles gehört"
+        "de": "Wohin alles gehört",
+        "zh": "各类物品该放到哪里",
+        "ko": "어떤 쓰레기가 어디로 가는지",
+        "ja": "各ゴミの出し方"
       },
       "icon": "recycle",
       "steps": [
@@ -322,7 +433,10 @@
             "en": "Sorting rules",
             "nl": "Sorteerregels",
             "fr": "Règles de tri",
-            "de": "Trennregeln"
+            "de": "Trennregeln",
+            "zh": "分类规则",
+            "ko": "분리 배출 규칙",
+            "ja": "分別ルール"
           },
           "body": {
             "pending": true

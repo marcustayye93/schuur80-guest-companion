@@ -1,11 +1,18 @@
-# Content update: appliances pragmatic + 14 cats
+# Add Chinese (zh), Korean (ko), Japanese (ja)
 
-(Previous audit-fix items all completed and deployed in v1.3.x–v1.4.1.)
+## Phase 23: translations
+- [ ] 1. Translate UI strings: create client/src/translations/zh.json, ko.json, ja.json (mirror en.json structure)
+- [ ] 2. Translate content collections: add "zh", "ko", "ja" keys to every localized string in rooms.json, devices.json, cats.json, guides.json, faqs.json, history.json, recommendations.json, pending-register.json, media.json (alt texts if localized)
+- [ ] 3. Keep MaybePending semantics: pending blocks stay as-is; localized strings get 3 new keys
 
-- [ ] 1. Cats: update cats.json — facts: 4 baby kittens + 10 large cats (14 total), "try to spot them all" challenge framing, in EN/NL/FR/DE. Names remain to-be-confirmed.
-- [ ] 2. Cats: update the Cats page copy/structure to reflect 14 cats (kittens group + large cats group) instead of 2 individual cats.
-- [ ] 3. Pending register: remove appliance brand/model items (oven, coffee machine, dishwasher/washer, projector); keep operational ones (hot tub rules, heating, alarm, EV charger) reworded generically. Keep cat names item, reword for 14 cats.
-- [ ] 4. Devices.json: strip "brand/model to be confirmed" placeholders; rewrite as practical generic guidance.
-- [ ] 5. Check faqs.json / guides.json / rooms.json for references to appliance brands or the old cat count; fix.
-- [ ] 6. Bump SW to v1.5.0, type check, screenshot verify Cats + a device page.
-- [ ] 7. Build, deploy gh-pages, push main, checkpoint, deliver.
+## Phase 24: infrastructure
+- [ ] 4. LanguageContext: add zh/ko/ja to Language type/list with native labels (中文, 한국어, 日本語)
+- [ ] 5. types.ts: extend Localized type if it enumerates languages
+- [ ] 6. Fonts: add CJK-capable fonts (Noto Serif SC/KR/JP) via Google Fonts with fallbacks for headings/body in CJK
+- [ ] 7. Language switcher UI (AppShell + Settings): verify all 7 languages listed and render well
+- [ ] 8. Bump SW to v1.6.0
+
+## Phase 25: verify + deploy
+- [ ] 9. pnpm check; screenshots of home/guide in zh, ko, ja
+- [ ] 10. Build production, deploy gh-pages, push main
+- [ ] 11. webdev_save_checkpoint + deliver

@@ -7,7 +7,10 @@
         "en": "The red-brick facade of Schuur 80 with its arched window, seen from the gravel courtyard",
         "nl": "De bakstenen gevel van Schuur 80 met het boogvenster, gezien vanaf het grindplein",
         "fr": "La façade en brique rouge de Schuur 80 avec sa fenêtre cintrée, vue de la cour en gravier",
-        "de": "Die Backsteinfassade von Schuur 80 mit dem Bogenfenster, vom Kieshof aus gesehen"
+        "de": "Die Backsteinfassade von Schuur 80 mit dem Bogenfenster, vom Kieshof aus gesehen",
+        "zh": "从碎石院落望去，Schuur 80 的红砖立面与拱形窗。",
+        "ko": "자갈 마당에서 본 아치형 창문이 있는 Schuur 80의 붉은 벽돌 외관",
+        "ja": "砂利の中庭から見た、アーチ窓のある赤レンガのSchuur 80の外観です。"
       }
     },
     {
@@ -17,7 +20,10 @@
         "en": "The open living room with cream sofas, conical pendant lights and the black fireplace wall",
         "nl": "De open woonkamer met crèmekleurige zetels, kegelvormige hanglampen en de zwarte haardwand",
         "fr": "Le salon ouvert avec canapés crème, suspensions coniques et le mur de cheminée noir",
-        "de": "Das offene Wohnzimmer mit cremefarbenen Sofas, kegelförmigen Pendelleuchten und der schwarzen Kaminwand"
+        "de": "Das offene Wohnzimmer mit cremefarbenen Sofas, kegelförmigen Pendelleuchten und der schwarzen Kaminwand",
+        "zh": "开放式客厅，米色沙发、圆锥形吊灯与黑色壁炉墙。",
+        "ko": "크림색 소파, 원뿔형 펜던트 조명, 검은 벽난로 벽을 갖춘 개방형 거실",
+        "ja": "クリーム色のソファ、円錐形のペンダントライト、黒い暖炉の壁がある開放的なリビングルームです。"
       }
     },
     {
@@ -27,7 +33,10 @@
         "en": "The kitchen with its sleek island and garden view through the steel-framed windows",
         "nl": "De keuken met het strakke eiland en zicht op de tuin door de stalen ramen",
         "fr": "La cuisine avec son îlot épuré et la vue sur le jardin à travers les fenêtres en acier",
-        "de": "Die Küche mit ihrer schlichten Insel und Gartenblick durch die Stahlfenster"
+        "de": "Die Küche mit ihrer schlichten Insel und Gartenblick durch die Stahlfenster",
+        "zh": "厨房配有流线型中岛，通过钢框窗可眺望花园。",
+        "ko": "매끈한 아일랜드와 강철 프레임 창을 통해 보이는 정원 전망을 갖춘 주방",
+        "ja": "スリムなアイランドとスチールフレームの窓越しに庭が見えるキッチンです。"
       }
     },
     {
@@ -37,7 +46,10 @@
         "en": "The wide lawn and mature trees of the garden stretching behind the barn",
         "nl": "Het brede gazon en de volwassen bomen van de tuin achter de schuur",
         "fr": "La grande pelouse et les arbres matures du jardin derrière la grange",
-        "de": "Der weite Rasen und die alten Bäume des Gartens hinter der Scheune"
+        "de": "Der weite Rasen und die alten Bäume des Gartens hinter der Scheune",
+        "zh": "谷仓后方延伸的宽广草坪与成熟大树。",
+        "ko": "헛간 뒤로 펼쳐진 넓은 잔디와 울창한 나무들이 있는 정원",
+        "ja": "納屋の後ろに広がる広い芝生と生い茂った樹木のある庭です。"
       }
     },
     {
@@ -47,7 +59,10 @@
         "en": "The lounge corner with fireplace, bouclé seating and conical pendant lights",
         "nl": "De loungehoek met haard, bouclé-zetels en kegelvormige hanglampen",
         "fr": "Le coin salon avec cheminée, fauteuils bouclé et suspensions coniques",
-        "de": "Die Lounge-Ecke mit Kamin, Bouclé-Sesseln und kegelförmigen Pendelleuchten"
+        "de": "Die Lounge-Ecke mit Kamin, Bouclé-Sesseln und kegelförmigen Pendelleuchten",
+        "zh": "带壁炉、毛圈质地座椅和圆锥形吊灯的休息角落。",
+        "ko": "벽난로, 부클 소재 좌석, 원뿔형 펜던트 조명이 있는 라운지 코너",
+        "ja": "暖炉とブークレ素材のシーティング、円錐形のペンダントライトがあるラウンジコーナーです。"
       }
     },
     {
@@ -57,7 +72,10 @@
         "en": "An attic bedroom with white bedding beneath the original timber beam",
         "nl": "Een zolderslaapkamer met wit beddengoed onder de originele houten balk",
         "fr": "Une chambre mansardée avec literie blanche sous la poutre d'origine",
-        "de": "Ein Dachschlafzimmer mit weißer Bettwäsche unter dem originalen Holzbalken"
+        "de": "Ein Dachschlafzimmer mit weißer Bettwäsche unter dem originalen Holzbalken",
+        "zh": "阁楼卧室，白色床品置于原始木梁之下。",
+        "ko": "원래 목재 보 아래에 흰 침구가 깔린 다락 침실",
+        "ja": "元の木製梁の下に白い寝具が置かれた屋根裏の寝室です。"
       }
     },
     {
@@ -67,7 +85,10 @@
         "en": "A bathroom with terracotta basin, oak counter and round mirror under the sloped roof",
         "nl": "Een badkamer met terracotta waskom, eiken tablet en ronde spiegel onder het schuine dak",
         "fr": "Une salle de bain avec vasque terracotta, plan en chêne et miroir rond sous le toit incliné",
-        "de": "Ein Badezimmer mit Terrakotta-Waschbecken, Eichenplatte und rundem Spiegel unter der Dachschräge"
+        "de": "Ein Badezimmer mit Terrakotta-Waschbecken, Eichenplatte und rundem Spiegel unter der Dachschräge",
+        "zh": "一间浴室，斜屋顶下有陶土洗手盆、橡木台面与圆形镜子。",
+        "ko": "경사진 지붕 아래 테라코타 세면대, 오크 카운터, 원형 거울이 있는 욕실",
+        "ja": "勾配天井の下にテラコッタの洗面器、オークのカウンター、丸い鏡があるバスルームです。"
       }
     },
     {
@@ -77,7 +98,10 @@
         "en": "The bar counter with its row of black stools in the open barn space",
         "nl": "De bartoog met de rij zwarte krukken in de open schuurruimte",
         "fr": "Le comptoir du bar avec sa rangée de tabourets noirs dans l'espace ouvert de la grange",
-        "de": "Die Bartheke mit ihrer Reihe schwarzer Hocker im offenen Scheunenraum"
+        "de": "Die Bartheke mit ihrer Reihe schwarzer Hocker im offenen Scheunenraum",
+        "zh": "开放谷仓空间内的吧台与一排黑色吧凳。",
+        "ko": "개방형 헛간 공간에 놓인 검은 스툴이 늘어선 바 카운터",
+        "ja": "開放的な納屋の空間に並ぶ黒いスツールがあるバーカウンターです。"
       }
     },
     {
@@ -87,7 +111,10 @@
         "en": "The two resident cats lounging on a windowsill",
         "nl": "De twee huiskatten lui op een vensterbank",
         "fr": "Deux des quatorze chats de la grange sur un rebord de fenêtre",
-        "de": "Zwei der vierzehn Katzen der Scheune auf einer Fensterbank"
+        "de": "Zwei der vierzehn Katzen der Scheune auf einer Fensterbank",
+        "zh": "两只常驻猫在窗台上慵懒地休憩。",
+        "ko": "창턱에서 쉬고 있는 상주 고양이 두 마리",
+        "ja": "窓辺でくつろぐ2匹の常駐猫です。"
       }
     },
     {
@@ -97,7 +124,10 @@
         "en": "The barn and its annexe seen from the meadow, with solar panels on the tiled roof",
         "nl": "De schuur en het bijgebouw gezien vanaf de weide, met zonnepanelen op het pannendak",
         "fr": "La grange et son annexe vues de la prairie, avec panneaux solaires sur le toit en tuiles",
-        "de": "Die Scheune und ihr Nebengebäude von der Wiese aus, mit Solarpaneelen auf dem Ziegeldach"
+        "de": "Die Scheune und ihr Nebengebäude von der Wiese aus, mit Solarpaneelen auf dem Ziegeldach",
+        "zh": "从草地望去的谷仓及其附属建筑，瓦屋顶上装有太阳能板。",
+        "ko": "초원에서 본 헛간과 부속 건물, 기와 지붕 위에 설치된 태양광 패널",
+        "ja": "タイル葺きの屋根にソーラーパネルが載った、牧草地から見た納屋とその付属棟です。"
       }
     },
     {
@@ -107,7 +137,10 @@
         "en": "The hot tub and lounge chairs beneath the orchard trees",
         "nl": "De hottub en ligstoelen onder de bomen van de boomgaard",
         "fr": "Le jacuzzi et les chaises longues sous les arbres du verger",
-        "de": "Der Whirlpool und die Liegestühle unter den Obstbäumen"
+        "de": "Der Whirlpool und die Liegestühle unter den Obstbäumen",
+        "zh": "果园树下的热水浴缸与躺椅。",
+        "ko": "과수원 나무 아래 놓인 온수 욕조와 라운지 의자들",
+        "ja": "果樹園の木の下にあるホットタブとラウンジチェアです。"
       }
     },
     {
@@ -117,7 +150,10 @@
         "en": "The original stained-glass window of the barn catching the light",
         "nl": "Het originele glas-in-loodraam van de schuur in het licht",
         "fr": "Le vitrail d'origine de la grange captant la lumière",
-        "de": "Das originale Bleiglasfenster der Scheune im Licht"
+        "de": "Das originale Bleiglasfenster der Scheune im Licht",
+        "zh": "谷仓原始的彩色玻璃窗映着光。",
+        "ko": "빛을 받는 헛간의 원래 스테인드글라스 창",
+        "ja": "光を受ける納屋のオリジナルのステンドグラス窓です。"
       }
     },
     {
@@ -127,7 +163,10 @@
         "en": "Schuur 80 barn gable mark",
         "nl": "Schuur 80 gevelmerk",
         "fr": "Emblème du pignon Schuur 80",
-        "de": "Schuur 80 Giebelzeichen"
+        "de": "Schuur 80 Giebelzeichen",
+        "zh": "Schuur 80 谷仓山墙标记。",
+        "ko": "Schuur 80 헛간 박공 표식",
+        "ja": "Schuur 80 納屋の妻壁のマークです。"
       }
     }
   ]
