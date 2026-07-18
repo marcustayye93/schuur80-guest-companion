@@ -280,10 +280,10 @@
         "de": "Check-out"
       },
       "item": {
-        "en": "Checkout process & times",
-        "nl": "Uitcheckproces & tijden",
-        "fr": "Processus & horaires de départ",
-        "de": "Check-out-Ablauf & Zeiten"
+        "en": "Checkout process details (times confirmed: check-in 3 PM, checkout 12 noon)",
+        "nl": "Details uitcheckproces (tijden bevestigd: inchecken 15u, uitchecken 12u)",
+        "fr": "Détails du processus de départ (horaires confirmés : arrivée 15 h, départ midi)",
+        "de": "Details zum Check-out-Ablauf (Zeiten bestätigt: Check-in 15 Uhr, Check-out 12 Uhr)"
       },
       "status": {
         "en": "Awaiting host workshop",

@@ -3,7 +3,12 @@
     {
       "id": "faq-wifi",
       "category": "house",
-      "question": { "en": "What is the Wi-Fi password?", "nl": "Wat is het wifi-wachtwoord?", "fr": "Quel est le mot de passe Wi-Fi ?", "de": "Wie lautet das WLAN-Passwort?" },
+      "question": {
+        "en": "What is the Wi-Fi password?",
+        "nl": "Wat is het wifi-wachtwoord?",
+        "fr": "Quel est le mot de passe Wi-Fi ?",
+        "de": "Wie lautet das WLAN-Passwort?"
+      },
       "answer": {
         "en": "Connect to the network \"Schuur80\" with the password \"Schuur80\". Wi-Fi covers the whole barn.",
         "nl": "Verbind met het netwerk \"Schuur80\" met het wachtwoord \"Schuur80\". Wifi dekt de hele schuur.",
@@ -14,19 +19,44 @@
     {
       "id": "faq-checkin-time",
       "category": "arrival",
-      "question": { "en": "What time can we check in?", "nl": "Vanaf wanneer kunnen we inchecken?", "fr": "À quelle heure peut-on arriver ?", "de": "Ab wann können wir einchecken?" },
-      "answer": { "pending": true }
+      "question": {
+        "en": "What time can we check in?",
+        "nl": "Vanaf wanneer kunnen we inchecken?",
+        "fr": "À quelle heure peut-on arriver ?",
+        "de": "Ab wann können wir einchecken?"
+      },
+      "answer": {
+        "en": "Check-in is from 3:00 PM (15:00). Arriving later in the evening is fine — just let the host know.",
+        "nl": "Inchecken kan vanaf 15u00. Later op de avond aankomen is geen probleem — verwittig gewoon even de gastvrouw.",
+        "fr": "L'arrivée est possible à partir de 15 h. Arriver plus tard dans la soirée ne pose aucun problème — prévenez simplement l'hôte.",
+        "de": "Der Check-in ist ab 15:00 Uhr möglich. Eine spätere Ankunft am Abend ist kein Problem — informieren Sie einfach kurz die Gastgeberin."
+      }
     },
     {
       "id": "faq-checkout-time",
       "category": "checkout",
-      "question": { "en": "What time is checkout?", "nl": "Hoe laat is het uitchecken?", "fr": "À quelle heure est le départ ?", "de": "Wann ist der Check-out?" },
-      "answer": { "pending": true }
+      "question": {
+        "en": "What time is checkout?",
+        "nl": "Hoe laat is het uitchecken?",
+        "fr": "À quelle heure est le départ ?",
+        "de": "Wann ist der Check-out?"
+      },
+      "answer": {
+        "en": "Checkout is by 12:00 noon on your day of departure.",
+        "nl": "Uitchecken doe je uiterlijk om 12u00 's middags op de dag van vertrek.",
+        "fr": "Le départ se fait au plus tard à midi le jour de votre départ.",
+        "de": "Der Check-out ist bis 12:00 Uhr mittags am Abreisetag."
+      }
     },
     {
       "id": "faq-guests",
       "category": "house",
-      "question": { "en": "How many guests can stay?", "nl": "Hoeveel gasten kunnen er verblijven?", "fr": "Combien de personnes peuvent séjourner ?", "de": "Wie viele Gäste können übernachten?" },
+      "question": {
+        "en": "How many guests can stay?",
+        "nl": "Hoeveel gasten kunnen er verblijven?",
+        "fr": "Combien de personnes peuvent séjourner ?",
+        "de": "Wie viele Gäste können übernachten?"
+      },
       "answer": {
         "en": "Schuur 80 sleeps around twelve guests across four bedrooms, with three bathrooms.",
         "nl": "Schuur 80 slaapt ongeveer twaalf gasten verdeeld over vier slaapkamers, met drie badkamers.",
@@ -37,7 +67,12 @@
     {
       "id": "faq-ev",
       "category": "arrival",
-      "question": { "en": "Can I charge my electric car?", "nl": "Kan ik mijn elektrische auto opladen?", "fr": "Puis-je recharger ma voiture électrique ?", "de": "Kann ich mein Elektroauto laden?" },
+      "question": {
+        "en": "Can I charge my electric car?",
+        "nl": "Kan ik mijn elektrische auto opladen?",
+        "fr": "Puis-je recharger ma voiture électrique ?",
+        "de": "Kann ich mein Elektroauto laden?"
+      },
       "answer": {
         "en": "Yes — EV charging is available on the property. Charger type, tariff and instructions will be confirmed by the host.",
         "nl": "Ja — er is een EV-laadpunt op het domein. Type lader, tarief en instructies worden nog bevestigd door de gastheer.",
@@ -48,13 +83,25 @@
     {
       "id": "faq-hottub",
       "category": "garden",
-      "question": { "en": "How do I use the hot tub?", "nl": "Hoe gebruik ik de hottub?", "fr": "Comment utiliser le jacuzzi ?", "de": "Wie benutze ich den Whirlpool?" },
-      "answer": { "pending": true }
+      "question": {
+        "en": "How do I use the hot tub?",
+        "nl": "Hoe gebruik ik de hottub?",
+        "fr": "Comment utiliser le jacuzzi ?",
+        "de": "Wie benutze ich den Whirlpool?"
+      },
+      "answer": {
+        "pending": true
+      }
     },
     {
       "id": "faq-cats-inside",
       "category": "cats",
-      "question": { "en": "Are the cats allowed inside?", "nl": "Mogen de katten binnen?", "fr": "Les chats peuvent-ils entrer ?", "de": "Dürfen die Katzen ins Haus?" },
+      "question": {
+        "en": "Are the cats allowed inside?",
+        "nl": "Mogen de katten binnen?",
+        "fr": "Les chats peuvent-ils entrer ?",
+        "de": "Dürfen die Katzen ins Haus?"
+      },
       "answer": {
         "en": "House access rules for the cats will be confirmed by the host. Until then, please keep them out of the bedrooms and cinema room.",
         "nl": "De toegangsregels voor de katten worden nog bevestigd door de gastheer. Houd hen tot dan uit de slaapkamers en cinemakamer.",
@@ -65,7 +112,12 @@
     {
       "id": "faq-smoking",
       "category": "house",
-      "question": { "en": "Is smoking allowed?", "nl": "Mag er gerookt worden?", "fr": "Peut-on fumer ?", "de": "Darf man rauchen?" },
+      "question": {
+        "en": "Is smoking allowed?",
+        "nl": "Mag er gerookt worden?",
+        "fr": "Peut-on fumer ?",
+        "de": "Darf man rauchen?"
+      },
       "answer": {
         "en": "Smoking is not allowed inside the barn. The host will confirm whether a designated outdoor spot exists.",
         "nl": "Roken is niet toegestaan binnen in de schuur. De gastheer bevestigt nog of er een aangeduide buitenplek is.",
@@ -76,7 +128,12 @@
     {
       "id": "faq-supermarket",
       "category": "area",
-      "question": { "en": "Where is the nearest supermarket?", "nl": "Waar is de dichtstbijzijnde supermarkt?", "fr": "Où est le supermarché le plus proche ?", "de": "Wo ist der nächste Supermarkt?" },
+      "question": {
+        "en": "Where is the nearest supermarket?",
+        "nl": "Waar is de dichtstbijzijnde supermarkt?",
+        "fr": "Où est le supermarché le plus proche ?",
+        "de": "Wo ist der nächste Supermarkt?"
+      },
       "answer": {
         "en": "There are supermarkets in Haasdonk and nearby Beveren, a few minutes away by car. The host's favourite local shops will be added to the Guide.",
         "nl": "Er zijn supermarkten in Haasdonk en het nabijgelegen Beveren, op enkele minuten met de auto. De favoriete winkels van de gastheer worden toegevoegd aan de Gids.",
@@ -87,7 +144,12 @@
     {
       "id": "faq-emergency",
       "category": "help",
-      "question": { "en": "What do I do in an emergency?", "nl": "Wat doe ik bij een noodgeval?", "fr": "Que faire en cas d'urgence ?", "de": "Was tue ich im Notfall?" },
+      "question": {
+        "en": "What do I do in an emergency?",
+        "nl": "Wat doe ik bij een noodgeval?",
+        "fr": "Que faire en cas d'urgence ?",
+        "de": "Was tue ich im Notfall?"
+      },
       "answer": {
         "en": "For life-threatening emergencies in Belgium call 112. For police call 101. The full emergency card, including host contacts, is under Help → Emergency.",
         "nl": "Bel bij levensbedreigende noodgevallen in België 112. Voor politie bel 101. De volledige noodkaart, inclusief contact met de gastheer, vind je onder Hulp → Noodgeval.",
