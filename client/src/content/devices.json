@@ -638,42 +638,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "alarm",
-      "roomId": "utility",
-      "name": {
-        "en": "Alarm System",
-        "nl": "Alarmsysteem",
-        "fr": "Système d'alarme",
-        "de": "Alarmanlage",
-        "zh": "报警系统",
-        "ko": "알람 시스템",
-        "ja": "アラームシステム"
-      },
-      "icon": "shield-alert",
-      "instructions": {
-        "steps": [
-          {
-            "en": "If the house uses an alarm, the host will walk you through arming and disarming at check-in.",
-            "nl": "Als het huis een alarm gebruikt, overloopt de gastheer het in- en uitschakelen bij het inchecken.",
-            "fr": "Si la maison est équipée d'une alarme, l'hôte vous montrera l'activation et la désactivation à l'arrivée.",
-            "de": "Falls das Haus eine Alarmanlage nutzt, erklärt der Gastgeber beim Check-in das Scharf- und Unscharfschalten.",
-            "zh": "若房屋配有报警系统，房东将在入住时向您演示设防与撤防。",
-            "ko": "집에 알람이 설치되어 있는 경우, 체크인 시 호스트가 설정 및 해제 방법을 안내해 드립니다.",
-            "ja": "家にアラームがある場合、チェックイン時にホストがセット方法（警戒／解除）をご案内します。"
-          },
-          {
-            "en": "If the alarm sounds unexpectedly, call the host right away — the number is on the Help page.",
-            "nl": "Gaat het alarm onverwacht af, bel dan meteen de gastheer — het nummer staat op de Hulp-pagina.",
-            "fr": "Si l'alarme se déclenche de façon inattendue, appelez l'hôte immédiatement — le numéro figure sur la page Aide.",
-            "de": "Ertönt der Alarm unerwartet, rufen Sie sofort den Gastgeber an — die Nummer steht auf der Hilfe-Seite.",
-            "zh": "若报警意外触发，请立即联系房东——电话号码见帮助页面。",
-            "ko": "알람이 예기치 않게 울리면 즉시 호스트에게 연락하세요 — 전화번호는 도움말 페이지에 있습니다.",
-            "ja": "不意にアラームが鳴った場合はすぐにホストに電話してください — 番号はヘルプページに記載されています。"
-          }
-        ]
-      }
     }
   ]
 }

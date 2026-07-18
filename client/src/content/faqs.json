@@ -67,6 +67,50 @@
       }
     },
     {
+      "id": "faq-cleaning",
+      "category": "house",
+      "question": {
+        "en": "Is the house cleaned during our stay?",
+        "nl": "Wordt het huis gepoetst tijdens ons verblijf?",
+        "fr": "La maison est-elle nettoyée pendant notre séjour ?",
+        "de": "Wird das Haus während unseres Aufenthalts gereinigt?",
+        "zh": "入住期间会打扫房屋吗？",
+        "ko": "머무는 동안 청소 서비스가 제공되나요?",
+        "ja": "滞在中に清掃はしてもらえますか？"
+      },
+      "answer": {
+        "en": "Yes — the house is cleaned daily, and towels are changed every day. You don't need to arrange anything; it's all part of your stay.",
+        "nl": "Ja — het huis wordt dagelijks gepoetst en de handdoeken worden elke dag ververst. Je hoeft niets te regelen; het hoort allemaal bij je verblijf.",
+        "fr": "Oui — la maison est nettoyée chaque jour et les serviettes sont changées quotidiennement. Rien à organiser de votre côté : tout est compris dans votre séjour.",
+        "de": "Ja — das Haus wird täglich gereinigt und die Handtücher werden jeden Tag gewechselt. Sie müssen nichts organisieren; alles ist Teil Ihres Aufenthalts.",
+        "zh": "是的——房屋每天清扫，毛巾也每天更换。您无需做任何安排，这些都包含在您的住宿中。",
+        "ko": "네 — 집은 매일 청소되며, 수건도 매일 교체됩니다. 따로 요청하실 필요 없이 숙박에 모두 포함되어 있습니다.",
+        "ja": "はい — 家は毎日清掃され、タオルも毎日交換されます。手配は不要で、すべてご滞在に含まれています。"
+      }
+    },
+    {
+      "id": "faq-locks",
+      "category": "house",
+      "question": {
+        "en": "How do the doors lock? Is there an alarm?",
+        "nl": "Hoe sluiten de deuren? Is er een alarm?",
+        "fr": "Comment les portes se ferment-elles ? Y a-t-il une alarme ?",
+        "de": "Wie schließen die Türen ab? Gibt es eine Alarmanlage?",
+        "zh": "门怎么锁？有报警系统吗？",
+        "ko": "문은 어떻게 잠그나요? 알람이 있나요?",
+        "ja": "ドアの施錠方法は？アラームはありますか？"
+      },
+      "answer": {
+        "en": "The doors lock with a regular key, which you receive at check-in. There is no alarm system, so there's nothing to arm at night — just lock the door. The owners live right next door and are happy to help if you need anything.",
+        "nl": "De deuren sluiten met een gewone sleutel, die je bij het inchecken krijgt. Er is geen alarmsysteem, dus 's nachts hoef je niets in te schakelen — gewoon de deur op slot doen. De eigenaars wonen vlak ernaast en helpen je graag als je iets nodig hebt.",
+        "fr": "Les portes se ferment avec une clé classique, remise à l'arrivée. Il n'y a pas de système d'alarme, donc rien à activer la nuit — fermez simplement à clé. Les propriétaires habitent juste à côté et seront ravis de vous aider en cas de besoin.",
+        "de": "Die Türen schließen mit einem normalen Schlüssel, den Sie beim Check-in erhalten. Es gibt keine Alarmanlage — nachts einfach abschließen, mehr nicht. Die Eigentümer wohnen direkt nebenan und helfen gerne, wenn Sie etwas brauchen.",
+        "zh": "门用普通钥匙上锁，钥匙在入住时领取。房子没有报警系统，晚上无需设防——锁好门即可。房东就住在隔壁，有任何需要都乐意帮忙。",
+        "ko": "문은 일반 열쇠로 잠그며, 열쇠는 체크인 시 받으실 수 있습니다. 알람 시스템은 없으므로 밤에 따로 설정할 것 없이 문만 잠그시면 됩니다. 주인이 바로 옆집에 살고 있어 필요한 것이 있으면 기꺼이 도와드립니다.",
+        "ja": "ドアは普通の鍵で施錠します。鍵はチェックイン時にお渡しします。アラームシステムはないので、夜は鍵をかけるだけで大丈夫です。オーナーはすぐ隣に住んでおり、何かあれば喜んでサポートしてくれます。"
+      }
+    },
+    {
       "id": "faq-guests",
       "category": "house",
       "question": {

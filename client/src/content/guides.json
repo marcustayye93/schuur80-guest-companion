@@ -86,16 +86,22 @@
         },
         {
           "title": {
-            "en": "Alarm & locks",
-            "nl": "Alarm & sloten",
-            "fr": "Alarme & serrures",
-            "de": "Alarm & Schlösser",
-            "zh": "警报与门锁",
-            "ko": "알람 및 잠금장치",
-            "ja": "アラームと鍵"
+            "en": "Keys & locking up",
+            "nl": "Sleutels & afsluiten",
+            "fr": "Clés & fermeture",
+            "de": "Schlüssel & Abschließen",
+            "zh": "钥匙与锁门",
+            "ko": "열쇠 및 문단속",
+            "ja": "鍵と戸締まり"
           },
           "body": {
-            "pending": true
+            "en": "The barn locks with a good old-fashioned key — you'll receive it at check-in. There is no alarm system, so nothing to arm at night: just turn the key. And the owners live right next door, so help is never more than a knock away.",
+            "nl": "De schuur sluit je af met een goede ouderwetse sleutel — die krijg je bij het inchecken. Er is geen alarmsysteem, dus 's nachts hoef je niets in te schakelen: gewoon de sleutel omdraaien. En de eigenaars wonen vlak ernaast, dus hulp is nooit verder dan één klopje op de deur.",
+            "fr": "La grange se ferme avec une bonne vieille clé — vous la recevrez à l'arrivée. Il n'y a pas de système d'alarme, donc rien à activer la nuit : un simple tour de clé suffit. Et les propriétaires habitent juste à côté — de l'aide n'est jamais plus loin qu'un coup à la porte.",
+            "de": "Die Scheune wird mit einem guten altmodischen Schlüssel abgeschlossen — Sie erhalten ihn beim Check-in. Es gibt keine Alarmanlage, nachts muss also nichts scharfgeschaltet werden: einfach den Schlüssel umdrehen. Und die Eigentümer wohnen direkt nebenan — Hilfe ist nie weiter als ein Klopfen entfernt.",
+            "zh": "谷仓使用传统钥匙上锁——入住时您会收到钥匙。房子没有报警系统，晚上无需设防：转动钥匙锁门即可。而且房东就住在隔壁，需要帮助时敲敲门就行。",
+            "ko": "헛간은 전통적인 열쇠로 잠급니다 — 체크인 시 열쇠를 받으실 수 있습니다. 알람 시스템이 없으므로 밤에 따로 설정할 것은 없습니다. 열쇠만 돌려 잠그시면 됩니다. 그리고 주인 부부가 바로 옆집에 살고 있어, 도움이 필요하면 언제든 문을 두드리시면 됩니다.",
+            "ja": "納屋は昔ながらの鍵で施錠します — チェックイン時にお渡しします。アラームシステムはないので、夜に設定するものはありません。鍵を回すだけで大丈夫です。オーナーはすぐ隣に住んでいるので、困ったときはドアをノックするだけで助けてもらえます。"
           }
         },
         {
@@ -222,13 +228,13 @@
         },
         {
           "label": {
-            "en": "Return keys — procedure to be confirmed",
-            "nl": "Geef de sleutels terug — procedure nog te bevestigen",
-            "fr": "Rendez les clés — procédure à confirmer",
-            "de": "Schlüssel zurückgeben — Ablauf wird noch bestätigt",
-            "zh": "归还钥匙 —— 具体手续待确认",
-            "ko": "열쇠 반납 — 절차는 추후 안내됩니다.",
-            "ja": "鍵の返却 — 手順は後ほどご案内します。"
+            "en": "Lock the door and hand the key to the owners next door",
+            "nl": "Sluit de deur af en geef de sleutel af bij de eigenaars ernaast",
+            "fr": "Fermez la porte à clé et remettez la clé aux propriétaires d'à côté",
+            "de": "Tür abschließen und den Schlüssel bei den Eigentümern nebenan abgeben",
+            "zh": "锁好门，将钥匙交给隔壁的房东",
+            "ko": "문을 잠그고 열쇠를 옆집 주인에게 전달해 주세요.",
+            "ja": "ドアを施錠し、鍵は隣にお住まいのオーナーへお渡しください。"
           }
         }
       ]
