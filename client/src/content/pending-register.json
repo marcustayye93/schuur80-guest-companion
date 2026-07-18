@@ -507,6 +507,84 @@
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
+    },
+    {
+      "id": "eggs-for-guests",
+      "area": {
+        "en": "Kitchen",
+        "nl": "Keuken",
+        "fr": "Cuisine",
+        "de": "Küche",
+        "zh": "厨房",
+        "ko": "주방",
+        "ja": "キッチン"
+      },
+      "item": {
+        "en": "Whether fresh eggs are set out for guests (farm breakfast)",
+        "nl": "Of er verse eieren voor gasten klaarstaan (boerderijontbijt)",
+        "fr": "Si des œufs frais sont mis à disposition des invités (petit-déjeuner fermier)",
+        "de": "Ob frische Eier für Gäste bereitstehen (Bauernhof-Frühstück)",
+        "zh": "是否为客人提供新鲜鸡蛋（农家早餐）",
+        "ko": "손님용 신선한 달걀 제공 여부(농가식 아침 식사)",
+        "ja": "ゲスト用に新鮮な卵をご用意するかどうか（ファーム・ブレックファスト）"
+      },
+      "status": {
+        "en": "Awaiting host confirmation",
+        "nl": "In afwachting van bevestiging door de gastheer",
+        "fr": "En attente de confirmation de l'hôte",
+        "de": "Wartet auf Bestätigung des Gastgebers",
+        "zh": "待房东确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認をお待ちください"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
+      }
+    },
+    {
+      "id": "egg-collection-viewing",
+      "area": {
+        "en": "Animals",
+        "nl": "Dieren",
+        "fr": "Animaux",
+        "de": "Tiere",
+        "zh": "动物",
+        "ko": "동물",
+        "ja": "動物たち"
+      },
+      "item": {
+        "en": "Whether children may watch egg collection",
+        "nl": "Of kinderen mogen meekijken bij het eieren rapen",
+        "fr": "Si les enfants peuvent assister à la récolte des œufs",
+        "de": "Ob Kinder beim Eiersammeln zuschauen dürfen",
+        "zh": "孩子是否可以观看捡鸡蛋",
+        "ko": "아이들이 달걀 수거를 구경해도 되는지 여부",
+        "ja": "子どもが卵の回収を見学できるかどうか"
+      },
+      "status": {
+        "en": "Awaiting host confirmation",
+        "nl": "In afwachting van bevestiging door de gastheer",
+        "fr": "En attente de confirmation de l'hôte",
+        "de": "Wartet auf Bestätigung des Gastgebers",
+        "zh": "待房东确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認をお待ちください"
+      },
+      "expected": {
+        "en": "Before your stay",
+        "nl": "Vóór je verblijf",
+        "fr": "Avant votre séjour",
+        "de": "Vor Ihrem Aufenthalt",
+        "zh": "入住前",
+        "ko": "숙박 전에",
+        "ja": "ご滞在前に"
+      }
     }
   ]
 }
