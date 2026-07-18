@@ -1,31 +1,32 @@
 /**
- * Schuur 80 — Cat Directory & Cat Detail.
- * Names/profiles are pending until confirmed by the host (Placeholder Policy).
+ * Schuur 80 — The Animals directory & detail (cats, ducks, chickens).
+ * Cats are presented as one group of 14 (4 kittens) — no individual profiles.
  */
 import { Link, useRoute } from "wouter";
-import { Cat as CatIcon, ChevronRight, PawPrint, Binoculars } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { Cat as CatIcon, Bird, Egg, ChevronRight, PawPrint, Binoculars } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { catRules, cats, catsChallenge, catsIntro, media } from "@/lib/content";
 import {
   HeroImage,
-  PendingCard,
   MaybePendingText,
   StatusBadge,
   Callout,
 } from "@/components/companion/Primitives";
 import PageHeader from "@/components/companion/PageHeader";
-import { isPending } from "@/content/types";
+import { isPending, type LocalizedString } from "@/content/types";
 import NotFound from "./NotFound";
 
-function catDisplayName(
-  cat: (typeof cats)[number],
-  t: (k: string) => string,
-  lt: (v: import("@/content/types").LocalizedString) => string,
-  index: number
+const ANIMAL_ICONS: Record<string, typeof CatIcon> = {
+  cats: CatIcon,
+  ducks: Bird,
+  chickens: Egg,
+};
+
+function animalDisplayName(
+  animal: (typeof cats)[number],
+  lt: (v: LocalizedString) => string
 ) {
-  if (isPending(cat.name)) return `${t("cats.fallbackName")} ${index + 1}`;
-  return lt(cat.name as unknown as import("@/content/types").LocalizedString);
+  return lt(animal.name as unknown as LocalizedString);
 }
 
 export function CatDirectory() {
@@ -59,47 +60,29 @@ export function CatDirectory() {
           </div>
         </div>
 
-        <section className="space-y-2.5" aria-labelledby="cat-list">
-          <p className="eyebrow" id="cat-list">
+        <section className="space-y-2.5" aria-labelledby="animal-list">
+          <p className="eyebrow" id="animal-list">
             {t("garden.catsSub")}
           </p>
-          {cats.map((cat, i) => {
-            const pendingName = isPending(cat.name);
+          {cats.map((animal) => {
+            const Icon = ANIMAL_ICONS[animal.id] ?? PawPrint;
             return (
               <Link
-                key={cat.id}
-                href={`/cats/${cat.id}`}
-                className={cn(
-                  "pressable flex items-center gap-3.5 rounded-2xl p-4",
-                  pendingName
-                    ? "border border-dashed border-amber-300/80 bg-amber-50/50"
-                    : "card-soft bg-card"
-                )}
+                key={animal.id}
+                href={`/cats/${animal.id}`}
+                className="pressable card-soft flex items-center gap-3.5 rounded-2xl bg-card p-4"
               >
-                <span
-                  className={cn(
-                    "flex h-11 w-11 shrink-0 items-center justify-center rounded-full",
-                    pendingName ? "bg-amber-100" : "bg-primary/10"
-                  )}
-                >
-                  <CatIcon
-                    className={cn(
-                      "h-5 w-5",
-                      pendingName ? "text-amber-700" : "text-primary"
-                    )}
-                    aria-hidden
-                  />
+                <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-primary/10">
+                  <Icon className="h-5 w-5 text-primary" aria-hidden />
                 </span>
                 <span className="min-w-0 flex-1">
                   <span className="block font-serif text-[18px] font-semibold leading-snug text-foreground">
-                    {catDisplayName(cat, t, lt, i)}
+                    {animalDisplayName(animal, lt)}
                   </span>
-                  <span className="mt-0.5 block text-[13px] leading-snug text-muted-foreground">
-                    {pendingName
-                      ? t("cats.pendingIntro")
-                      : isPending(cat.personality)
-                        ? t("pending.label")
-                        : lt(cat.personality as import("@/content/types").LocalizedString)}
+                  <span className="mt-0.5 block text-[13px] leading-snug text-muted-foreground line-clamp-2">
+                    {isPending(animal.personality)
+                      ? t("pending.label")
+                      : lt(animal.personality as LocalizedString)}
                   </span>
                 </span>
                 <ChevronRight className="h-4 w-4 shrink-0 text-muted-foreground/60" aria-hidden />
@@ -126,12 +109,11 @@ export function CatDirectory() {
 export function CatDetail() {
   const [, params] = useRoute("/cats/:id");
   const { t, lt } = useLanguage();
-  const index = cats.findIndex((c) => c.id === params?.id);
-  const cat = index >= 0 ? cats[index] : undefined;
+  const cat = cats.find((c) => c.id === params?.id);
   if (!cat) return <NotFound />;
 
   const photo = media(cat.photoMediaId);
-  const name = catDisplayName(cat, t, lt, index);
+  const name = animalDisplayName(cat, lt);
 
   return (
     <div>
@@ -147,8 +129,6 @@ export function CatDetail() {
         </div>
       )}
       <div className="space-y-6 px-4 pt-5 pb-4">
-        {isPending(cat.name) && <PendingCard pending={cat.name} />}
-
         <section className="space-y-2" aria-labelledby="cat-pers">
           <p className="eyebrow" id="cat-pers">
             {t("cats.personality")}

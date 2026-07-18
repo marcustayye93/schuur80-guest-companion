@@ -42,7 +42,7 @@
     "storySub": "Eine restaurierte historische Scheune im Waasland",
     "exploreHouse": "Das Haus entdecken",
     "exploreGarden": "In den Garten",
-    "meetCats": "Die Katzen kennenlernen",
+    "meetCats": "Die Tiere kennenlernen",
     "arrivalCard": "Ankunft & Check-in",
     "arrivalCardSub": "Anfahrt, Parken, Hineinkommen",
     "checkoutCard": "Check-out",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "Garten & Obstgarten",
-    "subtitle": "Draußen, Whirlpool, Grill und die Katzen",
-    "cats": "Die Katzen",
-    "catsSub": "Lernen Sie die Bewohner kennen",
+    "subtitle": "Draußen, der Whirlpool, der Grill und die Tiere",
+    "cats": "Die Tiere",
+    "catsSub": "Katzen, Enten & Hühner",
     "outdoor": "Außenanlagen"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "Anrufen"
   },
   "cats": {
-    "title": "Die Katzen",
-    "personality": "Charakter",
-    "feeding": "Fütterung",
+    "title": "Die Tiere",
+    "personality": "Über sie",
+    "feeding": "Fütterung & Pflege",
     "notes": "Gut zu wissen",
     "rules": "Ein guter Mitbewohner sein",
     "fallbackName": "Katze",
@@ -128,7 +128,7 @@
       "guides": "Anleitungen",
       "faqs": "Häufige Fragen",
       "recommendations": "Unterwegs",
-      "cats": "Katzen"
+      "cats": "Tiere"
     }
   },
   "settings": {

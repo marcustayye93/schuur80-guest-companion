@@ -42,7 +42,7 @@
     "storySub": "Waasland에 복원된 유서 깊은 헛간",
     "exploreHouse": "숙소를 둘러보세요",
     "exploreGarden": "정원으로",
-    "meetCats": "고양이들을 만나보세요",
+    "meetCats": "동물 친구들 만나기",
     "arrivalCard": "도착 및 체크인",
     "arrivalCardSub": "오시는 길, 주차, 출입 방법",
     "checkoutCard": "체크아웃",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "정원과 과수원",
-    "subtitle": "야외 공간, 온수 욕조(핫텁), 바비큐와 고양이들",
-    "cats": "고양이들",
-    "catsSub": "거주자 소개",
+    "subtitle": "야외 공간, 온수 욕조, 바비큐 그리고 동물 친구들",
+    "cats": "동물 친구들",
+    "catsSub": "고양이, 오리, 닭",
     "outdoor": "야외 편의 시설"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "전화하기"
   },
   "cats": {
-    "title": "고양이들",
-    "personality": "성격",
-    "feeding": "식사 안내",
+    "title": "동물 친구들",
+    "personality": "소개",
+    "feeding": "먹이와 돌봄",
     "notes": "알아두면 좋은 정보",
     "rules": "좋은 하우스메이트가 되는 법",
     "fallbackName": "고양이",
@@ -128,7 +128,7 @@
       "guides": "안내서",
       "faqs": "자주 묻는 질문",
       "recommendations": "주변 둘러보기",
-      "cats": "고양이들"
+      "cats": "동물"
     }
   },
   "settings": {

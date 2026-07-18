@@ -1,145 +1,142 @@
 {
   "intro": {
-    "en": "Schuur 80 shares its grounds with no fewer than fourteen resident cats — four baby kittens and ten large cats. They are part of the soul of the place, and spotting all fourteen during your stay is something of a house challenge. Here is how to be a good housemate to them.",
-    "nl": "Schuur 80 deelt zijn domein met maar liefst veertien huiskatten — vier kittens en tien grote katten. Ze zijn deel van de ziel van de plek, en alle veertien spotten tijdens je verblijf is een heuse huisuitdaging. Zo ben je een goede huisgenoot voor hen.",
-    "fr": "Schuur 80 partage son domaine avec pas moins de quatorze chats résidents — quatre chatons et dix grands chats. Ils font partie de l'âme du lieu, et repérer les quatorze pendant votre séjour est un véritable défi de la maison. Voici comment bien cohabiter avec eux.",
-    "de": "Schuur 80 teilt sein Gelände mit nicht weniger als vierzehn Hauskatzen — vier Kätzchen und zehn großen Katzen. Sie gehören zur Seele des Ortes, und alle vierzehn während Ihres Aufenthalts zu entdecken ist eine kleine Haus-Challenge. So sind Sie ein guter Mitbewohner für sie.",
-    "zh": "Schuur 80 与不下十四只常驻猫咪共享这片庭院——其中有四只小猫和十只成猫。它们是这里的灵魂，能在入住期间找到全部十四只也成了一个小小的“屋内挑战”。以下是与它们和谐相处的指南。",
-    "ko": "Schuur 80은 14마리의 고양이(새끼 4마리, 성묘 10마리)와 함께하는 공간입니다. 이들은 이곳의 영혼 같은 존재이며, 머무는 동안 14마리를 모두 찾아보는 것이 작은 숙소 챌린지입니다. 고양이들과 좋은 하우스메이트가 되는 방법을 안내해 드립니다.",
-    "ja": "Schuur 80の敷地には合計14匹の常駐猫がいます — 子猫4匹と成猫10匹です。彼らはこの場所の大切な一部で、滞在中に全員を見つけられるかはちょっとした宿のチャレンジです。猫たちと良い同居人になるための心得を以下にご案内します。"
+    "en": "Schuur 80 is a small farmyard as much as a barn. Fourteen cats — four of them kittens — share the grounds with a flock of ducks and a coop of chickens whose fresh eggs go straight from pen to table. Here is how to be a good housemate to them all.",
+    "nl": "Schuur 80 is evenzeer een klein boerenerf als een schuur. Veertien katten — waarvan vier kittens — delen het domein met een groepje eenden en een ren vol kippen, waarvan de verse eieren rechtstreeks van het hok naar de tafel gaan. Zo ben je een goede huisgenoot voor hen allemaal.",
+    "fr": "Schuur 80 est autant une petite basse-cour qu'une grange. Quatorze chats — dont quatre chatons — partagent le domaine avec des canards et un poulailler dont les œufs frais passent directement de l'enclos à la table. Voici comment bien cohabiter avec tout ce petit monde.",
+    "de": "Schuur 80 ist ebenso sehr ein kleiner Bauernhof wie eine Scheune. Vierzehn Katzen — davon vier Kätzchen — teilen sich das Gelände mit einer Entenschar und einem Hühnerstall, dessen frische Eier direkt vom Gehege auf den Tisch kommen. So sind Sie ein guter Mitbewohner für alle.",
+    "zh": "Schuur 80 既是一座谷仓，也是一个小小的农家院。十四只猫（其中四只是小猫）与一群鸭子和一窝鸡共享这片庭院，鸡下的新鲜鸡蛋直接从鸡舍送上餐桌。以下是与这些小伙伴和谐相处的指南。",
+    "ko": "Schuur 80은 헛간이자 작은 농가 마당이기도 합니다. 고양이 14마리(그중 4마리는 새끼 고양이)가 오리 무리, 닭장 속 닭들과 함께 이 부지에서 지내며, 닭이 낳은 신선한 달걀은 닭장에서 바로 식탁으로 올라옵니다. 이 친구들과 좋은 하우스메이트가 되는 방법을 안내해 드립니다.",
+    "ja": "Schuur 80は納屋であると同時に、小さな農家の庭でもあります。14匹の猫（うち4匹は子猫）が、アヒルの群れとニワトリたちと一緒に敷地で暮らしており、ニワトリの産みたて卵は小屋からそのまま食卓へ届きます。みんなと良い同居人になるための心得をご案内します。"
   },
   "challenge": {
-    "en": "Can you spot all 14? Four playful kittens and ten grown cats roam the barn and gardens — keep count during your stay.",
-    "nl": "Spot jij ze alle 14? Vier speelse kittens en tien volwassen katten zwerven rond de schuur en de tuinen — hou de teller bij tijdens je verblijf.",
-    "fr": "Saurez-vous repérer les 14 ? Quatre chatons joueurs et dix chats adultes rôdent autour de la grange et des jardins — tenez le compte pendant votre séjour.",
-    "de": "Entdecken Sie alle 14? Vier verspielte Kätzchen und zehn ausgewachsene Katzen streifen um die Scheune und durch die Gärten — zählen Sie während Ihres Aufenthalts mit.",
-    "zh": "你能找到全部14只吗？四只顽皮的小猫和十只成猫在谷仓和花园自由活动——入住期间不妨数一数。",
-    "ko": "14마리를 모두 찾을 수 있을까요? 장난기 많은 새끼 고양이 네 마리와 성묘 열 마리가 헛간과 정원을 자유롭게 다닙니다 — 머무는 동안 세어 보세요.",
-    "ja": "14匹見つけられますか？遊び好きな子猫4匹と成猫10匹が納屋と庭を自由に歩き回っています — ご滞在中に数えてみてください。"
+    "en": "Can you spot all 14 cats? Four playful kittens and ten grown cats roam the barn and gardens — keep count during your stay.",
+    "nl": "Spot jij alle 14 katten? Vier speelse kittens en tien volwassen katten zwerven rond de schuur en de tuinen — hou de teller bij tijdens je verblijf.",
+    "fr": "Saurez-vous repérer les 14 chats ? Quatre chatons joueurs et dix chats adultes rôdent autour de la grange et des jardins — tenez le compte pendant votre séjour.",
+    "de": "Entdecken Sie alle 14 Katzen? Vier verspielte Kätzchen und zehn ausgewachsene Katzen streifen um die Scheune und durch die Gärten — zählen Sie während Ihres Aufenthalts mit.",
+    "zh": "你能找到全部14只猫吗？四只顽皮的小猫和十只成猫在谷仓和花园自由活动——入住期间不妨数一数。",
+    "ko": "고양이 14마리를 모두 찾을 수 있을까요? 장난기 많은 새끼 고양이 네 마리와 성묘 열 마리가 헛간과 정원을 자유롭게 다닙니다 — 머무는 동안 세어 보세요.",
+    "ja": "14匹の猫を全部見つけられますか？遊び好きな子猫4匹と成猫10匹が納屋と庭を自由に歩き回っています — ご滞在中に数えてみてください。"
   },
   "cats": [
     {
-      "id": "kittens",
-      "count": 4,
+      "id": "cats",
+      "count": 14,
       "name": {
-        "en": "The four kittens",
-        "nl": "De vier kittens",
-        "fr": "Les quatre chatons",
-        "de": "Die vier Kätzchen",
-        "zh": "四只小猫",
-        "ko": "네 마리 새끼 고양이",
-        "ja": "子猫4匹について"
+        "en": "The fourteen cats",
+        "nl": "De veertien katten",
+        "fr": "Les quatorze chats",
+        "de": "Die vierzehn Katzen",
+        "zh": "十四只猫",
+        "ko": "고양이 열네 마리",
+        "ja": "14匹の猫たち"
       },
       "photoMediaId": "cats",
       "personality": {
-        "en": "Four baby kittens — curious, quick and usually found together. They are the easiest to hear and the hardest to count, as they rarely sit still.",
-        "nl": "Vier kittens — nieuwsgierig, snel en meestal samen te vinden. Ze zijn het makkelijkst te horen en het moeilijkst te tellen, want stilzitten doen ze zelden.",
-        "fr": "Quatre chatons — curieux, vifs et généralement inséparables. Ce sont les plus faciles à entendre et les plus difficiles à compter, car ils tiennent rarement en place.",
-        "de": "Vier Kätzchen — neugierig, flink und meist zusammen unterwegs. Sie sind am leichtesten zu hören und am schwersten zu zählen, denn still sitzen sie selten.",
-        "zh": "四只小猫——好奇、动作迅速，通常成群在一起。它们最容易被听到，但也最难数清，因为几乎不肯安静下来。",
-        "ko": "네 마리의 새끼 고양이는 호기심 많고 민첩하며 보통 함께 있는 경우가 많습니다. 소리는 쉽게 들리지만 거의 가만히 있지 않아 정확히 세기 어렵습니다.",
-        "ja": "子猫4匹は好奇心旺盛で素早く、たいてい一緒にいることが多いです。鳴き声で見つけやすい一方、じっとしていないので数えるのは意外と難しいです。"
+        "en": "Fourteen cats call Schuur 80 home — four playful kittens and ten grown cats, each with a character of their own. Some will greet you at the door, others prefer to watch from the orchard or a warm windowsill. The kittens are the easiest to hear and the hardest to count, as they rarely sit still.",
+        "nl": "Veertien katten noemen Schuur 80 hun thuis — vier speelse kittens en tien volwassen katten, elk met een eigen karakter. Sommige begroeten je aan de deur, andere kijken liever toe vanuit de boomgaard of een warme vensterbank. De kittens zijn het makkelijkst te horen en het moeilijkst te tellen, want stilzitten doen ze zelden.",
+        "fr": "Quatorze chats ont élu domicile à Schuur 80 — quatre chatons joueurs et dix chats adultes, chacun avec son caractère. Certains vous accueilleront à la porte, d'autres préfèrent observer depuis le verger ou un rebord de fenêtre ensoleillé. Les chatons sont les plus faciles à entendre et les plus difficiles à compter, car ils tiennent rarement en place.",
+        "de": "Vierzehn Katzen nennen Schuur 80 ihr Zuhause — vier verspielte Kätzchen und zehn ausgewachsene Katzen, jede mit eigenem Charakter. Manche begrüßen Sie an der Tür, andere beobachten lieber vom Obstgarten oder einer warmen Fensterbank aus. Die Kätzchen sind am leichtesten zu hören und am schwersten zu zählen, denn still sitzen sie selten.",
+        "zh": "十四只猫以 Schuur 80 为家——四只顽皮的小猫和十只成猫，性格各异。有的会来门口迎接，有的则喜欢在果园或温暖的窗台上静观。小猫最容易被听到，却最难数清，因为它们几乎不肯安静下来。",
+        "ko": "고양이 열네 마리가 Schuur 80을 집으로 삼고 있습니다 — 장난기 많은 새끼 고양이 네 마리와 저마다 개성이 다른 성묘 열 마리입니다. 어떤 아이는 문 앞에서 반겨주고, 어떤 아이는 과수원이나 따뜻한 창턱에서 지켜보기를 좋아합니다. 새끼 고양이들은 소리는 쉽게 들리지만 거의 가만히 있지 않아 세기가 가장 어렵습니다.",
+        "ja": "14匹の猫がSchuur 80を我が家にしています — 遊び好きな子猫4匹と、それぞれ個性豊かな成猫10匹です。玄関で出迎える子もいれば、果樹園や暖かい窓辺から見守るのが好きな子もいます。子猫は鳴き声で見つけやすい一方、じっとしていないので数えるのが一番難しいです。"
       },
       "feeding": {
-        "pending": true,
-        "status": {
-          "en": "Feeding routine to be confirmed",
-          "nl": "Voederroutine nog te bevestigen",
-          "fr": "Routine de nourrissage à confirmer",
-          "de": "Fütterungsroutine noch zu bestätigen",
-          "zh": "喂食安排待确认",
-          "ko": "사료 급여 일정은 확인 중입니다.",
-          "ja": "給餌の詳細はホストが確認します"
-        },
-        "explanation": {
-          "en": "The host takes care of feeding — guests don't need to feed the kittens. Details will be confirmed.",
-          "nl": "De gastheer zorgt voor het voederen — gasten hoeven de kittens niet te voederen. Details worden nog bevestigd.",
-          "fr": "L'hôte s'occupe du nourrissage — les invités n'ont pas besoin de nourrir les chatons. Les détails seront confirmés.",
-          "de": "Der Gastgeber übernimmt die Fütterung — Gäste müssen die Kätzchen nicht füttern. Details werden noch bestätigt.",
-          "zh": "喂食由房东负责——客人无需为小猫喂食。具体安排将另行确认。",
-          "ko": "사료 급여는 호스트가 관리합니다 — 손님께서 새끼 고양이에게 먹이를 줄 필요는 없습니다. 세부 사항은 확인해 드립니다.",
-          "ja": "給餌はホストが行います — ゲストが子猫に餌を与える必要はありません。詳細はホストが確認してお知らせします。"
-        },
-        "expectedUpdate": {
-          "en": "Expected before your stay",
-          "nl": "Verwacht vóór je verblijf",
-          "fr": "Prévu avant votre séjour",
-          "de": "Erwartet vor Ihrem Aufenthalt",
-          "zh": "预计在您入住前",
-          "ko": "숙박 전에 안내됩니다.",
-          "ja": "ご滞在前に予定されています"
-        }
+        "en": "The host takes care of all feeding — you don't need to feed the cats, and please don't give them table scraps.",
+        "nl": "De gastheer zorgt voor al het voederen — je hoeft de katten niet te voederen, en geef hen liever geen tafelrestjes.",
+        "fr": "L'hôte s'occupe de tout le nourrissage — vous n'avez pas à nourrir les chats, et merci de ne pas leur donner de restes de table.",
+        "de": "Der Gastgeber übernimmt die gesamte Fütterung — Sie müssen die Katzen nicht füttern, und bitte geben Sie ihnen keine Essensreste.",
+        "zh": "喂食完全由房东负责——您无需喂猫，也请不要给它们人吃的剩菜。",
+        "ko": "먹이는 모두 호스트가 챙깁니다 — 고양이에게 먹이를 주실 필요가 없으며, 사람 음식도 주지 말아 주세요.",
+        "ja": "餌やりはすべてホストが行います — 猫に餌を与える必要はなく、食べ残しも与えないでください。"
       },
       "notes": {
-        "en": "Kittens are small and fast — please check under cars, behind doors and around the terrace before driving off or closing up.",
-        "nl": "Kittens zijn klein en snel — kijk even onder auto's, achter deuren en rond het terras voor je wegrijdt of afsluit.",
-        "fr": "Les chatons sont petits et rapides — vérifiez sous les voitures, derrière les portes et autour de la terrasse avant de partir ou de fermer.",
-        "de": "Kätzchen sind klein und schnell — bitte schauen Sie unter Autos, hinter Türen und rund um die Terrasse, bevor Sie losfahren oder abschließen.",
-        "zh": "小猫体型小又机敏——请在启动车辆或关门前检查车底、门后和露台周边。",
-        "ko": "새끼 고양이는 작고 빠릅니다 — 차를 출발시키거나 문을 닫기 전 반드시 차량 밑, 문 뒤, 테라스 주변을 확인해 주세요.",
-        "ja": "子猫は小さく素早いので、出発前や外出前に車の下、ドアの裏、テラス周りなどを必ず確認してください。"
+        "en": "The kittens are small and fast — please check under cars, behind doors and around the terrace before driving off or closing up. Please also keep the cats out of the bedrooms and cinema room.",
+        "nl": "De kittens zijn klein en snel — kijk even onder auto's, achter deuren en rond het terras voor je wegrijdt of afsluit. Houd de katten ook uit de slaapkamers en cinemakamer.",
+        "fr": "Les chatons sont petits et rapides — vérifiez sous les voitures, derrière les portes et autour de la terrasse avant de partir ou de fermer. Merci aussi de tenir les chats hors des chambres et de la salle de cinéma.",
+        "de": "Die Kätzchen sind klein und schnell — bitte schauen Sie unter Autos, hinter Türen und rund um die Terrasse, bevor Sie losfahren oder abschließen. Bitte halten Sie die Katzen außerdem aus den Schlafzimmern und dem Kinoraum.",
+        "zh": "小猫体型小又机敏——请在启动车辆或关门前检查车底、门后和露台周边。另外请勿让猫进入卧室和影院房间。",
+        "ko": "새끼 고양이는 작고 빠릅니다 — 차를 출발시키거나 문을 닫기 전 차량 밑, 문 뒤, 테라스 주변을 확인해 주세요. 또한 고양이가 침실과 시네마 룸에 들어가지 않도록 해 주세요.",
+        "ja": "子猫は小さく素早いので、出発前や戸締まり前に車の下、ドアの裏、テラス周りを必ず確認してください。また、猫は寝室とシネマルームには入れないようにしてください。"
       }
     },
     {
-      "id": "large-cats",
-      "count": 10,
+      "id": "ducks",
       "name": {
-        "en": "The ten large cats",
-        "nl": "De tien grote katten",
-        "fr": "Les dix grands chats",
-        "de": "Die zehn großen Katzen",
-        "zh": "十只成猫",
-        "ko": "성묘 열 마리",
-        "ja": "成猫10匹について"
+        "en": "The ducks",
+        "nl": "De eenden",
+        "fr": "Les canards",
+        "de": "Die Enten",
+        "zh": "鸭子",
+        "ko": "오리들",
+        "ja": "アヒルたち"
       },
-      "photoMediaId": "cats",
+      "photoMediaId": "garden",
       "personality": {
-        "en": "Ten grown cats with ten different characters — some will greet you at the door, others prefer to watch from the orchard or a warm windowsill. Give them time and they will come to you.",
-        "nl": "Tien volwassen katten met tien verschillende karakters — sommige begroeten je aan de deur, andere kijken liever toe vanuit de boomgaard of een warme vensterbank. Geef ze tijd en ze komen vanzelf naar je toe.",
-        "fr": "Dix chats adultes aux dix caractères différents — certains vous accueilleront à la porte, d'autres préfèrent observer depuis le verger ou un rebord de fenêtre ensoleillé. Laissez-leur le temps et ils viendront à vous.",
-        "de": "Zehn ausgewachsene Katzen mit zehn verschiedenen Charakteren — manche begrüßen Sie an der Tür, andere beobachten lieber vom Obstgarten oder einer warmen Fensterbank aus. Geben Sie ihnen Zeit, dann kommen sie von selbst.",
-        "zh": "十只性格各异的成猫——有的会来门口迎接，有的则喜欢在果园或温暖的窗台上静观。给它们一些时间，它们会主动靠近你。",
-        "ko": "성묘 열 마리는 각기 다른 성격을 가지고 있습니다 — 어떤 아이는 문 앞에서 반겨주고, 어떤 아이는 과수원이나 따뜻한 창턱에서 지켜보기를 좋아합니다. 시간을 두고 다가가면 스스로 다가올 것입니다.",
-        "ja": "成猫10匹はそれぞれ性格が違います — 玄関で出迎える子もいれば、果樹園や暖かい窓辺から見守るのが好きな子もいます。時間をかければ近づいてきます。"
+        "en": "A cheerful flock of ducks waddles about the garden and orchard. They go about their own business — expect commentary from a distance rather than cuddles.",
+        "nl": "Een vrolijk groepje eenden waggelt door de tuin en de boomgaard. Ze doen hun eigen ding — verwacht eerder commentaar op afstand dan knuffels.",
+        "fr": "Une joyeuse troupe de canards se dandine dans le jardin et le verger. Ils vaquent à leurs occupations — attendez-vous à des commentaires à distance plutôt qu'à des câlins.",
+        "de": "Eine muntere Entenschar watschelt durch Garten und Obstgarten. Sie gehen ihren eigenen Geschäften nach — erwarten Sie eher Kommentare aus der Ferne als Kuscheleinheiten.",
+        "zh": "一群欢快的鸭子在花园和果园里摇摇摆摆地散步。它们忙自己的事——它们更愿意在远处“评头论足”，而不是让人抱抱。",
+        "ko": "명랑한 오리 무리가 정원과 과수원을 뒤뚱뒤뚱 돌아다닙니다. 오리들은 자기 할 일에 바쁘답니다 — 안기기보다는 멀리서 꽥꽥 참견하는 편입니다.",
+        "ja": "陽気なアヒルの群れが庭と果樹園をよちよち歩き回っています。彼らは自分たちの用事に忙しく、抱っこよりも遠くからのおしゃべりが得意です。"
       },
       "feeding": {
-        "pending": true,
-        "status": {
-          "en": "Feeding routine to be confirmed",
-          "nl": "Voederroutine nog te bevestigen",
-          "fr": "Routine de nourrissage à confirmer",
-          "de": "Fütterungsroutine noch zu bestätigen",
-          "zh": "喂食安排待确认",
-          "ko": "사료 급여 일정은 확인 중입니다.",
-          "ja": "給餌の詳細はホストが確認します"
-        },
-        "explanation": {
-          "en": "The host takes care of feeding — guests don't need to feed the cats. Details will be confirmed.",
-          "nl": "De gastheer zorgt voor het voederen — gasten hoeven de katten niet te voederen. Details worden nog bevestigd.",
-          "fr": "L'hôte s'occupe du nourrissage — les invités n'ont pas besoin de nourrir les chats. Les détails seront confirmés.",
-          "de": "Der Gastgeber übernimmt die Fütterung — Gäste müssen die Katzen nicht füttern. Details werden noch bestätigt.",
-          "zh": "喂食由房东负责——客人无需为成猫喂食。具体安排将另行确认。",
-          "ko": "사료 급여는 호스트가 담당합니다 — 손님께서 고양이에게 먹이를 줄 필요는 없습니다. 세부 내용은 확인해 드립니다.",
-          "ja": "給餌はホストが行います — ゲストが猫に餌を与える必要はありません。詳細はホストが確認してお知らせします。"
-        },
-        "expectedUpdate": {
-          "en": "Expected before your stay",
-          "nl": "Verwacht vóór je verblijf",
-          "fr": "Prévu avant votre séjour",
-          "de": "Erwartet vor Ihrem Aufenthalt",
-          "zh": "预计在您入住前",
-          "ko": "숙박 전에 안내됩니다.",
-          "ja": "ご滞在前に予定されています"
-        }
+        "en": "The host takes care of the ducks — please don't feed them, especially not bread, which isn't good for them.",
+        "nl": "De gastheer zorgt voor de eenden — voeder ze niet zelf, zeker geen brood, want dat is niet goed voor hen.",
+        "fr": "L'hôte s'occupe des canards — merci de ne pas les nourrir, surtout pas de pain, qui ne leur convient pas.",
+        "de": "Der Gastgeber kümmert sich um die Enten — bitte füttern Sie sie nicht, vor allem kein Brot, das ihnen nicht bekommt.",
+        "zh": "鸭子由房东照料——请不要投喂，尤其不要喂面包，那对它们并不好。",
+        "ko": "오리는 호스트가 돌봅니다 — 먹이를 주지 말아 주세요. 특히 빵은 오리 건강에 좋지 않습니다.",
+        "ja": "アヒルの世話はホストが行います — 餌を与えないでください。特にパンはアヒルの体に良くありません。"
       },
       "notes": {
-        "en": "Their names will be confirmed by the host — for now, feel free to invent your own. They won't mind.",
-        "nl": "Hun namen worden nog bevestigd door de gastheer — verzin er gerust zelf eentje. Ze vinden het niet erg.",
-        "fr": "Leurs noms seront confirmés par l'hôte — en attendant, inventez les vôtres. Ils ne s'en offusqueront pas.",
-        "de": "Ihre Namen werden noch vom Gastgeber bestätigt — bis dahin dürfen Sie sich gern eigene ausdenken. Es stört sie nicht.",
-        "zh": "它们的名字将由房东确认——在那之前，您也可以随意给它们起个绰号，它们不会介意。",
-        "ko": "고양이들의 이름은 호스트가 알려드릴 예정입니다 — 그 전까지는 자유롭게 이름을 지어 불러보셔도 좋습니다. 고양이들은 신경 쓰지 않을 거예요.",
-        "ja": "名前はホストがご到着時にご案内します — とりあえずご自身で名前を付けてもかまいません。猫たちは気にしません。"
+        "en": "Give them space and they'll happily share the garden with you. Children love watching them — from a small, friendly distance.",
+        "nl": "Geef ze wat ruimte en ze delen de tuin met plezier met je. Kinderen kijken graag naar hen — vanop een kleine, vriendelijke afstand.",
+        "fr": "Laissez-leur de l'espace et ils partageront volontiers le jardin avec vous. Les enfants adorent les observer — à une petite distance amicale.",
+        "de": "Geben Sie ihnen etwas Raum, dann teilen sie den Garten gerne mit Ihnen. Kinder schauen ihnen liebend gern zu — aus einem kleinen, freundlichen Abstand.",
+        "zh": "给它们一些空间，它们就会乐意与您共享花园。孩子们喜欢观察它们——请保持一点友好的距离。",
+        "ko": "적당한 거리를 두면 오리들도 기꺼이 정원을 함께 나눕니다. 아이들이 구경하기 좋아하는데, 약간의 다정한 거리를 지켜 주세요.",
+        "ja": "少し距離をとってあげれば、アヒルたちは喜んで庭を共有してくれます。子どもたちはアヒルを眺めるのが大好きです — ほどよい距離からどうぞ。"
+      }
+    },
+    {
+      "id": "chickens",
+      "name": {
+        "en": "The chickens",
+        "nl": "De kippen",
+        "fr": "Les poules",
+        "de": "Die Hühner",
+        "zh": "鸡群",
+        "ko": "닭들",
+        "ja": "ニワトリたち"
+      },
+      "photoMediaId": "orchard",
+      "personality": {
+        "en": "The chickens are the hardest workers on the property: they lay fresh eggs that go straight from pen to table. Busy, talkative and endlessly entertaining to watch.",
+        "nl": "De kippen zijn de hardste werkers op het domein: ze leggen verse eieren die rechtstreeks van het hok naar de tafel gaan. Druk, spraakzaam en eindeloos vermakelijk om naar te kijken.",
+        "fr": "Les poules sont les plus grandes travailleuses du domaine : elles pondent des œufs frais qui passent directement de l'enclos à la table. Affairées, bavardes et infiniment divertissantes à observer.",
+        "de": "Die Hühner sind die fleißigsten Arbeiterinnen auf dem Gelände: Sie legen frische Eier, die direkt vom Gehege auf den Tisch kommen. Geschäftig, gesprächig und endlos unterhaltsam zu beobachten.",
+        "zh": "鸡群是这里最勤劳的成员：它们下的新鲜鸡蛋直接从鸡舍送上餐桌。忙碌、爱“聊天”，看它们活动永远不会腻。",
+        "ko": "닭들은 이곳에서 가장 부지런한 일꾼입니다. 닭이 낳은 신선한 달걀은 닭장에서 바로 식탁으로 올라옵니다. 부지런하고 수다스러워 지켜보는 재미가 끝이 없습니다.",
+        "ja": "ニワトリたちはこの敷地で一番の働き者です。産みたての新鮮な卵が小屋からそのまま食卓へ届きます。せわしなく、おしゃべりで、眺めていて飽きることがありません。"
+      },
+      "feeding": {
+        "en": "The host looks after the chickens and collects the eggs — you don't need to feed them or do anything for them.",
+        "nl": "De gastheer zorgt voor de kippen en raapt de eieren — je hoeft ze niet te voederen of iets voor hen te doen.",
+        "fr": "L'hôte s'occupe des poules et ramasse les œufs — vous n'avez rien à faire pour elles, ni à les nourrir.",
+        "de": "Der Gastgeber versorgt die Hühner und sammelt die Eier ein — Sie müssen sie weder füttern noch sich um sie kümmern.",
+        "zh": "鸡由房东照料，鸡蛋也由房东收取——您无需喂鸡，也不用为它们做任何事。",
+        "ko": "닭은 호스트가 돌보며 달걀도 호스트가 수거합니다 — 먹이를 주거나 따로 챙기실 필요가 없습니다.",
+        "ja": "ニワトリの世話と卵の回収はホストが行います — 餌やりなどをしていただく必要はありません。"
+      },
+      "notes": {
+        "en": "Fresh eggs, pen to table — few breakfasts get more local than this. Please keep the coop gate closed so everyone stays where they belong.",
+        "nl": "Verse eieren, van hok naar tafel — veel lokaler dan dit wordt een ontbijt niet. Hou het hek van de ren gesloten zodat iedereen blijft waar die hoort.",
+        "fr": "Des œufs frais, de l'enclos à la table — difficile de faire un petit-déjeuner plus local. Merci de garder la porte du poulailler fermée pour que chacun reste à sa place.",
+        "de": "Frische Eier, vom Gehege auf den Tisch — lokaler kann ein Frühstück kaum sein. Bitte halten Sie das Gattertor des Stalls geschlossen, damit alle dort bleiben, wo sie hingehören.",
+        "zh": "新鲜鸡蛋，从鸡舍直达餐桌——很少有早餐比这更“本地”了。请保持鸡舍门关闭，让大家都待在自己的地方。",
+        "ko": "닭장에서 식탁으로 직행하는 신선한 달걀 — 이보다 더 로컬한 아침 식사는 드뭅니다. 모두가 제자리에 있도록 닭장 문은 꼭 닫아 주세요.",
+        "ja": "小屋から食卓へ届く産みたて卵 — これ以上ローカルな朝食はなかなかありません。みんなが居場所から出ないよう、鶏小屋の扉は閉めておいてください。"
       }
     }
   ],
@@ -154,13 +151,13 @@
       "ja": "猫を寝室やシネマルームに入れないでください。"
     },
     {
-      "en": "The host takes care of feeding — please don't feed them table scraps.",
-      "nl": "De gastheer zorgt voor het voederen — geef hen geen tafelrestjes.",
-      "fr": "L'hôte s'occupe du nourrissage — merci de ne pas leur donner de restes de table.",
-      "de": "Der Gastgeber übernimmt die Fütterung — bitte keine Essensreste geben.",
-      "zh": "喂食由房东负责——请不要给猫喂人吃的零食或剩菜。",
-      "ko": "사료는 호스트가 관리합니다 — 사람 음식(테이블 스크랩)은 주지 말아 주세요.",
-      "ja": "給餌はホストが行います — テーブルの残り物を与えないでください。"
+      "en": "The host takes care of all feeding — please don't feed the cats, ducks or chickens.",
+      "nl": "De gastheer zorgt voor al het voederen — geef de katten, eenden en kippen zelf geen eten.",
+      "fr": "L'hôte s'occupe de tout le nourrissage — merci de ne pas nourrir les chats, canards ou poules.",
+      "de": "Der Gastgeber übernimmt die gesamte Fütterung — bitte füttern Sie weder Katzen noch Enten oder Hühner.",
+      "zh": "喂食全部由房东负责——请不要投喂猫、鸭子或鸡。",
+      "ko": "먹이는 모두 호스트가 챙깁니다 — 고양이, 오리, 닭에게 먹이를 주지 말아 주세요.",
+      "ja": "餌やりはすべてホストが行います — 猫・アヒル・ニワトリに餌を与えないでください。"
     },
     {
       "en": "With four kittens around, please close outside doors behind you and check before driving off.",
@@ -170,6 +167,15 @@
       "zh": "院内有四只小猫时，请随手关好外门，并在开车前检查周围。",
       "ko": "새끼 고양이 네 마리가 있으니, 외부 출입문은 항상 닫아 두고 차량 출발 전 확인해 주세요.",
       "ja": "子猫がいるため、外のドアは閉める際に必ず閉め、出発前には確認してください。"
+    },
+    {
+      "en": "Enjoy the ducks and chickens from a friendly distance, and keep the coop gate closed.",
+      "nl": "Geniet van de eenden en kippen vanop een vriendelijke afstand, en hou het hek van de ren gesloten.",
+      "fr": "Profitez des canards et des poules à une distance amicale, et gardez la porte du poulailler fermée.",
+      "de": "Genießen Sie Enten und Hühner aus freundlichem Abstand und halten Sie das Gattertor geschlossen.",
+      "zh": "请与鸭子和鸡保持友好距离，欣赏即可，并保持鸡舍门关闭。",
+      "ko": "오리와 닭은 다정한 거리에서 즐겨 주시고, 닭장 문은 꼭 닫아 주세요.",
+      "ja": "アヒルとニワトリはほどよい距離から楽しみ、鶏小屋の扉は閉めておいてください。"
     }
   ]
 }

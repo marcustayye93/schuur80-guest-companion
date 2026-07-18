@@ -42,7 +42,7 @@
     "storySub": "瓦斯兰地区一座修复的历史谷仓",
     "exploreHouse": "探索房屋",
     "exploreGarden": "走进花园",
-    "meetCats": "认识猫咪",
+    "meetCats": "认识小动物们",
     "arrivalCard": "抵达与入住",
     "arrivalCardSub": "路线、停车与入内方式",
     "checkoutCard": "退房",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "花园与果园",
-    "subtitle": "户外空间、热水浴缸、烧烤与猫咪",
-    "cats": "猫咪们",
-    "catsSub": "认识常住成员",
+    "subtitle": "户外、热水浴缸、烧烤和小动物们",
+    "cats": "小动物们",
+    "catsSub": "猫、鸭子和鸡",
     "outdoor": "户外设施"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "拨打"
   },
   "cats": {
-    "title": "关于猫咪",
-    "personality": "性格",
-    "feeding": "喂食",
+    "title": "小动物们",
+    "personality": "关于它们",
+    "feeding": "喂食与照料",
     "notes": "温馨提示",
     "rules": "如何成为一个好室友",
     "fallbackName": "猫咪",
@@ -128,7 +128,7 @@
       "guides": "指南",
       "faqs": "常见问题",
       "recommendations": "周边与出行",
-      "cats": "猫咪"
+      "cats": "动物"
     }
   },
   "settings": {

@@ -101,16 +101,24 @@ function buildIndex(): SearchDoc[] {
         .toLowerCase(),
     });
   }
-  cats.forEach((c, i) => {
+  for (const c of cats) {
     docs.push({
       section: "cats",
       href: `/cats/${c.id}`,
-      title: isPending(c.name) ? `Cat ${i + 1}` : (c.name as string),
-      haystack: ["cat kat chat katze poes", isPending(c.name) ? "" : (c.name as string)]
+      title: isPending(c.name) ? "—" : (c.name as LocalizedString),
+      haystack: [
+        "animal dier animaux tiere 动物 동물 動物",
+        c.id === "cats" ? "cat kat chat katze poes kitten 猫 고양이" : "",
+        c.id === "ducks" ? "duck eend canard ente 鸭 오리 アヒル" : "",
+        c.id === "chickens"
+          ? "chicken kip poule huhn hen egg eieren ei œufs 鸡 鸡蛋 닭 달걀 ニワトリ 卵"
+          : "",
+        isPending(c.name) ? "" : textOf(c.name as LocalizedString),
+      ]
         .join(" ")
         .toLowerCase(),
     });
-  });
+  }
   return docs;
 }
 

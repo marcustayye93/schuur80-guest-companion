@@ -42,7 +42,7 @@
     "storySub": "Een gerestaureerde erfgoedschuur in het Waasland",
     "exploreHouse": "Ontdek het huis",
     "exploreGarden": "De tuin in",
-    "meetCats": "Ontmoet de katten",
+    "meetCats": "Ontmoet de dieren",
     "arrivalCard": "Aankomst & check-in",
     "arrivalCardSub": "Route, parkeren, binnenkomen",
     "checkoutCard": "Uitchecken",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "Tuin & Boomgaard",
-    "subtitle": "Buitenleven, de hottub, de BBQ en de katten",
-    "cats": "De katten",
-    "catsSub": "Ontmoet de bewoners",
+    "subtitle": "Buiten, de hottub, de BBQ en de dieren",
+    "cats": "De dieren",
+    "catsSub": "Katten, eenden & kippen",
     "outdoor": "Buitenvoorzieningen"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "Bellen"
   },
   "cats": {
-    "title": "De Katten",
-    "personality": "Karakter",
-    "feeding": "Voeding",
+    "title": "De Dieren",
+    "personality": "Over hen",
+    "feeding": "Voeding & verzorging",
     "notes": "Goed om te weten",
     "rules": "Een goede huisgenoot zijn",
     "fallbackName": "Kat",
@@ -128,7 +128,7 @@
       "guides": "Gidsen",
       "faqs": "Veelgestelde vragen",
       "recommendations": "Eropuit",
-      "cats": "Katten"
+      "cats": "Dieren"
     }
   },
   "settings": {

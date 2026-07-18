@@ -1,13 +1,10 @@
-# Task: Confirmed host facts update (cleaning, keys, alarm, owners next door)
+# Task: Animals rework — group cats, add ducks & chickens (fresh eggs)
 
-- [ ] Find all content touching: cleaning/towels, door locks/keys, alarm system, host proximity/help
-- [ ] Update devices.json alarm entry (no night alarm; owners next door)
-- [ ] Update relevant FAQs (cleaning/towels, locking up, help nearby)
-- [ ] Update guides (house rules / arrival / checkout) where locking or cleaning is mentioned
-- [ ] Update pending-register.json — remove resolved items
-- [ ] Translate all new/changed strings into nl, fr, de, zh, ko, ja
-- [ ] TypeScript check clean
-- [ ] Verify rendering on dev server (EN + one CJK spot check)
-- [ ] Bump SW version to v1.7.0
-- [ ] Deploy via deploy.sh, push main, verify live
-- [ ] Save checkpoint and deliver
+- [ ] cats.json: rewrite as animals content — one group entry for 14 cats (4 kittens), no individual profiles/names; add ducks entry; add chickens entry with fresh eggs pen-to-table; update intro + challenge + rules (7 langs)
+- [ ] Remove cat-names pending item from pending-register.json; adjust feeding item to cover all animals
+- [ ] Check faqs.json cat FAQs and Cats.tsx / Garden.tsx for name assumptions; update copy to include ducks & chickens
+- [ ] translations: garden.cats / catsSub labels may need to become "The animals"; update 7 files if needed
+- [ ] Bump SW v1.7.0 → v1.8.0; tsc check; JSON validate
+- [ ] Screenshots: /garden and animals page; verify EN + one CJK
+- [ ] Deploy gh-pages + push main; verify live v1.8.0; checkpoint
+- [ ] Deliver

@@ -193,6 +193,28 @@
       }
     },
     {
+      "id": "faq-animals",
+      "category": "cats",
+      "question": {
+        "en": "What animals live at Schuur 80?",
+        "nl": "Welke dieren wonen op Schuur 80?",
+        "fr": "Quels animaux vivent à Schuur 80 ?",
+        "de": "Welche Tiere leben auf Schuur 80?",
+        "zh": "Schuur 80 有哪些动物？",
+        "ko": "Schuur 80에는 어떤 동물이 사나요?",
+        "ja": "Schuur 80にはどんな動物がいますか？"
+      },
+      "answer": {
+        "en": "Fourteen cats (four of them kittens), a flock of ducks and a coop of chickens. The chickens lay fresh eggs that go straight from pen to table. The host takes care of all the animals — please enjoy them without feeding them.",
+        "nl": "Veertien katten (waarvan vier kittens), een groepje eenden en een ren vol kippen. De kippen leggen verse eieren die rechtstreeks van het hok naar de tafel gaan. De gastheer zorgt voor alle dieren — geniet van hen zonder ze te voederen.",
+        "fr": "Quatorze chats (dont quatre chatons), des canards et un poulailler. Les poules pondent des œufs frais qui passent directement de l'enclos à la table. L'hôte s'occupe de tous les animaux — profitez-en sans les nourrir.",
+        "de": "Vierzehn Katzen (davon vier Kätzchen), eine Entenschar und ein Hühnerstall. Die Hühner legen frische Eier, die direkt vom Gehege auf den Tisch kommen. Der Gastgeber versorgt alle Tiere — genießen Sie sie, ohne sie zu füttern.",
+        "zh": "这里有十四只猫（其中四只是小猫）、一群鸭子和一窝鸡。鸡下的新鲜鸡蛋直接从鸡舍送上餐桌。所有动物均由房东照料——请尽情欣赏，但不要投喂。",
+        "ko": "고양이 14마리(그중 4마리는 새끼 고양이), 오리 무리, 그리고 닭장 속 닭들이 살고 있습니다. 닭이 낳은 신선한 달걀은 닭장에서 바로 식탁으로 올라옵니다. 모든 동물은 호스트가 돌보니, 먹이를 주지 않고 구경만 즐겨 주세요.",
+        "ja": "14匹の猫（うち4匹は子猫）、アヒルの群れ、そしてニワトリたちが暮らしています。ニワトリの産みたて卵は小屋からそのまま食卓へ届きます。動物たちのお世話はすべてホストが行いますので、餌は与えずに眺めてお楽しみください。"
+      }
+    },
+    {
       "id": "faq-smoking",
       "category": "house",
       "question": {

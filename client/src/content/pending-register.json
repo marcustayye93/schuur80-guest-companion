@@ -2,63 +2,24 @@
   "note": "Pending Content Register — every item of unknown information awaiting host confirmation. Nothing here may be invented.",
   "items": [
     {
-      "id": "cat-names",
-      "area": {
-        "en": "Cats",
-        "nl": "Katten",
-        "fr": "Chats",
-        "de": "Katzen",
-        "zh": "猫咪",
-        "ko": "고양이",
-        "ja": "猫たちについてのご案内です"
-      },
-      "item": {
-        "en": "Names of the 14 cats (4 kittens, 10 large cats)",
-        "nl": "Namen van de 14 katten (4 kittens, 10 grote katten)",
-        "fr": "Noms des 14 chats (4 chatons, 10 grands chats)",
-        "de": "Namen der 14 Katzen (4 Kätzchen, 10 große Katzen)",
-        "zh": "14只猫的名字（4只小猫，10只成猫）",
-        "ko": "14마리 고양이 이름(새끼 4마리, 어른 10마리)",
-        "ja": "14匹の猫の名前（子猫4匹、成猫10匹）の一覧です"
-      },
-      "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストの準備をお待ちください"
-      },
-      "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前须知",
-        "ko": "숙박 전 안내",
-        "ja": "ご滞在前にご確認ください"
-      }
-    },
-    {
       "id": "feeding",
       "area": {
-        "en": "Cats",
-        "nl": "Katten",
-        "fr": "Chats",
-        "de": "Katzen",
-        "zh": "猫咪",
-        "ko": "고양이",
-        "ja": "猫たちについてのご案内です"
+        "en": "Animals",
+        "nl": "Dieren",
+        "fr": "Animaux",
+        "de": "Tiere",
+        "zh": "动物",
+        "ko": "동물",
+        "ja": "動物たち"
       },
       "item": {
-        "en": "Feeding instructions",
-        "nl": "Voederinstructies",
-        "fr": "Consignes de nourrissage",
-        "de": "Fütterungshinweise",
-        "zh": "喂食指南",
-        "ko": "먹이 주기 안내",
-        "ja": "餌やりのご案内です"
+        "en": "Animal care details (cats, ducks, chickens) — feeding times and any guest involvement",
+        "nl": "Details dierenverzorging (katten, eenden, kippen) — voedertijden en eventuele rol van gasten",
+        "fr": "Détails des soins aux animaux (chats, canards, poules) — horaires de nourrissage et rôle éventuel des invités",
+        "de": "Details zur Tierversorgung (Katzen, Enten, Hühner) — Fütterungszeiten und etwaige Gästebeteiligung",
+        "zh": "动物照料细节（猫、鸭、鸡）——喂食时间及客人是否可参与",
+        "ko": "동물 돌봄 세부사항(고양이, 오리, 닭) — 급여 시간 및 손님 참여 여부",
+        "ja": "動物のお世話の詳細（猫・アヒル・ニワトリ） — 餌やりの時間やゲストの関わり方"
       },
       "status": {
         "en": "Awaiting host workshop",

@@ -42,7 +42,7 @@
     "storySub": "A restored heritage barn in the Waasland",
     "exploreHouse": "Explore the house",
     "exploreGarden": "Into the garden",
-    "meetCats": "Meet the cats",
+    "meetCats": "Meet the animals",
     "arrivalCard": "Arrival & check-in",
     "arrivalCardSub": "Directions, parking, getting inside",
     "checkoutCard": "Checkout",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "Garden & Orchard",
-    "subtitle": "The outdoors, the hot tub, the BBQ and the cats",
-    "cats": "The cats",
-    "catsSub": "Meet the residents",
+    "subtitle": "The outdoors, the hot tub, the BBQ and the animals",
+    "cats": "The animals",
+    "catsSub": "Cats, ducks & chickens",
     "outdoor": "Outdoor amenities"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "Call"
   },
   "cats": {
-    "title": "The Cats",
-    "personality": "Personality",
-    "feeding": "Feeding",
+    "title": "The Animals",
+    "personality": "About them",
+    "feeding": "Feeding & care",
     "notes": "Good to know",
     "rules": "Being a good housemate",
     "fallbackName": "Cat",
@@ -128,7 +128,7 @@
       "guides": "Guides",
       "faqs": "FAQs",
       "recommendations": "Out & about",
-      "cats": "Cats"
+      "cats": "Animals"
     }
   },
   "settings": {

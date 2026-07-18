@@ -42,7 +42,7 @@
     "storySub": "Une grange patrimoniale restaurée au Waasland",
     "exploreHouse": "Explorer la maison",
     "exploreGarden": "Vers le jardin",
-    "meetCats": "Rencontrer les chats",
+    "meetCats": "Rencontrez les animaux",
     "arrivalCard": "Arrivée & check-in",
     "arrivalCardSub": "Itinéraire, parking, entrer",
     "checkoutCard": "Départ",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "Jardin & Verger",
-    "subtitle": "L'extérieur, le jacuzzi, le barbecue et les chats",
-    "cats": "Les chats",
-    "catsSub": "Rencontrez les résidents",
+    "subtitle": "L'extérieur, le jacuzzi, le barbecue et les animaux",
+    "cats": "Les animaux",
+    "catsSub": "Chats, canards & poules",
     "outdoor": "Équipements extérieurs"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "Appeler"
   },
   "cats": {
-    "title": "Les Chats",
-    "personality": "Caractère",
-    "feeding": "Nourrissage",
+    "title": "Les Animaux",
+    "personality": "À leur sujet",
+    "feeding": "Nourrissage & soins",
     "notes": "Bon à savoir",
     "rules": "Être un bon colocataire",
     "fallbackName": "Chat",
@@ -128,7 +128,7 @@
       "guides": "Guides",
       "faqs": "Questions fréquentes",
       "recommendations": "Aux alentours",
-      "cats": "Chats"
+      "cats": "Animaux"
     }
   },
   "settings": {

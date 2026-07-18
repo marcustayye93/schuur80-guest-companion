@@ -42,7 +42,7 @@
     "storySub": "Waaslandにある修復された歴史的納屋です。",
     "exploreHouse": "館内をご覧ください",
     "exploreGarden": "庭をご案内します",
-    "meetCats": "猫たちに会ってください",
+    "meetCats": "動物たちに会う",
     "arrivalCard": "ご到着とチェックイン",
     "arrivalCardSub": "道順、駐車、入室方法",
     "checkoutCard": "チェックアウトについて",
@@ -69,9 +69,9 @@
   },
   "garden": {
     "title": "庭と果樹園",
-    "subtitle": "屋外設備（ホットタブ、BBQ）と猫について",
-    "cats": "猫たち",
-    "catsSub": "住人のご紹介",
+    "subtitle": "屋外・ホットタブ・BBQ・動物たちのご案内です",
+    "cats": "動物たち",
+    "catsSub": "猫・アヒル・ニワトリ",
     "outdoor": "屋外設備"
   },
   "guide": {
@@ -109,9 +109,9 @@
     "call": "電話する"
   },
   "cats": {
-    "title": "猫たち",
-    "personality": "性格",
-    "feeding": "餌やり",
+    "title": "動物たちのご紹介です",
+    "personality": "どんな子たちかご紹介します",
+    "feeding": "餌やりとお世話について",
     "notes": "知っておくと良いこと",
     "rules": "同居者としての心得",
     "fallbackName": "猫",
@@ -128,7 +128,7 @@
       "guides": "ガイド",
       "faqs": "よくある質問",
       "recommendations": "お出かけ情報",
-      "cats": "猫たち"
+      "cats": "動物"
     }
   },
   "settings": {
