@@ -57,7 +57,13 @@ pnpm exec vite build   # production build (dist/public)
 
 ## Deployment
 
-Every push to `main` triggers the **Deploy to GitHub Pages** workflow (`.github/workflows/deploy.yml`), which builds the app with the project-site base path (`/schuur80-guest-companion/`), adds a SPA fallback `404.html`, and publishes to GitHub Pages. The service worker registers relative to the base path, so the same code also works when hosted at a domain root.
+The site is published to **GitHub Pages** from the `gh-pages` branch. To redeploy after making changes, run:
+
+```bash
+./deploy.sh
+```
+
+The script builds the app with the project-site base path (`/schuur80-guest-companion/`), adds a SPA fallback `404.html`, bundles the photographic assets under `manus-storage/`, and force-pushes the result to the `gh-pages` branch. Routing and media resolution are base-path aware (via Vite's `BASE_URL`), so the same code also works when hosted at a domain root.
 
 ## Languages
 
