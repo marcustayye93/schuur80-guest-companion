@@ -3,7 +3,7 @@
  * Official contact details from the Schuur 80 name card:
  * +32 477 78 30 42 · info@schuur80.be · schuur80.be
  */
-import { Phone, Mail, Globe } from "lucide-react";
+import { Phone, Mail, Globe, MessageCircle } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 
 export const HOST_CONTACT = {
@@ -13,6 +13,7 @@ export const HOST_CONTACT = {
   emailHref: "mailto:info@schuur80.be",
   websiteDisplay: "schuur80.be",
   websiteHref: "https://schuur80.be",
+  whatsappHref: "https://wa.me/32477783042",
 } as const;
 
 export default function HostContactCard() {
@@ -25,6 +26,14 @@ export default function HostContactCard() {
       value: HOST_CONTACT.phoneDisplay,
       href: HOST_CONTACT.phoneHref,
       external: false,
+    },
+    {
+      key: "whatsapp",
+      icon: MessageCircle,
+      label: t("contact.whatsapp"),
+      value: HOST_CONTACT.phoneDisplay,
+      href: HOST_CONTACT.whatsappHref,
+      external: true,
     },
     {
       key: "email",

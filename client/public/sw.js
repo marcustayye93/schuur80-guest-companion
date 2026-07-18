@@ -8,7 +8,7 @@
  *  - All app content is bundled JSON, so pages work fully offline once
  *    the shell is cached.
  */
-const VERSION = "v1.4.0";
+const VERSION = "v1.4.1";
 const SHELL_CACHE = `schuur80-shell-${VERSION}`;
 const RUNTIME_CACHE = `schuur80-runtime-${VERSION}`;
 

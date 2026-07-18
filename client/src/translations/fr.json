@@ -186,6 +186,7 @@
   "contact": {
     "call": "Appeler l'hôte",
     "email": "E-mail",
-    "website": "Site web"
+    "website": "Site web",
+    "whatsapp": "WhatsApp"
   }
 }
