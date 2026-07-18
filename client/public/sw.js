@@ -8,12 +8,12 @@
  *  - All app content is bundled JSON, so pages work fully offline once
  *    the shell is cached.
  */
-const VERSION = "v1.0.0";
+const VERSION = "v1.1.0";
 const SHELL_CACHE = `schuur80-shell-${VERSION}`;
 const RUNTIME_CACHE = `schuur80-runtime-${VERSION}`;
 
 /* Relative to SW scope so the same file works at / and /repo-name/ */
-const SHELL_ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
+const SHELL_ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-maskable-512.png", "./icons/apple-touch-icon.png"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

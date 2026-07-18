@@ -25,40 +25,34 @@ import {
 import { LANGUAGES, useLanguage } from "@/contexts/LanguageContext";
 import { cn } from "@/lib/utils";
 
-/** Minimal terracotta barn-gable line mark — the Schuur 80 brand symbol. */
+/** Official Schuur 80 emblem — arched barn window/fanlight mark, recreated from the embroidered brand mark. */
 export function BarnMark({ className }: { className?: string }) {
   return (
     <svg
-      viewBox="0 0 32 32"
+      viewBox="0 0 96 116"
       fill="none"
       className={className}
       aria-hidden
       role="presentation"
+      stroke="currentColor"
+      strokeWidth="7"
+      strokeLinecap="square"
+      strokeLinejoin="miter"
     >
-      {/* gable roof */}
-      <path
-        d="M4 15.5 16 5l12 10.5"
-        stroke="currentColor"
-        strokeWidth="2.2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      {/* barn body */}
-      <path
-        d="M7 14.5V26h18V14.5"
-        stroke="currentColor"
-        strokeWidth="2.2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      {/* barn door */}
-      <path
-        d="M13 26v-6.5a3 3 0 0 1 6 0V26"
-        stroke="currentColor"
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
+      {/* arched outline: round arch top, straight sides, flat bottom */}
+      <path d="M8 108V48a40 40 0 0 1 80 0v60H8Z" />
+      {/* transom / springing line */}
+      <path d="M8 48h80" />
+      {/* lower horizontal */}
+      <path d="M8 79h80" />
+      {/* arch mullions */}
+      <path d="M38 11v37M58 11v37" />
+      {/* middle band: left stub mullion */}
+      <path d="M30 48v31" />
+      {/* right column running to the bottom */}
+      <path d="M68 48v60" />
+      {/* shelf inside right column */}
+      <path d="M68 63h20" />
     </svg>
   );
 }
