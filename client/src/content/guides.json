@@ -1,0 +1,175 @@
+{
+  "guides": [
+    {
+      "id": "arrival-guide",
+      "category": "arrival",
+      "name": { "en": "Arrival & Check-in", "nl": "Aankomst & Check-in", "fr": "Arrivée & Check-in", "de": "Ankunft & Check-in" },
+      "summary": {
+        "en": "Directions, parking and how to get inside",
+        "nl": "Routebeschrijving, parkeren en hoe je binnenkomt",
+        "fr": "Itinéraire, parking et comment entrer",
+        "de": "Anfahrt, Parken und wie Sie hineinkommen"
+      },
+      "icon": "key-round",
+      "mediaId": "arrival",
+      "steps": [
+        {
+          "title": { "en": "Getting here", "nl": "Hierheen komen", "fr": "Venir ici", "de": "Anreise" },
+          "body": {
+            "en": "Schuur 80 is at Perstraat 80, 9120 Haasdonk, Belgium — about 15 minutes from Antwerp and 40 minutes from Ghent by car. Set your navigation to 'Perstraat 80, Haasdonk'.",
+            "nl": "Schuur 80 ligt aan Perstraat 80, 9120 Haasdonk, België — zo'n 15 minuten van Antwerpen en 40 minuten van Gent met de auto. Stel je navigatie in op 'Perstraat 80, Haasdonk'.",
+            "fr": "Schuur 80 se trouve Perstraat 80, 9120 Haasdonk, Belgique — à environ 15 minutes d'Anvers et 40 minutes de Gand en voiture. Réglez votre GPS sur « Perstraat 80, Haasdonk ».",
+            "de": "Schuur 80 liegt in der Perstraat 80, 9120 Haasdonk, Belgien — etwa 15 Minuten von Antwerpen und 40 Minuten von Gent mit dem Auto. Geben Sie 'Perstraat 80, Haasdonk' ins Navi ein."
+          }
+        },
+        {
+          "title": { "en": "Parking", "nl": "Parkeren", "fr": "Parking", "de": "Parken" },
+          "body": {
+            "en": "There is private parking on the property, including EV charging. Exact parking layout and charger instructions will be confirmed by the host.",
+            "nl": "Er is privéparking op het domein, inclusief EV-laadpunt. De exacte parkeerindeling en laadinstructies worden nog bevestigd door de gastheer.",
+            "fr": "Un parking privé est disponible sur la propriété, avec borne de recharge. Le plan exact du parking et les instructions de recharge seront confirmés par l'hôte.",
+            "de": "Auf dem Grundstück gibt es private Parkplätze inklusive E-Ladestation. Die genaue Parkanordnung und Ladeanweisungen werden noch vom Gastgeber bestätigt."
+          }
+        },
+        {
+          "title": { "en": "Check-in", "nl": "Inchecken", "fr": "Check-in", "de": "Check-in" },
+          "body": { "pending": true }
+        },
+        {
+          "title": { "en": "Alarm & locks", "nl": "Alarm & sloten", "fr": "Alarme & serrures", "de": "Alarm & Schlösser" },
+          "body": { "pending": true }
+        },
+        {
+          "title": { "en": "First evening tips", "nl": "Tips voor de eerste avond", "fr": "Conseils pour le premier soir", "de": "Tipps für den ersten Abend" },
+          "body": {
+            "en": "Once you're in: find the kitchen, put something in the fridge, and take a slow walk through the orchard before dark. The barn reveals itself best at dusk.",
+            "nl": "Eenmaal binnen: vind de keuken, zet iets in de koelkast en maak voor het donker een trage wandeling door de boomgaard. De schuur toont zich het mooist in de schemering.",
+            "fr": "Une fois entré : repérez la cuisine, mettez quelque chose au frigo et promenez-vous lentement dans le verger avant la nuit. La grange se révèle au crépuscule.",
+            "de": "Sobald Sie drin sind: Küche finden, etwas in den Kühlschrank stellen und vor Einbruch der Dunkelheit langsam durch den Obstgarten spazieren. Die Scheune zeigt sich in der Dämmerung am schönsten."
+          }
+        }
+      ]
+    },
+    {
+      "id": "checkout-guide",
+      "category": "checkout",
+      "name": { "en": "Checkout", "nl": "Uitchecken", "fr": "Départ", "de": "Check-out" },
+      "summary": {
+        "en": "A few small things before you go",
+        "nl": "Een paar kleine dingen voor je vertrekt",
+        "fr": "Quelques petites choses avant de partir",
+        "de": "Ein paar kleine Dinge vor der Abreise"
+      },
+      "icon": "door-open",
+      "steps": [
+        {
+          "title": { "en": "Checkout time", "nl": "Uitchecktijd", "fr": "Heure de départ", "de": "Check-out-Zeit" },
+          "body": { "pending": true }
+        }
+      ],
+      "checklist": [
+        { "label": { "en": "Load and run the dishwasher", "nl": "Vul en start de vaatwasser", "fr": "Remplissez et lancez le lave-vaisselle", "de": "Geschirrspüler einräumen und starten" } },
+        { "label": { "en": "Take out waste — sorting rules to be confirmed", "nl": "Zet het afval buiten — sorteerregels nog te bevestigen", "fr": "Sortez les déchets — règles de tri à confirmer", "de": "Müll rausbringen — Trennregeln werden noch bestätigt" } },
+        { "label": { "en": "Close all windows and doors", "nl": "Sluit alle ramen en deuren", "fr": "Fermez toutes les fenêtres et portes", "de": "Alle Fenster und Türen schließen" } },
+        { "label": { "en": "Switch off lights and appliances", "nl": "Schakel lichten en toestellen uit", "fr": "Éteignez lumières et appareils", "de": "Licht und Geräte ausschalten" } },
+        { "label": { "en": "Put the hot tub cover back on", "nl": "Leg het deksel terug op de hottub", "fr": "Remettez la couverture du jacuzzi", "de": "Whirlpool-Abdeckung wieder auflegen" } },
+        { "label": { "en": "Return keys — procedure to be confirmed", "nl": "Geef de sleutels terug — procedure nog te bevestigen", "fr": "Rendez les clés — procédure à confirmer", "de": "Schlüssel zurückgeben — Ablauf wird noch bestätigt" } }
+      ]
+    },
+    {
+      "id": "garden-guide",
+      "category": "garden",
+      "name": { "en": "Garden & Orchard", "nl": "Tuin & Boomgaard", "fr": "Jardin & Verger", "de": "Garten & Obstgarten" },
+      "summary": {
+        "en": "The hot tub, BBQ, orchard and outdoor life",
+        "nl": "De hottub, BBQ, boomgaard en het buitenleven",
+        "fr": "Le jacuzzi, le barbecue, le verger et la vie dehors",
+        "de": "Whirlpool, Grill, Obstgarten und das Leben draußen"
+      },
+      "icon": "trees",
+      "mediaId": "garden",
+      "steps": [
+        {
+          "title": { "en": "The orchard", "nl": "De boomgaard", "fr": "Le verger", "de": "Der Obstgarten" },
+          "body": {
+            "en": "The orchard and large garden are yours to wander. In season, you're welcome to taste the fruit — please leave the trees and beds as you found them.",
+            "nl": "De boomgaard en grote tuin zijn van jou om in rond te dwalen. In het seizoen mag je van het fruit proeven — laat de bomen en borders achter zoals je ze vond.",
+            "fr": "Le verger et le grand jardin sont à vous. En saison, goûtez les fruits — merci de laisser arbres et massifs tels que vous les avez trouvés.",
+            "de": "Obstgarten und großer Garten stehen Ihnen offen. In der Saison dürfen Sie das Obst probieren — bitte hinterlassen Sie Bäume und Beete, wie Sie sie vorgefunden haben."
+          }
+        },
+        {
+          "title": { "en": "Hot tub", "nl": "Hottub", "fr": "Jacuzzi", "de": "Whirlpool" },
+          "body": { "pending": true }
+        },
+        {
+          "title": { "en": "BBQ", "nl": "BBQ", "fr": "Barbecue", "de": "Grill" },
+          "body": { "pending": true }
+        },
+        {
+          "title": { "en": "Evenings outside", "nl": "Avonden buiten", "fr": "Soirées dehors", "de": "Abende draußen" },
+          "body": {
+            "en": "Haasdonk is quiet countryside — please keep outdoor noise low after 22:00 out of respect for the neighbours and the cats.",
+            "nl": "Haasdonk is rustig platteland — houd het buiten stil na 22:00 uit respect voor de buren en de katten.",
+            "fr": "Haasdonk est une campagne paisible — merci de rester discret dehors après 22h, par respect pour les voisins et les chats.",
+            "de": "Haasdonk ist ruhiges Land — bitte nach 22:00 Uhr draußen leise sein, aus Rücksicht auf Nachbarn und Katzen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fireplace-guide",
+      "category": "house",
+      "name": { "en": "Fireplace", "nl": "Haard", "fr": "Cheminée", "de": "Kamin" },
+      "summary": {
+        "en": "How to light and tend the fire safely",
+        "nl": "Hoe je het vuur veilig aansteekt en onderhoudt",
+        "fr": "Comment allumer et entretenir le feu en sécurité",
+        "de": "Wie man das Feuer sicher entzündet und pflegt"
+      },
+      "icon": "flame",
+      "steps": [
+        {
+          "title": { "en": "Before lighting", "nl": "Voor het aansteken", "fr": "Avant d'allumer", "de": "Vor dem Anzünden" },
+          "body": { "pending": true }
+        }
+      ]
+    },
+    {
+      "id": "house-rules",
+      "category": "house",
+      "name": { "en": "House Rules", "nl": "Huisregels", "fr": "Règles de la maison", "de": "Hausregeln" },
+      "summary": {
+        "en": "How we care for the barn together",
+        "nl": "Hoe we samen zorg dragen voor de schuur",
+        "fr": "Comment prendre soin de la grange ensemble",
+        "de": "Wie wir gemeinsam die Scheune pflegen"
+      },
+      "icon": "scroll-text",
+      "steps": [
+        {
+          "title": { "en": "Full house rules", "nl": "Volledige huisregels", "fr": "Règles complètes", "de": "Vollständige Hausregeln" },
+          "body": { "pending": true }
+        }
+      ]
+    },
+    {
+      "id": "waste-guide",
+      "category": "checkout",
+      "name": { "en": "Waste & Recycling", "nl": "Afval & Sorteren", "fr": "Déchets & Tri", "de": "Müll & Recycling" },
+      "summary": {
+        "en": "Where everything goes",
+        "nl": "Waar alles naartoe gaat",
+        "fr": "Où tout va",
+        "de": "Wohin alles gehört"
+      },
+      "icon": "recycle",
+      "steps": [
+        {
+          "title": { "en": "Sorting rules", "nl": "Sorteerregels", "fr": "Règles de tri", "de": "Trennregeln" },
+          "body": { "pending": true }
+        }
+      ]
+    }
+  ]
+}

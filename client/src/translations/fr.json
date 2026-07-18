@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "Votre compagnon de séjour",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgique"
+  },
+  "nav": {
+    "home": "Accueil",
+    "house": "Maison",
+    "garden": "Jardin",
+    "guide": "Guide",
+    "help": "Aide"
+  },
+  "actions": {
+    "search": "Rechercher",
+    "searchPlaceholder": "Chercher dans la maison, guides, FAQ…",
+    "language": "Langue",
+    "contactHost": "Contacter l'hôte",
+    "back": "Retour",
+    "close": "Fermer",
+    "viewAll": "Tout voir",
+    "openGuide": "Ouvrir le guide",
+    "settings": "Réglages",
+    "install": "Installer l'app",
+    "retry": "Réessayer"
+  },
+  "offline": {
+    "badge": "Hors ligne",
+    "banner": "Vous êtes hors ligne — le contenu enregistré reste disponible.",
+    "title": "Vous êtes hors ligne",
+    "body": "Pas de connexion pour le moment. Tout ce que vous avez déjà ouvert est enregistré et disponible. Reconnectez-vous pour les dernières mises à jour.",
+    "cached": "Disponible hors ligne"
+  },
+  "home": {
+    "welcome": "Bienvenue dans la grange",
+    "welcomeSub": "La grange est à vous — voici tout ce qu'il vous faut.",
+    "beforeArrival": "Avant votre arrivée",
+    "duringStay": "Dans la maison",
+    "departure": "Avant de partir",
+    "quickLinks": "Accès rapide",
+    "storyTitle": "L'histoire de la grange",
+    "storySub": "Une grange patrimoniale restaurée au Waasland",
+    "exploreHouse": "Explorer la maison",
+    "exploreGarden": "Vers le jardin",
+    "meetCats": "Rencontrer les chats",
+    "arrivalCard": "Arrivée & check-in",
+    "arrivalCardSub": "Itinéraire, parking, entrer",
+    "checkoutCard": "Départ",
+    "checkoutCardSub": "Quelques petites choses avant de partir",
+    "emergencyCard": "Informations d'urgence",
+    "emergencyCardSub": "Numéros et que faire",
+    "recommendationsCard": "Aux alentours",
+    "recommendationsCardSub": "Anvers, Gand et le Waasland"
+  },
+  "house": {
+    "title": "La Maison",
+    "subtitle": "Pièces, appareils et fonctionnement",
+    "rooms": "Pièces & espaces",
+    "appliances": "Appareils",
+    "guides": "Guides de la maison",
+    "features": "Dans cet espace",
+    "inRoom": "Dans cette pièce",
+    "map": "Plan de la maison",
+    "mapPending": "Un plan interactif sera ajouté une fois les plans confirmés par l'hôte.",
+    "group": {
+      "utility": "Buanderie & pratique",
+      "garden": "Jardin & extérieur"
+    }
+  },
+  "garden": {
+    "title": "Jardin & Verger",
+    "subtitle": "L'extérieur, le jacuzzi, le barbecue et les chats",
+    "cats": "Les chats",
+    "catsSub": "Rencontrez les résidents",
+    "outdoor": "Équipements extérieurs"
+  },
+  "guide": {
+    "title": "Guide",
+    "subtitle": "Arrivée, départ, histoire et la région",
+    "journey": "Votre séjour",
+    "area": "Aux alentours",
+    "faqs": "Questions fréquentes",
+    "story": "Histoire de la grange",
+    "hostPicks": "Coups de cœur de l'hôte"
+  },
+  "help": {
+    "title": "Aide",
+    "subtitle": "Réponses, contact et urgences",
+    "emergency": "Urgence",
+    "emergencySub": "Numéros et que faire",
+    "faq": "FAQ",
+    "faqSub": "Réponses rapides aux questions courantes",
+    "contact": "Contacter l'hôte",
+    "contactSub": "Questions pendant votre séjour",
+    "pendingRegister": "Informations en attente",
+    "pendingRegisterSub": "Ce que nous confirmons encore avec l'hôte"
+  },
+  "emergency": {
+    "title": "Urgence",
+    "callEu": "Numéro d'urgence européen",
+    "callEuSub": "Ambulance · Pompiers",
+    "police": "Police",
+    "doctor": "Médecin de garde",
+    "pharmacy": "Pharmacie de garde",
+    "poison": "Centre antipoison",
+    "hostContact": "Contact de l'hôte",
+    "address": "Votre adresse ici",
+    "addressNote": "Donnez cette adresse aux services d'urgence",
+    "call": "Appeler"
+  },
+  "cats": {
+    "title": "Les Chats",
+    "personality": "Caractère",
+    "feeding": "Nourrissage",
+    "notes": "Bon à savoir",
+    "rules": "Être un bon colocataire",
+    "fallbackName": "Chat",
+    "pendingIntro": "En attente de présentation — l'hôte partagera son nom bientôt"
+  },
+  "search": {
+    "title": "Recherche",
+    "noResults": "Rien trouvé pour",
+    "noResultsHint": "Essayez un autre mot, ou parcourez depuis l'accueil.",
+    "results": "Résultats",
+    "sections": {
+      "rooms": "Pièces",
+      "devices": "Appareils",
+      "guides": "Guides",
+      "faqs": "FAQ",
+      "recommendations": "Aux alentours",
+      "cats": "Chats"
+    }
+  },
+  "settings": {
+    "title": "Réglages",
+    "language": "Langue",
+    "languageSub": "Choisissez votre langue préférée",
+    "about": "À propos de cette app",
+    "aboutBody": "Le compagnon numérique de Schuur 80 — remplace les manuels imprimés par tout ce qu'il vous faut, dans votre poche, même hors ligne.",
+    "install": "Installer sur votre téléphone",
+    "installBody": "Ajoutez Schuur 80 à votre écran d'accueil pour l'expérience complète, y compris hors ligne.",
+    "version": "Version"
+  },
+  "pending": {
+    "label": "À confirmer",
+    "defaultStatus": "En attente de confirmation de l'hôte",
+    "defaultExplanation": "Cette information sera ajoutée après l'atelier avec l'hôte, afin de ne jamais afficher d'instructions non vérifiées.",
+    "defaultExpected": "Prévu avant votre séjour",
+    "expectedLabel": "Prévu"
+  },
+  "placeholderScreen": {
+    "title": "Bientôt disponible",
+    "body": "Cette partie du compagnon est en préparation avec l'hôte et apparaîtra ici une fois confirmée."
+  },
+  "error": {
+    "title": "Quelque chose a dérapé",
+    "body": "Cela ne s'est pas passé comme prévu. Réessayez ou revenez à l'accueil.",
+    "notFoundTitle": "Page introuvable",
+    "notFoundBody": "Cette page n'existe pas — elle s'est peut-être égarée dans le verger.",
+    "goHome": "Retour à l'accueil"
+  },
+  "story": {
+    "title": "Histoire de la Grange",
+    "subtitle": "De grange de travail à lieu de partage"
+  },
+  "checkout": {
+    "checklistTitle": "Liste de départ",
+    "progress": "fait"
+  },
+  "arrival": {
+    "title": "Arrivée",
+    "weather": "Météo à Haasdonk",
+    "weatherPending": "La météo en direct s'affichera ici lorsque vous serez en ligne."
+  },
+  "common": {
+    "loading": "Chargement",
+    "min": "min",
+    "km": "km",
+    "moreInfo": "Plus d'infos",
+    "website": "Site web",
+    "tip": "Conseil",
+    "steps": "Étapes",
+    "tips": "Bon à savoir",
+    "model": "Modèle"
+  }
+}

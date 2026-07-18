@@ -1,0 +1,66 @@
+{
+  "hostPicksPending": {
+    "pending": true,
+    "status": { "en": "Host favourites coming soon", "nl": "Favorieten van de gastheer volgen binnenkort", "fr": "Les coups de cœur de l'hôte arrivent bientôt", "de": "Favoriten des Gastgebers folgen bald" },
+    "explanation": {
+      "en": "The host's personal restaurant, bakery and café recommendations will be gathered during the host workshop.",
+      "nl": "De persoonlijke restaurant-, bakkerij- en cafétips van de gastheer worden verzameld tijdens de workshop.",
+      "fr": "Les recommandations personnelles de l'hôte (restaurants, boulangeries, cafés) seront recueillies lors de l'atelier.",
+      "de": "Die persönlichen Restaurant-, Bäckerei- und Café-Tipps des Gastgebers werden beim Workshop gesammelt."
+    },
+    "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
+  },
+  "recommendations": [
+    {
+      "id": "antwerp",
+      "category": "city",
+      "name": "Antwerp",
+      "distance": { "en": "±15 min by car", "nl": "±15 min met de auto", "fr": "±15 min en voiture", "de": "±15 Min. mit dem Auto" },
+      "description": {
+        "en": "Belgium's fashion and diamond city — the Cathedral of Our Lady, the MAS museum, the old town and the Scheldt riverside are all worth a day.",
+        "nl": "De mode- en diamantstad van België — de Onze-Lieve-Vrouwekathedraal, het MAS, de oude binnenstad en de Scheldekaaien zijn samen een dag waard.",
+        "fr": "La ville de la mode et du diamant — la cathédrale Notre-Dame, le musée MAS, la vieille ville et les quais de l'Escaut valent bien une journée.",
+        "de": "Belgiens Mode- und Diamantenstadt — die Liebfrauenkathedrale, das MAS-Museum, die Altstadt und das Schelde-Ufer sind einen Tag wert."
+      },
+      "url": "https://visit.antwerpen.be"
+    },
+    {
+      "id": "ghent",
+      "category": "city",
+      "name": "Ghent",
+      "distance": { "en": "±40 min by car", "nl": "±40 min met de auto", "fr": "±40 min en voiture", "de": "±40 Min. mit dem Auto" },
+      "description": {
+        "en": "A medieval city with a young heart: Gravensteen castle, the Ghent Altarpiece, canals and a celebrated food scene.",
+        "nl": "Een middeleeuwse stad met een jong hart: het Gravensteen, het Lam Gods, de grachten en een geroemde eetcultuur.",
+        "fr": "Une ville médiévale au cœur jeune : le château des Comtes, l'Agneau mystique, les canaux et une scène gastronomique réputée.",
+        "de": "Eine mittelalterliche Stadt mit jungem Herzen: die Burg Gravensteen, der Genter Altar, Grachten und eine gefeierte Foodszene."
+      },
+      "url": "https://visit.gent.be"
+    },
+    {
+      "id": "verbeke",
+      "category": "culture",
+      "name": "Verbeke Foundation",
+      "distance": { "en": "±15 min by car", "nl": "±15 min met de auto", "fr": "±15 min en voiture", "de": "±15 Min. mit dem Auto" },
+      "description": {
+        "en": "One of Europe's largest private art sites — contemporary art, bio-art and assemblage spread over 12 hectares of greenhouses and nature in Kemzeke.",
+        "nl": "Een van de grootste private kunstsites van Europa — hedendaagse kunst, bio-art en assemblage verspreid over 12 hectare serres en natuur in Kemzeke.",
+        "fr": "L'un des plus grands sites d'art privés d'Europe — art contemporain, bio-art et assemblages sur 12 hectares de serres et de nature à Kemzeke.",
+        "de": "Eines der größten privaten Kunstareale Europas — zeitgenössische Kunst, Bio-Art und Assemblagen auf 12 Hektar Gewächshäusern und Natur in Kemzeke."
+      },
+      "url": "https://verbekefoundation.com"
+    },
+    {
+      "id": "waasland",
+      "category": "nature",
+      "name": "Waasland",
+      "distance": { "en": "All around you", "nl": "Overal om je heen", "fr": "Tout autour de vous", "de": "Rings um Sie herum" },
+      "description": {
+        "en": "The gentle polder and farmland region between the Scheldt and the Dutch border — ideal for cycling routes, village markets and slow walks.",
+        "nl": "De zachte polder- en landbouwstreek tussen de Schelde en de Nederlandse grens — ideaal voor fietsroutes, dorpsmarkten en trage wandelingen.",
+        "fr": "La douce région de polders et de terres agricoles entre l'Escaut et la frontière néerlandaise — idéale pour le vélo, les marchés de village et les balades.",
+        "de": "Die sanfte Polder- und Agrarlandschaft zwischen Schelde und niederländischer Grenze — ideal für Radrouten, Dorfmärkte und langsame Spaziergänge."
+      }
+    }
+  ]
+}

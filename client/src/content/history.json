@@ -1,0 +1,45 @@
+{
+  "chapters": [
+    {
+      "id": "origins",
+      "era": { "en": "Origins", "nl": "Oorsprong", "fr": "Origines", "de": "Ursprünge" },
+      "title": { "en": "A working barn in the Waasland", "nl": "Een werkschuur in het Waasland", "fr": "Une grange de travail au Waasland", "de": "Eine Arbeitsscheune im Waasland" },
+      "body": {
+        "en": "Schuur 80 began life as an agricultural barn in the Waasland countryside of Haasdonk. The exact building history and dates will be documented with the host.",
+        "nl": "Schuur 80 begon als landbouwschuur in het Waasland, in Haasdonk. De precieze bouwgeschiedenis en data worden samen met de gastheer gedocumenteerd.",
+        "fr": "Schuur 80 était à l'origine une grange agricole dans la campagne du Waasland, à Haasdonk. L'histoire exacte du bâtiment sera documentée avec l'hôte.",
+        "de": "Schuur 80 begann als landwirtschaftliche Scheune im Waasland bei Haasdonk. Die genaue Baugeschichte wird mit dem Gastgeber dokumentiert."
+      },
+      "mediaId": "story"
+    },
+    {
+      "id": "restoration",
+      "era": { "en": "Restoration", "nl": "Restauratie", "fr": "Restauration", "de": "Restaurierung" },
+      "title": { "en": "Craft, kept alive", "nl": "Vakmanschap, levend gehouden", "fr": "L'artisanat, préservé", "de": "Handwerk, bewahrt" },
+      "body": {
+        "pending": true,
+        "status": { "en": "Awaiting the host's story", "nl": "In afwachting van het verhaal van de gastheer", "fr": "En attente du récit de l'hôte", "de": "Wartet auf die Geschichte des Gastgebers" },
+        "explanation": {
+          "en": "The story of the restoration — the choices, the craftspeople, the materials — belongs to the host and will be recorded in their own words.",
+          "nl": "Het verhaal van de restauratie — de keuzes, de vakmensen, de materialen — is van de gastheer en wordt in eigen woorden opgetekend.",
+          "fr": "L'histoire de la restauration — les choix, les artisans, les matériaux — appartient à l'hôte et sera racontée avec ses propres mots.",
+          "de": "Die Geschichte der Restaurierung — die Entscheidungen, die Handwerker, die Materialien — gehört dem Gastgeber und wird in seinen eigenen Worten festgehalten."
+        },
+        "expectedUpdate": { "en": "Expected after the host workshop", "nl": "Verwacht na de workshop met de gastheer", "fr": "Prévu après l'atelier avec l'hôte", "de": "Erwartet nach dem Gastgeber-Workshop" }
+      },
+      "mediaId": "living-interior"
+    },
+    {
+      "id": "today",
+      "era": { "en": "Today", "nl": "Vandaag", "fr": "Aujourd'hui", "de": "Heute" },
+      "title": { "en": "A place for togetherness", "nl": "Een plek voor samenzijn", "fr": "Un lieu de partage", "de": "Ein Ort des Zusammenseins" },
+      "body": {
+        "en": "Today the barn spans roughly 300 m² with four bedrooms, three bathrooms, a cinema, a bar and a professional kitchen — restored to bring people together around fire, food and the orchard.",
+        "nl": "Vandaag telt de schuur zo'n 300 m² met vier slaapkamers, drie badkamers, een cinema, een bar en een professionele keuken — gerestaureerd om mensen samen te brengen rond vuur, eten en de boomgaard.",
+        "fr": "Aujourd'hui, la grange s'étend sur environ 300 m² avec quatre chambres, trois salles de bain, un cinéma, un bar et une cuisine professionnelle — restaurée pour réunir les gens autour du feu, de la table et du verger.",
+        "de": "Heute umfasst die Scheune rund 300 m² mit vier Schlafzimmern, drei Badezimmern, Kino, Bar und Profiküche — restauriert, um Menschen an Feuer, Tisch und Obstgarten zusammenzubringen."
+      },
+      "mediaId": "hero-exterior"
+    }
+  ]
+}

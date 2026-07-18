@@ -1,0 +1,94 @@
+{
+  "faqs": [
+    {
+      "id": "faq-wifi",
+      "category": "house",
+      "question": { "en": "What is the Wi-Fi password?", "nl": "Wat is het wifi-wachtwoord?", "fr": "Quel est le mot de passe Wi-Fi ?", "de": "Wie lautet das WLAN-Passwort?" },
+      "answer": { "pending": true }
+    },
+    {
+      "id": "faq-checkin-time",
+      "category": "arrival",
+      "question": { "en": "What time can we check in?", "nl": "Vanaf wanneer kunnen we inchecken?", "fr": "À quelle heure peut-on arriver ?", "de": "Ab wann können wir einchecken?" },
+      "answer": { "pending": true }
+    },
+    {
+      "id": "faq-checkout-time",
+      "category": "checkout",
+      "question": { "en": "What time is checkout?", "nl": "Hoe laat is het uitchecken?", "fr": "À quelle heure est le départ ?", "de": "Wann ist der Check-out?" },
+      "answer": { "pending": true }
+    },
+    {
+      "id": "faq-guests",
+      "category": "house",
+      "question": { "en": "How many guests can stay?", "nl": "Hoeveel gasten kunnen er verblijven?", "fr": "Combien de personnes peuvent séjourner ?", "de": "Wie viele Gäste können übernachten?" },
+      "answer": {
+        "en": "Schuur 80 sleeps around twelve guests across four bedrooms, with three bathrooms.",
+        "nl": "Schuur 80 slaapt ongeveer twaalf gasten verdeeld over vier slaapkamers, met drie badkamers.",
+        "fr": "Schuur 80 accueille environ douze personnes dans quatre chambres, avec trois salles de bain.",
+        "de": "Schuur 80 bietet Platz für rund zwölf Gäste in vier Schlafzimmern mit drei Badezimmern."
+      }
+    },
+    {
+      "id": "faq-ev",
+      "category": "arrival",
+      "question": { "en": "Can I charge my electric car?", "nl": "Kan ik mijn elektrische auto opladen?", "fr": "Puis-je recharger ma voiture électrique ?", "de": "Kann ich mein Elektroauto laden?" },
+      "answer": {
+        "en": "Yes — EV charging is available on the property. Charger type, tariff and instructions will be confirmed by the host.",
+        "nl": "Ja — er is een EV-laadpunt op het domein. Type lader, tarief en instructies worden nog bevestigd door de gastheer.",
+        "fr": "Oui — une borne de recharge est disponible sur place. Le type, le tarif et les instructions seront confirmés par l'hôte.",
+        "de": "Ja — auf dem Grundstück gibt es eine E-Ladestation. Ladetyp, Tarif und Anleitung werden noch vom Gastgeber bestätigt."
+      }
+    },
+    {
+      "id": "faq-hottub",
+      "category": "garden",
+      "question": { "en": "How do I use the hot tub?", "nl": "Hoe gebruik ik de hottub?", "fr": "Comment utiliser le jacuzzi ?", "de": "Wie benutze ich den Whirlpool?" },
+      "answer": { "pending": true }
+    },
+    {
+      "id": "faq-cats-inside",
+      "category": "cats",
+      "question": { "en": "Are the cats allowed inside?", "nl": "Mogen de katten binnen?", "fr": "Les chats peuvent-ils entrer ?", "de": "Dürfen die Katzen ins Haus?" },
+      "answer": {
+        "en": "House access rules for the cats will be confirmed by the host. Until then, please keep them out of the bedrooms and cinema room.",
+        "nl": "De toegangsregels voor de katten worden nog bevestigd door de gastheer. Houd hen tot dan uit de slaapkamers en cinemakamer.",
+        "fr": "Les règles d'accès pour les chats seront confirmées par l'hôte. En attendant, merci de les tenir hors des chambres et de la salle de cinéma.",
+        "de": "Die Zugangsregeln für die Katzen werden noch vom Gastgeber bestätigt. Bitte bis dahin nicht in Schlafzimmer und Kinoraum lassen."
+      }
+    },
+    {
+      "id": "faq-smoking",
+      "category": "house",
+      "question": { "en": "Is smoking allowed?", "nl": "Mag er gerookt worden?", "fr": "Peut-on fumer ?", "de": "Darf man rauchen?" },
+      "answer": {
+        "en": "Smoking is not allowed inside the barn. The host will confirm whether a designated outdoor spot exists.",
+        "nl": "Roken is niet toegestaan binnen in de schuur. De gastheer bevestigt nog of er een aangeduide buitenplek is.",
+        "fr": "Il est interdit de fumer à l'intérieur de la grange. L'hôte confirmera s'il existe un espace extérieur dédié.",
+        "de": "In der Scheune ist Rauchen nicht erlaubt. Der Gastgeber bestätigt noch, ob es einen Außenbereich dafür gibt."
+      }
+    },
+    {
+      "id": "faq-supermarket",
+      "category": "area",
+      "question": { "en": "Where is the nearest supermarket?", "nl": "Waar is de dichtstbijzijnde supermarkt?", "fr": "Où est le supermarché le plus proche ?", "de": "Wo ist der nächste Supermarkt?" },
+      "answer": {
+        "en": "There are supermarkets in Haasdonk and nearby Beveren, a few minutes away by car. The host's favourite local shops will be added to the Guide.",
+        "nl": "Er zijn supermarkten in Haasdonk en het nabijgelegen Beveren, op enkele minuten met de auto. De favoriete winkels van de gastheer worden toegevoegd aan de Gids.",
+        "fr": "Il y a des supermarchés à Haasdonk et à Beveren, à quelques minutes en voiture. Les adresses préférées de l'hôte seront ajoutées au Guide.",
+        "de": "Es gibt Supermärkte in Haasdonk und im nahen Beveren, wenige Autominuten entfernt. Die Lieblingsläden des Gastgebers werden im Guide ergänzt."
+      }
+    },
+    {
+      "id": "faq-emergency",
+      "category": "help",
+      "question": { "en": "What do I do in an emergency?", "nl": "Wat doe ik bij een noodgeval?", "fr": "Que faire en cas d'urgence ?", "de": "Was tue ich im Notfall?" },
+      "answer": {
+        "en": "For life-threatening emergencies in Belgium call 112. For police call 101. The full emergency card, including host contacts, is under Help → Emergency.",
+        "nl": "Bel bij levensbedreigende noodgevallen in België 112. Voor politie bel 101. De volledige noodkaart, inclusief contact met de gastheer, vind je onder Hulp → Noodgeval.",
+        "fr": "En cas d'urgence vitale en Belgique, appelez le 112. Pour la police, le 101. La carte d'urgence complète, avec les contacts de l'hôte, se trouve sous Aide → Urgence.",
+        "de": "Bei lebensbedrohlichen Notfällen in Belgien wählen Sie 112. Für die Polizei 101. Die vollständige Notfallkarte, inklusive Gastgeberkontakt, finden Sie unter Hilfe → Notfall."
+      }
+    }
+  ]
+}

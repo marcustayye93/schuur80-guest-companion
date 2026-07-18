@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "Je gastencompagnon",
+    "address": "Perstraat 80, 9120 Haasdonk, België"
+  },
+  "nav": {
+    "home": "Home",
+    "house": "Huis",
+    "garden": "Tuin",
+    "guide": "Gids",
+    "help": "Hulp"
+  },
+  "actions": {
+    "search": "Zoeken",
+    "searchPlaceholder": "Zoek in het huis, gidsen, FAQ's…",
+    "language": "Taal",
+    "contactHost": "Contacteer gastheer",
+    "back": "Terug",
+    "close": "Sluiten",
+    "viewAll": "Bekijk alles",
+    "openGuide": "Open gids",
+    "settings": "Instellingen",
+    "install": "App installeren",
+    "retry": "Opnieuw proberen"
+  },
+  "offline": {
+    "badge": "Offline",
+    "banner": "Je bent offline — opgeslagen inhoud blijft beschikbaar.",
+    "title": "Je bent offline",
+    "body": "Geen verbinding op dit moment. Alles wat je al opende is opgeslagen en beschikbaar. Maak opnieuw verbinding voor de laatste updates.",
+    "cached": "Offline beschikbaar"
+  },
+  "home": {
+    "welcome": "Welkom in de schuur",
+    "welcomeSub": "De schuur is van jou — hier vind je alles wat je nodig hebt.",
+    "beforeArrival": "Voor je aankomst",
+    "duringStay": "In en om het huis",
+    "departure": "Voor je vertrekt",
+    "quickLinks": "Snel naar",
+    "storyTitle": "Het verhaal van de schuur",
+    "storySub": "Een gerestaureerde erfgoedschuur in het Waasland",
+    "exploreHouse": "Ontdek het huis",
+    "exploreGarden": "De tuin in",
+    "meetCats": "Ontmoet de katten",
+    "arrivalCard": "Aankomst & check-in",
+    "arrivalCardSub": "Route, parkeren, binnenkomen",
+    "checkoutCard": "Uitchecken",
+    "checkoutCardSub": "Een paar kleine dingen voor je vertrekt",
+    "emergencyCard": "Noodinformatie",
+    "emergencyCardSub": "Nummers en wat te doen",
+    "recommendationsCard": "Eropuit",
+    "recommendationsCardSub": "Antwerpen, Gent en het Waasland"
+  },
+  "house": {
+    "title": "Het Huis",
+    "subtitle": "Kamers, toestellen en hoe alles werkt",
+    "rooms": "Kamers & ruimtes",
+    "appliances": "Toestellen",
+    "guides": "Huisgidsen",
+    "features": "In deze ruimte",
+    "inRoom": "In deze kamer",
+    "map": "Huisplattegrond",
+    "mapPending": "Een interactieve plattegrond wordt toegevoegd zodra de plannen bevestigd zijn door de gastheer.",
+    "group": {
+      "utility": "Berging & praktisch",
+      "garden": "Tuin & buiten"
+    }
+  },
+  "garden": {
+    "title": "Tuin & Boomgaard",
+    "subtitle": "Buitenleven, de hottub, de BBQ en de katten",
+    "cats": "De katten",
+    "catsSub": "Ontmoet de bewoners",
+    "outdoor": "Buitenvoorzieningen"
+  },
+  "guide": {
+    "title": "Gids",
+    "subtitle": "Aankomst, vertrek, verhaal en de streek",
+    "journey": "Je verblijf",
+    "area": "Eropuit",
+    "faqs": "Veelgestelde vragen",
+    "story": "Verhaal van de schuur",
+    "hostPicks": "Favorieten van de gastheer"
+  },
+  "help": {
+    "title": "Hulp",
+    "subtitle": "Antwoorden, contact en noodgevallen",
+    "emergency": "Noodgeval",
+    "emergencySub": "Nummers en wat te doen",
+    "faq": "FAQ's",
+    "faqSub": "Snelle antwoorden op veelgestelde vragen",
+    "contact": "Contacteer de gastheer",
+    "contactSub": "Vragen tijdens je verblijf",
+    "pendingRegister": "Informatie in aanvraag",
+    "pendingRegisterSub": "Wat we nog bevestigen met de gastheer"
+  },
+  "emergency": {
+    "title": "Noodgeval",
+    "callEu": "Europees noodnummer",
+    "callEuSub": "Ambulance · Brandweer",
+    "police": "Politie",
+    "doctor": "Dokter van wacht",
+    "pharmacy": "Apotheek van wacht",
+    "poison": "Antigifcentrum",
+    "hostContact": "Contact gastheer",
+    "address": "Je adres hier",
+    "addressNote": "Geef dit adres door aan de hulpdiensten",
+    "call": "Bellen"
+  },
+  "cats": {
+    "title": "De Katten",
+    "personality": "Karakter",
+    "feeding": "Voeding",
+    "notes": "Goed om te weten",
+    "rules": "Een goede huisgenoot zijn",
+    "fallbackName": "Kat",
+    "pendingIntro": "Wacht op een introductie — de gastheer deelt de naam binnenkort"
+  },
+  "search": {
+    "title": "Zoeken",
+    "noResults": "Niets gevonden voor",
+    "noResultsHint": "Probeer een ander woord, of blader via Home.",
+    "results": "Resultaten",
+    "sections": {
+      "rooms": "Kamers",
+      "devices": "Toestellen",
+      "guides": "Gidsen",
+      "faqs": "FAQ's",
+      "recommendations": "Eropuit",
+      "cats": "Katten"
+    }
+  },
+  "settings": {
+    "title": "Instellingen",
+    "language": "Taal",
+    "languageSub": "Kies je voorkeurstaal",
+    "about": "Over deze app",
+    "aboutBody": "De digitale gastencompagnon van Schuur 80 — vervangt gedrukte handleidingen door alles wat je nodig hebt, op zak, ook offline.",
+    "install": "Installeer op je telefoon",
+    "installBody": "Voeg Schuur 80 toe aan je startscherm voor de volledige app-ervaring, inclusief offline toegang.",
+    "version": "Versie"
+  },
+  "pending": {
+    "label": "Nog te bevestigen",
+    "defaultStatus": "In afwachting van bevestiging door de gastheer",
+    "defaultExplanation": "Deze informatie wordt toegevoegd na de workshop met de gastheer, zodat we je nooit ongeverifieerde instructies tonen.",
+    "defaultExpected": "Verwacht vóór je verblijf",
+    "expectedLabel": "Verwacht"
+  },
+  "placeholderScreen": {
+    "title": "Binnenkort",
+    "body": "Dit deel van de compagnon wordt voorbereid met de gastheer en verschijnt hier zodra het bevestigd is."
+  },
+  "error": {
+    "title": "Er ging iets mis",
+    "body": "Dat liep niet zoals gepland. Probeer opnieuw of ga terug naar home.",
+    "notFoundTitle": "Pagina niet gevonden",
+    "notFoundBody": "Deze pagina bestaat niet — misschien is ze de boomgaard in gewandeld.",
+    "goHome": "Terug naar Home"
+  },
+  "story": {
+    "title": "Verhaal van de Schuur",
+    "subtitle": "Van werkschuur tot plek van samenzijn"
+  },
+  "checkout": {
+    "checklistTitle": "Uitchecklijst",
+    "progress": "gedaan"
+  },
+  "arrival": {
+    "title": "Aankomst",
+    "weather": "Weer in Haasdonk",
+    "weatherPending": "Live weer verschijnt hier wanneer je online bent."
+  },
+  "common": {
+    "loading": "Laden",
+    "min": "min",
+    "km": "km",
+    "moreInfo": "Meer info",
+    "website": "Website",
+    "tip": "Tip",
+    "steps": "Stappen",
+    "tips": "Goed om te weten",
+    "model": "Model"
+  }
+}

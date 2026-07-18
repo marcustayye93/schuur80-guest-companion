@@ -1,0 +1,155 @@
+{
+  "rooms": [
+    {
+      "id": "living",
+      "category": "living",
+      "name": { "en": "Living Space", "nl": "Leefruimte", "fr": "Espace de vie", "de": "Wohnbereich" },
+      "tagline": {
+        "en": "The heart of the barn, under the original beams",
+        "nl": "Het hart van de schuur, onder de originele balken",
+        "fr": "Le cœur de la grange, sous les poutres d'origine",
+        "de": "Das Herz der Scheune, unter den Originalbalken"
+      },
+      "description": {
+        "en": "A generous open living space beneath the barn's restored oak structure, with linen sofas, a fireplace and views over the garden. Underfloor heating and air conditioning keep it comfortable in every season.",
+        "nl": "Een royale open leefruimte onder de gerestaureerde eiken structuur van de schuur, met linnen zetels, een haard en zicht op de tuin. Vloerverwarming en airconditioning houden het in elk seizoen comfortabel.",
+        "fr": "Un vaste espace de vie ouvert sous la structure en chêne restaurée de la grange, avec canapés en lin, cheminée et vue sur le jardin. Chauffage au sol et climatisation assurent le confort en toute saison.",
+        "de": "Ein großzügiger offener Wohnbereich unter der restaurierten Eichenkonstruktion der Scheune, mit Leinensofas, Kamin und Blick auf den Garten. Fußbodenheizung und Klimaanlage sorgen zu jeder Jahreszeit für Komfort."
+      },
+      "mediaId": "living-interior",
+      "features": [
+        { "en": "Fireplace", "nl": "Haard", "fr": "Cheminée", "de": "Kamin" },
+        { "en": "Underfloor heating", "nl": "Vloerverwarming", "fr": "Chauffage au sol", "de": "Fußbodenheizung" },
+        { "en": "Air conditioning", "nl": "Airconditioning", "fr": "Climatisation", "de": "Klimaanlage" },
+        { "en": "Garden views", "nl": "Tuinzicht", "fr": "Vue sur le jardin", "de": "Gartenblick" }
+      ],
+      "deviceIds": ["fireplace", "heating", "aircon", "wifi-router"],
+      "guideIds": ["fireplace-guide"]
+    },
+    {
+      "id": "kitchen",
+      "category": "kitchen",
+      "name": { "en": "Kitchen", "nl": "Keuken", "fr": "Cuisine", "de": "Küche" },
+      "tagline": {
+        "en": "A professional kitchen made for cooking together",
+        "nl": "Een professionele keuken gemaakt om samen te koken",
+        "fr": "Une cuisine professionnelle faite pour cuisiner ensemble",
+        "de": "Eine Profiküche zum gemeinsamen Kochen"
+      },
+      "description": {
+        "en": "A fully equipped professional kitchen with a large stone island — the natural gathering point for groups. Everything you need to cook for twelve is here.",
+        "nl": "Een volledig uitgeruste professionele keuken met een groot stenen eiland — de natuurlijke verzamelplek voor groepen. Alles wat je nodig hebt om voor twaalf te koken is aanwezig.",
+        "fr": "Une cuisine professionnelle entièrement équipée avec un grand îlot en pierre — le point de rencontre naturel des groupes. Tout le nécessaire pour cuisiner pour douze personnes est là.",
+        "de": "Eine voll ausgestattete Profiküche mit großer Steininsel — der natürliche Treffpunkt für Gruppen. Alles, was man zum Kochen für zwölf Personen braucht, ist vorhanden."
+      },
+      "mediaId": "kitchen",
+      "features": [
+        { "en": "Professional range", "nl": "Professioneel fornuis", "fr": "Piano de cuisson", "de": "Profiherd" },
+        { "en": "Large island", "nl": "Groot eiland", "fr": "Grand îlot", "de": "Große Kochinsel" },
+        { "en": "Dishwasher", "nl": "Vaatwasser", "fr": "Lave-vaisselle", "de": "Geschirrspüler" },
+        { "en": "Coffee machine", "nl": "Koffiemachine", "fr": "Machine à café", "de": "Kaffeemaschine" }
+      ],
+      "deviceIds": ["oven", "dishwasher", "coffee-machine", "induction-hob"],
+      "guideIds": []
+    },
+    {
+      "id": "bedrooms",
+      "category": "bedroom",
+      "name": { "en": "Bedrooms", "nl": "Slaapkamers", "fr": "Chambres", "de": "Schlafzimmer" },
+      "tagline": {
+        "en": "Four calm rooms for up to twelve guests",
+        "nl": "Vier rustige kamers voor maximaal twaalf gasten",
+        "fr": "Quatre chambres calmes pour douze personnes",
+        "de": "Vier ruhige Zimmer für bis zu zwölf Gäste"
+      },
+      "description": {
+        "en": "Four bedrooms sleep up to twelve guests in quiet comfort, with natural linen bedding and views of the garden or orchard. Bed configurations per room will be confirmed by the host.",
+        "nl": "Vier slaapkamers bieden plaats aan maximaal twaalf gasten in rustig comfort, met natuurlijk linnen beddengoed en zicht op de tuin of boomgaard. De bedindeling per kamer wordt nog bevestigd door de gastheer.",
+        "fr": "Quatre chambres accueillent jusqu'à douze personnes dans un confort paisible, avec literie en lin naturel et vue sur le jardin ou le verger. La configuration des lits par chambre sera confirmée par l'hôte.",
+        "de": "Vier Schlafzimmer bieten bis zu zwölf Gästen ruhigen Komfort, mit natürlicher Leinenbettwäsche und Blick auf Garten oder Obstgarten. Die Bettenaufteilung pro Zimmer wird noch vom Gastgeber bestätigt."
+      },
+      "mediaId": "bedroom",
+      "features": [
+        { "en": "4 bedrooms", "nl": "4 slaapkamers", "fr": "4 chambres", "de": "4 Schlafzimmer" },
+        { "en": "Sleeps ~12", "nl": "Slaapt ~12", "fr": "~12 couchages", "de": "~12 Schlafplätze" },
+        { "en": "Linen bedding", "nl": "Linnen beddengoed", "fr": "Literie en lin", "de": "Leinenbettwäsche" }
+      ],
+      "deviceIds": [],
+      "guideIds": []
+    },
+    {
+      "id": "bathrooms",
+      "category": "bathroom",
+      "name": { "en": "Bathrooms", "nl": "Badkamers", "fr": "Salles de bain", "de": "Badezimmer" },
+      "tagline": {
+        "en": "Three bathrooms, spa-like and warm",
+        "nl": "Drie badkamers, spa-achtig en warm",
+        "fr": "Trois salles de bain, chaleureuses comme un spa",
+        "de": "Drei Badezimmer, warm wie ein Spa"
+      },
+      "description": {
+        "en": "Three bathrooms with rain showers and warm natural materials. Towels are provided; please leave them in the bathroom at checkout.",
+        "nl": "Drie badkamers met regendouches en warme natuurlijke materialen. Handdoeken zijn voorzien; laat ze bij het uitchecken in de badkamer achter.",
+        "fr": "Trois salles de bain avec douches pluie et matériaux naturels chaleureux. Les serviettes sont fournies ; merci de les laisser dans la salle de bain au départ.",
+        "de": "Drei Badezimmer mit Regenduschen und warmen Naturmaterialien. Handtücher werden gestellt; bitte beim Check-out im Bad lassen."
+      },
+      "mediaId": "bathroom",
+      "features": [
+        { "en": "3 bathrooms", "nl": "3 badkamers", "fr": "3 salles de bain", "de": "3 Badezimmer" },
+        { "en": "Rain showers", "nl": "Regendouches", "fr": "Douches pluie", "de": "Regenduschen" },
+        { "en": "Towels provided", "nl": "Handdoeken voorzien", "fr": "Serviettes fournies", "de": "Handtücher inklusive" }
+      ],
+      "deviceIds": [],
+      "guideIds": []
+    },
+    {
+      "id": "cinema",
+      "category": "cinema",
+      "name": { "en": "Cinema Room", "nl": "Cinemakamer", "fr": "Salle de cinéma", "de": "Kinoraum" },
+      "tagline": {
+        "en": "Movie nights under the rafters",
+        "nl": "Filmavonden onder het gebinte",
+        "fr": "Soirées cinéma sous la charpente",
+        "de": "Kinoabende unter dem Gebälk"
+      },
+      "description": {
+        "en": "A dedicated cinema room with projector and deep sofas — perfect for family movie nights. Operating instructions for the projector will be confirmed by the host.",
+        "nl": "Een aparte cinemakamer met projector en diepe zetels — perfect voor familiefilmavonden. De bedieningsinstructies voor de projector worden nog bevestigd door de gastheer.",
+        "fr": "Une salle de cinéma dédiée avec projecteur et canapés profonds — parfaite pour les soirées cinéma en famille. Les instructions du projecteur seront confirmées par l'hôte.",
+        "de": "Ein eigener Kinoraum mit Projektor und tiefen Sofas — perfekt für Familienfilmabende. Die Bedienungsanleitung für den Projektor wird noch vom Gastgeber bestätigt."
+      },
+      "mediaId": "cinema",
+      "features": [
+        { "en": "Projector", "nl": "Projector", "fr": "Projecteur", "de": "Projektor" },
+        { "en": "Big screen", "nl": "Groot scherm", "fr": "Grand écran", "de": "Große Leinwand" },
+        { "en": "Cosy sofas", "nl": "Knusse zetels", "fr": "Canapés confortables", "de": "Gemütliche Sofas" }
+      ],
+      "deviceIds": ["projector"],
+      "guideIds": []
+    },
+    {
+      "id": "bar",
+      "category": "bar",
+      "name": { "en": "Bar & Billiards", "nl": "Bar & Biljart", "fr": "Bar & Billard", "de": "Bar & Billard" },
+      "tagline": {
+        "en": "An evening corner for long conversations",
+        "nl": "Een avondhoek voor lange gesprekken",
+        "fr": "Un coin du soir pour de longues conversations",
+        "de": "Eine Abendecke für lange Gespräche"
+      },
+      "description": {
+        "en": "The bar corner with billiards table is made for slow evenings. House rules for the bar and billiards will be confirmed by the host.",
+        "nl": "De barhoek met biljarttafel is gemaakt voor trage avonden. De huisregels voor de bar en het biljart worden nog bevestigd door de gastheer.",
+        "fr": "Le coin bar avec table de billard est fait pour les longues soirées. Les règles de la maison pour le bar et le billard seront confirmées par l'hôte.",
+        "de": "Die Barecke mit Billardtisch ist für lange Abende gemacht. Die Hausregeln für Bar und Billard werden noch vom Gastgeber bestätigt."
+      },
+      "mediaId": "bar",
+      "features": [
+        { "en": "Bar", "nl": "Bar", "fr": "Bar", "de": "Bar" },
+        { "en": "Billiards", "nl": "Biljart", "fr": "Billard", "de": "Billard" }
+      ],
+      "deviceIds": [],
+      "guideIds": []
+    }
+  ]
+}

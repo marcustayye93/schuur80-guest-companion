@@ -1,0 +1,60 @@
+{
+  "intro": {
+    "en": "Schuur 80 shares its grounds with resident cats. They are part of the soul of the place — here is how to be a good housemate to them.",
+    "nl": "Schuur 80 deelt zijn domein met huiskatten. Ze zijn deel van de ziel van de plek — zo ben je een goede huisgenoot voor hen.",
+    "fr": "Schuur 80 partage son domaine avec des chats résidents. Ils font partie de l'âme du lieu — voici comment bien cohabiter avec eux.",
+    "de": "Schuur 80 teilt sein Gelände mit Hauskatzen. Sie gehören zur Seele des Ortes — so sind Sie ein guter Mitbewohner für sie."
+  },
+  "cats": [
+    {
+      "id": "cat-1",
+      "name": {
+        "pending": true,
+        "status": { "en": "Name to be confirmed", "nl": "Naam nog te bevestigen", "fr": "Nom à confirmer", "de": "Name noch zu bestätigen" },
+        "explanation": {
+          "en": "The host will introduce the cats by name during the host workshop.",
+          "nl": "De gastheer stelt de katten bij naam voor tijdens de workshop.",
+          "fr": "L'hôte présentera les chats par leur nom lors de l'atelier.",
+          "de": "Der Gastgeber stellt die Katzen beim Workshop namentlich vor."
+        },
+        "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
+      },
+      "photoMediaId": "cats",
+      "personality": { "pending": true },
+      "feeding": { "pending": true },
+      "notes": { "pending": true }
+    },
+    {
+      "id": "cat-2",
+      "name": {
+        "pending": true,
+        "status": { "en": "Name to be confirmed", "nl": "Naam nog te bevestigen", "fr": "Nom à confirmer", "de": "Name noch zu bestätigen" },
+        "explanation": {
+          "en": "The host will introduce the cats by name during the host workshop.",
+          "nl": "De gastheer stelt de katten bij naam voor tijdens de workshop.",
+          "fr": "L'hôte présentera les chats par leur nom lors de l'atelier.",
+          "de": "Der Gastgeber stellt die Katzen beim Workshop namentlich vor."
+        },
+        "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
+      },
+      "photoMediaId": "cats",
+      "personality": { "pending": true },
+      "feeding": { "pending": true },
+      "notes": { "pending": true }
+    }
+  ],
+  "generalRules": [
+    {
+      "en": "Please don't let the cats into the bedrooms or cinema room.",
+      "nl": "Laat de katten niet binnen in de slaapkamers of cinemakamer.",
+      "fr": "Merci de ne pas laisser entrer les chats dans les chambres ou la salle de cinéma.",
+      "de": "Bitte lassen Sie die Katzen nicht in die Schlafzimmer oder den Kinoraum."
+    },
+    {
+      "en": "Feeding instructions will be confirmed by the host — please don't feed them table scraps.",
+      "nl": "Voederinstructies worden nog bevestigd door de gastheer — geef hen geen tafelrestjes.",
+      "fr": "Les consignes de nourrissage seront confirmées par l'hôte — merci de ne pas leur donner de restes de table.",
+      "de": "Fütterungshinweise werden noch vom Gastgeber bestätigt — bitte keine Essensreste geben."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "assets": [
+    {
+      "id": "hero-exterior",
+      "src": "/manus-storage/schuur80-hero-exterior_6a426c20.jpg",
+      "alt": {
+        "en": "The restored barn of Schuur 80 at golden hour, surrounded by the orchard",
+        "nl": "De gerestaureerde schuur van Schuur 80 bij avondlicht, omringd door de boomgaard",
+        "fr": "La grange restaurée de Schuur 80 à l'heure dorée, entourée du verger",
+        "de": "Die restaurierte Scheune von Schuur 80 in der goldenen Stunde, umgeben vom Obstgarten"
+      }
+    },
+    {
+      "id": "living-interior",
+      "src": "/manus-storage/schuur80-living-interior_a01bd350.jpg",
+      "alt": {
+        "en": "The living room with exposed beams, linen sofas and the fireplace",
+        "nl": "De woonkamer met zichtbare balken, linnen zetels en de haard",
+        "fr": "Le salon avec poutres apparentes, canapés en lin et la cheminée",
+        "de": "Das Wohnzimmer mit freiliegenden Balken, Leinensofas und dem Kamin"
+      }
+    },
+    {
+      "id": "kitchen",
+      "src": "/manus-storage/schuur80-kitchen_e09175f0.jpg",
+      "alt": {
+        "en": "The professional kitchen with stone island and range cooker",
+        "nl": "De professionele keuken met stenen eiland en fornuis",
+        "fr": "La cuisine professionnelle avec îlot en pierre et piano de cuisson",
+        "de": "Die Profiküche mit Steininsel und Herd"
+      }
+    },
+    {
+      "id": "garden",
+      "src": "/manus-storage/schuur80-garden_ff693a90.jpg",
+      "alt": {
+        "en": "The garden and orchard with the hot tub deck in evening light",
+        "nl": "De tuin en boomgaard met het hottub-terras in avondlicht",
+        "fr": "Le jardin et le verger avec la terrasse du jacuzzi en fin de journée",
+        "de": "Der Garten und Obstgarten mit dem Whirlpool-Deck im Abendlicht"
+      }
+    },
+    {
+      "id": "cinema",
+      "src": "/manus-storage/schuur80-cinema_5bff8fb9.jpg",
+      "alt": {
+        "en": "The cinema room with projector screen and velvet sofas",
+        "nl": "De cinemakamer met projectiescherm en fluwelen zetels",
+        "fr": "La salle de cinéma avec écran de projection et canapés en velours",
+        "de": "Der Kinoraum mit Leinwand und Samtsofas"
+      }
+    },
+    {
+      "id": "bedroom",
+      "src": "/manus-storage/schuur80-bedroom_1ea8d54f.jpg",
+      "alt": {
+        "en": "A serene bedroom with linen bedding under timber beams",
+        "nl": "Een serene slaapkamer met linnen beddengoed onder houten balken",
+        "fr": "Une chambre sereine avec literie en lin sous les poutres",
+        "de": "Ein ruhiges Schlafzimmer mit Leinenbettwäsche unter Holzbalken"
+      }
+    },
+    {
+      "id": "bathroom",
+      "src": "/manus-storage/schuur80-bathroom_8e2879e1.jpg",
+      "alt": {
+        "en": "A bathroom with freestanding stone bathtub and rain shower",
+        "nl": "Een badkamer met vrijstaand stenen bad en regendouche",
+        "fr": "Une salle de bain avec baignoire en pierre et douche pluie",
+        "de": "Ein Badezimmer mit freistehender Steinbadewanne und Regendusche"
+      }
+    },
+    {
+      "id": "bar",
+      "src": "/manus-storage/schuur80-bar_f378dcc3.jpg",
+      "alt": {
+        "en": "The bar and billiards corner with warm evening lighting",
+        "nl": "De bar en biljart-hoek met warme avondverlichting",
+        "fr": "Le bar et le coin billard avec un éclairage chaleureux",
+        "de": "Die Bar- und Billardecke mit warmer Abendbeleuchtung"
+      }
+    },
+    {
+      "id": "cats",
+      "src": "/manus-storage/schuur80-cats_9b8fed4d.jpg",
+      "alt": {
+        "en": "The two resident cats lounging on a windowsill",
+        "nl": "De twee huiskatten lui op een vensterbank",
+        "fr": "Les deux chats de la maison sur un rebord de fenêtre",
+        "de": "Die beiden Hauskatzen auf einer Fensterbank"
+      }
+    },
+    {
+      "id": "arrival",
+      "src": "/manus-storage/schuur80-arrival_b04ff603.jpg",
+      "alt": {
+        "en": "The gravel driveway and entrance of Schuur 80 at blue hour",
+        "nl": "De grindoprit en ingang van Schuur 80 in de schemering",
+        "fr": "L'allée en gravier et l'entrée de Schuur 80 au crépuscule",
+        "de": "Die Kieseinfahrt und der Eingang von Schuur 80 zur blauen Stunde"
+      }
+    },
+    {
+      "id": "orchard",
+      "src": "/manus-storage/schuur80-orchard_aaf76015.jpg",
+      "alt": {
+        "en": "Apple trees in the orchard in morning light",
+        "nl": "Appelbomen in de boomgaard in ochtendlicht",
+        "fr": "Pommiers du verger dans la lumière du matin",
+        "de": "Apfelbäume im Obstgarten im Morgenlicht"
+      }
+    },
+    {
+      "id": "story",
+      "src": "/manus-storage/schuur80-story_9e65b3a4.jpg",
+      "alt": {
+        "en": "Original oak beams and brick of the heritage barn",
+        "nl": "Originele eiken balken en baksteen van de historische schuur",
+        "fr": "Poutres en chêne d'origine et briques de la grange historique",
+        "de": "Originale Eichenbalken und Ziegel der historischen Scheune"
+      }
+    },
+    {
+      "id": "logo",
+      "src": "/manus-storage/schuur80-logo_53ad8420.png",
+      "alt": {
+        "en": "Schuur 80 barn gable mark",
+        "nl": "Schuur 80 gevelmerk",
+        "fr": "Emblème du pignon Schuur 80",
+        "de": "Schuur 80 Giebelzeichen"
+      }
+    }
+  ]
+}

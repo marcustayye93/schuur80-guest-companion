@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "Ihr Gäste-Begleiter",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgien"
+  },
+  "nav": {
+    "home": "Start",
+    "house": "Haus",
+    "garden": "Garten",
+    "guide": "Guide",
+    "help": "Hilfe"
+  },
+  "actions": {
+    "search": "Suchen",
+    "searchPlaceholder": "Haus, Anleitungen, FAQs durchsuchen…",
+    "language": "Sprache",
+    "contactHost": "Gastgeber kontaktieren",
+    "back": "Zurück",
+    "close": "Schließen",
+    "viewAll": "Alle anzeigen",
+    "openGuide": "Guide öffnen",
+    "settings": "Einstellungen",
+    "install": "App installieren",
+    "retry": "Erneut versuchen"
+  },
+  "offline": {
+    "badge": "Offline",
+    "banner": "Sie sind offline — gespeicherte Inhalte bleiben verfügbar.",
+    "title": "Sie sind offline",
+    "body": "Momentan keine Verbindung. Alles, was Sie bereits geöffnet haben, ist gespeichert und verfügbar. Verbinden Sie sich erneut für die neuesten Updates.",
+    "cached": "Offline verfügbar"
+  },
+  "home": {
+    "welcome": "Willkommen in der Scheune",
+    "welcomeSub": "Die Scheune gehört Ihnen — hier finden Sie alles, was Sie brauchen.",
+    "beforeArrival": "Vor Ihrer Ankunft",
+    "duringStay": "Rund ums Haus",
+    "departure": "Vor der Abreise",
+    "quickLinks": "Schnellzugriff",
+    "storyTitle": "Die Geschichte der Scheune",
+    "storySub": "Eine restaurierte historische Scheune im Waasland",
+    "exploreHouse": "Das Haus entdecken",
+    "exploreGarden": "In den Garten",
+    "meetCats": "Die Katzen kennenlernen",
+    "arrivalCard": "Ankunft & Check-in",
+    "arrivalCardSub": "Anfahrt, Parken, Hineinkommen",
+    "checkoutCard": "Check-out",
+    "checkoutCardSub": "Ein paar kleine Dinge vor der Abreise",
+    "emergencyCard": "Notfall-Informationen",
+    "emergencyCardSub": "Nummern und was zu tun ist",
+    "recommendationsCard": "Unterwegs",
+    "recommendationsCardSub": "Antwerpen, Gent und das Waasland"
+  },
+  "house": {
+    "title": "Das Haus",
+    "subtitle": "Räume, Geräte und wie alles funktioniert",
+    "rooms": "Räume & Bereiche",
+    "appliances": "Geräte",
+    "guides": "Haus-Anleitungen",
+    "features": "In diesem Bereich",
+    "inRoom": "In diesem Raum",
+    "map": "Hausplan",
+    "mapPending": "Ein interaktiver Hausplan wird ergänzt, sobald die Grundrisse vom Gastgeber bestätigt sind.",
+    "group": {
+      "utility": "Hauswirtschaft & Praktisches",
+      "garden": "Garten & Außenbereich"
+    }
+  },
+  "garden": {
+    "title": "Garten & Obstgarten",
+    "subtitle": "Draußen, Whirlpool, Grill und die Katzen",
+    "cats": "Die Katzen",
+    "catsSub": "Lernen Sie die Bewohner kennen",
+    "outdoor": "Außenanlagen"
+  },
+  "guide": {
+    "title": "Guide",
+    "subtitle": "Ankunft, Abreise, Geschichte und die Region",
+    "journey": "Ihr Aufenthalt",
+    "area": "Unterwegs",
+    "faqs": "Häufige Fragen",
+    "story": "Geschichte der Scheune",
+    "hostPicks": "Favoriten des Gastgebers"
+  },
+  "help": {
+    "title": "Hilfe",
+    "subtitle": "Antworten, Kontakt und Notfälle",
+    "emergency": "Notfall",
+    "emergencySub": "Nummern und was zu tun ist",
+    "faq": "FAQs",
+    "faqSub": "Schnelle Antworten auf häufige Fragen",
+    "contact": "Gastgeber kontaktieren",
+    "contactSub": "Fragen während Ihres Aufenthalts",
+    "pendingRegister": "Ausstehende Informationen",
+    "pendingRegisterSub": "Was wir noch mit dem Gastgeber klären"
+  },
+  "emergency": {
+    "title": "Notfall",
+    "callEu": "Europäische Notrufnummer",
+    "callEuSub": "Rettungsdienst · Feuerwehr",
+    "police": "Polizei",
+    "doctor": "Bereitschaftsarzt",
+    "pharmacy": "Notdienst-Apotheke",
+    "poison": "Giftnotrufzentrale",
+    "hostContact": "Gastgeber-Kontakt",
+    "address": "Ihre Adresse hier",
+    "addressNote": "Geben Sie diese Adresse den Rettungsdiensten an",
+    "call": "Anrufen"
+  },
+  "cats": {
+    "title": "Die Katzen",
+    "personality": "Charakter",
+    "feeding": "Fütterung",
+    "notes": "Gut zu wissen",
+    "rules": "Ein guter Mitbewohner sein",
+    "fallbackName": "Katze",
+    "pendingIntro": "Wartet auf die Vorstellung — der Gastgeber teilt den Namen bald mit"
+  },
+  "search": {
+    "title": "Suche",
+    "noResults": "Nichts gefunden für",
+    "noResultsHint": "Versuchen Sie ein anderes Wort oder stöbern Sie über Start.",
+    "results": "Ergebnisse",
+    "sections": {
+      "rooms": "Räume",
+      "devices": "Geräte",
+      "guides": "Anleitungen",
+      "faqs": "FAQs",
+      "recommendations": "Unterwegs",
+      "cats": "Katzen"
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "languageSub": "Wählen Sie Ihre bevorzugte Sprache",
+    "about": "Über diese App",
+    "aboutBody": "Der digitale Gäste-Begleiter von Schuur 80 — ersetzt gedruckte Handbücher durch alles, was Sie brauchen, in Ihrer Tasche, auch offline.",
+    "install": "Auf dem Handy installieren",
+    "installBody": "Fügen Sie Schuur 80 Ihrem Startbildschirm hinzu für das volle App-Erlebnis, inklusive Offline-Zugriff.",
+    "version": "Version"
+  },
+  "pending": {
+    "label": "Noch zu bestätigen",
+    "defaultStatus": "Wartet auf Bestätigung des Gastgebers",
+    "defaultExplanation": "Diese Information wird nach dem Gastgeber-Workshop ergänzt, damit wir nie ungeprüfte Anleitungen anzeigen.",
+    "defaultExpected": "Erwartet vor Ihrem Aufenthalt",
+    "expectedLabel": "Erwartet"
+  },
+  "placeholderScreen": {
+    "title": "Bald verfügbar",
+    "body": "Dieser Teil des Begleiters wird mit dem Gastgeber vorbereitet und erscheint hier, sobald er bestätigt ist."
+  },
+  "error": {
+    "title": "Etwas ist schiefgelaufen",
+    "body": "Das hat nicht wie geplant funktioniert. Versuchen Sie es erneut oder kehren Sie zur Startseite zurück.",
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundBody": "Diese Seite existiert nicht — vielleicht ist sie in den Obstgarten gewandert.",
+    "goHome": "Zurück zur Startseite"
+  },
+  "story": {
+    "title": "Geschichte der Scheune",
+    "subtitle": "Von der Arbeitsscheune zum Ort des Zusammenseins"
+  },
+  "checkout": {
+    "checklistTitle": "Check-out-Liste",
+    "progress": "erledigt"
+  },
+  "arrival": {
+    "title": "Ankunft",
+    "weather": "Wetter in Haasdonk",
+    "weatherPending": "Das Live-Wetter wird hier angezeigt, sobald Sie online sind."
+  },
+  "common": {
+    "loading": "Laden",
+    "min": "Min.",
+    "km": "km",
+    "moreInfo": "Mehr Infos",
+    "website": "Webseite",
+    "tip": "Tipp",
+    "steps": "Schritte",
+    "tips": "Gut zu wissen",
+    "model": "Modell"
+  }
+}

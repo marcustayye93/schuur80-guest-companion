@@ -1,22 +1,22 @@
 /**
- * Schuur 80 — 404. Friendly error state in Barn Light style.
+ * Schuur 80 — Offline screen. Friendly state shown at /offline.
  */
-import { Compass } from "lucide-react";
+import { WifiOff } from "lucide-react";
 import { Link } from "wouter";
 import { useLanguage } from "@/contexts/LanguageContext";
 
-export default function NotFound() {
+export default function OfflinePage() {
   const { t } = useLanguage();
   return (
     <div className="flex flex-col items-center gap-4 px-8 py-24 text-center">
-      <span className="flex h-16 w-16 items-center justify-center rounded-full bg-secondary">
-        <Compass className="h-7 w-7 text-primary" aria-hidden />
+      <span className="flex h-16 w-16 items-center justify-center rounded-full bg-amber-100">
+        <WifiOff className="h-7 w-7 text-amber-800" aria-hidden />
       </span>
       <h1 className="font-serif text-[28px] font-semibold text-foreground">
-        {t("error.notFoundTitle")}
+        {t("offline.title")}
       </h1>
       <p className="max-w-xs text-[14.5px] leading-relaxed text-muted-foreground">
-        {t("error.notFoundBody")}
+        {t("offline.body")}
       </p>
       <Link
         href="/"

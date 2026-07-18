@@ -1,0 +1,160 @@
+{
+  "pendingDefaults": {
+    "status": {
+      "en": "Awaiting host confirmation",
+      "nl": "In afwachting van bevestiging door de gastheer",
+      "fr": "En attente de confirmation de l'hôte",
+      "de": "Wartet auf Bestätigung des Gastgebers"
+    },
+    "explanation": {
+      "en": "This information will be added after the host workshop, so we never show you unverified instructions.",
+      "nl": "Deze informatie wordt toegevoegd na de workshop met de gastheer, zodat we je nooit ongeverifieerde instructies tonen.",
+      "fr": "Cette information sera ajoutée après l'atelier avec l'hôte, afin de ne jamais afficher d'instructions non vérifiées.",
+      "de": "Diese Information wird nach dem Gastgeber-Workshop ergänzt, damit wir nie ungeprüfte Anleitungen anzeigen."
+    },
+    "expectedUpdate": {
+      "en": "Expected before your stay",
+      "nl": "Verwacht vóór je verblijf",
+      "fr": "Prévu avant votre séjour",
+      "de": "Erwartet vor Ihrem Aufenthalt"
+    }
+  },
+  "devices": [
+    {
+      "id": "wifi-router",
+      "roomId": "living",
+      "name": { "en": "Wi-Fi", "nl": "Wifi", "fr": "Wi-Fi", "de": "WLAN" },
+      "brandModel": { "pending": true },
+      "icon": "wifi",
+      "instructions": { "pending": true },
+      "tips": [
+        {
+          "en": "Wi-Fi covers the whole barn. Network name and password will be confirmed by the host.",
+          "nl": "Wifi dekt de hele schuur. Netwerknaam en wachtwoord worden nog bevestigd door de gastheer.",
+          "fr": "Le Wi-Fi couvre toute la grange. Le nom du réseau et le mot de passe seront confirmés par l'hôte.",
+          "de": "WLAN deckt die ganze Scheune ab. Netzwerkname und Passwort werden noch vom Gastgeber bestätigt."
+        }
+      ]
+    },
+    {
+      "id": "fireplace",
+      "roomId": "living",
+      "name": { "en": "Fireplace", "nl": "Haard", "fr": "Cheminée", "de": "Kamin" },
+      "brandModel": { "pending": true },
+      "icon": "flame",
+      "instructions": { "pending": true },
+      "tips": [
+        {
+          "en": "Please only use the fireplace after reading the host's guide, which is being prepared.",
+          "nl": "Gebruik de haard enkel na het lezen van de gids van de gastheer, die in voorbereiding is.",
+          "fr": "Merci de n'utiliser la cheminée qu'après avoir lu le guide de l'hôte, en cours de préparation.",
+          "de": "Bitte nutzen Sie den Kamin erst nach dem Lesen der Anleitung des Gastgebers, die derzeit erstellt wird."
+        }
+      ]
+    },
+    {
+      "id": "heating",
+      "roomId": "living",
+      "name": { "en": "Underfloor Heating", "nl": "Vloerverwarming", "fr": "Chauffage au sol", "de": "Fußbodenheizung" },
+      "brandModel": { "pending": true },
+      "icon": "thermometer",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "aircon",
+      "roomId": "living",
+      "name": { "en": "Air Conditioning", "nl": "Airconditioning", "fr": "Climatisation", "de": "Klimaanlage" },
+      "brandModel": { "pending": true },
+      "icon": "wind",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "oven",
+      "roomId": "kitchen",
+      "name": { "en": "Oven", "nl": "Oven", "fr": "Four", "de": "Backofen" },
+      "brandModel": { "pending": true },
+      "icon": "cooking-pot",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "induction-hob",
+      "roomId": "kitchen",
+      "name": { "en": "Induction Hob", "nl": "Inductiekookplaat", "fr": "Plaque à induction", "de": "Induktionskochfeld" },
+      "brandModel": { "pending": true },
+      "icon": "flame-kindling",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "dishwasher",
+      "roomId": "kitchen",
+      "name": { "en": "Dishwasher", "nl": "Vaatwasser", "fr": "Lave-vaisselle", "de": "Geschirrspüler" },
+      "brandModel": { "pending": true },
+      "icon": "waves",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "coffee-machine",
+      "roomId": "kitchen",
+      "name": { "en": "Coffee Machine", "nl": "Koffiemachine", "fr": "Machine à café", "de": "Kaffeemaschine" },
+      "brandModel": { "pending": true },
+      "icon": "coffee",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "projector",
+      "roomId": "cinema",
+      "name": { "en": "Projector", "nl": "Projector", "fr": "Projecteur", "de": "Projektor" },
+      "brandModel": { "pending": true },
+      "icon": "projector",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "hot-tub",
+      "roomId": "garden",
+      "name": { "en": "Hot Tub", "nl": "Hottub", "fr": "Jacuzzi", "de": "Whirlpool" },
+      "brandModel": { "pending": true },
+      "icon": "bath",
+      "instructions": { "pending": true },
+      "tips": [
+        {
+          "en": "Please shower before use and keep the cover on when not in use.",
+          "nl": "Douche voor gebruik en houd het deksel erop wanneer niet in gebruik.",
+          "fr": "Merci de vous doucher avant utilisation et de remettre la couverture après usage.",
+          "de": "Bitte vor der Nutzung duschen und die Abdeckung bei Nichtgebrauch geschlossen halten."
+        }
+      ]
+    },
+    {
+      "id": "bbq",
+      "roomId": "garden",
+      "name": { "en": "BBQ", "nl": "BBQ", "fr": "Barbecue", "de": "Grill" },
+      "brandModel": { "pending": true },
+      "icon": "beef",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "ev-charger",
+      "roomId": "garden",
+      "name": { "en": "EV Charging", "nl": "EV-laadpunt", "fr": "Borne de recharge", "de": "E-Ladestation" },
+      "brandModel": { "pending": true },
+      "icon": "plug-zap",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "washing-machine",
+      "roomId": "utility",
+      "name": { "en": "Washing Machine", "nl": "Wasmachine", "fr": "Lave-linge", "de": "Waschmaschine" },
+      "brandModel": { "pending": true },
+      "icon": "shirt",
+      "instructions": { "pending": true }
+    },
+    {
+      "id": "alarm",
+      "roomId": "utility",
+      "name": { "en": "Alarm System", "nl": "Alarmsysteem", "fr": "Système d'alarme", "de": "Alarmanlage" },
+      "brandModel": { "pending": true },
+      "icon": "shield-alert",
+      "instructions": { "pending": true }
+    }
+  ]
+}

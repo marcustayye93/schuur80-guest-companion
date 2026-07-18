@@ -1,0 +1,186 @@
+{
+  "app": {
+    "name": "Schuur 80",
+    "tagline": "Your guest companion",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgium"
+  },
+  "nav": {
+    "home": "Home",
+    "house": "House",
+    "garden": "Garden",
+    "guide": "Guide",
+    "help": "Help"
+  },
+  "actions": {
+    "search": "Search",
+    "searchPlaceholder": "Search the house, guides, FAQs…",
+    "language": "Language",
+    "contactHost": "Contact host",
+    "back": "Back",
+    "close": "Close",
+    "viewAll": "View all",
+    "openGuide": "Open guide",
+    "settings": "Settings",
+    "install": "Install app",
+    "retry": "Try again"
+  },
+  "offline": {
+    "badge": "Offline",
+    "banner": "You're offline — saved content is still available.",
+    "title": "You're offline",
+    "body": "No connection right now. Everything you've already opened is saved and available. Reconnect to get the latest updates.",
+    "cached": "Available offline"
+  },
+  "home": {
+    "welcome": "Welcome to the barn",
+    "welcomeSub": "The barn is yours — here's everything you need.",
+    "beforeArrival": "Before you arrive",
+    "duringStay": "Around the house",
+    "departure": "Before you go",
+    "quickLinks": "Quick access",
+    "storyTitle": "The story of the barn",
+    "storySub": "A restored heritage barn in the Waasland",
+    "exploreHouse": "Explore the house",
+    "exploreGarden": "Into the garden",
+    "meetCats": "Meet the cats",
+    "arrivalCard": "Arrival & check-in",
+    "arrivalCardSub": "Directions, parking, getting inside",
+    "checkoutCard": "Checkout",
+    "checkoutCardSub": "A few small things before you go",
+    "emergencyCard": "Emergency information",
+    "emergencyCardSub": "Numbers and what to do",
+    "recommendationsCard": "Out & about",
+    "recommendationsCardSub": "Antwerp, Ghent and the Waasland"
+  },
+  "house": {
+    "title": "The House",
+    "subtitle": "Rooms, appliances and how everything works",
+    "rooms": "Rooms & spaces",
+    "appliances": "Appliances",
+    "guides": "House guides",
+    "features": "In this space",
+    "inRoom": "In this room",
+    "map": "House map",
+    "mapPending": "An interactive house map will be added once floor plans are confirmed by the host.",
+    "group": {
+      "utility": "Utility & practical",
+      "garden": "Garden & outdoors"
+    }
+  },
+  "garden": {
+    "title": "Garden & Orchard",
+    "subtitle": "The outdoors, the hot tub, the BBQ and the cats",
+    "cats": "The cats",
+    "catsSub": "Meet the residents",
+    "outdoor": "Outdoor amenities"
+  },
+  "guide": {
+    "title": "Guide",
+    "subtitle": "Arrival, checkout, story and the area",
+    "journey": "Your stay",
+    "area": "Out & about",
+    "faqs": "Frequently asked questions",
+    "story": "Story of the barn",
+    "hostPicks": "Host favourites"
+  },
+  "help": {
+    "title": "Help",
+    "subtitle": "Answers, contact and emergencies",
+    "emergency": "Emergency",
+    "emergencySub": "Numbers and what to do",
+    "faq": "FAQs",
+    "faqSub": "Quick answers to common questions",
+    "contact": "Contact the host",
+    "contactSub": "Questions during your stay",
+    "pendingRegister": "Pending information",
+    "pendingRegisterSub": "What we're still confirming with the host"
+  },
+  "emergency": {
+    "title": "Emergency",
+    "callEu": "European emergency number",
+    "callEuSub": "Ambulance · Fire brigade",
+    "police": "Police",
+    "doctor": "Doctor on duty",
+    "pharmacy": "Pharmacy on duty",
+    "poison": "Poison control centre",
+    "hostContact": "Host contact",
+    "address": "Your address here",
+    "addressNote": "Give this address to emergency services",
+    "call": "Call"
+  },
+  "cats": {
+    "title": "The Cats",
+    "personality": "Personality",
+    "feeding": "Feeding",
+    "notes": "Good to know",
+    "rules": "Being a good housemate",
+    "fallbackName": "Cat",
+    "pendingIntro": "Waiting to be introduced — the host will share their name soon"
+  },
+  "search": {
+    "title": "Search",
+    "noResults": "Nothing found for",
+    "noResultsHint": "Try a different word, or browse via Home.",
+    "results": "Results",
+    "sections": {
+      "rooms": "Rooms",
+      "devices": "Appliances",
+      "guides": "Guides",
+      "faqs": "FAQs",
+      "recommendations": "Out & about",
+      "cats": "Cats"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageSub": "Choose your preferred language",
+    "about": "About this app",
+    "aboutBody": "The digital guest companion for Schuur 80 — replacing printed manuals with everything you need, in your pocket, even offline.",
+    "install": "Install on your phone",
+    "installBody": "Add Schuur 80 to your home screen for the full app experience, including offline access.",
+    "version": "Version"
+  },
+  "pending": {
+    "label": "To be confirmed",
+    "defaultStatus": "Awaiting host confirmation",
+    "defaultExplanation": "This information will be added after the host workshop, so we never show you unverified instructions.",
+    "defaultExpected": "Expected before your stay",
+    "expectedLabel": "Expected"
+  },
+  "placeholderScreen": {
+    "title": "Coming soon",
+    "body": "This part of the companion is being prepared with the host and will appear here once confirmed."
+  },
+  "error": {
+    "title": "Something went sideways",
+    "body": "That didn't work as planned. Try again, or head back home.",
+    "notFoundTitle": "Page not found",
+    "notFoundBody": "This page doesn't exist — perhaps it wandered into the orchard.",
+    "goHome": "Back to Home"
+  },
+  "story": {
+    "title": "Story of the Barn",
+    "subtitle": "From working barn to a place of togetherness"
+  },
+  "checkout": {
+    "checklistTitle": "Checkout checklist",
+    "progress": "done"
+  },
+  "arrival": {
+    "title": "Arrival",
+    "weather": "Weather in Haasdonk",
+    "weatherPending": "Live weather will be shown here when you're online."
+  },
+  "common": {
+    "loading": "Loading",
+    "min": "min",
+    "km": "km",
+    "moreInfo": "More info",
+    "website": "Website",
+    "tip": "Tip",
+    "steps": "Steps",
+    "tips": "Good to know",
+    "model": "Model"
+  }
+}
