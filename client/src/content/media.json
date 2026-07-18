@@ -2,87 +2,87 @@
   "assets": [
     {
       "id": "hero-exterior",
-      "src": "/manus-storage/schuur80-hero-exterior_6a426c20.jpg",
+      "src": "/manus-storage/schuur80-hero-exterior_6a426c20_f3fcd432.jpg",
       "alt": {
-        "en": "The restored barn of Schuur 80 at golden hour, surrounded by the orchard",
-        "nl": "De gerestaureerde schuur van Schuur 80 bij avondlicht, omringd door de boomgaard",
-        "fr": "La grange restaurée de Schuur 80 à l'heure dorée, entourée du verger",
-        "de": "Die restaurierte Scheune von Schuur 80 in der goldenen Stunde, umgeben vom Obstgarten"
+        "en": "The red-brick facade of Schuur 80 with its arched window, seen from the gravel courtyard",
+        "nl": "De bakstenen gevel van Schuur 80 met het boogvenster, gezien vanaf het grindplein",
+        "fr": "La façade en brique rouge de Schuur 80 avec sa fenêtre cintrée, vue de la cour en gravier",
+        "de": "Die Backsteinfassade von Schuur 80 mit dem Bogenfenster, vom Kieshof aus gesehen"
       }
     },
     {
       "id": "living-interior",
-      "src": "/manus-storage/schuur80-living-interior_a01bd350.jpg",
+      "src": "/manus-storage/schuur80-living-interior_a01bd350_ab1eda30.jpg",
       "alt": {
-        "en": "The living room with exposed beams, linen sofas and the fireplace",
-        "nl": "De woonkamer met zichtbare balken, linnen zetels en de haard",
-        "fr": "Le salon avec poutres apparentes, canapés en lin et la cheminée",
-        "de": "Das Wohnzimmer mit freiliegenden Balken, Leinensofas und dem Kamin"
+        "en": "The open living room with cream sofas, conical pendant lights and the black fireplace wall",
+        "nl": "De open woonkamer met crèmekleurige zetels, kegelvormige hanglampen en de zwarte haardwand",
+        "fr": "Le salon ouvert avec canapés crème, suspensions coniques et le mur de cheminée noir",
+        "de": "Das offene Wohnzimmer mit cremefarbenen Sofas, kegelförmigen Pendelleuchten und der schwarzen Kaminwand"
       }
     },
     {
       "id": "kitchen",
-      "src": "/manus-storage/schuur80-kitchen_e09175f0.jpg",
+      "src": "/manus-storage/schuur80-kitchen_e09175f0_f30ab796.jpg",
       "alt": {
-        "en": "The professional kitchen with stone island and range cooker",
-        "nl": "De professionele keuken met stenen eiland en fornuis",
-        "fr": "La cuisine professionnelle avec îlot en pierre et piano de cuisson",
-        "de": "Die Profiküche mit Steininsel und Herd"
+        "en": "The kitchen with its sleek island and garden view through the steel-framed windows",
+        "nl": "De keuken met het strakke eiland en zicht op de tuin door de stalen ramen",
+        "fr": "La cuisine avec son îlot épuré et la vue sur le jardin à travers les fenêtres en acier",
+        "de": "Die Küche mit ihrer schlichten Insel und Gartenblick durch die Stahlfenster"
       }
     },
     {
       "id": "garden",
-      "src": "/manus-storage/schuur80-garden_ff693a90.jpg",
+      "src": "/manus-storage/schuur80-garden_ff693a90_4d627daa.jpg",
       "alt": {
-        "en": "The garden and orchard with the hot tub deck in evening light",
-        "nl": "De tuin en boomgaard met het hottub-terras in avondlicht",
-        "fr": "Le jardin et le verger avec la terrasse du jacuzzi en fin de journée",
-        "de": "Der Garten und Obstgarten mit dem Whirlpool-Deck im Abendlicht"
+        "en": "The wide lawn and mature trees of the garden stretching behind the barn",
+        "nl": "Het brede gazon en de volwassen bomen van de tuin achter de schuur",
+        "fr": "La grande pelouse et les arbres matures du jardin derrière la grange",
+        "de": "Der weite Rasen und die alten Bäume des Gartens hinter der Scheune"
       }
     },
     {
       "id": "cinema",
-      "src": "/manus-storage/schuur80-cinema_5bff8fb9.jpg",
+      "src": "/manus-storage/schuur80-cinema_5bff8fb9_ba2f8f4b.jpg",
       "alt": {
-        "en": "The cinema room with projector screen and velvet sofas",
-        "nl": "De cinemakamer met projectiescherm en fluwelen zetels",
-        "fr": "La salle de cinéma avec écran de projection et canapés en velours",
-        "de": "Der Kinoraum mit Leinwand und Samtsofas"
+        "en": "The lounge corner with fireplace, bouclé seating and conical pendant lights",
+        "nl": "De loungehoek met haard, bouclé-zetels en kegelvormige hanglampen",
+        "fr": "Le coin salon avec cheminée, fauteuils bouclé et suspensions coniques",
+        "de": "Die Lounge-Ecke mit Kamin, Bouclé-Sesseln und kegelförmigen Pendelleuchten"
       }
     },
     {
       "id": "bedroom",
-      "src": "/manus-storage/schuur80-bedroom_1ea8d54f.jpg",
+      "src": "/manus-storage/schuur80-bedroom_1ea8d54f_487dd602.jpg",
       "alt": {
-        "en": "A serene bedroom with linen bedding under timber beams",
-        "nl": "Een serene slaapkamer met linnen beddengoed onder houten balken",
-        "fr": "Une chambre sereine avec literie en lin sous les poutres",
-        "de": "Ein ruhiges Schlafzimmer mit Leinenbettwäsche unter Holzbalken"
+        "en": "An attic bedroom with white bedding beneath the original timber beam",
+        "nl": "Een zolderslaapkamer met wit beddengoed onder de originele houten balk",
+        "fr": "Une chambre mansardée avec literie blanche sous la poutre d'origine",
+        "de": "Ein Dachschlafzimmer mit weißer Bettwäsche unter dem originalen Holzbalken"
       }
     },
     {
       "id": "bathroom",
-      "src": "/manus-storage/schuur80-bathroom_8e2879e1.jpg",
+      "src": "/manus-storage/schuur80-bathroom_8e2879e1_c7f3485e.jpg",
       "alt": {
-        "en": "A bathroom with freestanding stone bathtub and rain shower",
-        "nl": "Een badkamer met vrijstaand stenen bad en regendouche",
-        "fr": "Une salle de bain avec baignoire en pierre et douche pluie",
-        "de": "Ein Badezimmer mit freistehender Steinbadewanne und Regendusche"
+        "en": "A bathroom with terracotta basin, oak counter and round mirror under the sloped roof",
+        "nl": "Een badkamer met terracotta waskom, eiken tablet en ronde spiegel onder het schuine dak",
+        "fr": "Une salle de bain avec vasque terracotta, plan en chêne et miroir rond sous le toit incliné",
+        "de": "Ein Badezimmer mit Terrakotta-Waschbecken, Eichenplatte und rundem Spiegel unter der Dachschräge"
       }
     },
     {
       "id": "bar",
-      "src": "/manus-storage/schuur80-bar_f378dcc3.jpg",
+      "src": "/manus-storage/schuur80-bar_f378dcc3_4c6e18cc.jpg",
       "alt": {
-        "en": "The bar and billiards corner with warm evening lighting",
-        "nl": "De bar en biljart-hoek met warme avondverlichting",
-        "fr": "Le bar et le coin billard avec un éclairage chaleureux",
-        "de": "Die Bar- und Billardecke mit warmer Abendbeleuchtung"
+        "en": "The bar counter with its row of black stools in the open barn space",
+        "nl": "De bartoog met de rij zwarte krukken in de open schuurruimte",
+        "fr": "Le comptoir du bar avec sa rangée de tabourets noirs dans l'espace ouvert de la grange",
+        "de": "Die Bartheke mit ihrer Reihe schwarzer Hocker im offenen Scheunenraum"
       }
     },
     {
       "id": "cats",
-      "src": "/manus-storage/schuur80-cats_9b8fed4d.jpg",
+      "src": "/manus-storage/schuur80-cats-real_ff1129a9.jpg",
       "alt": {
         "en": "The two resident cats lounging on a windowsill",
         "nl": "De twee huiskatten lui op een vensterbank",
@@ -92,32 +92,32 @@
     },
     {
       "id": "arrival",
-      "src": "/manus-storage/schuur80-arrival_b04ff603.jpg",
+      "src": "/manus-storage/schuur80-arrival_b04ff603_7f0275d8.jpg",
       "alt": {
-        "en": "The gravel driveway and entrance of Schuur 80 at blue hour",
-        "nl": "De grindoprit en ingang van Schuur 80 in de schemering",
-        "fr": "L'allée en gravier et l'entrée de Schuur 80 au crépuscule",
-        "de": "Die Kieseinfahrt und der Eingang von Schuur 80 zur blauen Stunde"
+        "en": "The barn and its annexe seen from the meadow, with solar panels on the tiled roof",
+        "nl": "De schuur en het bijgebouw gezien vanaf de weide, met zonnepanelen op het pannendak",
+        "fr": "La grange et son annexe vues de la prairie, avec panneaux solaires sur le toit en tuiles",
+        "de": "Die Scheune und ihr Nebengebäude von der Wiese aus, mit Solarpaneelen auf dem Ziegeldach"
       }
     },
     {
       "id": "orchard",
-      "src": "/manus-storage/schuur80-orchard_aaf76015.jpg",
+      "src": "/manus-storage/schuur80-orchard_aaf76015_2d8763d4.jpg",
       "alt": {
-        "en": "Apple trees in the orchard in morning light",
-        "nl": "Appelbomen in de boomgaard in ochtendlicht",
-        "fr": "Pommiers du verger dans la lumière du matin",
-        "de": "Apfelbäume im Obstgarten im Morgenlicht"
+        "en": "The hot tub and lounge chairs beneath the orchard trees",
+        "nl": "De hottub en ligstoelen onder de bomen van de boomgaard",
+        "fr": "Le jacuzzi et les chaises longues sous les arbres du verger",
+        "de": "Der Whirlpool und die Liegestühle unter den Obstbäumen"
       }
     },
     {
       "id": "story",
-      "src": "/manus-storage/schuur80-story_9e65b3a4.jpg",
+      "src": "/manus-storage/schuur80-story_9e65b3a4_a7a89851.jpg",
       "alt": {
-        "en": "Original oak beams and brick of the heritage barn",
-        "nl": "Originele eiken balken en baksteen van de historische schuur",
-        "fr": "Poutres en chêne d'origine et briques de la grange historique",
-        "de": "Originale Eichenbalken und Ziegel der historischen Scheune"
+        "en": "The original stained-glass window of the barn catching the light",
+        "nl": "Het originele glas-in-loodraam van de schuur in het licht",
+        "fr": "Le vitrail d'origine de la grange captant la lumière",
+        "de": "Das originale Bleiglasfenster der Scheune im Licht"
       }
     },
     {

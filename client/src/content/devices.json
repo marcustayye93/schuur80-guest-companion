@@ -24,15 +24,30 @@
       "id": "wifi-router",
       "roomId": "living",
       "name": { "en": "Wi-Fi", "nl": "Wifi", "fr": "Wi-Fi", "de": "WLAN" },
-      "brandModel": { "pending": true },
+      "brandModel": "Schuur80 network",
       "icon": "wifi",
-      "instructions": { "pending": true },
+      "instructions": {
+        "steps": [
+          {
+            "en": "Open the Wi-Fi settings on your phone or laptop and choose the network \"Schuur80\".",
+            "nl": "Open de wifi-instellingen op je telefoon of laptop en kies het netwerk \"Schuur80\".",
+            "fr": "Ouvrez les réglages Wi-Fi de votre téléphone ou ordinateur et choisissez le réseau \"Schuur80\".",
+            "de": "Öffnen Sie die WLAN-Einstellungen auf Ihrem Handy oder Laptop und wählen Sie das Netzwerk \"Schuur80\"."
+          },
+          {
+            "en": "Enter the password \"Schuur80\" and connect. Wi-Fi covers the whole barn.",
+            "nl": "Voer het wachtwoord \"Schuur80\" in en verbind. Wifi dekt de hele schuur.",
+            "fr": "Saisissez le mot de passe \"Schuur80\" et connectez-vous. Le Wi-Fi couvre toute la grange.",
+            "de": "Geben Sie das Passwort \"Schuur80\" ein und verbinden Sie sich. WLAN deckt die ganze Scheune ab."
+          }
+        ]
+      },
       "tips": [
         {
-          "en": "Wi-Fi covers the whole barn. Network name and password will be confirmed by the host.",
-          "nl": "Wifi dekt de hele schuur. Netwerknaam en wachtwoord worden nog bevestigd door de gastheer.",
-          "fr": "Le Wi-Fi couvre toute la grange. Le nom du réseau et le mot de passe seront confirmés par l'hôte.",
-          "de": "WLAN deckt die ganze Scheune ab. Netzwerkname und Passwort werden noch vom Gastgeber bestätigt."
+          "en": "If the connection drops, the router restart guide will follow from the host.",
+          "nl": "Valt de verbinding weg, dan volgt de herstartgids voor de router nog van de gastheer.",
+          "fr": "En cas de coupure, le guide de redémarrage du routeur suivra de la part de l'hôte.",
+          "de": "Bei Verbindungsabbruch folgt die Router-Neustart-Anleitung noch vom Gastgeber."
         }
       ]
     },

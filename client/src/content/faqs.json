@@ -4,7 +4,12 @@
       "id": "faq-wifi",
       "category": "house",
       "question": { "en": "What is the Wi-Fi password?", "nl": "Wat is het wifi-wachtwoord?", "fr": "Quel est le mot de passe Wi-Fi ?", "de": "Wie lautet das WLAN-Passwort?" },
-      "answer": { "pending": true }
+      "answer": {
+        "en": "Connect to the network \"Schuur80\" with the password \"Schuur80\". Wi-Fi covers the whole barn.",
+        "nl": "Verbind met het netwerk \"Schuur80\" met het wachtwoord \"Schuur80\". Wifi dekt de hele schuur.",
+        "fr": "Connectez-vous au réseau \"Schuur80\" avec le mot de passe \"Schuur80\". Le Wi-Fi couvre toute la grange.",
+        "de": "Verbinden Sie sich mit dem Netzwerk \"Schuur80\" mit dem Passwort \"Schuur80\". WLAN deckt die ganze Scheune ab."
+      }
     },
     {
       "id": "faq-checkin-time",
