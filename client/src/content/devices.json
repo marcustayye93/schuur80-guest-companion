@@ -23,7 +23,12 @@
     {
       "id": "wifi-router",
       "roomId": "living",
-      "name": { "en": "Wi-Fi", "nl": "Wifi", "fr": "Wi-Fi", "de": "WLAN" },
+      "name": {
+        "en": "Wi-Fi",
+        "nl": "Wifi",
+        "fr": "Wi-Fi",
+        "de": "WLAN"
+      },
       "brandModel": "Schuur80 network",
       "icon": "wifi",
       "instructions": {
@@ -54,10 +59,35 @@
     {
       "id": "fireplace",
       "roomId": "living",
-      "name": { "en": "Fireplace", "nl": "Haard", "fr": "Cheminée", "de": "Kamin" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Fireplace",
+        "nl": "Haard",
+        "fr": "Cheminée",
+        "de": "Kamin"
+      },
       "icon": "flame",
-      "instructions": { "pending": true },
+      "instructions": {
+        "steps": [
+          {
+            "en": "Only use dry firewood provided at the house — never treated wood, paper briquettes or garden waste.",
+            "nl": "Gebruik enkel het droge brandhout dat in het huis voorzien is — nooit behandeld hout, papierbriketten of tuinafval.",
+            "fr": "Utilisez uniquement le bois sec fourni dans la maison — jamais de bois traité, de briquettes de papier ou de déchets verts.",
+            "de": "Verwenden Sie nur das im Haus bereitgestellte trockene Brennholz — niemals behandeltes Holz, Papierbriketts oder Gartenabfälle."
+          },
+          {
+            "en": "Open the air supply fully when lighting; reduce it once the fire burns steadily.",
+            "nl": "Zet de luchttoevoer volledig open bij het aansteken; verminder zodra het vuur goed brandt.",
+            "fr": "Ouvrez complètement l'arrivée d'air à l'allumage ; réduisez-la une fois le feu bien pris.",
+            "de": "Öffnen Sie die Luftzufuhr beim Anzünden vollständig; reduzieren Sie sie, sobald das Feuer gleichmäßig brennt."
+          },
+          {
+            "en": "Never leave the fire unattended, and make sure it is fully out before going to bed or leaving the barn.",
+            "nl": "Laat het vuur nooit onbewaakt achter en zorg dat het volledig uit is voor je gaat slapen of de schuur verlaat.",
+            "fr": "Ne laissez jamais le feu sans surveillance et assurez-vous qu'il est complètement éteint avant d'aller dormir ou de quitter la grange.",
+            "de": "Lassen Sie das Feuer nie unbeaufsichtigt und stellen Sie sicher, dass es vollständig erloschen ist, bevor Sie schlafen gehen oder die Scheune verlassen."
+          }
+        ]
+      },
       "tips": [
         {
           "en": "Please only use the fireplace after reading the host's guide, which is being prepared.",
@@ -70,66 +100,266 @@
     {
       "id": "heating",
       "roomId": "living",
-      "name": { "en": "Underfloor Heating", "nl": "Vloerverwarming", "fr": "Chauffage au sol", "de": "Fußbodenheizung" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Underfloor Heating",
+        "nl": "Vloerverwarming",
+        "fr": "Chauffage au sol",
+        "de": "Fußbodenheizung"
+      },
       "icon": "thermometer",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "The thermostat in the living area controls the heating — adjust the target temperature there rather than opening windows.",
+            "nl": "De thermostaat in de leefruimte regelt de verwarming — pas daar de gewenste temperatuur aan in plaats van ramen te openen.",
+            "fr": "Le thermostat du séjour commande le chauffage — réglez-y la température souhaitée plutôt que d'ouvrir les fenêtres.",
+            "de": "Das Thermostat im Wohnbereich steuert die Heizung — stellen Sie dort die Wunschtemperatur ein, statt Fenster zu öffnen."
+          },
+          {
+            "en": "Give the system time: a barn this size warms up gradually, so avoid setting extreme temperatures.",
+            "nl": "Geef het systeem tijd: een schuur van deze omvang warmt geleidelijk op, vermijd extreme instellingen.",
+            "fr": "Laissez le temps au système : une grange de cette taille chauffe progressivement, évitez les réglages extrêmes.",
+            "de": "Geben Sie dem System Zeit: Eine Scheune dieser Größe erwärmt sich allmählich, vermeiden Sie extreme Einstellungen."
+          },
+          {
+            "en": "Please return the thermostat to its normal setting before checkout.",
+            "nl": "Zet de thermostaat terug op de normale stand voor je uitcheckt.",
+            "fr": "Merci de remettre le thermostat sur son réglage habituel avant le départ.",
+            "de": "Bitte stellen Sie das Thermostat vor dem Check-out auf die normale Einstellung zurück."
+          }
+        ]
+      }
     },
     {
       "id": "aircon",
       "roomId": "living",
-      "name": { "en": "Air Conditioning", "nl": "Airconditioning", "fr": "Climatisation", "de": "Klimaanlage" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Air Conditioning",
+        "nl": "Airconditioning",
+        "fr": "Climatisation",
+        "de": "Klimaanlage"
+      },
       "icon": "wind",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Use the remote in each room to set mode and temperature — snowflake for cooling, sun for heating.",
+            "nl": "Gebruik de afstandsbediening in elke kamer voor modus en temperatuur — sneeuwvlok voor koelen, zon voor verwarmen.",
+            "fr": "Utilisez la télécommande de chaque pièce pour le mode et la température — flocon pour rafraîchir, soleil pour chauffer.",
+            "de": "Nutzen Sie die Fernbedienung in jedem Raum für Modus und Temperatur — Schneeflocke zum Kühlen, Sonne zum Heizen."
+          },
+          {
+            "en": "Keep windows and doors closed while the air conditioning is running.",
+            "nl": "Houd ramen en deuren gesloten terwijl de airco draait.",
+            "fr": "Gardez fenêtres et portes fermées pendant que la climatisation fonctionne.",
+            "de": "Halten Sie Fenster und Türen geschlossen, während die Klimaanlage läuft."
+          },
+          {
+            "en": "Turn units off when you leave the barn for the day.",
+            "nl": "Zet de units uit als je de schuur voor langere tijd verlaat.",
+            "fr": "Éteignez les unités lorsque vous quittez la grange pour la journée.",
+            "de": "Schalten Sie die Geräte aus, wenn Sie die Scheune für längere Zeit verlassen."
+          }
+        ]
+      }
     },
     {
       "id": "oven",
       "roomId": "kitchen",
-      "name": { "en": "Oven", "nl": "Oven", "fr": "Four", "de": "Backofen" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Oven",
+        "nl": "Oven",
+        "fr": "Four",
+        "de": "Backofen"
+      },
       "icon": "cooking-pot",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Choose the heating mode with the dial or touch panel — fan mode suits most dishes; allow a short preheat.",
+            "nl": "Kies de verwarmingsmodus met de draaiknop of het aanraakpaneel — heteluchtmodus past bij de meeste gerechten; laat even voorverwarmen.",
+            "fr": "Choisissez le mode de cuisson avec la molette ou l'écran tactile — la chaleur tournante convient à la plupart des plats ; laissez préchauffer un instant.",
+            "de": "Wählen Sie die Betriebsart über den Drehknopf oder das Touchfeld — Umluft eignet sich für die meisten Gerichte; kurz vorheizen lassen."
+          },
+          {
+            "en": "Use oven gloves — handles and glass get hot — and keep the door closed as much as possible while baking.",
+            "nl": "Gebruik ovenwanten — handgrepen en glas worden heet — en houd de deur zoveel mogelijk gesloten tijdens het bakken.",
+            "fr": "Utilisez des gants de cuisine — poignées et vitre deviennent chaudes — et gardez la porte fermée autant que possible pendant la cuisson.",
+            "de": "Verwenden Sie Ofenhandschuhe — Griffe und Glas werden heiß — und halten Sie die Tür beim Backen möglichst geschlossen."
+          },
+          {
+            "en": "Wipe up spills once the oven has cooled so they don't burn in at the next use.",
+            "nl": "Veeg gemorste resten weg zodra de oven is afgekoeld, zodat ze niet inbranden bij het volgende gebruik.",
+            "fr": "Essuyez les débordements une fois le four refroidi pour qu'ils ne brûlent pas à la prochaine utilisation.",
+            "de": "Wischen Sie Verschüttetes nach dem Abkühlen aus, damit es beim nächsten Gebrauch nicht einbrennt."
+          }
+        ]
+      }
     },
     {
       "id": "induction-hob",
       "roomId": "kitchen",
-      "name": { "en": "Induction Hob", "nl": "Inductiekookplaat", "fr": "Plaque à induction", "de": "Induktionskochfeld" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Induction Hob",
+        "nl": "Inductiekookplaat",
+        "fr": "Plaque à induction",
+        "de": "Induktionskochfeld"
+      },
       "icon": "flame-kindling",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "The hob only heats pans with a magnetic base placed on the marked zones — it stays off otherwise.",
+            "nl": "De kookplaat verwarmt enkel pannen met een magnetische bodem op de gemarkeerde zones — anders blijft ze uit.",
+            "fr": "La plaque ne chauffe que les casseroles à fond magnétique posées sur les zones marquées — sinon elle reste éteinte.",
+            "de": "Das Kochfeld erhitzt nur Töpfe mit magnetischem Boden auf den markierten Zonen — sonst bleibt es aus."
+          },
+          {
+            "en": "Touch the power symbol to switch on, then set the level per zone with + and − or the slider.",
+            "nl": "Raak het aan/uit-symbool aan om in te schakelen en stel per zone het niveau in met + en − of de schuifregelaar.",
+            "fr": "Touchez le symbole marche/arrêt pour allumer, puis réglez la puissance de chaque zone avec + et − ou le curseur.",
+            "de": "Berühren Sie das Ein/Aus-Symbol zum Einschalten und stellen Sie die Stufe pro Zone mit + und − oder dem Schieberegler ein."
+          },
+          {
+            "en": "An 'H' on a zone means it is still hot — don't touch it and keep tea towels off the glass.",
+            "nl": "Een 'H' op een zone betekent dat ze nog heet is — raak ze niet aan en leg geen handdoeken op het glas.",
+            "fr": "Un « H » sur une zone signifie qu'elle est encore chaude — ne la touchez pas et ne posez pas de torchons sur le verre.",
+            "de": "Ein „H“ auf einer Zone bedeutet Restwärme — nicht berühren und keine Geschirrtücher auf das Glas legen."
+          }
+        ]
+      }
     },
     {
       "id": "dishwasher",
       "roomId": "kitchen",
-      "name": { "en": "Dishwasher", "nl": "Vaatwasser", "fr": "Lave-vaisselle", "de": "Geschirrspüler" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Dishwasher",
+        "nl": "Vaatwasser",
+        "fr": "Lave-vaisselle",
+        "de": "Geschirrspüler"
+      },
       "icon": "waves",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Scrape plates (no need to pre-rinse), load with spray arms free to turn, and add one tablet to the dispenser.",
+            "nl": "Schraap borden af (voorspoelen hoeft niet), laad zo dat de sproeiarmen vrij kunnen draaien en doe één tablet in het bakje.",
+            "fr": "Grattez les assiettes (inutile de prérincer), chargez en laissant les bras de lavage libres et mettez une tablette dans le compartiment.",
+            "de": "Teller abkratzen (Vorspülen nicht nötig), so einräumen, dass sich die Sprüharme frei drehen, und einen Tab ins Fach geben."
+          },
+          {
+            "en": "The eco or auto programme handles everyday loads; use an intensive programme only for heavily soiled pans.",
+            "nl": "Het eco- of automatische programma volstaat voor dagelijkse vaat; gebruik enkel een intensief programma voor sterk vervuilde pannen.",
+            "fr": "Le programme éco ou auto suffit au quotidien ; réservez le programme intensif aux casseroles très sales.",
+            "de": "Das Eco- oder Automatikprogramm genügt im Alltag; ein Intensivprogramm nur für stark verschmutzte Töpfe verwenden."
+          },
+          {
+            "en": "Before checkout, please run and empty the dishwasher one last time.",
+            "nl": "Laat voor het uitchecken de vaatwasser nog één keer draaien en maak hem leeg.",
+            "fr": "Avant le départ, merci de lancer et de vider le lave-vaisselle une dernière fois.",
+            "de": "Bitte lassen Sie die Spülmaschine vor dem Check-out ein letztes Mal laufen und räumen Sie sie aus."
+          }
+        ]
+      }
     },
     {
       "id": "coffee-machine",
       "roomId": "kitchen",
-      "name": { "en": "Coffee Machine", "nl": "Koffiemachine", "fr": "Machine à café", "de": "Kaffeemaschine" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Coffee Machine",
+        "nl": "Koffiemachine",
+        "fr": "Machine à café",
+        "de": "Kaffeemaschine"
+      },
       "icon": "coffee",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Check the water tank is filled with fresh water before brewing.",
+            "nl": "Controleer of het waterreservoir gevuld is met vers water voor je koffie zet.",
+            "fr": "Vérifiez que le réservoir est rempli d'eau fraîche avant de préparer le café.",
+            "de": "Prüfen Sie vor dem Brühen, ob der Wassertank mit frischem Wasser gefüllt ist."
+          },
+          {
+            "en": "Coffee for the machine is provided in the kitchen — help yourself.",
+            "nl": "Koffie voor de machine ligt klaar in de keuken — bedien jezelf.",
+            "fr": "Le café pour la machine est fourni dans la cuisine — servez-vous.",
+            "de": "Kaffee für die Maschine steht in der Küche bereit — bedienen Sie sich."
+          },
+          {
+            "en": "Empty the drip tray and grounds container if the machine asks for it, and leave it clean at checkout.",
+            "nl": "Leeg het lekbakje en het koffiediklaatje als de machine erom vraagt, en laat ze proper achter bij het uitchecken.",
+            "fr": "Videz le bac d'égouttement et le collecteur de marc si la machine le demande, et laissez-la propre au départ.",
+            "de": "Leeren Sie Tropfschale und Tresterbehälter, wenn die Maschine es anzeigt, und hinterlassen Sie sie beim Check-out sauber."
+          }
+        ]
+      }
     },
     {
       "id": "projector",
       "roomId": "cinema",
-      "name": { "en": "Projector", "nl": "Projector", "fr": "Projecteur", "de": "Projektor" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Projector",
+        "nl": "Projector",
+        "fr": "Projecteur",
+        "de": "Projektor"
+      },
       "icon": "projector",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Turn on the projector with its remote and give it a moment to warm up.",
+            "nl": "Zet de projector aan met de afstandsbediening en geef hem even tijd om op te warmen.",
+            "fr": "Allumez le projecteur avec sa télécommande et laissez-lui un instant pour chauffer.",
+            "de": "Schalten Sie den Projektor mit der Fernbedienung ein und geben Sie ihm einen Moment zum Aufwärmen."
+          },
+          {
+            "en": "Pick the input matching your source — streaming stick, laptop over HDMI, or casting from your phone.",
+            "nl": "Kies de ingang die bij je bron past — streamingstick, laptop via HDMI of casten vanaf je telefoon.",
+            "fr": "Choisissez l'entrée correspondant à votre source — clé de streaming, ordinateur en HDMI ou diffusion depuis votre téléphone.",
+            "de": "Wählen Sie den Eingang passend zur Quelle — Streaming-Stick, Laptop über HDMI oder Übertragung vom Handy."
+          },
+          {
+            "en": "Power it off after your film night — projector lamps don't like running unattended.",
+            "nl": "Zet hem uit na je filmavond — projectorlampen houden er niet van om onbewaakt te blijven draaien.",
+            "fr": "Éteignez-le après votre soirée cinéma — les lampes de projecteur n'aiment pas tourner sans surveillance.",
+            "de": "Schalten Sie ihn nach dem Filmabend aus — Projektorlampen mögen keinen unbeaufsichtigten Dauerbetrieb."
+          }
+        ]
+      }
     },
     {
       "id": "hot-tub",
       "roomId": "garden",
-      "name": { "en": "Hot Tub", "nl": "Hottub", "fr": "Jacuzzi", "de": "Whirlpool" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Hot Tub",
+        "nl": "Hottub",
+        "fr": "Jacuzzi",
+        "de": "Whirlpool"
+      },
       "icon": "bath",
-      "instructions": { "pending": true },
+      "instructions": {
+        "steps": [
+          {
+            "en": "Shower before entering and keep the tub free of soap, oils and drinks glasses.",
+            "nl": "Douche voor je erin gaat en houd de hottub vrij van zeep, oliën en drinkglazen.",
+            "fr": "Douchez-vous avant d'entrer et gardez le bain libre de savon, d'huiles et de verres.",
+            "de": "Duschen Sie vor dem Einstieg und halten Sie den Whirlpool frei von Seife, Ölen und Trinkgläsern."
+          },
+          {
+            "en": "Replace the cover after every use — it keeps the water warm and the leaves out.",
+            "nl": "Leg het deksel na elk gebruik terug — zo blijft het water warm en blijven bladeren eruit.",
+            "fr": "Remettez la couverture après chaque utilisation — elle garde l'eau chaude et les feuilles dehors.",
+            "de": "Legen Sie die Abdeckung nach jeder Nutzung wieder auf — sie hält das Wasser warm und Laub fern."
+          },
+          {
+            "en": "Children only under constant adult supervision; specific temperature and timing rules will be confirmed by the host.",
+            "nl": "Kinderen enkel onder voortdurend toezicht van een volwassene; specifieke temperatuur- en gebruiksregels worden nog bevestigd door de gastheer.",
+            "fr": "Enfants uniquement sous la surveillance constante d'un adulte ; les règles précises de température et d'horaires seront confirmées par l'hôte.",
+            "de": "Kinder nur unter ständiger Aufsicht Erwachsener; genaue Temperatur- und Nutzungsregeln werden noch vom Gastgeber bestätigt."
+          }
+        ]
+      },
       "tips": [
         {
           "en": "Please shower before use and keep the cover on when not in use.",
@@ -142,34 +372,128 @@
     {
       "id": "bbq",
       "roomId": "garden",
-      "name": { "en": "BBQ", "nl": "BBQ", "fr": "Barbecue", "de": "Grill" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "BBQ",
+        "nl": "BBQ",
+        "fr": "Barbecue",
+        "de": "Grill"
+      },
       "icon": "beef",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Set the barbecue on a stable spot away from the facade and overhanging branches before lighting.",
+            "nl": "Zet de barbecue op een stabiele plek, weg van de gevel en overhangende takken, voor je hem aansteekt.",
+            "fr": "Installez le barbecue sur un emplacement stable, loin de la façade et des branches, avant de l'allumer.",
+            "de": "Stellen Sie den Grill vor dem Anzünden an einen stabilen Platz, weg von Fassade und überhängenden Ästen."
+          },
+          {
+            "en": "Never use spirit or petrol to light it; use firelighters and let coals grey over before grilling.",
+            "nl": "Gebruik nooit spiritus of benzine om aan te steken; gebruik aanmaakblokjes en laat de kolen grijs worden voor je grilt.",
+            "fr": "N'utilisez jamais d'alcool ou d'essence pour l'allumage ; utilisez des allume-feux et attendez que les braises blanchissent.",
+            "de": "Niemals Spiritus oder Benzin zum Anzünden verwenden; Anzünder benutzen und die Kohlen grau werden lassen."
+          },
+          {
+            "en": "Let ashes cool completely before disposal, and leave the grill clean for the next guests.",
+            "nl": "Laat de as volledig afkoelen voor je ze weggooit en laat de grill proper achter voor de volgende gasten.",
+            "fr": "Laissez les cendres refroidir complètement avant de les jeter et laissez la grille propre pour les invités suivants.",
+            "de": "Lassen Sie die Asche vollständig abkühlen, bevor Sie sie entsorgen, und hinterlassen Sie den Grill sauber."
+          }
+        ]
+      }
     },
     {
       "id": "ev-charger",
       "roomId": "garden",
-      "name": { "en": "EV Charging", "nl": "EV-laadpunt", "fr": "Borne de recharge", "de": "E-Ladestation" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "EV Charging",
+        "nl": "EV-laadpunt",
+        "fr": "Borne de recharge",
+        "de": "E-Ladestation"
+      },
       "icon": "plug-zap",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Park within cable reach of the charging point and connect your own Type 2 cable if required.",
+            "nl": "Parkeer binnen kabelbereik van het laadpunt en sluit indien nodig je eigen type 2-kabel aan.",
+            "fr": "Garez-vous à portée de câble de la borne et branchez votre propre câble type 2 si nécessaire.",
+            "de": "Parken Sie in Kabelreichweite der Ladestation und schließen Sie bei Bedarf Ihr eigenes Typ-2-Kabel an."
+          },
+          {
+            "en": "Charging starts automatically once connected; check your car's app or dashboard to confirm.",
+            "nl": "Het laden start automatisch na het aansluiten; controleer de app of het dashboard van je auto ter bevestiging.",
+            "fr": "La charge démarre automatiquement une fois branché ; vérifiez l'application ou le tableau de bord de votre voiture.",
+            "de": "Das Laden startet automatisch nach dem Anschließen; prüfen Sie zur Bestätigung App oder Anzeige Ihres Autos."
+          },
+          {
+            "en": "Availability and any charging costs will be confirmed by the host — please ask before your stay.",
+            "nl": "Beschikbaarheid en eventuele laadkosten worden nog bevestigd door de gastheer — vraag het na voor je verblijf.",
+            "fr": "La disponibilité et les éventuels frais de charge seront confirmés par l'hôte — renseignez-vous avant votre séjour.",
+            "de": "Verfügbarkeit und etwaige Ladekosten werden noch vom Gastgeber bestätigt — bitte vor dem Aufenthalt erfragen."
+          }
+        ]
+      }
     },
     {
       "id": "washing-machine",
       "roomId": "utility",
-      "name": { "en": "Washing Machine", "nl": "Wasmachine", "fr": "Lave-linge", "de": "Waschmaschine" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Washing Machine",
+        "nl": "Wasmachine",
+        "fr": "Lave-linge",
+        "de": "Waschmaschine"
+      },
       "icon": "shirt",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "Detergent is in the utility area — dose modestly and use the drawer's main compartment.",
+            "nl": "Wasmiddel vind je in de bergruimte — doseer bescheiden en gebruik het hoofdvak van de lade.",
+            "fr": "La lessive se trouve dans la buanderie — dosez modérément et utilisez le compartiment principal du tiroir.",
+            "de": "Waschmittel finden Sie im Hauswirtschaftsbereich — sparsam dosieren und das Hauptfach der Schublade verwenden."
+          },
+          {
+            "en": "A 30–40 °C programme covers most laundry; empty pockets and close zips first.",
+            "nl": "Een programma van 30–40 °C volstaat voor de meeste was; maak eerst zakken leeg en sluit ritsen.",
+            "fr": "Un programme à 30–40 °C convient à la plupart du linge ; videz les poches et fermez les fermetures éclair.",
+            "de": "Ein 30–40-°C-Programm genügt für die meiste Wäsche; vorher Taschen leeren und Reißverschlüsse schließen."
+          },
+          {
+            "en": "Leave the door ajar after use so the drum can dry.",
+            "nl": "Laat de deur op een kier na gebruik zodat de trommel kan drogen.",
+            "fr": "Laissez la porte entrouverte après usage pour que le tambour sèche.",
+            "de": "Lassen Sie die Tür nach Gebrauch einen Spalt offen, damit die Trommel trocknen kann."
+          }
+        ]
+      }
     },
     {
       "id": "alarm",
       "roomId": "utility",
-      "name": { "en": "Alarm System", "nl": "Alarmsysteem", "fr": "Système d'alarme", "de": "Alarmanlage" },
-      "brandModel": { "pending": true },
+      "name": {
+        "en": "Alarm System",
+        "nl": "Alarmsysteem",
+        "fr": "Système d'alarme",
+        "de": "Alarmanlage"
+      },
       "icon": "shield-alert",
-      "instructions": { "pending": true }
+      "instructions": {
+        "steps": [
+          {
+            "en": "If the house uses an alarm, the host will walk you through arming and disarming at check-in.",
+            "nl": "Als het huis een alarm gebruikt, overloopt de gastheer het in- en uitschakelen bij het inchecken.",
+            "fr": "Si la maison est équipée d'une alarme, l'hôte vous montrera l'activation et la désactivation à l'arrivée.",
+            "de": "Falls das Haus eine Alarmanlage nutzt, erklärt der Gastgeber beim Check-in das Scharf- und Unscharfschalten."
+          },
+          {
+            "en": "If the alarm sounds unexpectedly, call the host right away — the number is on the Help page.",
+            "nl": "Gaat het alarm onverwacht af, bel dan meteen de gastheer — het nummer staat op de Hulp-pagina.",
+            "fr": "Si l'alarme se déclenche de façon inattendue, appelez l'hôte immédiatement — le numéro figure sur la page Aide.",
+            "de": "Ertönt der Alarm unerwartet, rufen Sie sofort den Gastgeber an — die Nummer steht auf der Hilfe-Seite."
+          }
+        ]
+      }
     }
   ]
 }

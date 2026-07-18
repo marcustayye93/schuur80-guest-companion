@@ -31,14 +31,11 @@ export default function DeviceDetail() {
           </span>
           <div className="min-w-0 space-y-1">
             <p className="text-[15px] font-medium text-foreground">{lt(device.name)}</p>
-            <p className="text-[13px] text-muted-foreground">
-              {t("common.model")}:{" "}
-              {isPending(device.brandModel) ? (
-                <StatusBadge tone="pending">{t("pending.label")}</StatusBadge>
-              ) : (
-                (device.brandModel as string)
-              )}
-            </p>
+            {device.brandModel !== undefined && !isPending(device.brandModel) && (
+              <p className="text-[13px] text-muted-foreground">
+                {t("common.model")}: {device.brandModel as string}
+              </p>
+            )}
             {room && (
               <Link
                 href={`/house/room/${room.id}`}

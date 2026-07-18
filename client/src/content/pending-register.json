@@ -64,10 +64,10 @@
         "de": "Katzen"
       },
       "item": {
-        "en": "Cat names & profiles",
-        "nl": "Kattennamen & profielen",
-        "fr": "Noms & profils des chats",
-        "de": "Katzennamen & Profile"
+        "en": "Names of the 14 cats (4 kittens, 10 large cats)",
+        "nl": "Namen van de 14 katten (4 kittens, 10 grote katten)",
+        "fr": "Noms des 14 chats (4 chatons, 10 grands chats)",
+        "de": "Namen der 14 Katzen (4 Kätzchen, 10 große Katzen)"
       },
       "status": {
         "en": "Awaiting host workshop",
@@ -176,33 +176,6 @@
         "nl": "BBQ-gids",
         "fr": "Guide barbecue",
         "de": "Grill-Anleitung"
-      },
-      "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop"
-      },
-      "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt"
-      }
-    },
-    {
-      "id": "appliances",
-      "area": {
-        "en": "House",
-        "nl": "Huis",
-        "fr": "Maison",
-        "de": "Haus"
-      },
-      "item": {
-        "en": "Appliance models & instructions",
-        "nl": "Toestelmodellen & instructies",
-        "fr": "Modèles & instructions des appareils",
-        "de": "Gerätemodelle & Anleitungen"
       },
       "status": {
         "en": "Awaiting host workshop",

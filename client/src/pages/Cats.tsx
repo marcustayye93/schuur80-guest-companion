@@ -3,10 +3,10 @@
  * Names/profiles are pending until confirmed by the host (Placeholder Policy).
  */
 import { Link, useRoute } from "wouter";
-import { Cat as CatIcon, ChevronRight, PawPrint } from "lucide-react";
+import { Cat as CatIcon, ChevronRight, PawPrint, Binoculars } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { catRules, cats, catsIntro, media } from "@/lib/content";
+import { catRules, cats, catsChallenge, catsIntro, media } from "@/lib/content";
 import {
   HeroImage,
   PendingCard,
@@ -18,9 +18,14 @@ import PageHeader from "@/components/companion/PageHeader";
 import { isPending } from "@/content/types";
 import NotFound from "./NotFound";
 
-function catDisplayName(cat: (typeof cats)[number], t: (k: string) => string, index: number) {
+function catDisplayName(
+  cat: (typeof cats)[number],
+  t: (k: string) => string,
+  lt: (v: import("@/content/types").LocalizedString) => string,
+  index: number
+) {
   if (isPending(cat.name)) return `${t("cats.fallbackName")} ${index + 1}`;
-  return cat.name as string;
+  return lt(cat.name as unknown as import("@/content/types").LocalizedString);
 }
 
 export function CatDirectory() {
@@ -42,6 +47,17 @@ export function CatDirectory() {
       )}
       <div className="space-y-7 px-4 pt-5">
         <p className="text-[15px] leading-relaxed text-foreground/90">{lt(catsIntro)}</p>
+
+        {/* Spot-them-all challenge banner */}
+        <div className="card-soft flex items-start gap-3.5 rounded-3xl bg-[#64735A] p-5 text-white">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-white/15">
+            <Binoculars className="h-5 w-5" aria-hidden />
+          </span>
+          <div className="min-w-0">
+            <p className="font-serif text-[19px] font-semibold leading-snug">4 + 10 = 14</p>
+            <p className="mt-1 text-[13.5px] leading-relaxed text-white/85">{lt(catsChallenge)}</p>
+          </div>
+        </div>
 
         <section className="space-y-2.5" aria-labelledby="cat-list">
           <p className="eyebrow" id="cat-list">
@@ -76,7 +92,7 @@ export function CatDirectory() {
                 </span>
                 <span className="min-w-0 flex-1">
                   <span className="block font-serif text-[18px] font-semibold leading-snug text-foreground">
-                    {catDisplayName(cat, t, i)}
+                    {catDisplayName(cat, t, lt, i)}
                   </span>
                   <span className="mt-0.5 block text-[13px] leading-snug text-muted-foreground">
                     {pendingName
@@ -115,7 +131,7 @@ export function CatDetail() {
   if (!cat) return <NotFound />;
 
   const photo = media(cat.photoMediaId);
-  const name = catDisplayName(cat, t, index);
+  const name = catDisplayName(cat, t, lt, index);
 
   return (
     <div>

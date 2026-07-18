@@ -1,12 +1,11 @@
-# Audit fixes (from Grok report)
+# Content update: appliances pragmatic + 14 cats
 
-- [x] 1. HIGH: Verified — /help/pending route exists in App.tsx, Help page has prominent "Pending information" card, and the live deep link renders the full register via the 404.html SPA fallback (HTTP 404 status is expected GH Pages behavior; content renders fine). No fix needed.
-- [x] 2. MED: NL translation polish: "FAQ's" → "veelgestelde vragen", "Contacteer gastheer" → "Neem contact op met de gastheer", "Open gids" → "Gids openen". Spot-check fr.json/de.json for similar stiffness.
-- [x] 3. MED: devices.json wifi-router tip → present-tense pending phrasing.
-- [x] 4. MED: Added 4 new pending-register items (quiet-hours, hot-tub-safety, first-aid, outage): quiet hours, hot tub child safety, first-aid kit/defibrillator location, power/water outage steps (multilingual).
-- [x] 5. MED: README.md + deploy.sh: add "bump VERSION in sw.js before every content change" step.
-- [x] 6. LOW: manifest.webmanifest — added screenshots array (home.jpg, wifi.jpg, 390x844 narrow): add screenshots array (capture 2 portrait shots from live app, bundle them).
-- [x] 7. LOW: Checked rooms.json — all pending microcopy already uses the consistent "will be confirmed by the host" phrasing in all languages; no change needed.
-- [ ] 8. Bump SW VERSION to v1.3.0, pnpm check, screenshots verify.
-- [ ] 9. Deploy: production build with base path, copy assets-images + 404.html, push gh-pages, push main, verify live.
-- [ ] 10. Checkpoint + deliver.
+(Previous audit-fix items all completed and deployed in v1.3.x–v1.4.1.)
+
+- [ ] 1. Cats: update cats.json — facts: 4 baby kittens + 10 large cats (14 total), "try to spot them all" challenge framing, in EN/NL/FR/DE. Names remain to-be-confirmed.
+- [ ] 2. Cats: update the Cats page copy/structure to reflect 14 cats (kittens group + large cats group) instead of 2 individual cats.
+- [ ] 3. Pending register: remove appliance brand/model items (oven, coffee machine, dishwasher/washer, projector); keep operational ones (hot tub rules, heating, alarm, EV charger) reworded generically. Keep cat names item, reword for 14 cats.
+- [ ] 4. Devices.json: strip "brand/model to be confirmed" placeholders; rewrite as practical generic guidance.
+- [ ] 5. Check faqs.json / guides.json / rooms.json for references to appliance brands or the old cat count; fix.
+- [ ] 6. Bump SW to v1.5.0, type check, screenshot verify Cats + a device page.
+- [ ] 7. Build, deploy gh-pages, push main, checkpoint, deliver.

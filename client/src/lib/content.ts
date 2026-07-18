@@ -34,6 +34,7 @@ export const pendingDefaults = devicesJson.pendingDefaults as unknown as {
 };
 export const cats = catsJson.cats as unknown as Cat[];
 export const catsIntro = catsJson.intro as unknown as LocalizedString;
+export const catsChallenge = catsJson.challenge as unknown as LocalizedString;
 export const catRules = catsJson.generalRules as unknown as LocalizedString[];
 export const guides = guidesJson.guides as unknown as Guide[];
 export const faqs = faqsJson.faqs as unknown as Faq[];

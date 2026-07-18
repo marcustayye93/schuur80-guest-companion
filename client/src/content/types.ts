@@ -57,7 +57,7 @@ export interface Device {
   id: string;
   roomId: string;
   name: LocalizedString;
-  brandModel: MaybePending<string>;
+  brandModel?: MaybePending<string>;
   icon: string;
   instructions: MaybePending<{ steps: LocalizedString[] }>;
   tips?: LocalizedString[];
@@ -65,7 +65,9 @@ export interface Device {
 
 export interface Cat {
   id: string;
-  name: MaybePending<string>;
+  name: MaybePending<string | LocalizedString>;
+  /** Number of cats in this group entry (e.g. 4 kittens, 10 large cats). */
+  count?: number;
   photoMediaId: string;
   personality: MaybePending<LocalizedString>;
   feeding: MaybePending<LocalizedString>;

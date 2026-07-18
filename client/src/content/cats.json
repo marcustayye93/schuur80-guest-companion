@@ -1,46 +1,84 @@
 {
   "intro": {
-    "en": "Schuur 80 shares its grounds with resident cats. They are part of the soul of the place — here is how to be a good housemate to them.",
-    "nl": "Schuur 80 deelt zijn domein met huiskatten. Ze zijn deel van de ziel van de plek — zo ben je een goede huisgenoot voor hen.",
-    "fr": "Schuur 80 partage son domaine avec des chats résidents. Ils font partie de l'âme du lieu — voici comment bien cohabiter avec eux.",
-    "de": "Schuur 80 teilt sein Gelände mit Hauskatzen. Sie gehören zur Seele des Ortes — so sind Sie ein guter Mitbewohner für sie."
+    "en": "Schuur 80 shares its grounds with no fewer than fourteen resident cats — four baby kittens and ten large cats. They are part of the soul of the place, and spotting all fourteen during your stay is something of a house challenge. Here is how to be a good housemate to them.",
+    "nl": "Schuur 80 deelt zijn domein met maar liefst veertien huiskatten — vier kittens en tien grote katten. Ze zijn deel van de ziel van de plek, en alle veertien spotten tijdens je verblijf is een heuse huisuitdaging. Zo ben je een goede huisgenoot voor hen.",
+    "fr": "Schuur 80 partage son domaine avec pas moins de quatorze chats résidents — quatre chatons et dix grands chats. Ils font partie de l'âme du lieu, et repérer les quatorze pendant votre séjour est un véritable défi de la maison. Voici comment bien cohabiter avec eux.",
+    "de": "Schuur 80 teilt sein Gelände mit nicht weniger als vierzehn Hauskatzen — vier Kätzchen und zehn großen Katzen. Sie gehören zur Seele des Ortes, und alle vierzehn während Ihres Aufenthalts zu entdecken ist eine kleine Haus-Challenge. So sind Sie ein guter Mitbewohner für sie."
+  },
+  "challenge": {
+    "en": "Can you spot all 14? Four playful kittens and ten grown cats roam the barn and gardens — keep count during your stay.",
+    "nl": "Spot jij ze alle 14? Vier speelse kittens en tien volwassen katten zwerven rond de schuur en de tuinen — hou de teller bij tijdens je verblijf.",
+    "fr": "Saurez-vous repérer les 14 ? Quatre chatons joueurs et dix chats adultes rôdent autour de la grange et des jardins — tenez le compte pendant votre séjour.",
+    "de": "Entdecken Sie alle 14? Vier verspielte Kätzchen und zehn ausgewachsene Katzen streifen um die Scheune und durch die Gärten — zählen Sie während Ihres Aufenthalts mit."
   },
   "cats": [
     {
-      "id": "cat-1",
+      "id": "kittens",
+      "count": 4,
       "name": {
+        "en": "The four kittens",
+        "nl": "De vier kittens",
+        "fr": "Les quatre chatons",
+        "de": "Die vier Kätzchen"
+      },
+      "photoMediaId": "cats",
+      "personality": {
+        "en": "Four baby kittens — curious, quick and usually found together. They are the easiest to hear and the hardest to count, as they rarely sit still.",
+        "nl": "Vier kittens — nieuwsgierig, snel en meestal samen te vinden. Ze zijn het makkelijkst te horen en het moeilijkst te tellen, want stilzitten doen ze zelden.",
+        "fr": "Quatre chatons — curieux, vifs et généralement inséparables. Ce sont les plus faciles à entendre et les plus difficiles à compter, car ils tiennent rarement en place.",
+        "de": "Vier Kätzchen — neugierig, flink und meist zusammen unterwegs. Sie sind am leichtesten zu hören und am schwersten zu zählen, denn still sitzen sie selten."
+      },
+      "feeding": {
         "pending": true,
-        "status": { "en": "Name to be confirmed", "nl": "Naam nog te bevestigen", "fr": "Nom à confirmer", "de": "Name noch zu bestätigen" },
+        "status": { "en": "Feeding routine to be confirmed", "nl": "Voederroutine nog te bevestigen", "fr": "Routine de nourrissage à confirmer", "de": "Fütterungsroutine noch zu bestätigen" },
         "explanation": {
-          "en": "The host will introduce the cats by name during the host workshop.",
-          "nl": "De gastheer stelt de katten bij naam voor tijdens de workshop.",
-          "fr": "L'hôte présentera les chats par leur nom lors de l'atelier.",
-          "de": "Der Gastgeber stellt die Katzen beim Workshop namentlich vor."
+          "en": "The host takes care of feeding — guests don't need to feed the kittens. Details will be confirmed.",
+          "nl": "De gastheer zorgt voor het voederen — gasten hoeven de kittens niet te voederen. Details worden nog bevestigd.",
+          "fr": "L'hôte s'occupe du nourrissage — les invités n'ont pas besoin de nourrir les chatons. Les détails seront confirmés.",
+          "de": "Der Gastgeber übernimmt die Fütterung — Gäste müssen die Kätzchen nicht füttern. Details werden noch bestätigt."
         },
         "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
       },
-      "photoMediaId": "cats",
-      "personality": { "pending": true },
-      "feeding": { "pending": true },
-      "notes": { "pending": true }
+      "notes": {
+        "en": "Kittens are small and fast — please check under cars, behind doors and around the terrace before driving off or closing up.",
+        "nl": "Kittens zijn klein en snel — kijk even onder auto's, achter deuren en rond het terras voor je wegrijdt of afsluit.",
+        "fr": "Les chatons sont petits et rapides — vérifiez sous les voitures, derrière les portes et autour de la terrasse avant de partir ou de fermer.",
+        "de": "Kätzchen sind klein und schnell — bitte schauen Sie unter Autos, hinter Türen und rund um die Terrasse, bevor Sie losfahren oder abschließen."
+      }
     },
     {
-      "id": "cat-2",
+      "id": "large-cats",
+      "count": 10,
       "name": {
+        "en": "The ten large cats",
+        "nl": "De tien grote katten",
+        "fr": "Les dix grands chats",
+        "de": "Die zehn großen Katzen"
+      },
+      "photoMediaId": "cats",
+      "personality": {
+        "en": "Ten grown cats with ten different characters — some will greet you at the door, others prefer to watch from the orchard or a warm windowsill. Give them time and they will come to you.",
+        "nl": "Tien volwassen katten met tien verschillende karakters — sommige begroeten je aan de deur, andere kijken liever toe vanuit de boomgaard of een warme vensterbank. Geef ze tijd en ze komen vanzelf naar je toe.",
+        "fr": "Dix chats adultes aux dix caractères différents — certains vous accueilleront à la porte, d'autres préfèrent observer depuis le verger ou un rebord de fenêtre ensoleillé. Laissez-leur le temps et ils viendront à vous.",
+        "de": "Zehn ausgewachsene Katzen mit zehn verschiedenen Charakteren — manche begrüßen Sie an der Tür, andere beobachten lieber vom Obstgarten oder einer warmen Fensterbank aus. Geben Sie ihnen Zeit, dann kommen sie von selbst."
+      },
+      "feeding": {
         "pending": true,
-        "status": { "en": "Name to be confirmed", "nl": "Naam nog te bevestigen", "fr": "Nom à confirmer", "de": "Name noch zu bestätigen" },
+        "status": { "en": "Feeding routine to be confirmed", "nl": "Voederroutine nog te bevestigen", "fr": "Routine de nourrissage à confirmer", "de": "Fütterungsroutine noch zu bestätigen" },
         "explanation": {
-          "en": "The host will introduce the cats by name during the host workshop.",
-          "nl": "De gastheer stelt de katten bij naam voor tijdens de workshop.",
-          "fr": "L'hôte présentera les chats par leur nom lors de l'atelier.",
-          "de": "Der Gastgeber stellt die Katzen beim Workshop namentlich vor."
+          "en": "The host takes care of feeding — guests don't need to feed the cats. Details will be confirmed.",
+          "nl": "De gastheer zorgt voor het voederen — gasten hoeven de katten niet te voederen. Details worden nog bevestigd.",
+          "fr": "L'hôte s'occupe du nourrissage — les invités n'ont pas besoin de nourrir les chats. Les détails seront confirmés.",
+          "de": "Der Gastgeber übernimmt die Fütterung — Gäste müssen die Katzen nicht füttern. Details werden noch bestätigt."
         },
         "expectedUpdate": { "en": "Expected before your stay", "nl": "Verwacht vóór je verblijf", "fr": "Prévu avant votre séjour", "de": "Erwartet vor Ihrem Aufenthalt" }
       },
-      "photoMediaId": "cats",
-      "personality": { "pending": true },
-      "feeding": { "pending": true },
-      "notes": { "pending": true }
+      "notes": {
+        "en": "Their names will be confirmed by the host — for now, feel free to invent your own. They won't mind.",
+        "nl": "Hun namen worden nog bevestigd door de gastheer — verzin er gerust zelf eentje. Ze vinden het niet erg.",
+        "fr": "Leurs noms seront confirmés par l'hôte — en attendant, inventez les vôtres. Ils ne s'en offusqueront pas.",
+        "de": "Ihre Namen werden noch vom Gastgeber bestätigt — bis dahin dürfen Sie sich gern eigene ausdenken. Es stört sie nicht."
+      }
     }
   ],
   "generalRules": [
@@ -51,10 +89,16 @@
       "de": "Bitte lassen Sie die Katzen nicht in die Schlafzimmer oder den Kinoraum."
     },
     {
-      "en": "Feeding instructions will be confirmed by the host — please don't feed them table scraps.",
-      "nl": "Voederinstructies worden nog bevestigd door de gastheer — geef hen geen tafelrestjes.",
-      "fr": "Les consignes de nourrissage seront confirmées par l'hôte — merci de ne pas leur donner de restes de table.",
-      "de": "Fütterungshinweise werden noch vom Gastgeber bestätigt — bitte keine Essensreste geben."
+      "en": "The host takes care of feeding — please don't feed them table scraps.",
+      "nl": "De gastheer zorgt voor het voederen — geef hen geen tafelrestjes.",
+      "fr": "L'hôte s'occupe du nourrissage — merci de ne pas leur donner de restes de table.",
+      "de": "Der Gastgeber übernimmt die Fütterung — bitte keine Essensreste geben."
+    },
+    {
+      "en": "With four kittens around, please close outside doors behind you and check before driving off.",
+      "nl": "Met vier kittens in de buurt: sluit buitendeuren achter je en kijk even rond voor je wegrijdt.",
+      "fr": "Avec quatre chatons dans les parages, fermez les portes extérieures derrière vous et vérifiez avant de démarrer.",
+      "de": "Mit vier Kätzchen in der Nähe: Schließen Sie Außentüren hinter sich und schauen Sie kurz nach, bevor Sie losfahren."
     }
   ]
 }
