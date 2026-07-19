@@ -6,7 +6,7 @@
  */
 import { useEffect, useMemo, useState } from "react";
 import { Share, MoreVertical, Monitor, X, PlusSquare } from "lucide-react";
-import { useLanguage } from "@/contexts/LanguageContext";
+import { LANGUAGES, useLanguage } from "@/contexts/LanguageContext";
 import { detectPlatform, type Platform } from "@/lib/wifiConfig";
 import { BarnMark } from "./AppShell";
 
@@ -65,7 +65,7 @@ function StepList({ platform }: { platform: Platform }) {
 type ReactIcon = typeof Share;
 
 export default function Onboarding({ onClose }: { onClose: () => void }) {
-  const { t } = useLanguage();
+  const { t, lang, setLang } = useLanguage();
   const platform = useMemo(() => detectPlatform(), []);
   const [visible, setVisible] = useState(false);
 
@@ -111,6 +111,25 @@ export default function Onboarding({ onClose }: { onClose: () => void }) {
           >
             <X className="h-4.5 w-4.5" aria-hidden />
           </button>
+        </div>
+
+        {/* Language picker — first thing a guest chooses */}
+        <div className="mb-4 flex flex-wrap gap-1.5" role="group" aria-label="Language">
+          {LANGUAGES.map((l) => (
+            <button
+              key={l.code}
+              type="button"
+              onClick={() => setLang(l.code)}
+              aria-pressed={lang === l.code}
+              className={`rounded-full px-3 py-1.5 text-[13px] font-medium transition-all active:scale-[0.96] ${
+                lang === l.code
+                  ? "bg-primary text-primary-foreground shadow-sm"
+                  : "bg-secondary text-foreground/75"
+              }`}
+            >
+              {l.native}
+            </button>
+          ))}
         </div>
 
         <h2 id="onboarding-title" className="font-serif text-[22px] leading-snug text-foreground">
