@@ -11,21 +11,21 @@
       "ja": "ホストのお気に入りはまもなく公開します"
     },
     "explanation": {
-      "en": "The host's personal restaurant, bakery and café recommendations will be gathered during the host workshop.",
-      "nl": "De persoonlijke restaurant-, bakkerij- en cafétips van de gastheer worden verzameld tijdens de workshop.",
-      "fr": "Les recommandations personnelles de l'hôte (restaurants, boulangeries, cafés) seront recueillies lors de l'atelier.",
-      "de": "Die persönlichen Restaurant-, Bäckerei- und Café-Tipps des Gastgebers werden beim Workshop gesammelt.",
-      "zh": "房东会在工作坊中整理个人的餐厅、面包店和咖啡馆推荐。",
-      "ko": "호스트의 개인적인 레스토랑, 베이커리, 카페 추천은 호스트 워크숍에서 취합됩니다.",
-      "ja": "ホストの個人的なお勧め（レストラン、ベーカリー、カフェ）は、ホストのワークショップでまとめられます。"
+      "en": "The host's personal restaurant, bakery and café recommendations will be gathered during the owners' confirmation.",
+      "nl": "De persoonlijke restaurant-, bakkerij- en cafétips van de gastheer worden nog verzameld bij de eigenaars.",
+      "fr": "Les recommandations personnelles de l'hôte (restaurants, boulangeries, cafés) seront recueillies auprès des propriétaires.",
+      "de": "Die persönlichen Restaurant-, Bäckerei- und Café-Tipps des Gastgebers werden gerade bei den Eigentümern gesammelt.",
+      "zh": "房东会在确认中整理个人的餐厅、面包店和咖啡馆推荐。",
+      "ko": "호스트의 개인적인 레스토랑, 베이커리, 카페 추천은 호스트 확인에서 취합됩니다.",
+      "ja": "ホストの個人的なお勧め（レストラン、ベーカリー、カフェ）は、ホストの確認でまとめられます。"
     },
     "expectedUpdate": {
-      "en": "Expected before your stay",
+      "en": "Will appear here once confirmed",
       "nl": "Verwacht vóór je verblijf",
       "fr": "Prévu avant votre séjour",
       "de": "Erwartet vor Ihrem Aufenthalt",
-      "zh": "预计在入住前完成",
-      "ko": "숙박 전에 제공될 예정입니다.",
+      "zh": "确认后即会显示",
+      "ko": "확인되는 대로 표시됩니다.",
       "ja": "ご滞在前までに提供予定です"
     }
   },

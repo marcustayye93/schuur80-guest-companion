@@ -2,6 +2,36 @@
   "note": "Pending Content Register — every item of unknown information awaiting host confirmation. Nothing here may be invented.",
   "items": [
     {
+      "id": "pending-wifi",
+      "category": {
+        "en": "Connectivity",
+        "nl": "Verbinding",
+        "fr": "Connectivité",
+        "de": "Verbindung",
+        "zh": "网络连接",
+        "ko": "인터넷 연결",
+        "ja": "接続"
+      },
+      "item": {
+        "en": "Wi-Fi network name, password delivery (welcome card) and coverage throughout the barn",
+        "nl": "Naam van het wifi-netwerk, bezorging van het wachtwoord (welkomstkaart) en bereik in de hele schuur",
+        "fr": "Nom du réseau Wi-Fi, remise du mot de passe (carte de bienvenue) et couverture dans toute la grange",
+        "de": "WLAN-Netzwerkname, Passwortübergabe (Willkommenskarte) und Abdeckung in der ganzen Scheune",
+        "zh": "无线网络名称、密码提供方式（欢迎卡）以及谷仓内的信号覆盖",
+        "ko": "와이파이 네트워크 이름, 비밀번호 전달 방식(웰컴 카드), 헛간 전체 커버리지",
+        "ja": "Wi‑Fiネットワーク名、パスワードの受け渡し（ウェルカムカード）、納屋全体の電波状況"
+      },
+      "expected": {
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
+        "ko": "확인되는 대로",
+        "ja": "確認され次第"
+      }
+    },
+    {
       "id": "feeding",
       "area": {
         "en": "Animals",
@@ -22,19 +52,19 @@
         "ja": "動物のお世話の詳細（猫・アヒル・ニワトリ） — 餌やりの時間やゲストの関わり方"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -61,19 +91,19 @@
         "ja": "暖炉のご利用ガイドです"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -100,19 +130,19 @@
         "ja": "ホットタブのご利用ガイドです"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -139,19 +169,19 @@
         "ja": "BBQのご利用ガイドです"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -178,19 +208,19 @@
         "ja": "現地の緊急連絡先（最寄りの病院、獣医）をご案内します"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -217,19 +247,19 @@
         "ja": "館内規則（全文）をご確認ください"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -256,19 +286,19 @@
         "ja": "ホストによる地元のおすすめをご案内します"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -290,24 +320,24 @@
         "nl": "Details uitcheckproces (tijden bevestigd: inchecken 15u, uitchecken 12u)",
         "fr": "Détails du processus de départ (horaires confirmés : arrivée 15 h, départ midi)",
         "de": "Details zum Check-out-Ablauf (Zeiten bestätigt: Check-in 15 Uhr, Check-out 12 Uhr)",
-        "zh": "退房流程详情（时间已确认：check-in 3 PM，checkout 12 noon）",
-        "ko": "체크아웃 절차 세부사항(시간 확정: check-in 3 PM, checkout 12 noon)",
-        "ja": "チェックアウト手続きの詳細です（時間確認済み：チェックイン 3 PM、チェックアウト 12 noon）"
+        "zh": "退房流程详情（时间已确认：下午3点入住，中午12点退房）",
+        "ko": "체크아웃 절차 세부사항 (시간 확정: 오후 3시 체크인, 정오 12시 체크아웃)",
+        "ja": "チェックアウト手続きの詳細（時間確認済み：チェックイン15時、チェックアウト正午12時）"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
         "zh": "房东内容待补充",
-        "ko": "호스트 워크숍 대기 중",
+        "ko": "호스트 확인 대기 중",
         "ja": "ホストの準備をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
         "zh": "入住前须知",
         "ko": "숙박 전 안내",
         "ja": "ご滞在前にご確認ください"
@@ -334,20 +364,20 @@
         "ja": "ゴミの分別ルール"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东工作坊信息待完善",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストのワークショップ情報を待っています"
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
+        "zh": "房东确认信息待完善",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認情報を待っています"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -373,20 +403,20 @@
         "ja": "静粛時間と騒音に関するお願い"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东工作坊信息待完善",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストのワークショップ情報を待っています"
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
+        "zh": "房东确认信息待完善",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認情報を待っています"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -412,20 +442,20 @@
         "ja": "ホットタブ — お子さま・安全に関するルール"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东工作坊信息待完善",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストのワークショップ情報を待っています"
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
+        "zh": "房东确认信息待完善",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認情報を待っています"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -451,20 +481,20 @@
         "ja": "救急箱と除細動器（AED）の場所"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东工作坊信息待完善",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストのワークショップ情報を待っています"
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
+        "zh": "房东确认信息待完善",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認情報を待っています"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -490,20 +520,20 @@
         "ja": "停電・断水時の対処方法"
       },
       "status": {
-        "en": "Awaiting host workshop",
-        "nl": "In afwachting van host-workshop",
-        "fr": "En attente de l'atelier hôte",
-        "de": "Wartet auf Gastgeber-Workshop",
-        "zh": "房东工作坊信息待完善",
-        "ko": "호스트 워크숍 대기 중",
-        "ja": "ホストのワークショップ情報を待っています"
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Wartet auf Bestätigung der Eigentümer",
+        "zh": "房东确认信息待完善",
+        "ko": "호스트 확인 대기 중",
+        "ja": "ホストの確認情報を待っています"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -538,11 +568,11 @@
         "ja": "ホストの確認をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }
@@ -577,11 +607,11 @@
         "ja": "ホストの確認をお待ちください"
       },
       "expected": {
-        "en": "Before your stay",
-        "nl": "Vóór je verblijf",
-        "fr": "Avant votre séjour",
-        "de": "Vor Ihrem Aufenthalt",
-        "zh": "入住前",
+        "en": "Once confirmed",
+        "nl": "Zodra bevestigd",
+        "fr": "Dès confirmation",
+        "de": "Sobald bestätigt",
+        "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
       }

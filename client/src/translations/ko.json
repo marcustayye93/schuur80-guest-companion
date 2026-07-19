@@ -2,7 +2,7 @@
   "app": {
     "name": "Schuur 80",
     "tagline": "여러분의 숙박 동반자",
-    "address": "Perstraat 80, 9120 Haasdonk, Belgium"
+    "address": "Perstraat 80, 9120 Haasdonk, 벨기에"
   },
   "nav": {
     "home": "홈",
@@ -104,7 +104,7 @@
     "pharmacy": "당직 약국",
     "poison": "독극물 상담 센터",
     "hostContact": "호스트 연락처",
-    "address": "여기에 주소가 표시됩니다",
+    "address": "Perstraat 80, 9120 Haasdonk, 벨기에",
     "addressNote": "응급 서비스에 이 주소를 알려주세요",
     "call": "전화하기"
   },
@@ -144,7 +144,7 @@
   "pending": {
     "label": "추후 확정",
     "defaultStatus": "호스트 확인 대기 중",
-    "defaultExplanation": "이 정보는 호스트 워크숍 이후에 추가됩니다. 검증되지 않은 지침은 보여드리지 않습니다.",
+    "defaultExplanation": "이 정보는 호스트 확인 이후에 추가됩니다. 검증되지 않은 지침은 보여드리지 않습니다.",
     "defaultExpected": "체크인 전 제공 예정",
     "expectedLabel": "예정"
   },

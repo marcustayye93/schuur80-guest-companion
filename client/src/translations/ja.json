@@ -5,14 +5,14 @@
     "address": "Perstraat 80, 9120 Haasdonk, ベルギー"
   },
   "nav": {
-    "home": "ホームに戻ります",
-    "house": "建物のご案内",
-    "garden": "庭のご案内",
-    "guide": "ご案内",
+    "home": "ホーム",
+    "house": "館内",
+    "garden": "庭",
+    "guide": "ガイド",
     "help": "ヘルプ"
   },
   "actions": {
-    "search": "検索します",
+    "search": "検索",
     "searchPlaceholder": "館内、ガイド、よくある質問を検索します…",
     "language": "言語",
     "contactHost": "ホストに連絡します",
@@ -104,7 +104,7 @@
     "pharmacy": "当番薬局",
     "poison": "中毒情報センター",
     "hostContact": "ホストの連絡先",
-    "address": "ここに宿の住所が入ります",
+    "address": "Perstraat 80, 9120 Haasdonk, ベルギー",
     "addressNote": "この住所を緊急時にお伝えください",
     "call": "電話する"
   },
@@ -144,7 +144,7 @@
   "pending": {
     "label": "確認待ち",
     "defaultStatus": "ホストの確認待ちです",
-    "defaultExplanation": "この情報はホストとのワークショップ後に追加します。未確認の案内は表示しないようにしています。",
+    "defaultExplanation": "この情報はホストとの確認後に追加します。未確認の案内は表示しないようにしています。",
     "defaultExpected": "滞在前に公開予定です",
     "expectedLabel": "公開予定"
   },

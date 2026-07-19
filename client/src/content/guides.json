@@ -35,13 +35,13 @@
             "ja": "アクセス方法"
           },
           "body": {
-            "en": "Schuur 80 is at Perstraat 80, 9120 Haasdonk, Belgium — about 15 minutes from Antwerp and 40 minutes from Ghent by car. Set your navigation to 'Perstraat 80, Haasdonk'.",
-            "nl": "Schuur 80 ligt aan Perstraat 80, 9120 Haasdonk, België — zo'n 15 minuten van Antwerpen en 40 minuten van Gent met de auto. Stel je navigatie in op 'Perstraat 80, Haasdonk'.",
-            "fr": "Schuur 80 se trouve Perstraat 80, 9120 Haasdonk, Belgique — à environ 15 minutes d'Anvers et 40 minutes de Gand en voiture. Réglez votre GPS sur « Perstraat 80, Haasdonk ».",
-            "de": "Schuur 80 liegt in der Perstraat 80, 9120 Haasdonk, Belgien — etwa 15 Minuten von Antwerpen und 40 Minuten von Gent mit dem Auto. Geben Sie 'Perstraat 80, Haasdonk' ins Navi ein.",
-            "zh": "Schuur 80 位于 Perstraat 80, 9120 Haasdonk, Belgium——开车约距安特卫普 15 分钟，距根特 40 分钟。导航请设置为 'Perstraat 80, Haasdonk'。",
-            "ko": "Schuur 80은 Perstraat 80, 9120 Haasdonk, Belgium에 있습니다 — 차로 앤트워프에서 약 15분, 겐트에서 약 40분 거리입니다. 내비게이션은 'Perstraat 80, Haasdonk'로 설정하세요.",
-            "ja": "Schuur 80はPerstraat 80, 9120 Haasdonk, Belgiumにあります — 車でアントワープ（アントワープ）から約15分、ゲント（ヘント）から約40分です。ナビには「Perstraat 80, Haasdonk」と入力してください。"
+            "en": "Schuur 80 is at Perstraat 80, 9120 Haasdonk, Belgium — typically 15–25 minutes from Antwerp and 40–50 minutes from Ghent by car, depending on traffic. Set your navigation to 'Perstraat 80, Haasdonk'.",
+            "nl": "Schuur 80 ligt aan Perstraat 80, 9120 Haasdonk, België — doorgaans 15–25 minuten van Antwerpen en 40–50 minuten van Gent met de auto, afhankelijk van het verkeer. Stel je navigatie in op 'Perstraat 80, Haasdonk'.",
+            "fr": "Schuur 80 se trouve Perstraat 80, 9120 Haasdonk, Belgique — généralement à 15–25 minutes d'Anvers et 40–50 minutes de Gand en voiture, selon le trafic. Réglez votre GPS sur « Perstraat 80, Haasdonk ».",
+            "de": "Schuur 80 liegt in der Perstraat 80, 9120 Haasdonk, Belgien — je nach Verkehr in der Regel 15–25 Minuten von Antwerpen und 40–50 Minuten von Gent mit dem Auto. Geben Sie 'Perstraat 80, Haasdonk' ins Navi ein.",
+            "zh": "Schuur 80 位于 Perstraat 80, 9120 Haasdonk（比利时）——开车距安特卫普通常 15–25 分钟，距根特 40–50 分钟（视路况而定）。导航请设置为 'Perstraat 80, Haasdonk'。",
+            "ko": "Schuur 80은 Perstraat 80, 9120 Haasdonk(벨기에)에 있습니다 — 차로 앤트워프에서 보통 15–25분, 겐트에서 40–50분 거리입니다(교통 상황에 따라 다름). 내비게이션은 'Perstraat 80, Haasdonk'로 설정하세요.",
+            "ja": "Schuur 80はPerstraat 80, 9120 Haasdonk（ベルギー）にあります — 車でアントワープから通常15〜25分、ゲントから40〜50分です（交通状況によります）。ナビには「Perstraat 80, Haasdonk」と入力してください。"
           }
         },
         {
@@ -76,9 +76,9 @@
           },
           "body": {
             "en": "Check-in is from 3:00 PM (15:00). If you expect to arrive much later in the evening, send the host a quick message so they know to expect you.",
-            "nl": "Inchecken kan vanaf 15u00. Kom je pas later op de avond aan? Stuur de gastvrouw dan even een berichtje zodat ze weet dat je eraan komt.",
+            "nl": "Inchecken kan vanaf 15u00. Kom je pas later op de avond aan? Stuur de gastheer dan even een berichtje zodat hij weet dat je eraan komt.",
             "fr": "L'arrivée est possible à partir de 15 h. Si vous prévoyez d'arriver tard dans la soirée, envoyez un petit message à l'hôte pour la prévenir.",
-            "de": "Der Check-in ist ab 15:00 Uhr möglich. Wenn Sie erst später am Abend ankommen, geben Sie der Gastgeberin bitte kurz Bescheid.",
+            "de": "Der Check-in ist ab 15:00 Uhr möglich. Wenn Sie erst später am Abend ankommen, geben Sie dem Gastgeber bitte kurz Bescheid.",
             "zh": "入住时间从3:00 PM (15:00)开始。如果预计会在晚上很晚抵达，请给房东发个简短消息，让他们知晓并等候您。",
             "ko": "체크인은 3:00 PM (15:00)부터입니다. 저녁에 훨씬 늦게 도착할 것 같으면, 호스트에게 간단히 메시지를 보내 도착을 알려 주세요.",
             "ja": "チェックインは3:00 PM (15:00)からです。夜遅く到着される予定がある場合は、到着が遅くなる旨をホストに一言ご連絡ください。"
@@ -160,13 +160,13 @@
             "ja": "チェックアウト時間"
           },
           "body": {
-            "en": "Checkout is by 12:00 noon. That leaves time for a relaxed last morning — coffee in the garden, one final look for the cats — before handing the barn back.",
-            "nl": "Uitchecken doe je uiterlijk om 12u00 's middags. Zo blijft er tijd voor een rustige laatste ochtend — koffie in de tuin, nog één keer katten spotten — voor je de schuur teruggeeft.",
-            "fr": "Le départ se fait au plus tard à midi. De quoi profiter d'une dernière matinée tranquille — un café au jardin, un dernier repérage des chats — avant de rendre la grange.",
-            "de": "Der Check-out ist bis 12:00 Uhr mittags. So bleibt Zeit für einen ruhigen letzten Morgen — Kaffee im Garten, ein letzter Blick nach den Katzen — bevor Sie die Scheune zurückgeben.",
-            "zh": "退房时间为12:00（中午）。这样你还有时间享受悠闲的最后一上午——在花园喝杯咖啡，再最后找找猫咪们——然后交还谷仓。",
-            "ko": "체크아웃은 12:00 noon까지입니다. 마지막 아침을 여유롭게 보내실 시간 — 정원에서의 커피 한 잔, 고양이들을 마지막으로 둘러보시고 — 헛간을 반납해 주세요.",
-            "ja": "チェックアウトは12:00 noonまでです。ゆったりした最後の朝—庭でのコーヒーや最後に猫たちを探す時間—を楽しんでいただいたうえで、納屋をお返しください。"
+            "en": "Checkout is by 12:00 noon. That leaves time for a relaxed last morning — coffee in the garden, one final look for the cats — before handing the barn back. The house is cleaned daily during your stay, but these few small departure tasks help the owners turn the barn around for the next guests.",
+            "nl": "Uitchecken doe je uiterlijk om 12u00 's middags. Zo blijft er tijd voor een rustige laatste ochtend — koffie in de tuin, nog één keer katten spotten — voor je de schuur teruggeeft. Het huis wordt tijdens je verblijf dagelijks schoongemaakt, maar met deze paar kleine vertrektaken help je de eigenaars om de schuur klaar te maken voor de volgende gasten.",
+            "fr": "Le départ se fait au plus tard à midi. De quoi profiter d'une dernière matinée tranquille — un café au jardin, un dernier repérage des chats — avant de rendre la grange. La maison est nettoyée chaque jour pendant votre séjour, mais ces quelques petites tâches de départ aident les propriétaires à préparer la grange pour les hôtes suivants.",
+            "de": "Der Check-out ist bis 12:00 Uhr mittags. So bleibt Zeit für einen ruhigen letzten Morgen — Kaffee im Garten, ein letzter Blick nach den Katzen — bevor Sie die Scheune zurückgeben. Das Haus wird während Ihres Aufenthalts täglich gereinigt, aber diese wenigen kleinen Abreiseaufgaben helfen den Eigentümern, die Scheune für die nächsten Gäste vorzubereiten.",
+            "zh": "退房时间为12:00（中午）。这样你还有时间享受悠闲的最后一上午——在花园喝杯咖啡，再最后找找猫咪们——然后交还谷仓。 入住期间房屋每天都有人打扫，但这几件离店前的小事能帮助房东为下一批客人准备好谷仓。",
+            "ko": "체크아웃은 정오 12시까지입니다. 마지막 아침을 여유롭게 보내실 시간 — 정원에서의 커피 한 잔, 고양이들을 마지막으로 둘러보시고 — 헛간을 반납해 주세요. 머무시는 동안 매일 청소가 이루어지지만, 떠나실 때의 이 몇 가지 작은 일들은 주인이 다음 손님을 위해 헛간을 준비하는 데 큰 도움이 됩니다.",
+            "ja": "チェックアウトは正午12時までです。ゆったりした最後の朝—庭でのコーヒーや最後に猫たちを探す時間—を楽しんでいただいたうえで、納屋をお返しください。 ご滞在中は毎日清掃が入りますが、出発時のこのささやかなお願いは、オーナーが次のゲストのために納屋を整える助けになります。"
           }
         }
       ],

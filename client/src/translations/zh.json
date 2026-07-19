@@ -2,7 +2,7 @@
   "app": {
     "name": "Schuur 80",
     "tagline": "您的入住伙伴",
-    "address": "Perstraat 80, 9120 Haasdonk, Belgium"
+    "address": "Perstraat 80, 9120 Haasdonk, 比利时"
   },
   "nav": {
     "home": "首页",
@@ -104,7 +104,7 @@
     "pharmacy": "值班药房",
     "poison": "中毒控制中心",
     "hostContact": "房东联系方式",
-    "address": "您的地址（此处）",
+    "address": "Perstraat 80, 9120 Haasdonk, 比利时",
     "addressNote": "将此地址提供给紧急救援人员",
     "call": "拨打"
   },

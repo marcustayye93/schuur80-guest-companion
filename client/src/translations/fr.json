@@ -104,7 +104,7 @@
     "pharmacy": "Pharmacie de garde",
     "poison": "Centre antipoison",
     "hostContact": "Contact de l'hôte",
-    "address": "Votre adresse ici",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgique",
     "addressNote": "Donnez cette adresse aux services d'urgence",
     "call": "Appeler"
   },
@@ -144,7 +144,7 @@
   "pending": {
     "label": "À confirmer",
     "defaultStatus": "En attente de confirmation de l'hôte",
-    "defaultExplanation": "Cette information sera ajoutée après l'atelier avec l'hôte, afin de ne jamais afficher d'instructions non vérifiées.",
+    "defaultExplanation": "Cette information sera ajoutée dès confirmation des propriétaires, afin de ne jamais afficher d'instructions non vérifiées.",
     "defaultExpected": "Prévu avant votre séjour",
     "expectedLabel": "Prévu"
   },

@@ -104,7 +104,7 @@
     "pharmacy": "Pharmacy on duty",
     "poison": "Poison control centre",
     "hostContact": "Host contact",
-    "address": "Your address here",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgium",
     "addressNote": "Give this address to emergency services",
     "call": "Call"
   },
@@ -144,8 +144,8 @@
   "pending": {
     "label": "To be confirmed",
     "defaultStatus": "Awaiting host confirmation",
-    "defaultExplanation": "This information will be added after the host workshop, so we never show you unverified instructions.",
-    "defaultExpected": "Expected before your stay",
+    "defaultExplanation": "The owners are confirming this information — we never show you unverified instructions.",
+    "defaultExpected": "Will appear here once confirmed",
     "expectedLabel": "Expected"
   },
   "placeholderScreen": {

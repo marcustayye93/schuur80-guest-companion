@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Schuur 80",
-    "tagline": "Je gastencompagnon",
+    "tagline": "Je digitale verblijfsgids",
     "address": "Perstraat 80, 9120 Haasdonk, België"
   },
   "nav": {
@@ -104,7 +104,7 @@
     "pharmacy": "Apotheek van wacht",
     "poison": "Antigifcentrum",
     "hostContact": "Contact met de gastheer",
-    "address": "Je adres hier",
+    "address": "Perstraat 80, 9120 Haasdonk, België",
     "addressNote": "Geef dit adres door aan de hulpdiensten",
     "call": "Bellen"
   },
@@ -136,7 +136,7 @@
     "language": "Taal",
     "languageSub": "Kies je voorkeurstaal",
     "about": "Over deze app",
-    "aboutBody": "De digitale gastencompagnon van Schuur 80 — vervangt gedrukte handleidingen door alles wat je nodig hebt, op zak, ook offline.",
+    "aboutBody": "De digitale verblijfsgids van Schuur 80 — vervangt gedrukte handleidingen door alles wat je nodig hebt, op zak, ook offline.",
     "install": "Installeer op je telefoon",
     "installBody": "Voeg Schuur 80 toe aan je startscherm voor de volledige app-ervaring, inclusief offline toegang.",
     "version": "Versie"
@@ -144,7 +144,7 @@
   "pending": {
     "label": "Nog te bevestigen",
     "defaultStatus": "In afwachting van bevestiging door de gastheer",
-    "defaultExplanation": "Deze informatie wordt toegevoegd na de workshop met de gastheer, zodat we je nooit ongeverifieerde instructies tonen.",
+    "defaultExplanation": "De eigenaars bevestigen deze informatie nog — we tonen je nooit ongeverifieerde instructies.",
     "defaultExpected": "Verwacht vóór je verblijf",
     "expectedLabel": "Verwacht"
   },

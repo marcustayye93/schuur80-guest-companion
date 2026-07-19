@@ -72,13 +72,13 @@
           "ja": "修復の物語――選択、職人、素材についての話――はホストに属し、ホスト自身の言葉で記録されます。"
         },
         "expectedUpdate": {
-          "en": "Expected after the host workshop",
-          "nl": "Verwacht na de workshop met de gastheer",
-          "fr": "Prévu après l'atelier avec l'hôte",
-          "de": "Erwartet nach dem Gastgeber-Workshop",
-          "zh": "预计在房东工作坊后更新",
-          "ko": "호스트 워크숍 이후 공개 예정",
-          "ja": "ホストのワークショップ後に公開予定です。"
+          "en": "Once confirmed by the owners",
+          "nl": "Zodra bevestigd door de eigenaars",
+          "fr": "Prévu dès confirmation des propriétaires",
+          "de": "Sobald von den Eigentümern bestätigt",
+          "zh": "预计在房东确认后更新",
+          "ko": "호스트 확인 이후 공개 예정",
+          "ja": "ホストの確認後に公開予定です。"
         }
       },
       "mediaId": "living-interior"

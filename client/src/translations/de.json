@@ -104,7 +104,7 @@
     "pharmacy": "Notdienst-Apotheke",
     "poison": "Giftnotrufzentrale",
     "hostContact": "Gastgeber-Kontakt",
-    "address": "Ihre Adresse hier",
+    "address": "Perstraat 80, 9120 Haasdonk, Belgien",
     "addressNote": "Geben Sie diese Adresse den Rettungsdiensten an",
     "call": "Anrufen"
   },
@@ -144,7 +144,7 @@
   "pending": {
     "label": "Noch zu bestätigen",
     "defaultStatus": "Wartet auf Bestätigung des Gastgebers",
-    "defaultExplanation": "Diese Information wird nach dem Gastgeber-Workshop ergänzt, damit wir nie ungeprüfte Anleitungen anzeigen.",
+    "defaultExplanation": "Die Eigentümer bestätigen diese Information noch — wir zeigen Ihnen nie ungeprüfte Anleitungen.",
     "defaultExpected": "Erwartet vor Ihrem Aufenthalt",
     "expectedLabel": "Erwartet"
   },
