@@ -93,7 +93,11 @@
     "contact": "Contact the host",
     "contactSub": "The owners live right next door — call, WhatsApp, or simply knock",
     "pendingRegister": "Pending information",
-    "pendingRegisterSub": "What we're still confirming with the host"
+    "pendingRegisterSub": "What we're still confirming with the host",
+    "printCard": "Printable QR welcome card",
+    "printCardSub": "Print a card with the app and Wi-Fi QR codes",
+    "installApp": "Add this app to your home screen",
+    "installAppSub": "Show the installation instructions again"
   },
   "emergency": {
     "title": "Emergency",
@@ -188,5 +192,49 @@
     "email": "Email",
     "website": "Website",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "Connect to the Wi-Fi",
+    "qrAlt": "Wi-Fi QR code",
+    "scanHint": "Point your phone's camera at this code — a \"Join Schuur80\" prompt appears. Tap it and you're online, no typing needed.",
+    "network": "Network",
+    "password": "Password",
+    "copy": "Copy",
+    "copied": "Copied to clipboard",
+    "instructionsIos": "On iPhone: open the Camera app, aim at the QR code and tap the \"Join Schuur80 network\" banner. Or copy the password above, then go to Settings → Wi-Fi → Schuur80 and paste it.",
+    "instructionsAndroid": "On Android: open the Camera (or Google Lens), aim at the QR code and tap the connect prompt. Or copy the password above, then open Settings → Network → Wi-Fi → Schuur80 and paste it.",
+    "instructionsDesktop": "On a laptop: choose the Schuur80 network in your Wi-Fi settings and paste the password copied above. On your phone, simply scan the QR code with the camera.",
+    "qrPendingTitle": "One-tap Wi-Fi connect is coming",
+    "qrPendingBody": "As soon as the owners confirm the network details, a QR code will appear here that connects your phone automatically."
+  },
+  "onboarding": {
+    "welcomeTitle": "Welcome to Schuur 80",
+    "welcomeBody": "Your guest companion for the barn — the house, the garden, the animals and everything around, in your pocket.",
+    "installTitleIos": "Add it to your home screen",
+    "installTitleAndroid": "Install it as an app",
+    "installTitleDesktop": "Install it as an app",
+    "iosStep1": "Tap the Share button at the bottom of Safari.",
+    "iosStep2": "Choose \"Add to Home Screen\", then tap Add.",
+    "androidStep1": "Tap the ⋮ menu in the top corner of Chrome.",
+    "androidStep2": "Choose \"Add to Home screen\" (or \"Install app\").",
+    "desktopStep1": "Look for the install icon at the right end of the address bar.",
+    "desktopStep2": "Click it and confirm to install the app.",
+    "worksInBrowser": "Prefer not to install? No problem — everything works right here in the browser, even offline after your first visit.",
+    "continue": "Explore the barn",
+    "skip": "Close"
+  },
+  "printCard": {
+    "back": "Back to Help",
+    "print": "Print card",
+    "hint": "Print this card at A6 size (or A5 for a larger version) and place it on the kitchen island or by the entrance.",
+    "tagline": "Guest companion",
+    "appTitle": "Scan for the guest app",
+    "appQrAlt": "QR code that opens the Schuur 80 guest app",
+    "appQrCaption": "Everything about the barn — rooms, appliances, the animals, tips and help — in 7 languages.",
+    "wifiTitle": "Scan to join the Wi-Fi",
+    "wifiQrAlt": "QR code that connects to the Wi-Fi",
+    "wifiQrCaption": "Point your camera at the code and tap the prompt — connected, no typing.",
+    "network": "Network",
+    "password": "Password"
   }
 }

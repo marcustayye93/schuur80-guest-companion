@@ -93,7 +93,11 @@
     "contact": "ホストに連絡する",
     "contactSub": "オーナーはすぐ隣に住んでいます — 電話・WhatsApp・直接ノックでもOKです",
     "pendingRegister": "未確定の情報",
-    "pendingRegisterSub": "ホストとまだ確認中の内容"
+    "pendingRegisterSub": "ホストとまだ確認中の内容",
+    "printCard": "印刷用QRウェルカムカード",
+    "printCardSub": "アプリとWi-FiのQRコード入りカードを印刷",
+    "installApp": "このアプリをホーム画面に追加",
+    "installAppSub": "インストール手順をもう一度表示"
   },
   "emergency": {
     "title": "緊急時",
@@ -188,5 +192,49 @@
     "email": "メール",
     "website": "ウェブサイト",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "Wi-Fiに接続する",
+    "qrAlt": "Wi-Fi QRコード",
+    "scanHint": "スマートフォンのカメラをこのコードにかざすと「Schuur80に接続」という案内が表示されます。タップするだけで入力不要で接続できます。",
+    "network": "ネットワーク",
+    "password": "パスワード",
+    "copy": "コピー",
+    "copied": "クリップボードにコピーしました",
+    "instructionsIos": "iPhone：カメラアプリを開いてQRコードにかざし、「ネットワーク\"Schuur80\"に接続」のバナーをタップしてください。または上のパスワードをコピーし、設定 → Wi-Fi → Schuur80 に貼り付けてください。",
+    "instructionsAndroid": "Android：カメラ（またはGoogleレンズ）を開いてQRコードにかざし、接続の案内をタップしてください。または上のパスワードをコピーし、設定 → ネットワーク → Wi-Fi → Schuur80 に貼り付けてください。",
+    "instructionsDesktop": "パソコン：Wi-Fi設定でSchuur80ネットワークを選び、コピーしたパスワードを貼り付けてください。スマートフォンではカメラでQRコードを読み取るだけです。",
+    "qrPendingTitle": "ワンタップWi-Fi接続は準備中です",
+    "qrPendingBody": "オーナーがネットワーク情報を確認次第、スマートフォンを自動接続するQRコードがここに表示されます。"
+  },
+  "onboarding": {
+    "welcomeTitle": "Schuur 80へようこそ",
+    "welcomeBody": "納屋のためのゲストガイド — 家、庭、動物たち、周辺情報のすべてをポケットに。",
+    "installTitleIos": "ホーム画面に追加",
+    "installTitleAndroid": "アプリとしてインストール",
+    "installTitleDesktop": "アプリとしてインストール",
+    "iosStep1": "Safari下部の共有ボタンをタップします。",
+    "iosStep2": "「ホーム画面に追加」を選び、追加をタップします。",
+    "androidStep1": "Chrome右上の⋮メニューをタップします。",
+    "androidStep2": "「ホーム画面に追加」（または「アプリをインストール」）を選びます。",
+    "desktopStep1": "アドレスバー右端のインストールアイコンを探します。",
+    "desktopStep2": "クリックして確認し、アプリをインストールします。",
+    "worksInBrowser": "インストールしなくても大丈夫です — すべての機能はブラウザでそのまま使え、初回訪問後はオフラインでも利用できます。",
+    "continue": "納屋を見てまわる",
+    "skip": "閉じる"
+  },
+  "printCard": {
+    "back": "ヘルプに戻る",
+    "print": "カードを印刷",
+    "hint": "このカードをA6サイズ（大きめはA5）で印刷し、キッチンアイランドや玄関に置いてください。",
+    "tagline": "ゲストガイド",
+    "appTitle": "ゲストアプリはこちらをスキャン",
+    "appQrAlt": "Schuur 80ゲストアプリを開くQRコード",
+    "appQrCaption": "納屋のすべて — 部屋、家電、動物たち、ヒントとヘルプ — 7か国語対応。",
+    "wifiTitle": "Wi-Fi接続はこちらをスキャン",
+    "wifiQrAlt": "Wi-Fiに接続するQRコード",
+    "wifiQrCaption": "カメラをコードにかざして案内をタップ — 入力不要で接続完了。",
+    "network": "ネットワーク",
+    "password": "パスワード"
   }
 }

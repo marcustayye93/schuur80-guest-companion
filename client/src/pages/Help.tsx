@@ -1,7 +1,7 @@
 /**
  * Schuur 80 — Help hub. Emergency, FAQs, host contact, pending register, settings.
  */
-import { Siren, BookOpen, MessageCircle, ClipboardList, Settings } from "lucide-react";
+import { Siren, BookOpen, MessageCircle, ClipboardList, Settings, QrCode, Smartphone } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { SectionHeader } from "@/components/companion/Primitives";
 import { ListRow } from "@/components/companion/Cards";
@@ -43,6 +43,25 @@ export default function Help() {
           icon={<Settings className="h-5 w-5" aria-hidden />}
           title={t("settings.title")}
           subtitle={t("settings.languageSub")}
+        />
+        <ListRow
+          href="/print/qr-card"
+          icon={<QrCode className="h-5 w-5" aria-hidden />}
+          title={t("help.printCard")}
+          subtitle={t("help.printCardSub")}
+        />
+        <ListRow
+          onClick={() => {
+            try {
+              localStorage.removeItem("schuur80.onboarded");
+            } catch {
+              /* ignore */
+            }
+            window.location.reload();
+          }}
+          icon={<Smartphone className="h-5 w-5" aria-hidden />}
+          title={t("help.installApp")}
+          subtitle={t("help.installAppSub")}
         />
       </div>
 

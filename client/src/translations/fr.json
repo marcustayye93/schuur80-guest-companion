@@ -93,7 +93,11 @@
     "contact": "Contacter l'hôte",
     "contactSub": "Les propriétaires habitent juste à côté — appelez, écrivez sur WhatsApp ou frappez à la porte",
     "pendingRegister": "Informations en attente",
-    "pendingRegisterSub": "Ce que nous confirmons encore avec l'hôte"
+    "pendingRegisterSub": "Ce que nous confirmons encore avec l'hôte",
+    "printCard": "Carte de bienvenue QR imprimable",
+    "printCardSub": "Imprimez une carte avec les codes QR de l'app et du Wi-Fi",
+    "installApp": "Ajoutez cette app à votre écran d'accueil",
+    "installAppSub": "Revoir les instructions d'installation"
   },
   "emergency": {
     "title": "Urgence",
@@ -188,5 +192,49 @@
     "email": "E-mail",
     "website": "Site web",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "Se connecter au Wi-Fi",
+    "qrAlt": "Code QR Wi-Fi",
+    "scanHint": "Pointez l'appareil photo de votre téléphone vers ce code — une invite « Rejoindre Schuur80 » apparaît. Touchez-la et vous êtes en ligne, sans rien taper.",
+    "network": "Réseau",
+    "password": "Mot de passe",
+    "copy": "Copier",
+    "copied": "Copié dans le presse-papiers",
+    "instructionsIos": "Sur iPhone : ouvrez l'app Appareil photo, visez le code QR et touchez la bannière « Rejoindre le réseau Schuur80 ». Ou copiez le mot de passe ci-dessus, puis collez-le dans Réglages → Wi-Fi → Schuur80.",
+    "instructionsAndroid": "Sur Android : ouvrez l'appareil photo (ou Google Lens), visez le code QR et touchez l'invite de connexion. Ou copiez le mot de passe ci-dessus, puis collez-le dans Paramètres → Réseau → Wi-Fi → Schuur80.",
+    "instructionsDesktop": "Sur ordinateur : choisissez le réseau Schuur80 dans vos réglages Wi-Fi et collez le mot de passe copié ci-dessus. Sur votre téléphone, scannez simplement le code QR avec l'appareil photo.",
+    "qrPendingTitle": "La connexion Wi-Fi en un geste arrive",
+    "qrPendingBody": "Dès que les propriétaires confirment les détails du réseau, un code QR apparaîtra ici pour connecter votre téléphone automatiquement."
+  },
+  "onboarding": {
+    "welcomeTitle": "Bienvenue à Schuur 80",
+    "welcomeBody": "Votre guide de séjour pour la grange — la maison, le jardin, les animaux et tout autour, dans votre poche.",
+    "installTitleIos": "Ajoutez-le à votre écran d'accueil",
+    "installTitleAndroid": "Installez-le comme une app",
+    "installTitleDesktop": "Installez-le comme une app",
+    "iosStep1": "Touchez le bouton Partager en bas de Safari.",
+    "iosStep2": "Choisissez « Sur l'écran d'accueil », puis touchez Ajouter.",
+    "androidStep1": "Touchez le menu ⋮ en haut de Chrome.",
+    "androidStep2": "Choisissez « Ajouter à l'écran d'accueil » (ou « Installer l'application »).",
+    "desktopStep1": "Repérez l'icône d'installation à droite de la barre d'adresse.",
+    "desktopStep2": "Cliquez dessus et confirmez pour installer l'app.",
+    "worksInBrowser": "Vous préférez ne pas installer ? Aucun souci — tout fonctionne dans le navigateur, même hors ligne après votre première visite.",
+    "continue": "Découvrir la grange",
+    "skip": "Fermer"
+  },
+  "printCard": {
+    "back": "Retour à l'aide",
+    "print": "Imprimer la carte",
+    "hint": "Imprimez cette carte au format A6 (ou A5 pour une version plus grande) et posez-la sur l'îlot de cuisine ou près de l'entrée.",
+    "tagline": "Guide de séjour",
+    "appTitle": "Scannez pour l'app invités",
+    "appQrAlt": "Code QR ouvrant l'app invités Schuur 80",
+    "appQrCaption": "Tout sur la grange — chambres, appareils, animaux, conseils et aide — en 7 langues.",
+    "wifiTitle": "Scannez pour le Wi-Fi",
+    "wifiQrAlt": "Code QR de connexion au Wi-Fi",
+    "wifiQrCaption": "Visez le code avec votre appareil photo et touchez l'invite — connecté, sans rien taper.",
+    "network": "Réseau",
+    "password": "Mot de passe"
   }
 }

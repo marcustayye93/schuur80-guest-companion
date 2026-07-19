@@ -230,3 +230,24 @@
     }
   }
 }
+
+/* Printable QR welcome card (/print/qr-card) — hide app chrome when printing */
+@media print {
+  body.print-qr-page header,
+  body.print-qr-page nav,
+  body.print-qr-page .print\:hidden {
+    display: none !important;
+  }
+  body.print-qr-page {
+    background: white !important;
+  }
+  body.print-qr-page .print-card {
+    margin: 0 auto;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  @page {
+    size: A6 portrait;
+    margin: 0;
+  }
+}

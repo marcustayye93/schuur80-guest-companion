@@ -93,7 +93,11 @@
     "contact": "Neem contact op met de gastheer",
     "contactSub": "De eigenaars wonen vlak ernaast — bel, WhatsApp of klop gewoon aan",
     "pendingRegister": "Informatie in aanvraag",
-    "pendingRegisterSub": "Wat we nog bevestigen met de gastheer"
+    "pendingRegisterSub": "Wat we nog bevestigen met de gastheer",
+    "printCard": "Afdrukbare QR-welkomstkaart",
+    "printCardSub": "Druk een kaart af met de app- en wifi-QR-codes",
+    "installApp": "Zet deze app op je beginscherm",
+    "installAppSub": "Toon de installatie-instructies opnieuw"
   },
   "emergency": {
     "title": "Noodgeval",
@@ -188,5 +192,49 @@
     "email": "E-mail",
     "website": "Website",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "Verbind met de wifi",
+    "qrAlt": "Wifi-QR-code",
+    "scanHint": "Richt de camera van je telefoon op deze code — er verschijnt een melding \"Verbind met Schuur80\". Tik erop en je bent online, zonder typen.",
+    "network": "Netwerk",
+    "password": "Wachtwoord",
+    "copy": "Kopieer",
+    "copied": "Gekopieerd naar klembord",
+    "instructionsIos": "Op iPhone: open de Camera-app, richt op de QR-code en tik op de banner \"Verbind met netwerk Schuur80\". Of kopieer het wachtwoord hierboven en plak het via Instellingen → Wifi → Schuur80.",
+    "instructionsAndroid": "Op Android: open de camera (of Google Lens), richt op de QR-code en tik op de verbindingsmelding. Of kopieer het wachtwoord hierboven en plak het via Instellingen → Netwerk → Wifi → Schuur80.",
+    "instructionsDesktop": "Op een laptop: kies het netwerk Schuur80 in je wifi-instellingen en plak het gekopieerde wachtwoord. Op je telefoon scan je gewoon de QR-code met de camera.",
+    "qrPendingTitle": "Wifi in één tik komt eraan",
+    "qrPendingBody": "Zodra de eigenaars de netwerkgegevens bevestigen, verschijnt hier een QR-code die je telefoon automatisch verbindt."
+  },
+  "onboarding": {
+    "welcomeTitle": "Welkom bij Schuur 80",
+    "welcomeBody": "Je verblijfsgids voor de schuur — het huis, de tuin, de dieren en alles eromheen, in je broekzak.",
+    "installTitleIos": "Zet 'm op je beginscherm",
+    "installTitleAndroid": "Installeer als app",
+    "installTitleDesktop": "Installeer als app",
+    "iosStep1": "Tik op de deelknop onderaan in Safari.",
+    "iosStep2": "Kies \"Zet op beginscherm\" en tik op Voeg toe.",
+    "androidStep1": "Tik op het ⋮-menu rechtsboven in Chrome.",
+    "androidStep2": "Kies \"Toevoegen aan startscherm\" (of \"App installeren\").",
+    "desktopStep1": "Zoek het installatie-icoon rechts in de adresbalk.",
+    "desktopStep2": "Klik erop en bevestig om de app te installeren.",
+    "worksInBrowser": "Liever niet installeren? Geen probleem — alles werkt gewoon in de browser, zelfs offline na je eerste bezoek.",
+    "continue": "Verken de schuur",
+    "skip": "Sluiten"
+  },
+  "printCard": {
+    "back": "Terug naar Hulp",
+    "print": "Kaart afdrukken",
+    "hint": "Druk deze kaart af op A6-formaat (of A5 voor een grotere versie) en zet ze op het keukeneiland of bij de ingang.",
+    "tagline": "Verblijfsgids",
+    "appTitle": "Scan voor de gastenapp",
+    "appQrAlt": "QR-code die de Schuur 80-gastenapp opent",
+    "appQrCaption": "Alles over de schuur — kamers, toestellen, de dieren, tips en hulp — in 7 talen.",
+    "wifiTitle": "Scan voor de wifi",
+    "wifiQrAlt": "QR-code die verbindt met de wifi",
+    "wifiQrCaption": "Richt je camera op de code en tik op de melding — verbonden, zonder typen.",
+    "network": "Netwerk",
+    "password": "Wachtwoord"
   }
 }

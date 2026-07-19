@@ -2,36 +2,6 @@
   "note": "Pending Content Register — every item of unknown information awaiting host confirmation. Nothing here may be invented.",
   "items": [
     {
-      "id": "pending-wifi",
-      "category": {
-        "en": "Connectivity",
-        "nl": "Verbinding",
-        "fr": "Connectivité",
-        "de": "Verbindung",
-        "zh": "网络连接",
-        "ko": "인터넷 연결",
-        "ja": "接続"
-      },
-      "item": {
-        "en": "Wi-Fi network name, password delivery (welcome card) and coverage throughout the barn",
-        "nl": "Naam van het wifi-netwerk, bezorging van het wachtwoord (welkomstkaart) en bereik in de hele schuur",
-        "fr": "Nom du réseau Wi-Fi, remise du mot de passe (carte de bienvenue) et couverture dans toute la grange",
-        "de": "WLAN-Netzwerkname, Passwortübergabe (Willkommenskarte) und Abdeckung in der ganzen Scheune",
-        "zh": "无线网络名称、密码提供方式（欢迎卡）以及谷仓内的信号覆盖",
-        "ko": "와이파이 네트워크 이름, 비밀번호 전달 방식(웰컴 카드), 헛간 전체 커버리지",
-        "ja": "Wi‑Fiネットワーク名、パスワードの受け渡し（ウェルカムカード）、納屋全体の電波状況"
-      },
-      "expected": {
-        "en": "Once confirmed",
-        "nl": "Zodra bevestigd",
-        "fr": "Dès confirmation",
-        "de": "Sobald bestätigt",
-        "zh": "确认后",
-        "ko": "확인되는 대로",
-        "ja": "確認され次第"
-      }
-    },
-    {
       "id": "feeding",
       "area": {
         "en": "Animals",

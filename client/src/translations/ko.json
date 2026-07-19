@@ -93,7 +93,11 @@
     "contact": "호스트에게 연락하기",
     "contactSub": "주인이 바로 옆집에 살고 있습니다 — 전화, WhatsApp 또는 직접 노크해 주세요",
     "pendingRegister": "확인 중 정보",
-    "pendingRegisterSub": "호스트와 아직 확인 중인 내용"
+    "pendingRegisterSub": "호스트와 아직 확인 중인 내용",
+    "printCard": "인쇄용 QR 웰컴 카드",
+    "printCardSub": "앱과 와이파이 QR 코드가 담긴 카드를 인쇄하세요",
+    "installApp": "이 앱을 홈 화면에 추가",
+    "installAppSub": "설치 안내 다시 보기"
   },
   "emergency": {
     "title": "비상 상황",
@@ -188,5 +192,49 @@
     "email": "이메일",
     "website": "웹사이트",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "와이파이 연결하기",
+    "qrAlt": "와이파이 QR 코드",
+    "scanHint": "휴대폰 카메라를 이 코드에 비추면 \"Schuur80에 연결\" 안내가 나타납니다. 탭하면 입력 없이 바로 연결됩니다.",
+    "network": "네트워크",
+    "password": "비밀번호",
+    "copy": "복사",
+    "copied": "클립보드에 복사되었습니다",
+    "instructionsIos": "iPhone: 카메라 앱을 열고 QR 코드를 비춘 뒤 \"Schuur80 네트워크에 연결\" 배너를 탭하세요. 또는 위의 비밀번호를 복사해 설정 → Wi-Fi → Schuur80에 붙여넣으세요.",
+    "instructionsAndroid": "Android: 카메라(또는 Google 렌즈)를 열고 QR 코드를 비춘 뒤 연결 안내를 탭하세요. 또는 위의 비밀번호를 복사해 설정 → 네트워크 → Wi-Fi → Schuur80에 붙여넣으세요.",
+    "instructionsDesktop": "노트북: 와이파이 설정에서 Schuur80 네트워크를 선택하고 복사한 비밀번호를 붙여넣으세요. 휴대폰에서는 카메라로 QR 코드를 스캔하면 됩니다.",
+    "qrPendingTitle": "원터치 와이파이 연결 준비 중",
+    "qrPendingBody": "주인이 네트워크 정보를 확인하는 대로, 휴대폰을 자동으로 연결해 주는 QR 코드가 여기에 표시됩니다."
+  },
+  "onboarding": {
+    "welcomeTitle": "Schuur 80에 오신 것을 환영합니다",
+    "welcomeBody": "헛간을 위한 게스트 가이드 — 집, 정원, 동물들과 주변의 모든 것을 손안에서 만나보세요.",
+    "installTitleIos": "홈 화면에 추가하기",
+    "installTitleAndroid": "앱으로 설치하기",
+    "installTitleDesktop": "앱으로 설치하기",
+    "iosStep1": "Safari 하단의 공유 버튼을 탭하세요.",
+    "iosStep2": "\"홈 화면에 추가\"를 선택한 뒤 추가를 탭하세요.",
+    "androidStep1": "Chrome 오른쪽 상단의 ⋮ 메뉴를 탭하세요.",
+    "androidStep2": "\"홈 화면에 추가\"(또는 \"앱 설치\")를 선택하세요.",
+    "desktopStep1": "주소창 오른쪽의 설치 아이콘을 찾으세요.",
+    "desktopStep2": "클릭한 뒤 확인하여 앱을 설치하세요.",
+    "worksInBrowser": "설치를 원하지 않으세요? 괜찮습니다 — 모든 기능은 브라우저에서 그대로 작동하며, 첫 방문 후에는 오프라인에서도 사용할 수 있습니다.",
+    "continue": "헛간 둘러보기",
+    "skip": "닫기"
+  },
+  "printCard": {
+    "back": "도움말로 돌아가기",
+    "print": "카드 인쇄",
+    "hint": "이 카드를 A6 크기(더 크게는 A5)로 인쇄하여 주방 아일랜드나 입구에 놓아두세요.",
+    "tagline": "게스트 가이드",
+    "appTitle": "게스트 앱 QR 스캔",
+    "appQrAlt": "Schuur 80 게스트 앱을 여는 QR 코드",
+    "appQrCaption": "헛간의 모든 것 — 객실, 가전, 동물, 팁과 도움말 — 7개 언어 지원.",
+    "wifiTitle": "와이파이 연결 QR 스캔",
+    "wifiQrAlt": "와이파이에 연결하는 QR 코드",
+    "wifiQrCaption": "카메라를 코드에 비추고 안내를 탭하세요 — 입력 없이 바로 연결됩니다.",
+    "network": "네트워크",
+    "password": "비밀번호"
   }
 }

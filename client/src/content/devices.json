@@ -41,27 +41,27 @@
         "ko": "와이파이",
         "ja": "Wi‑Fi"
       },
-      "brandModel": "Wi-Fi network",
+      "brandModel": "Schuur80",
       "icon": "wifi",
       "instructions": {
         "steps": [
           {
-            "en": "You'll find the Wi-Fi network name and password on the welcome card in the house — the host hands it over at check-in.",
-            "nl": "De naam en het wachtwoord van het wifi-netwerk vind je op de welkomstkaart in het huis — je krijgt ze van de gastheer bij het inchecken.",
-            "fr": "Le nom du réseau Wi-Fi et le mot de passe figurent sur la carte de bienvenue dans la maison — l'hôte vous les remet à l'arrivée.",
-            "de": "Den Namen und das Passwort des WLAN-Netzwerks finden Sie auf der Willkommenskarte im Haus — der Gastgeber übergibt sie beim Check-in.",
-            "zh": "无线网络名称和密码写在屋内的欢迎卡上——房东会在入住时交给您。",
-            "ko": "와이파이 네트워크 이름과 비밀번호는 집 안의 웰컴 카드에 적혀 있습니다 — 체크인 시 호스트가 안내해 드립니다.",
-            "ja": "Wi‑Fiのネットワーク名とパスワードは、家の中のウェルカムカードに記載されています。チェックイン時にホストからお渡しします。"
+            "en": "The network is Schuur80. Scan the QR code above with your phone's camera to join in one tap — or copy the password and connect manually.",
+            "nl": "Het netwerk heet Schuur80. Scan de QR-code hierboven met de camera van je telefoon om in één tik te verbinden — of kopieer het wachtwoord en verbind handmatig.",
+            "fr": "Le réseau s'appelle Schuur80. Scannez le code QR ci-dessus avec l'appareil photo de votre téléphone pour vous connecter en un geste — ou copiez le mot de passe et connectez-vous manuellement.",
+            "de": "Das Netzwerk heißt Schuur80. Scannen Sie den QR-Code oben mit der Handykamera, um sich mit einem Tipp zu verbinden — oder kopieren Sie das Passwort und verbinden Sie sich manuell.",
+            "zh": "网络名称为 Schuur80。用手机相机扫描上方二维码即可一键连接——也可以复制密码手动连接。",
+            "ko": "네트워크 이름은 Schuur80입니다. 위의 QR 코드를 휴대폰 카메라로 스캔하면 원터치로 연결됩니다 — 비밀번호를 복사해 직접 연결할 수도 있습니다.",
+            "ja": "ネットワーク名はSchuur80です。上のQRコードをスマートフォンのカメラで読み取ればワンタップで接続できます。パスワードをコピーして手動で接続することもできます。"
           },
           {
-            "en": "Open the Wi-Fi settings on your phone or laptop, choose the network from the card and enter the password.",
-            "nl": "Open de wifi-instellingen op je telefoon of laptop, kies het netwerk van de kaart en voer het wachtwoord in.",
-            "fr": "Ouvrez les réglages Wi-Fi de votre téléphone ou ordinateur, choisissez le réseau indiqué sur la carte et saisissez le mot de passe.",
-            "de": "Öffnen Sie die WLAN-Einstellungen auf Ihrem Handy oder Laptop, wählen Sie das Netzwerk von der Karte und geben Sie das Passwort ein.",
-            "zh": "在手机或笔记本上打开无线网络设置，选择卡片上的网络并输入密码。",
-            "ko": "폰이나 노트북에서 와이파이 설정을 열고, 카드에 적힌 네트워크를 선택한 뒤 비밀번호를 입력하세요.",
-            "ja": "スマートフォンやノートパソコンでWi‑Fi設定を開き、カードに記載されたネットワークを選んでパスワードを入力してください。"
+            "en": "The same details are printed on the welcome card in the house, so guests without this app can connect too.",
+            "nl": "Dezelfde gegevens staan op de welkomstkaart in het huis, zodat ook gasten zonder deze app kunnen verbinden.",
+            "fr": "Les mêmes informations figurent sur la carte de bienvenue dans la maison, pour que les hôtes sans cette app puissent aussi se connecter.",
+            "de": "Dieselben Angaben stehen auf der Willkommenskarte im Haus, damit sich auch Gäste ohne diese App verbinden können.",
+            "zh": "同样的信息也印在屋内的欢迎卡上，没有此应用的客人也能连接。",
+            "ko": "같은 정보가 집 안의 웰컴 카드에도 인쇄되어 있어, 이 앱이 없는 손님도 연결할 수 있습니다.",
+            "ja": "同じ情報は家の中のウェルカムカードにも記載されているので、このアプリを持たないゲストも接続できます。"
           },
           {
             "en": "If the connection drops, restart instructions for the router are being confirmed with the host and will appear here.",

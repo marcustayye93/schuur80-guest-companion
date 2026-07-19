@@ -93,7 +93,11 @@
     "contact": "联系房东",
     "contactSub": "房东就住在隔壁——可致电、发 WhatsApp，或直接敲门",
     "pendingRegister": "待确认信息",
-    "pendingRegisterSub": "我们仍在向房东确认的事项"
+    "pendingRegisterSub": "我们仍在向房东确认的事项",
+    "printCard": "可打印的二维码欢迎卡",
+    "printCardSub": "打印包含应用和 Wi-Fi 二维码的卡片",
+    "installApp": "将此应用添加到主屏幕",
+    "installAppSub": "再次查看安装说明"
   },
   "emergency": {
     "title": "紧急情况",
@@ -188,5 +192,49 @@
     "email": "电子邮件",
     "website": "网站",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "连接无线网络",
+    "qrAlt": "Wi-Fi 二维码",
+    "scanHint": "用手机相机对准此二维码，会弹出「加入 Schuur80」的提示，点击即可上网，无需输入任何内容。",
+    "network": "网络名称",
+    "password": "密码",
+    "copy": "复制",
+    "copied": "已复制到剪贴板",
+    "instructionsIos": "iPhone：打开相机应用，对准二维码，点击「加入 Schuur80 网络」横幅。也可以复制上方密码，前往 设置 → 无线局域网 → Schuur80 粘贴。",
+    "instructionsAndroid": "安卓：打开相机（或 Google 智能镜头），对准二维码并点击连接提示。也可以复制上方密码，前往 设置 → 网络 → WLAN → Schuur80 粘贴。",
+    "instructionsDesktop": "笔记本电脑：在无线网络设置中选择 Schuur80 网络，粘贴上方复制的密码。手机则直接用相机扫描二维码即可。",
+    "qrPendingTitle": "一键连接 Wi-Fi 即将上线",
+    "qrPendingBody": "待房东确认网络信息后，这里会显示一个二维码，让您的手机自动连接。"
+  },
+  "onboarding": {
+    "welcomeTitle": "欢迎来到 Schuur 80",
+    "welcomeBody": "您的谷仓住宿指南——房屋、花园、动物和周边的一切，尽在掌中。",
+    "installTitleIos": "添加到主屏幕",
+    "installTitleAndroid": "安装为应用",
+    "installTitleDesktop": "安装为应用",
+    "iosStep1": "点击 Safari 底部的分享按钮。",
+    "iosStep2": "选择「添加到主屏幕」，然后点击添加。",
+    "androidStep1": "点击 Chrome 右上角的 ⋮ 菜单。",
+    "androidStep2": "选择「添加到主屏幕」（或「安装应用」）。",
+    "desktopStep1": "在地址栏右侧找到安装图标。",
+    "desktopStep2": "点击并确认安装应用。",
+    "worksInBrowser": "不想安装？没关系——所有功能都可以直接在浏览器中使用，首次访问后甚至支持离线。",
+    "continue": "探索谷仓",
+    "skip": "关闭"
+  },
+  "printCard": {
+    "back": "返回帮助",
+    "print": "打印卡片",
+    "hint": "请以 A6 尺寸打印此卡片（A5 可打印更大版本），放在厨房中岛或入口处。",
+    "tagline": "住宿指南",
+    "appTitle": "扫码打开住客应用",
+    "appQrAlt": "打开 Schuur 80 住客应用的二维码",
+    "appQrCaption": "谷仓的一切——房间、电器、动物、贴士与帮助——支持 7 种语言。",
+    "wifiTitle": "扫码连接 Wi-Fi",
+    "wifiQrAlt": "连接 Wi-Fi 的二维码",
+    "wifiQrCaption": "用相机对准二维码并点击提示——即刻连接，无需输入。",
+    "network": "网络",
+    "password": "密码"
   }
 }

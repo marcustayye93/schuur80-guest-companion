@@ -10,6 +10,7 @@ import { PendingCard, Callout, StatusBadge } from "@/components/companion/Primit
 import PageHeader from "@/components/companion/PageHeader";
 import { DeviceIcon } from "@/components/companion/DeviceBits";
 import { isPending } from "@/content/types";
+import WifiConnectCard from "@/components/companion/WifiConnectCard";
 import NotFound from "./NotFound";
 
 export default function DeviceDetail() {
@@ -46,6 +47,9 @@ export default function DeviceDetail() {
             )}
           </div>
         </div>
+
+        {/* Wi-Fi one-tap connect (QR + copy helpers) */}
+        {device.id === "wifi-router" && <WifiConnectCard />}
 
         {/* Instructions */}
         <section className="space-y-2.5" aria-labelledby="steps-h">

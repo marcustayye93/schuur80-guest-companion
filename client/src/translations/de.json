@@ -93,7 +93,11 @@
     "contact": "Gastgeber kontaktieren",
     "contactSub": "Die Eigentümer wohnen direkt nebenan — anrufen, WhatsApp schreiben oder einfach anklopfen",
     "pendingRegister": "Ausstehende Informationen",
-    "pendingRegisterSub": "Was wir noch mit dem Gastgeber klären"
+    "pendingRegisterSub": "Was wir noch mit dem Gastgeber klären",
+    "printCard": "Druckbare QR-Willkommenskarte",
+    "printCardSub": "Karte mit App- und WLAN-QR-Codes drucken",
+    "installApp": "Diese App zum Home-Bildschirm hinzufügen",
+    "installAppSub": "Installationsanleitung erneut anzeigen"
   },
   "emergency": {
     "title": "Notfall",
@@ -188,5 +192,49 @@
     "email": "E-Mail",
     "website": "Website",
     "whatsapp": "WhatsApp"
+  },
+  "wifi": {
+    "connectTitle": "Mit dem WLAN verbinden",
+    "qrAlt": "WLAN-QR-Code",
+    "scanHint": "Richten Sie die Kamera Ihres Handys auf diesen Code — es erscheint die Meldung „Mit Schuur80 verbinden“. Antippen und Sie sind online, ganz ohne Tippen.",
+    "network": "Netzwerk",
+    "password": "Passwort",
+    "copy": "Kopieren",
+    "copied": "In die Zwischenablage kopiert",
+    "instructionsIos": "Auf dem iPhone: Kamera-App öffnen, auf den QR-Code richten und auf den Banner „Mit Netzwerk Schuur80 verbinden“ tippen. Oder das Passwort oben kopieren und unter Einstellungen → WLAN → Schuur80 einfügen.",
+    "instructionsAndroid": "Auf Android: Kamera (oder Google Lens) öffnen, auf den QR-Code richten und auf die Verbindungsmeldung tippen. Oder das Passwort oben kopieren und unter Einstellungen → Netzwerk → WLAN → Schuur80 einfügen.",
+    "instructionsDesktop": "Am Laptop: Wählen Sie das Netzwerk Schuur80 in den WLAN-Einstellungen und fügen Sie das kopierte Passwort ein. Am Handy scannen Sie einfach den QR-Code mit der Kamera.",
+    "qrPendingTitle": "WLAN mit einem Tipp kommt bald",
+    "qrPendingBody": "Sobald die Eigentümer die Netzwerkdaten bestätigen, erscheint hier ein QR-Code, der Ihr Handy automatisch verbindet."
+  },
+  "onboarding": {
+    "welcomeTitle": "Willkommen bei Schuur 80",
+    "welcomeBody": "Ihr Gästebegleiter für die Scheune — Haus, Garten, Tiere und alles drumherum, immer griffbereit.",
+    "installTitleIos": "Zum Home-Bildschirm hinzufügen",
+    "installTitleAndroid": "Als App installieren",
+    "installTitleDesktop": "Als App installieren",
+    "iosStep1": "Tippen Sie unten in Safari auf die Teilen-Taste.",
+    "iosStep2": "Wählen Sie „Zum Home-Bildschirm“, dann Hinzufügen.",
+    "androidStep1": "Tippen Sie oben in Chrome auf das ⋮-Menü.",
+    "androidStep2": "Wählen Sie „Zum Startbildschirm hinzufügen“ (oder „App installieren“).",
+    "desktopStep1": "Suchen Sie das Installations-Symbol rechts in der Adressleiste.",
+    "desktopStep2": "Klicken Sie darauf und bestätigen Sie die Installation.",
+    "worksInBrowser": "Lieber nicht installieren? Kein Problem — alles funktioniert direkt im Browser, nach dem ersten Besuch sogar offline.",
+    "continue": "Die Scheune entdecken",
+    "skip": "Schließen"
+  },
+  "printCard": {
+    "back": "Zurück zur Hilfe",
+    "print": "Karte drucken",
+    "hint": "Drucken Sie diese Karte im A6-Format (oder A5 für eine größere Version) und stellen Sie sie auf die Kücheninsel oder an den Eingang.",
+    "tagline": "Gästebegleiter",
+    "appTitle": "Scannen für die Gäste-App",
+    "appQrAlt": "QR-Code, der die Schuur 80 Gäste-App öffnet",
+    "appQrCaption": "Alles über die Scheune — Zimmer, Geräte, Tiere, Tipps und Hilfe — in 7 Sprachen.",
+    "wifiTitle": "Scannen für das WLAN",
+    "wifiQrAlt": "QR-Code zur WLAN-Verbindung",
+    "wifiQrCaption": "Kamera auf den Code richten und auf die Meldung tippen — verbunden, ohne Tippen.",
+    "network": "Netzwerk",
+    "password": "Passwort"
   }
 }

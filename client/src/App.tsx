@@ -28,6 +28,8 @@ import Emergency from "./pages/Emergency";
 import PendingRegister from "./pages/PendingRegister";
 import SettingsPage from "./pages/SettingsPage";
 import SearchPage from "./pages/SearchPage";
+import PrintQrCard from "./pages/PrintQrCard";
+import Onboarding, { shouldShowOnboarding } from "./components/companion/Onboarding";
 import OfflinePage from "./pages/OfflinePage";
 import NotFound from "./pages/NotFound";
 
@@ -63,6 +65,7 @@ function Router() {
         <Route path="/help/pending" component={PendingRegister} />
         <Route path="/settings" component={SettingsPage} />
         <Route path="/search" component={SearchPage} />
+        <Route path="/print/qr-card" component={PrintQrCard} />
         <Route path="/offline" component={OfflinePage} />
         <Route path="/404" component={NotFound} />
         <Route component={NotFound} />
@@ -72,7 +75,7 @@ function Router() {
 }
 
 /** /checkout is an alias that renders the checkout guide directly. */
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useLocation } from "wouter";
 function GuideDetailRedirect({ id }: { id: string }) {
   const [, navigate] = useLocation();
@@ -80,6 +83,16 @@ function GuideDetailRedirect({ id }: { id: string }) {
     navigate(`/guide/${id}`, { replace: true });
   }, [navigate, id]);
   return null;
+}
+
+/** Shows the first-visit install onboarding once, unless already installed. */
+function OnboardingGate() {
+  const [show, setShow] = useState(false);
+  useEffect(() => {
+    if (shouldShowOnboarding()) setShow(true);
+  }, []);
+  if (!show) return null;
+  return <Onboarding onClose={() => setShow(false)} />;
 }
 
 function App() {
@@ -91,6 +104,7 @@ function App() {
             <Toaster />
             <WouterRouter base={BASE_PATH}>
               <Router />
+              <OnboardingGate />
             </WouterRouter>
           </TooltipProvider>
         </LanguageProvider>
