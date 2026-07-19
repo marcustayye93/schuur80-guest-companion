@@ -49,7 +49,10 @@ export default function SettingsPage() {
                     : "bg-card text-foreground"
                 )}
               >
-                {l.native}
+                <span>
+                  <span aria-hidden className="mr-1.5">{l.flag}</span>
+                  {l.native}
+                </span>
                 {lang === l.code && <Check className="h-4 w-4" aria-hidden />}
               </button>
             ))}

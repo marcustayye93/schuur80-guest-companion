@@ -103,7 +103,10 @@ function LanguageSwitcher() {
             onClick={() => setLang(l.code)}
             className="flex items-center justify-between rounded-xl text-[14px]"
           >
-            {l.native}
+            <span>
+              <span aria-hidden className="mr-1.5">{l.flag}</span>
+              {l.native}
+            </span>
             {lang === l.code && <Check className="h-4 w-4 text-primary" aria-hidden />}
           </DropdownMenuItem>
         ))}

@@ -127,6 +127,7 @@ export default function Onboarding({ onClose }: { onClose: () => void }) {
                   : "bg-secondary text-foreground/75"
               }`}
             >
+              <span aria-hidden className="mr-1">{l.flag}</span>
               {l.native}
             </button>
           ))}

@@ -23,14 +23,14 @@ import type { LocalizedString } from "@/content/types";
 
 export type Lang = "en" | "nl" | "fr" | "de" | "zh" | "ko" | "ja";
 
-export const LANGUAGES: { code: Lang; label: string; native: string }[] = [
-  { code: "en", label: "English", native: "English" },
-  { code: "nl", label: "Dutch", native: "Nederlands" },
-  { code: "fr", label: "French", native: "Français" },
-  { code: "de", label: "German", native: "Deutsch" },
-  { code: "zh", label: "Chinese", native: "中文" },
-  { code: "ko", label: "Korean", native: "한국어" },
-  { code: "ja", label: "Japanese", native: "日本語" },
+export const LANGUAGES: { code: Lang; label: string; native: string; flag: string }[] = [
+  { code: "en", label: "English", native: "English", flag: "🇬🇧" },
+  { code: "nl", label: "Dutch", native: "Nederlands", flag: "🇳🇱" },
+  { code: "fr", label: "French", native: "Français", flag: "🇫🇷" },
+  { code: "de", label: "German", native: "Deutsch", flag: "🇩🇪" },
+  { code: "zh", label: "Chinese", native: "中文", flag: "🇨🇳" },
+  { code: "ko", label: "Korean", native: "한국어", flag: "🇰🇷" },
+  { code: "ja", label: "Japanese", native: "日本語", flag: "🇯🇵" },
 ];
 
 const DICTS: Record<Lang, Record<string, unknown>> = { en, nl, fr, de, zh, ko, ja };
@@ -46,8 +46,13 @@ function detectLang(): Lang {
   } catch {
     /* ignore */
   }
-  const nav = (navigator.language || "en").slice(0, 2).toLowerCase();
-  if (LANG_CODES.includes(nav)) return nav as Lang;
+  // First visit: walk the full preference list of the phone/browser so a
+  // guest whose order is e.g. [ko-KR, en-US] lands on Korean automatically.
+  const prefs = navigator.languages?.length ? navigator.languages : [navigator.language || "en"];
+  for (const pref of prefs) {
+    const code = pref.slice(0, 2).toLowerCase();
+    if (LANG_CODES.includes(code)) return code as Lang;
+  }
   return "en";
 }
 
