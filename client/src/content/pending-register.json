@@ -325,13 +325,13 @@
         "ja": "チェックアウトのご案内です"
       },
       "item": {
-        "en": "Waste sorting rules",
-        "nl": "Afvalsorteerregels",
-        "fr": "Règles de tri des déchets",
-        "de": "Mülltrennungsregeln",
-        "zh": "垃圾分类规则",
-        "ko": "쓰레기 분리 배출 규칙",
-        "ja": "ゴミの分別ルール"
+        "en": "Recycling specifics — whether guests sort PMD/glass/paper separately and where those bags live (bread bin & rubbish bins already confirmed)",
+        "nl": "Sorteerdetails — of gasten PMD/glas/papier apart sorteren en waar die zakken staan (broodton & vuilnisbakken al bevestigd)",
+        "fr": "Détails du tri — si les hôtes trient PMC/verre/papier séparément et où se trouvent ces sacs (poubelle à pain et poubelles déjà confirmées)",
+        "de": "Trenndetails — ob Gäste PMD/Glas/Papier separat trennen und wo diese Säcke stehen (Brottonne & Mülltonnen bereits bestätigt)",
+        "zh": "回收细节——客人是否需单独分类PMD/玻璃/纸张及袋子存放位置（面包桶和垃圾桶已确认）",
+        "ko": "분리수거 세부사항 — 손님이 PMD/유리/종이를 따로 분리하는지, 봉투 위치는 어디인지 (빵 통·쓰레기통은 확인 완료)",
+        "ja": "分別の詳細 — ゲストがPMD/ガラス/紙を分別すべきか、袋の場所はどこか（パン容器とゴミ箱は確認済み）"
       },
       "status": {
         "en": "Awaiting confirmation from the owners",
@@ -584,6 +584,156 @@
         "zh": "确认后",
         "ko": "숙박 전에",
         "ja": "ご滞在前に"
+      }
+    },
+    {
+      "id": "hairdryer-iron",
+      "area": {
+        "en": "House",
+        "nl": "Huis",
+        "fr": "Maison",
+        "de": "Haus",
+        "zh": "住宅",
+        "ko": "집",
+        "ja": "家"
+      },
+      "item": {
+        "en": "Hair dryer, iron and ironing board — availability and storage location",
+        "nl": "Haardroger, strijkijzer en strijkplank — beschikbaarheid en bewaarplek",
+        "fr": "Sèche-cheveux, fer et planche à repasser — disponibilité et rangement",
+        "de": "Haartrockner, Bügeleisen und Bügelbrett — Verfügbarkeit und Aufbewahrungsort",
+        "zh": "吹风机、熨斗和熨衣板——是否提供及存放位置",
+        "ko": "헤어드라이어, 다리미, 다리미판 — 구비 여부 및 보관 위치",
+        "ja": "ドライヤー・アイロン・アイロン台 — 有無と保管場所"
+      },
+      "status": {
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Bestätigung durch die Eigentümer ausstehend",
+        "zh": "等待房主确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "オーナーの確認待ち"
+      }
+    },
+    {
+      "id": "baby-equipment",
+      "area": {
+        "en": "House",
+        "nl": "Huis",
+        "fr": "Maison",
+        "de": "Haus",
+        "zh": "住宅",
+        "ko": "집",
+        "ja": "家"
+      },
+      "item": {
+        "en": "Baby equipment — travel cot, high chair, stair gate availability",
+        "nl": "Babyuitrusting — reisbedje, kinderstoel, traphekje",
+        "fr": "Équipement bébé — lit parapluie, chaise haute, barrière d'escalier",
+        "de": "Babyausstattung — Reisebett, Hochstuhl, Treppenschutzgitter",
+        "zh": "婴儿设备——旅行婴儿床、儿童餐椅、楼梯安全门",
+        "ko": "유아용 장비 — 이동식 침대, 유아 의자, 계단 안전문",
+        "ja": "ベビー用品 — トラベルベッド・ハイチェア・階段ゲート"
+      },
+      "status": {
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Bestätigung durch die Eigentümer ausstehend",
+        "zh": "等待房主确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "オーナーの確認待ち"
+      }
+    },
+    {
+      "id": "early-checkin-luggage",
+      "area": {
+        "en": "Arrival",
+        "nl": "Aankomst",
+        "fr": "Arrivée",
+        "de": "Ankunft",
+        "zh": "到达",
+        "ko": "도착",
+        "ja": "到着"
+      },
+      "item": {
+        "en": "Early check-in and luggage drop-off policy",
+        "nl": "Regeling vroeg inchecken en bagage afzetten",
+        "fr": "Politique d'arrivée anticipée et de dépôt des bagages",
+        "de": "Regelung für frühen Check-in und Gepäckabgabe",
+        "zh": "提前入住和行李寄存政策",
+        "ko": "얼리 체크인 및 짐 보관 정책",
+        "ja": "アーリーチェックイン・荷物預かりの方針"
+      },
+      "status": {
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Bestätigung durch die Eigentümer ausstehend",
+        "zh": "等待房主确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "オーナーの確認待ち"
+      }
+    },
+    {
+      "id": "bed-sizes",
+      "area": {
+        "en": "Bedrooms",
+        "nl": "Slaapkamers",
+        "fr": "Chambres",
+        "de": "Schlafzimmer",
+        "zh": "卧室",
+        "ko": "침실",
+        "ja": "ベッドルーム"
+      },
+      "item": {
+        "en": "Bed sizes and types in the two remaining upstairs bedrooms",
+        "nl": "Bedmaten en -types in de twee overige slaapkamers boven",
+        "fr": "Tailles et types de lits des deux autres chambres à l'étage",
+        "de": "Bettgrößen und -typen in den zwei übrigen Schlafzimmern oben",
+        "zh": "楼上另外两间卧室的床型和尺寸",
+        "ko": "2층 나머지 침실 두 곳의 침대 크기와 종류",
+        "ja": "2階の残り2寝室のベッドサイズと種類"
+      },
+      "status": {
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Bestätigung durch die Eigentümer ausstehend",
+        "zh": "等待房主确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "オーナーの確認待ち"
+      }
+    },
+    {
+      "id": "accessibility",
+      "area": {
+        "en": "House",
+        "nl": "Huis",
+        "fr": "Maison",
+        "de": "Haus",
+        "zh": "住宅",
+        "ko": "집",
+        "ja": "家"
+      },
+      "item": {
+        "en": "Accessibility details — step-free access, stair steepness, ground-floor facilities for less mobile guests",
+        "nl": "Toegankelijkheid — drempelloze toegang, steilheid van de trap, gelijkvloerse voorzieningen voor minder mobiele gasten",
+        "fr": "Accessibilité — accès sans marches, raideur de l'escalier, équipements de plain-pied pour les hôtes à mobilité réduite",
+        "de": "Barrierefreiheit — stufenloser Zugang, Steilheit der Treppe, ebenerdige Einrichtungen für weniger mobile Gäste",
+        "zh": "无障碍信息——无台阶通道、楼梯坡度、供行动不便客人使用的一楼设施",
+        "ko": "접근성 정보 — 무단차 출입, 계단 경사, 거동이 불편한 손님을 위한 1층 시설",
+        "ja": "バリアフリー情報 — 段差のない入口、階段の傾斜、移動が難しいゲスト向けの1階設備"
+      },
+      "status": {
+        "en": "Awaiting confirmation from the owners",
+        "nl": "In afwachting van bevestiging door de eigenaars",
+        "fr": "En attente de confirmation des propriétaires",
+        "de": "Bestätigung durch die Eigentümer ausstehend",
+        "zh": "等待房主确认",
+        "ko": "호스트 확인 대기 중",
+        "ja": "オーナーの確認待ち"
       }
     }
   ]

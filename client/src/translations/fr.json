@@ -97,7 +97,19 @@
     "printCard": "Carte de bienvenue QR imprimable",
     "printCardSub": "Imprimez une carte avec les codes QR de l'app et du Wi-Fi",
     "installApp": "Ajoutez cette app à votre écran d'accueil",
-    "installAppSub": "Revoir les instructions d'installation"
+    "installAppSub": "Revoir les instructions d'installation",
+    "troubleshooting": "Quelque chose ne fonctionne pas ?",
+    "troubleshootingSub": "Des solutions rapides aux petits soucis les plus courants",
+    "tsWifiTitle": "Le Wi-Fi est lent ou ne se connecte pas",
+    "tsWifiBody": "Vérifiez que vous êtes sur le réseau « Schuur80 » (mot de passe : Schuur80) — le code QR de la page Wi-Fi vous connecte en un geste. Rapprochez-vous de la pièce de vie si le signal est faible dans un coin éloigné. Toujours rien ? Les propriétaires d'à côté peuvent redémarrer le routeur en une minute.",
+    "tsColdTitle": "Une pièce semble froide",
+    "tsColdBody": "Vérifiez que la vanne du radiateur de la pièce est ouverte et laissez du temps au chauffage au sol — les murs épais de la grange chauffent lentement mais gardent bien la chaleur. Mieux vaut fermer les portes des pièces inutilisées. La page chauffage de la section Maison explique les commandes ; les propriétaires peuvent régler le système principal si besoin.",
+    "tsProjectorTitle": "Le projecteur de la salle cinéma n'affiche rien",
+    "tsProjectorBody": "Laissez au projecteur 30 à 60 secondes après l'allumage — la lampe chauffe lentement. Vérifiez que la bonne source d'entrée est sélectionnée et que l'appareil de streaming est réveillé (appuyez sur une touche de sa télécommande). La page projecteur de la section Maison donne les instructions pas à pas.",
+    "tsHotTubTitle": "Le jacuzzi n'est pas chaud",
+    "tsHotTubBody": "Chauffer un jacuzzi prend plusieurs heures, alors laissez la couverture dessus quand il n'est pas utilisé — c'est elle qui retient la chaleur. Pour un bain le soir, vérifiez la température le matin. Les détails d'utilisation sont en cours de confirmation par les propriétaires ; ils habitent juste à côté et le prépareront avec plaisir.",
+    "tsPowerTitle": "Le courant est coupé",
+    "tsPowerBody": "Vérifiez d'abord si les lumières des voisins sont aussi éteintes (une panne locale se résout généralement d'elle-même). Si c'est seulement la grange, un fusible a probablement sauté — les propriétaires d'à côté connaissent le tableau électrique et régleront ça vite. Gardez la lampe de votre téléphone à portée de main ; les nuits de campagne sont sombres."
   },
   "emergency": {
     "title": "Urgence",

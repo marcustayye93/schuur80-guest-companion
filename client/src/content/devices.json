@@ -546,6 +546,15 @@
           "zh": "使用前请淋浴，闲置时请盖上盖子。",
           "ko": "사용 전에 꼭 샤워해 주시고, 사용하지 않을 때는 덮개를 닫아 주세요.",
           "ja": "ご利用前にシャワーを浴び、使用していないときはカバーをかけてください。"
+        },
+        {
+          "en": "For everyone's rest: keep hot tub evenings calm after dark — sound carries far in the countryside. Pets should stay out of the tub area, and children must never use it unsupervised.",
+          "nl": "Voor ieders rust: houd hottub-avonden kalm na zonsondergang — geluid draagt ver op het platteland. Huisdieren blijven uit de buurt van de hottub en kinderen gebruiken hem nooit zonder toezicht.",
+          "fr": "Pour la tranquillité de tous : gardez les soirées jacuzzi calmes après la tombée de la nuit — le son porte loin à la campagne. Les animaux doivent rester à l'écart du bain et les enfants ne doivent jamais l'utiliser sans surveillance.",
+          "de": "Zur Ruhe aller: Halten Sie Whirlpool-Abende nach Einbruch der Dunkelheit ruhig — Geräusche tragen auf dem Land weit. Haustiere bleiben dem Whirlpool fern, und Kinder dürfen ihn nie unbeaufsichtigt nutzen.",
+          "zh": "为了大家的安宁：天黑后请保持热水浴缸区域安静——乡村里声音传得很远。宠物请远离浴缸区域，儿童必须在成人看护下使用。",
+          "ko": "모두의 휴식을 위해: 해가 진 후에는 온수 욕조 이용을 조용히 해 주세요 — 시골에서는 소리가 멀리 퍼집니다. 반려동물은 욕조 근처에 두지 마시고, 어린이는 반드시 보호자 감독하에 이용해야 합니다.",
+          "ja": "皆さまの安らぎのために：日没後のホットタブは静かにお楽しみください — 田舎では音が遠くまで響きます。ペットはタブ周辺に近づけず、お子様は必ず大人の監督のもとでご利用ください。"
         }
       ]
     },
@@ -673,7 +682,18 @@
             "ja": "お子さまは安全な距離を保ち、火から絶対に目を離さず、お帰りの前に灰が完全に冷めたことを確認してください。薪の保管場所はホストが確認してお知らせします。"
           }
         ]
-      }
+      },
+      "tips": [
+        {
+          "en": "Keep children at a safe distance and never leave the fire unattended. Fully extinguish embers with water before going inside — dry summers make the countryside fire-sensitive.",
+          "nl": "Houd kinderen op veilige afstand en laat het vuur nooit onbewaakt achter. Doof de gloeiende resten volledig met water voor je naar binnen gaat — droge zomers maken het platteland brandgevoelig.",
+          "fr": "Gardez les enfants à bonne distance et ne laissez jamais le feu sans surveillance. Éteignez complètement les braises avec de l'eau avant de rentrer — les étés secs rendent la campagne sensible au feu.",
+          "de": "Halten Sie Kinder auf sicherem Abstand und lassen Sie das Feuer nie unbeaufsichtigt. Löschen Sie die Glut vollständig mit Wasser, bevor Sie hineingehen — trockene Sommer machen das Land brandempfindlich.",
+          "zh": "请让儿童保持安全距离，切勿让火堆无人看管。进屋前请用水将余烬完全浇灭——干燥的夏季乡村极易发生火灾。",
+          "ko": "어린이는 안전거리를 유지하게 하고, 불을 절대 방치하지 마세요. 실내로 들어가기 전에 잔불을 물로 완전히 꺼 주세요 — 건조한 여름철 시골은 화재에 취약합니다.",
+          "ja": "お子様は安全な距離を保ち、火から絶対に目を離さないでください。屋内に入る前に残り火を水で完全に消してください — 乾燥した夏の田園地帯は火災に敏感です。"
+        }
+      ]
     },
     {
       "id": "garden-couch",

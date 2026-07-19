@@ -97,7 +97,19 @@
     "printCard": "Afdrukbare QR-welkomstkaart",
     "printCardSub": "Druk een kaart af met de app- en wifi-QR-codes",
     "installApp": "Zet deze app op je beginscherm",
-    "installAppSub": "Toon de installatie-instructies opnieuw"
+    "installAppSub": "Toon de installatie-instructies opnieuw",
+    "troubleshooting": "Werkt er iets niet?",
+    "troubleshootingSub": "Snelle oplossingen voor de meest voorkomende probleempjes",
+    "tsWifiTitle": "Wifi is traag of verbindt niet",
+    "tsWifiBody": "Controleer of je op het netwerk \"Schuur80\" zit (wachtwoord: Schuur80) — de QR-code op de wifipagina verbindt je in één tik. Ga dichter bij de leefruimte staan als het signaal zwak is in een verre hoek. Nog steeds niets? De eigenaars hiernaast herstarten de router in een minuutje.",
+    "tsColdTitle": "Een kamer voelt koud aan",
+    "tsColdBody": "Controleer of de radiatorkraan in die kamer openstaat en geef de vloerverwarming wat tijd — de dikke muren van de schuur warmen traag op maar houden de warmte goed vast. Deuren van ongebruikte kamers hou je best dicht. De verwarmingspagina in het Huis-gedeelte legt de bediening uit; de eigenaars kunnen het hoofdsysteem bijstellen indien nodig.",
+    "tsProjectorTitle": "De projector in de cinema geeft geen beeld",
+    "tsProjectorBody": "Geef de projector 30–60 seconden na het inschakelen — de lamp warmt traag op. Controleer of de juiste ingangsbron gekozen is en of het streamingtoestel wakker is (druk op een knop van de afstandsbediening). De projectorpagina in het Huis-gedeelte heeft stap-voor-stap instructies.",
+    "tsHotTubTitle": "De hottub is niet warm",
+    "tsHotTubBody": "Een hottub opwarmen duurt enkele uren, dus laat het deksel erop wanneer hij niet gebruikt wordt — dat houdt de warmte vast. Plan je een avondsessie, controleer dan 's ochtends de temperatuur. De bedieningsdetails worden nog bevestigd door de eigenaars; ze wonen hiernaast en maken hem graag voor je klaar.",
+    "tsPowerTitle": "De stroom is uitgevallen",
+    "tsPowerBody": "Kijk eerst of de lichten bij de buren ook uit zijn (een lokale stroompanne lost zichzelf meestal op). Is het alleen de schuur, dan is er waarschijnlijk een zekering gesprongen — de eigenaars hiernaast kennen de zekeringkast en lossen het snel op. Houd je telefoonlampje bij de hand; plattelandsnachten zijn donker."
   },
   "emergency": {
     "title": "Noodgeval",

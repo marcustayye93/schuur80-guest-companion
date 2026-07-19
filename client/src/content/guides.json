@@ -412,6 +412,132 @@
       ]
     },
     {
+      "id": "rural-guide",
+      "category": "house",
+      "name": {
+        "en": "Life in the Countryside",
+        "nl": "Leven op het Platteland",
+        "fr": "La Vie à la Campagne",
+        "de": "Leben auf dem Land",
+        "zh": "乡村生活指南",
+        "ko": "시골 생활 안내",
+        "ja": "田舎暮らしの心得"
+      },
+      "summary": {
+        "en": "What to expect from a real working barn — sounds, seasons and stars",
+        "nl": "Wat je mag verwachten van een echte schuur — geluiden, seizoenen en sterren",
+        "fr": "À quoi s'attendre dans une vraie grange — sons, saisons et étoiles",
+        "de": "Was Sie in einer echten Scheune erwartet — Geräusche, Jahreszeiten und Sterne",
+        "zh": "真正的乡村谷仓生活——声音、季节与星空",
+        "ko": "진짜 시골 헛간에서의 생활 — 소리, 계절, 별",
+        "ja": "本物の納屋での暮らし — 音・季節・星空"
+      },
+      "icon": "trees",
+      "mediaId": "garden",
+      "steps": [
+        {
+          "title": {
+            "en": "The morning chorus",
+            "nl": "Het ochtendconcert",
+            "fr": "Le concert du matin",
+            "de": "Das Morgenkonzert",
+            "zh": "清晨的大合唱",
+            "ko": "아침의 합창",
+            "ja": "朝のコーラス"
+          },
+          "body": {
+            "en": "Schuur 80 is a real countryside home with chickens, ducks and fourteen cats. The rooster may greet the sunrise, birds sing early, and a cat might patrol past your window. It's part of the charm — light sleepers may want to pack earplugs.",
+            "nl": "Schuur 80 is een echt plattelandshuis met kippen, eenden en veertien katten. De haan begroet mogelijk de zonsopgang, vogels zingen vroeg en een kat kan langs je raam patrouilleren. Het hoort bij de charme — lichte slapers nemen best oordopjes mee.",
+            "fr": "Schuur 80 est une vraie maison de campagne avec poules, canards et quatorze chats. Le coq peut saluer le lever du soleil, les oiseaux chantent tôt et un chat peut patrouiller devant votre fenêtre. Cela fait partie du charme — les dormeurs légers penseront aux bouchons d'oreilles.",
+            "de": "Schuur 80 ist ein echtes Landhaus mit Hühnern, Enten und vierzehn Katzen. Der Hahn begrüßt vielleicht den Sonnenaufgang, Vögel singen früh, und eine Katze patrouilliert womöglich an Ihrem Fenster vorbei. Das gehört zum Charme — wer leicht schläft, packt am besten Ohrstöpsel ein.",
+            "zh": "Schuur 80 是真正的乡村之家，有鸡、鸭和十四只猫。公鸡可能会迎着日出打鸣，鸟儿清早歌唱，猫咪也许会从你的窗前巡逻走过。这正是它的魅力所在——浅眠的客人建议带上耳塞。",
+            "ko": "Schuur 80은 닭, 오리, 고양이 14마리가 함께 사는 진짜 시골집입니다. 수탉이 해돋이를 알리고, 새들이 이른 아침부터 지저귀며, 고양이가 창밖을 순찰할 수도 있습니다. 이 모든 것이 매력의 일부입니다 — 잠귀가 밝다면 귀마개를 챙기세요.",
+            "ja": "Schuur 80はニワトリ、アヒル、14匹の猫が暮らす本物の田舎の家です。雄鶏が日の出を告げ、鳥たちは朝早くからさえずり、猫が窓の外をパトロールすることも。これも魅力のひとつです — 眠りの浅い方は耳栓があると安心です。"
+          }
+        },
+        {
+          "title": {
+            "en": "Country nights are dark (and starry)",
+            "nl": "Plattelandsnachten zijn donker (en vol sterren)",
+            "fr": "Les nuits de campagne sont sombres (et étoilées)",
+            "de": "Landnächte sind dunkel (und sternenklar)",
+            "zh": "乡村的夜晚很黑（且繁星满天）",
+            "ko": "시골의 밤은 어둡습니다 (그리고 별이 가득합니다)",
+            "ja": "田舎の夜は暗い（そして星がきれい）"
+          },
+          "body": {
+            "en": "There are few streetlights around Haasdonk. Keep a phone torch handy when walking to the car or hot tub after dark — and don't forget to look up: on clear nights the stars are wonderful.",
+            "nl": "Rond Haasdonk zijn er weinig straatlantaarns. Houd je telefoonlampje bij de hand als je na zonsondergang naar de auto of hottub wandelt — en vergeet niet omhoog te kijken: bij heldere hemel zijn de sterren prachtig.",
+            "fr": "Il y a peu d'éclairage public autour de Haasdonk. Gardez la lampe de votre téléphone à portée de main pour aller à la voiture ou au jacuzzi la nuit — et n'oubliez pas de lever les yeux : par nuit claire, les étoiles sont magnifiques.",
+            "de": "Rund um Haasdonk gibt es wenige Straßenlaternen. Halten Sie die Handy-Taschenlampe bereit, wenn Sie nach Einbruch der Dunkelheit zum Auto oder Whirlpool gehen — und vergessen Sie nicht nach oben zu schauen: In klaren Nächten sind die Sterne wunderbar.",
+            "zh": "Haasdonk 周围几乎没有路灯。天黑后走去停车处或热水浴缸时请备好手机手电筒——别忘了抬头看看：晴朗的夜晚星空非常美。",
+            "ko": "Haasdonk 주변에는 가로등이 거의 없습니다. 어두워진 후 차나 온수 욕조로 걸어갈 때는 휴대폰 손전등을 준비하세요 — 그리고 하늘을 올려다보는 것도 잊지 마세요. 맑은 밤에는 별이 정말 아름답습니다.",
+            "ja": "Haasdonk周辺には街灯がほとんどありません。暗くなってから車やホットタブへ向かうときはスマホのライトをご用意ください — そして空を見上げるのもお忘れなく。晴れた夜の星空は格別です。"
+          }
+        },
+        {
+          "title": {
+            "en": "Mud, boots and insects",
+            "nl": "Modder, laarzen en insecten",
+            "fr": "Boue, bottes et insectes",
+            "de": "Matsch, Stiefel und Insekten",
+            "zh": "泥土、雨靴和昆虫",
+            "ko": "진흙, 장화, 곤충",
+            "ja": "泥・長靴・虫"
+          },
+          "body": {
+            "en": "After rain, the garden and orchard can be muddy — sturdy shoes or boots are a good idea, and it's kind to leave dirty footwear at the door. In summer, countryside evenings bring mosquitoes and the occasional wasp; window screens, repellent or a citronella candle on the terrace work well.",
+            "nl": "Na regen kunnen de tuin en boomgaard modderig zijn — stevige schoenen of laarzen zijn een goed idee, en vuile schoenen laat je best aan de deur. In de zomer brengen plattelandsavonden muggen en af en toe een wesp mee; muggenmelk of een citronellakaars op het terras doen wonderen.",
+            "fr": "Après la pluie, le jardin et le verger peuvent être boueux — de bonnes chaussures ou des bottes sont conseillées, et il est délicat de laisser les chaussures sales à la porte. En été, les soirées de campagne amènent moustiques et parfois une guêpe ; un répulsif ou une bougie à la citronnelle sur la terrasse fonctionnent bien.",
+            "de": "Nach Regen können Garten und Obstwiese matschig sein — festes Schuhwerk oder Stiefel sind ratsam, und schmutzige Schuhe bleiben am besten an der Tür. Im Sommer bringen Landabende Mücken und gelegentlich eine Wespe mit; Mückenspray oder eine Citronella-Kerze auf der Terrasse helfen gut.",
+            "zh": "雨后花园和果园可能泥泞——建议穿结实的鞋子或雨靴，脏鞋最好留在门口。夏季的乡村夜晚会有蚊子，偶尔还有黄蜂；驱蚊剂或露台上的香茅蜡烛都很管用。",
+            "ko": "비가 온 뒤 정원과 과수원은 진흙탕이 될 수 있습니다 — 튼튼한 신발이나 장화를 준비하시고, 더러워진 신발은 문 앞에 벗어 두시면 좋습니다. 여름철 시골의 저녁에는 모기와 가끔 말벌이 찾아옵니다. 방충제나 테라스의 시트로넬라 초가 효과적입니다.",
+            "ja": "雨上がりの庭や果樹園はぬかるむことがあります — 丈夫な靴や長靴がおすすめで、汚れた靴は玄関で脱いでいただけると助かります。夏の田舎の夜は蚊や時々ハチがやってきます。虫除けスプレーやテラスのシトロネラキャンドルが効果的です。"
+          }
+        },
+        {
+          "title": {
+            "en": "Every season has its face",
+            "nl": "Elk seizoen heeft zijn gezicht",
+            "fr": "Chaque saison a son visage",
+            "de": "Jede Jahreszeit hat ihr Gesicht",
+            "zh": "四季各有风貌",
+            "ko": "계절마다 다른 얼굴",
+            "ja": "季節ごとの表情"
+          },
+          "body": {
+            "en": "Spring brings blossom and kittens' first adventures; summer means orchard fruit, fire pit evenings and hot tub nights; autumn turns the polders gold and misty; winter is for the fireplace, the cinema room and long dinners at the big table. There is no bad season at the barn — just different ones.",
+            "nl": "De lente brengt bloesems en de eerste avonturen van de kittens; de zomer betekent fruit uit de boomgaard, avonden bij de vuurschaal en nachten in de hottub; de herfst kleurt de polders goud en nevelig; de winter is voor de open haard, de cinema en lange diners aan de grote tafel. Er bestaat geen slecht seizoen in de schuur — alleen verschillende.",
+            "fr": "Le printemps apporte les fleurs et les premières aventures des chatons ; l'été, les fruits du verger, les soirées au brasero et les nuits au jacuzzi ; l'automne dore et embrume les polders ; l'hiver est fait pour la cheminée, la salle cinéma et les longs dîners à la grande table. Il n'y a pas de mauvaise saison à la grange — juste des saisons différentes.",
+            "de": "Der Frühling bringt Blüten und die ersten Abenteuer der Kätzchen; der Sommer bedeutet Obst aus dem Garten, Abende an der Feuerschale und Nächte im Whirlpool; der Herbst färbt die Polder golden und neblig; der Winter gehört dem Kamin, dem Kinozimmer und langen Abendessen am großen Tisch. Es gibt keine schlechte Jahreszeit in der Scheune — nur verschiedene.",
+            "zh": "春天有花开和小猫的初次探险；夏天有果园的果实、火盆之夜和热水浴缸时光；秋天圩田金黄、雾气缭绕；冬天则属于壁炉、影音室和大餐桌旁的漫长晚餐。谷仓没有不好的季节——只有不同的季节。",
+            "ko": "봄에는 꽃이 피고 새끼 고양이들이 첫 모험을 떠나고, 여름에는 과수원 과일과 화로의 저녁, 온수 욕조의 밤이 기다립니다. 가을이면 폴더 들판이 금빛 안개에 물들고, 겨울은 벽난로와 시네마 룸, 큰 식탁에서의 긴 저녁 식사의 계절입니다. 헛간에 나쁜 계절이란 없습니다 — 서로 다른 계절이 있을 뿐이죠.",
+            "ja": "春は花と子猫たちの初めての冒険、夏は果樹園の果実とファイヤーピットの夕べ、ホットタブの夜。秋はポルダーが金色と霧に包まれ、冬は暖炉とシネマルーム、大きなテーブルでの長いディナーの季節です。納屋に悪い季節はありません — ただ違う季節があるだけです。"
+          }
+        },
+        {
+          "title": {
+            "en": "Being a good countryside neighbour",
+            "nl": "Een goede plattelandsbuur zijn",
+            "fr": "Être un bon voisin de campagne",
+            "de": "Ein guter Nachbar auf dem Land sein",
+            "zh": "做个好乡邻",
+            "ko": "좋은 시골 이웃 되기",
+            "ja": "良き田舎のご近所さんに"
+          },
+          "body": {
+            "en": "Sound travels far over open fields, so keep music and hot tub evenings gentle after dark. Close gates behind you so the animals stay where they belong, and drive slowly on the lane — cats, chickens and the neighbours' children share it.",
+            "nl": "Geluid draagt ver over open velden, dus houd muziek en hottub-avonden rustig na zonsondergang. Sluit hekken achter je zodat de dieren blijven waar ze horen, en rij traag op het pad — katten, kippen en de kinderen van de buren delen het.",
+            "fr": "Le son porte loin sur les champs ouverts, alors gardez la musique et les soirées jacuzzi discrètes après la tombée de la nuit. Refermez les barrières derrière vous pour que les animaux restent à leur place, et roulez doucement sur le chemin — chats, poules et enfants des voisins le partagent.",
+            "de": "Über offene Felder trägt der Schall weit — halten Sie Musik und Whirlpool-Abende nach Einbruch der Dunkelheit leise. Schließen Sie Tore hinter sich, damit die Tiere bleiben, wo sie hingehören, und fahren Sie langsam auf dem Weg — Katzen, Hühner und Nachbarskinder teilen ihn sich.",
+            "zh": "空旷田野上声音传得很远，天黑后请调低音乐音量、安静享受热水浴缸。随手关好栅栏门，让动物们待在该待的地方；在小路上请慢速行驶——猫、鸡和邻居的孩子们都在使用这条路。",
+            "ko": "탁 트인 들판에서는 소리가 멀리 퍼지므로, 해가 진 후에는 음악과 온수 욕조 이용을 조용히 해 주세요. 동물들이 제자리에 있도록 문은 꼭 닫아 주시고, 진입로에서는 천천히 운전해 주세요 — 고양이, 닭, 이웃 아이들이 함께 쓰는 길입니다.",
+            "ja": "開けた野原では音が遠くまで届きます。日没後は音楽やホットタブでのひとときを控えめに。動物たちが居場所から出ないよう門は必ず閉め、小道ではゆっくり運転してください — 猫やニワトリ、ご近所の子どもたちも使う道です。"
+          }
+        }
+      ]
+    },
+    {
       "id": "waste-guide",
       "category": "checkout",
       "name": {
@@ -436,16 +562,83 @@
       "steps": [
         {
           "title": {
-            "en": "Sorting rules",
-            "nl": "Sorteerregels",
-            "fr": "Règles de tri",
-            "de": "Trennregeln",
-            "zh": "分类规则",
-            "ko": "분리 배출 규칙",
-            "ja": "分別ルール"
+            "en": "The bread bin feeds the chickens",
+            "nl": "De broodton voedert de kippen",
+            "fr": "La poubelle à pain nourrit les poules",
+            "de": "Die Brottonne füttert die Hühner",
+            "zh": "面包桶是喂鸡用的",
+            "ko": "빵 통은 닭 모이용입니다",
+            "ja": "パン用の容器はニワトリの餌になります"
           },
           "body": {
-            "pending": true
+            "en": "The round bin with the lid is special: it collects old bread only, which goes straight to the chickens. Please don't put anything else in it — no plastic, no other food scraps, just bread. The hens will thank you (possibly with an egg).",
+            "nl": "De ronde ton met deksel is bijzonder: daar gaat enkel oud brood in, dat rechtstreeks naar de kippen gaat. Doe er alsjeblieft niets anders in — geen plastic, geen andere etensresten, alleen brood. De kippen zullen je dankbaar zijn (misschien wel met een ei).",
+            "fr": "La poubelle ronde avec couvercle est spéciale : elle ne reçoit que le pain rassis, qui va directement aux poules. N'y mettez rien d'autre — pas de plastique, pas d'autres restes, uniquement du pain. Les poules vous remercieront (peut-être avec un œuf).",
+            "de": "Die runde Tonne mit Deckel ist besonders: Hier kommt nur altes Brot hinein, das direkt an die Hühner geht. Bitte nichts anderes hineingeben — kein Plastik, keine anderen Essensreste, nur Brot. Die Hühner danken es Ihnen (vielleicht mit einem Ei).",
+            "zh": "带盖的圆桶很特别：只用来收集干面包，直接喂给鸡吃。请不要放入其他任何东西——不要塑料，不要其他厨余，只放面包。母鸡会感谢你（说不定还会回赠一颗蛋）。",
+            "ko": "뚜껑 달린 둥근 통은 특별합니다. 오래된 빵만 모아 닭에게 바로 줍니다. 다른 것은 절대 넣지 마세요 — 플라스틱도, 다른 음식물 찌꺼기도 안 되며 오직 빵만 넣어 주세요. 닭들이 고마워할 거예요 (어쩌면 달걀로 보답할지도요).",
+            "ja": "蓋付きの丸い容器は特別です。古いパンだけを入れてください。そのままニワトリの餌になります。それ以外のもの — プラスチックや他の生ごみなど — は入れないでください。パンだけです。ニワトリが（もしかすると卵で）お礼をしてくれるかもしれません。"
+          }
+        },
+        {
+          "title": {
+            "en": "The two rectangular bins",
+            "nl": "De twee rechthoekige vuilnisbakken",
+            "fr": "Les deux poubelles rectangulaires",
+            "de": "Die zwei rechteckigen Tonnen",
+            "zh": "两个长方形垃圾桶",
+            "ko": "직사각형 쓰레기통 두 개",
+            "ja": "2つの四角いゴミ箱"
+          },
+          "body": {
+            "en": "All other rubbish goes into the two rectangular bins. If a bin fills up during your stay, the owners next door will gladly point you to where full bags go.",
+            "nl": "Al het andere afval gaat in de twee rechthoekige vuilnisbakken. Raakt een bak vol tijdens je verblijf, dan wijzen de eigenaars hiernaast je graag waar volle zakken naartoe gaan.",
+            "fr": "Tous les autres déchets vont dans les deux poubelles rectangulaires. Si une poubelle se remplit pendant votre séjour, les propriétaires d'à côté vous indiqueront volontiers où déposer les sacs pleins.",
+            "de": "Aller sonstige Müll kommt in die zwei rechteckigen Tonnen. Sollte eine Tonne während Ihres Aufenthalts voll werden, zeigen Ihnen die Eigentümer nebenan gerne, wohin volle Säcke kommen.",
+            "zh": "其他所有垃圾都放入两个长方形垃圾桶。如果住宿期间垃圾桶装满了，隔壁的房主会很乐意告诉你满袋垃圾该放到哪里。",
+            "ko": "그 외 모든 쓰레기는 직사각형 쓰레기통 두 개에 버리면 됩니다. 머무는 동안 통이 가득 차면, 옆집 호스트가 가득 찬 봉투를 어디에 두어야 하는지 친절히 알려드립니다.",
+            "ja": "その他のゴミはすべて2つの四角いゴミ箱へ。滞在中にゴミ箱がいっぱいになったら、隣のオーナーがいっぱいになった袋の置き場所を教えてくれます。"
+          }
+        },
+        {
+          "title": {
+            "en": "Recycling, Belgian style",
+            "nl": "Sorteren op z'n Belgisch",
+            "fr": "Le tri à la belge",
+            "de": "Mülltrennung auf Belgisch",
+            "zh": "比利时式垃圾分类",
+            "ko": "벨기에식 분리배출",
+            "ja": "ベルギー流リサイクル"
+          },
+          "body": {
+            "pending": true,
+            "status": {
+              "en": "Separate sorting (PMD plastics, glass, paper) — being confirmed by the owners",
+              "nl": "Apart sorteren (PMD, glas, papier) — wordt bevestigd door de eigenaars",
+              "fr": "Tri séparé (PMC, verre, papier) — en cours de confirmation par les propriétaires",
+              "de": "Getrennte Sammlung (PMD, Glas, Papier) — wird von den Eigentümern bestätigt",
+              "zh": "分类回收（PMD塑料、玻璃、纸张）——房主确认中",
+              "ko": "분리수거(PMD 플라스틱, 유리, 종이) — 호스트 확인 중",
+              "ja": "分別回収（PMDプラスチック・ガラス・紙） — オーナー確認中"
+            },
+            "explanation": {
+              "en": "Flanders sorts carefully: blue PMD bags for plastic bottles, cans and cartons, separate glass and paper collection. The owners are confirming whether guests should sort these separately and where those bags or containers live.",
+              "nl": "Vlaanderen sorteert zorgvuldig: blauwe PMD-zakken voor plastic flessen, blikjes en drankkartons, aparte inzameling van glas en papier. De eigenaars bevestigen nog of gasten dit apart moeten sorteren en waar die zakken of containers staan.",
+              "fr": "La Flandre trie soigneusement : sacs bleus PMC pour les bouteilles en plastique, canettes et cartons à boisson, collecte séparée du verre et du papier. Les propriétaires confirment encore si les hôtes doivent trier séparément et où se trouvent ces sacs ou conteneurs.",
+              "de": "Flandern trennt sorgfältig: blaue PMD-Säcke für Plastikflaschen, Dosen und Getränkekartons, getrennte Sammlung von Glas und Papier. Die Eigentümer bestätigen noch, ob Gäste separat trennen sollen und wo diese Säcke oder Behälter stehen.",
+              "zh": "佛兰德斯的垃圾分类很细致：蓝色PMD袋用于塑料瓶、易拉罐和饮料盒，玻璃和纸张单独回收。房主正在确认客人是否需要单独分类，以及这些袋子或容器放在哪里。",
+              "ko": "플랑드르는 분리배출이 철저합니다. 파란색 PMD 봉투에는 플라스틱 병·캔·음료 팩을, 유리와 종이는 별도로 수거합니다. 손님이 이를 따로 분리해야 하는지, 봉투나 수거함이 어디 있는지 호스트가 확인 중입니다.",
+              "ja": "フランドル地方は分別が細かく、青いPMD袋にペットボトル・缶・飲料パック、ガラスと紙は別回収です。ゲストが分別すべきかどうか、袋や容器の場所はオーナーが確認中です。"
+            },
+            "expectedUpdate": {
+              "en": "Expected after the owners confirm the details",
+              "nl": "Verwacht zodra de eigenaars de details bevestigen",
+              "fr": "Attendu dès que les propriétaires auront confirmé les détails",
+              "de": "Erwartet, sobald die Eigentümer die Details bestätigen",
+              "zh": "待房主确认细节后更新",
+              "ko": "호스트가 세부사항을 확인하는 대로 업데이트됩니다",
+              "ja": "オーナーの確認が取れ次第更新されます"
+            }
           }
         }
       ]

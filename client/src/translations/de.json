@@ -97,7 +97,19 @@
     "printCard": "Druckbare QR-Willkommenskarte",
     "printCardSub": "Karte mit App- und WLAN-QR-Codes drucken",
     "installApp": "Diese App zum Home-Bildschirm hinzufügen",
-    "installAppSub": "Installationsanleitung erneut anzeigen"
+    "installAppSub": "Installationsanleitung erneut anzeigen",
+    "troubleshooting": "Funktioniert etwas nicht?",
+    "troubleshootingSub": "Schnelle Lösungen für die häufigsten kleinen Probleme",
+    "tsWifiTitle": "WLAN ist langsam oder verbindet nicht",
+    "tsWifiBody": "Prüfen Sie, ob Sie im Netzwerk \"Schuur80\" sind (Passwort: Schuur80) — der QR-Code auf der WLAN-Seite verbindet Sie mit einem Tipp. Gehen Sie näher an den Wohnbereich, wenn das Signal in einer entfernten Ecke schwach ist. Immer noch nichts? Die Eigentümer nebenan starten den Router in einer Minute neu.",
+    "tsColdTitle": "Ein Zimmer fühlt sich kalt an",
+    "tsColdBody": "Prüfen Sie, ob das Heizkörperventil im Zimmer geöffnet ist, und geben Sie der Fußbodenheizung Zeit — die dicken Mauern der Scheune erwärmen sich langsam, halten die Wärme aber gut. Türen ungenutzter Zimmer bleiben am besten geschlossen. Die Heizungsseite im Bereich Haus erklärt die Bedienung; die Eigentümer können das Hauptsystem bei Bedarf anpassen.",
+    "tsProjectorTitle": "Der Kinoprojektor zeigt kein Bild",
+    "tsProjectorBody": "Geben Sie dem Projektor nach dem Einschalten 30–60 Sekunden — die Lampe wärmt langsam auf. Prüfen Sie, ob die richtige Eingangsquelle gewählt ist und das Streaming-Gerät wach ist (beliebige Taste der Fernbedienung drücken). Die Projektorseite im Bereich Haus enthält Schritt-für-Schritt-Anleitungen.",
+    "tsHotTubTitle": "Der Whirlpool ist nicht warm",
+    "tsHotTubBody": "Das Aufheizen eines Whirlpools dauert mehrere Stunden — lassen Sie die Abdeckung darauf, wenn er nicht benutzt wird, denn sie hält die Wärme. Für ein Abendbad prüfen Sie die Temperatur am Morgen. Die Bedienungsdetails werden noch von den Eigentümern bestätigt; sie wohnen direkt nebenan und machen ihn gerne für Sie bereit.",
+    "tsPowerTitle": "Der Strom ist ausgefallen",
+    "tsPowerBody": "Prüfen Sie zuerst, ob auch bei den Nachbarn das Licht aus ist (ein lokaler Ausfall behebt sich meist von selbst). Ist nur die Scheune betroffen, hat wahrscheinlich eine Sicherung ausgelöst — die Eigentümer nebenan kennen den Sicherungskasten und beheben es schnell. Halten Sie die Handy-Taschenlampe bereit; Landnächte sind dunkel."
   },
   "emergency": {
     "title": "Notfall",

@@ -97,7 +97,19 @@
     "printCard": "Printable QR welcome card",
     "printCardSub": "Print a card with the app and Wi-Fi QR codes",
     "installApp": "Add this app to your home screen",
-    "installAppSub": "Show the installation instructions again"
+    "installAppSub": "Show the installation instructions again",
+    "troubleshooting": "Something not working?",
+    "troubleshootingSub": "Quick fixes for the most common hiccups",
+    "tsWifiTitle": "Wi-Fi is slow or won't connect",
+    "tsWifiBody": "Check you're on the \"Schuur80\" network (password: Schuur80) — the QR code on the Wi-Fi page joins it in one tap. Move closer to the living area if the signal is weak in a far corner. Still nothing? The owners next door can restart the router in a minute.",
+    "tsColdTitle": "A room feels cold",
+    "tsColdBody": "Check the radiator valve in that room is open, and give the underfloor heating time — the barn's thick walls warm up slowly but hold heat well. Doors to unused rooms are best kept closed. The heating page in the House section explains the controls; the owners can adjust the main system if needed.",
+    "tsProjectorTitle": "The cinema projector shows no image",
+    "tsProjectorBody": "Give the projector 30–60 seconds after switching on — the lamp warms up slowly. Check the right input source is selected and that the streaming device is awake (press any button on its remote). The projector page in the House section has step-by-step instructions.",
+    "tsHotTubTitle": "The hot tub isn't warm",
+    "tsHotTubBody": "Heating a hot tub takes several hours, so keep the cover on whenever it's not in use — that's what holds the heat. If you're planning an evening soak, check the temperature in the morning. Operating details are being confirmed by the owners; they're right next door and happy to get it ready for you.",
+    "tsPowerTitle": "The power has gone out",
+    "tsPowerBody": "First check if the neighbours' lights are also off (a local outage usually resolves itself). If it's just the barn, a fuse has probably tripped — the owners next door know the fuse box and will sort it quickly. Keep a phone torch handy; country nights are dark."
   },
   "emergency": {
     "title": "Emergency",

@@ -205,42 +205,51 @@
         "ja": "最大12名までのための、落ち着いた4つの客室です。"
       },
       "description": {
-        "en": "Four bedrooms sleep up to twelve guests in quiet comfort, with natural linen bedding and views of the garden or orchard. Bed configurations per room will be confirmed by the host.",
-        "nl": "Vier slaapkamers bieden plaats aan maximaal twaalf gasten in rustig comfort, met natuurlijk linnen beddengoed en zicht op de tuin of boomgaard. De bedindeling per kamer wordt nog bevestigd door de gastheer.",
-        "fr": "Quatre chambres accueillent jusqu'à douze personnes dans un confort paisible, avec literie en lin naturel et vue sur le jardin ou le verger. La configuration des lits par chambre sera confirmée par l'hôte.",
-        "de": "Vier Schlafzimmer bieten bis zu zwölf Gästen ruhigen Komfort, mit natürlicher Leinenbettwäsche und Blick auf Garten oder Obstgarten. Die Bettenaufteilung pro Zimmer wird noch vom Gastgeber bestätigt.",
-        "zh": "四间卧室可安静舒适地容纳多达12位客人，配有天然亚麻床品，并可俯瞰花园或果园。每间房的床位配置将由房东确认。",
-        "ko": "4개의 침실은 자연 리넨 침구와 정원 또는 과수원 전망을 갖추고 있어 최대 12명까지 편안하게 머무실 수 있습니다. 객실별 침대 구성은 호스트가 확인해 드립니다.",
-        "ja": "4つのベッドルームは静かな快適さを提供し、リネン寝具と庭や果樹園の眺めがあります。各室のベッド構成はホストが確認してお知らせします。"
+        "en": "Four bedrooms sleep around twelve guests in quiet comfort, with natural linen bedding and views of the garden or orchard. Three bedrooms are upstairs — one is a cosy double for two, and one has its own ensuite toilet and shower. Downstairs, a large room with three beds sleeps up to six, ideal for families or groups who prefer to stay on the ground floor.",
+        "nl": "Vier slaapkamers bieden rustig comfort voor zo'n twaalf gasten, met natuurlijk linnen beddengoed en uitzicht op de tuin of boomgaard. Drie slaapkamers liggen boven — één is een knusse tweepersoonskamer en één heeft een eigen ensuite toilet en douche. Beneden slaapt een grote kamer met drie bedden tot zes personen, ideaal voor gezinnen of groepen die liever gelijkvloers slapen.",
+        "fr": "Quatre chambres accueillent environ douze hôtes dans un confort paisible, avec du linge de lit en lin naturel et vue sur le jardin ou le verger. Trois chambres sont à l'étage — l'une est une chambre double cosy pour deux, et une autre dispose de son propre WC et douche attenants. Au rez-de-chaussée, une grande chambre de trois lits accueille jusqu'à six personnes, idéale pour les familles ou les groupes préférant le plain-pied.",
+        "de": "Vier Schlafzimmer bieten ruhigen Komfort für rund zwölf Gäste, mit Bettwäsche aus Naturleinen und Blick auf Garten oder Obstwiese. Drei Schlafzimmer liegen im Obergeschoss — eines ist ein gemütliches Doppelzimmer für zwei, eines hat ein eigenes Bad en suite mit WC und Dusche. Im Erdgeschoss schlafen in einem großen Zimmer mit drei Betten bis zu sechs Personen — ideal für Familien oder Gruppen, die lieber ebenerdig wohnen.",
+        "zh": "四间卧室可安静舒适地容纳约十二位客人，配有天然亚麻床品，可眺望花园或果园。楼上有三间卧室——其中一间是温馨的双人房，另一间带独立卫生间和淋浴。楼下的大房间设有三张床，最多可住六人，非常适合家庭或喜欢住在一楼的团体。",
+        "ko": "네 개의 침실은 천연 린넨 침구와 정원 또는 과수원 전망과 함께 약 12명의 손님이 조용하고 편안하게 지낼 수 있습니다. 침실 세 개는 2층에 있으며 — 하나는 아늑한 2인용 더블룸이고, 하나는 전용 화장실과 샤워실이 딸려 있습니다. 1층의 큰 방에는 침대 세 개가 있어 최대 6명까지 잘 수 있어, 가족이나 1층 숙박을 선호하는 일행에게 이상적입니다.",
+        "ja": "4つのベッドルームは天然リネンの寝具と庭や果樹園の眺めとともに、約12名のゲストが静かに快適に過ごせます。3室は2階にあり、うち1室は2名用の心地よいダブルルーム、もう1室には専用のトイレとシャワーが付いています。1階の大きな部屋にはベッドが3台あり最大6名まで宿泊でき、ご家族や1階での滞在を好むグループに最適です。"
       },
       "mediaId": "bedroom",
       "features": [
         {
-          "en": "4 bedrooms",
-          "nl": "4 slaapkamers",
-          "fr": "4 chambres",
-          "de": "4 Schlafzimmer",
-          "zh": "4 间卧室",
-          "ko": "4개의 침실",
-          "ja": "ベッドルーム4室"
+          "en": "4 bedrooms (3 up, 1 down)",
+          "nl": "4 slaapkamers (3 boven, 1 beneden)",
+          "fr": "4 chambres (3 à l'étage, 1 en bas)",
+          "de": "4 Schlafzimmer (3 oben, 1 unten)",
+          "zh": "4间卧室（楼上3间，楼下1间）",
+          "ko": "침실 4개 (2층 3개, 1층 1개)",
+          "ja": "ベッドルーム4室（2階3室・1階1室）"
         },
         {
-          "en": "Sleeps ~12",
-          "nl": "Slaapt ~12",
-          "fr": "~12 couchages",
-          "de": "~12 Schlafplätze",
-          "zh": "可住 ~12 人",
-          "ko": "숙박 인원 ~12명",
-          "ja": "定員 ~12名"
+          "en": "Downstairs room sleeps 6 (3 beds)",
+          "nl": "Kamer beneden slaapt 6 (3 bedden)",
+          "fr": "Chambre du bas pour 6 (3 lits)",
+          "de": "Zimmer unten für 6 (3 Betten)",
+          "zh": "楼下房间可住6人（3张床）",
+          "ko": "1층 방 6인 취침 가능 (침대 3개)",
+          "ja": "1階の部屋は6名（ベッド3台）"
+        },
+        {
+          "en": "Ensuite bedroom upstairs",
+          "nl": "Ensuite slaapkamer boven",
+          "fr": "Chambre avec salle d'eau à l'étage",
+          "de": "Schlafzimmer mit Bad en suite oben",
+          "zh": "楼上带独立卫浴的卧室",
+          "ko": "2층 전용 욕실 딸린 침실",
+          "ja": "2階に専用バス付き寝室"
         },
         {
           "en": "Linen bedding",
           "nl": "Linnen beddengoed",
-          "fr": "Literie en lin",
-          "de": "Leinenbettwäsche",
+          "fr": "Linge de lit en lin",
+          "de": "Leinen-Bettwäsche",
           "zh": "亚麻床品",
-          "ko": "리넨 침구",
-          "ja": "リネン寝具"
+          "ko": "린넨 침구",
+          "ja": "リネンの寝具"
         }
       ],
       "deviceIds": [],
@@ -268,31 +277,40 @@
         "ja": "スパのように温かみのあるバスルームが3つあります。"
       },
       "description": {
-        "en": "Three bathrooms with rain showers and warm natural materials. Towels are provided; please leave them in the bathroom at checkout.",
-        "nl": "Drie badkamers met regendouches en warme natuurlijke materialen. Handdoeken zijn voorzien; laat ze bij het uitchecken in de badkamer achter.",
-        "fr": "Trois salles de bain avec douches pluie et matériaux naturels chaleureux. Les serviettes sont fournies ; merci de les laisser dans la salle de bain au départ.",
-        "de": "Drei Badezimmer mit Regenduschen und warmen Naturmaterialien. Handtücher werden gestellt; bitte beim Check-out im Bad lassen.",
-        "zh": "三间浴室配有雨淋式淋浴和温暖的天然材质。毛巾已提供；退房时请将毛巾放回浴室。",
-        "ko": "레인 샤워와 따뜻한 자연 소재로 꾸며진 3개의 욕실이 있습니다. 수건은 제공되며, 체크아웃 시 욕실에 두고 가주시기 바랍니다.",
-        "ja": "レインシャワーと温かみのある自然素材を用いたバスルームが3つあります。タオルはご用意しています。チェックアウト時はバスルームに置いておいてください。"
+        "en": "Three showers and three toilets serve the house, finished with rain showers and warm natural materials. Upstairs there is an ensuite toilet and shower in one bedroom, plus an additional shared toilet and shower. Downstairs you'll find a separate toilet and a separate shower. Towels are provided and refreshed with the daily cleaning; please leave them in the bathroom at checkout.",
+        "nl": "Het huis telt drie douches en drie toiletten, afgewerkt met regendouches en warme natuurlijke materialen. Boven is er een ensuite toilet en douche bij één slaapkamer, plus een extra gedeeld toilet en douche. Beneden vind je een apart toilet en een aparte douche. Handdoeken worden voorzien en ververst bij de dagelijkse schoonmaak; laat ze bij het uitchecken in de badkamer achter.",
+        "fr": "La maison compte trois douches et trois WC, avec douches à effet pluie et matériaux naturels chaleureux. À l'étage, une chambre dispose de son WC et de sa douche attenants, complétés par un WC et une douche partagés. Au rez-de-chaussée, vous trouverez un WC séparé et une douche séparée. Les serviettes sont fournies et renouvelées lors du ménage quotidien ; merci de les laisser dans la salle de bain au départ.",
+        "de": "Das Haus verfügt über drei Duschen und drei WCs, ausgestattet mit Regenduschen und warmen Naturmaterialien. Im Obergeschoss gibt es ein Bad en suite mit WC und Dusche in einem Schlafzimmer sowie ein zusätzliches gemeinsames WC mit Dusche. Im Erdgeschoss finden Sie ein separates WC und eine separate Dusche. Handtücher werden gestellt und bei der täglichen Reinigung gewechselt; bitte lassen Sie sie beim Check-out im Badezimmer.",
+        "zh": "全屋共有三个淋浴间和三个卫生间，配备雨淋花洒和温暖的天然材质。楼上一间卧室带独立卫生间和淋浴，另设一个共用卫生间和淋浴。楼下有独立的卫生间和独立的淋浴间。毛巾由民宿提供并随每日清洁更换；退房时请将毛巾留在浴室内。",
+        "ko": "집 전체에 샤워실 3개와 화장실 3개가 있으며, 레인 샤워와 따뜻한 천연 소재로 마감되어 있습니다. 2층에는 침실 하나에 딸린 전용 화장실·샤워실과 별도의 공용 화장실·샤워실이 있습니다. 1층에는 독립된 화장실과 독립된 샤워실이 있습니다. 수건은 제공되며 매일 청소 시 교체됩니다. 체크아웃 시 수건은 욕실에 남겨 주세요.",
+        "ja": "家全体にシャワー3か所とトイレ3か所があり、レインシャワーと温かみのある自然素材で仕上げられています。2階には寝室専用のトイレ・シャワーに加え、共用のトイレ・シャワーがもう1か所あります。1階には独立したトイレと独立したシャワーがあります。タオルは備え付けで、毎日の清掃時に交換されます。チェックアウト時はバスルームに残しておいてください。"
       },
       "mediaId": "bathroom",
       "features": [
         {
-          "en": "3 bathrooms",
-          "nl": "3 badkamers",
-          "fr": "3 salles de bain",
-          "de": "3 Badezimmer",
-          "zh": "3 间浴室",
-          "ko": "3개의 욕실",
-          "ja": "バスルーム3つ"
+          "en": "3 showers & 3 toilets",
+          "nl": "3 douches & 3 toiletten",
+          "fr": "3 douches et 3 WC",
+          "de": "3 Duschen & 3 WCs",
+          "zh": "3个淋浴间和3个卫生间",
+          "ko": "샤워실 3개 & 화장실 3개",
+          "ja": "シャワー3・トイレ3"
+        },
+        {
+          "en": "Ensuite upstairs",
+          "nl": "Ensuite boven",
+          "fr": "Salle d'eau attenante à l'étage",
+          "de": "En suite im Obergeschoss",
+          "zh": "楼上带独立卫浴",
+          "ko": "2층 전용 욕실",
+          "ja": "2階に専用バスルーム"
         },
         {
           "en": "Rain showers",
           "nl": "Regendouches",
-          "fr": "Douches pluie",
+          "fr": "Douches à effet pluie",
           "de": "Regenduschen",
-          "zh": "雨淋式淋浴",
+          "zh": "雨淋花洒",
           "ko": "레인 샤워",
           "ja": "レインシャワー"
         },
@@ -300,10 +318,10 @@
           "en": "Towels provided",
           "nl": "Handdoeken voorzien",
           "fr": "Serviettes fournies",
-          "de": "Handtücher inklusive",
+          "de": "Handtücher gestellt",
           "zh": "提供毛巾",
           "ko": "수건 제공",
-          "ja": "タオルをご用意しています"
+          "ja": "タオル付き"
         }
       ],
       "deviceIds": [],

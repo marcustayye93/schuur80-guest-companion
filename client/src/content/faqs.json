@@ -123,13 +123,13 @@
         "ja": "何名まで宿泊できますか？"
       },
       "answer": {
-        "en": "Schuur 80 sleeps around twelve guests across four bedrooms, with three bathrooms.",
-        "nl": "Schuur 80 slaapt ongeveer twaalf gasten verdeeld over vier slaapkamers, met drie badkamers.",
-        "fr": "Schuur 80 accueille environ douze personnes dans quatre chambres, avec trois salles de bain.",
-        "de": "Schuur 80 bietet Platz für rund zwölf Gäste in vier Schlafzimmern mit drei Badezimmern.",
-        "zh": "Schuur 80 可容纳约十二位客人，分布在四间卧室内，拥有三间浴室。",
-        "ko": "Schuur 80은 네 개의 침실과 세 개의 욕실로 구성되어 있으며, 최대 12명의 게스트가 머물 수 있습니다.",
-        "ja": "Schuur 80はおよそ12名まで、寝室4室、バスルーム3室を備えています。"
+        "en": "Schuur 80 sleeps around twelve guests across four bedrooms — three upstairs (one double for two, one with ensuite toilet and shower) and a large downstairs room with three beds for up to six. There are three showers and three toilets in total.",
+        "nl": "Schuur 80 slaapt zo'n twaalf gasten verdeeld over vier slaapkamers — drie boven (één tweepersoonskamer en één met ensuite toilet en douche) en een grote kamer beneden met drie bedden voor maximaal zes personen. In totaal zijn er drie douches en drie toiletten.",
+        "fr": "Schuur 80 accueille environ douze hôtes répartis dans quatre chambres — trois à l'étage (une double pour deux, une avec WC et douche attenants) et une grande chambre au rez-de-chaussée avec trois lits pour six personnes maximum. Il y a trois douches et trois WC au total.",
+        "de": "Schuur 80 bietet Platz für rund zwölf Gäste in vier Schlafzimmern — drei oben (ein Doppelzimmer für zwei, eines mit Bad en suite) und ein großes Zimmer unten mit drei Betten für bis zu sechs Personen. Insgesamt gibt es drei Duschen und drei WCs.",
+        "zh": "Schuur 80 的四间卧室可容纳约十二位客人——楼上三间（一间双人房，一间带独立卫生间和淋浴），楼下一间大房间设三张床，最多可住六人。全屋共有三个淋浴间和三个卫生间。",
+        "ko": "Schuur 80은 침실 4개에 약 12명이 묵을 수 있습니다 — 2층에 3개(2인용 더블룸 1개, 전용 화장실·샤워실 딸린 방 1개), 1층에는 침대 3개로 최대 6명이 잘 수 있는 큰 방이 있습니다. 샤워실 3개와 화장실 3개가 있습니다.",
+        "ja": "Schuur 80は4つのベッドルームに約12名が宿泊できます — 2階に3室（2名用ダブル1室、専用トイレ・シャワー付き1室）、1階にはベッド3台で最大6名の大部屋があります。シャワー3か所・トイレ3か所を備えています。"
       }
     },
     {
@@ -256,6 +256,157 @@
         "zh": "Haasdonk 和附近的 Beveren 都有超市，开车几分钟可到。房东喜欢的本地商店会列在指南中。",
         "ko": "Haasdonk와 인근 Beveren에 슈퍼마켓이 있으며, 차로 몇 분 거리입니다. 호스트가 추천하는 동네 상점들은 가이드에 추가될 예정입니다.",
         "ja": "Haasdonkと近隣のBeverenにスーパーマーケットがあり、車で数分です。ホストのお気に入りの地元のお店はガイドに追加されます。"
+      }
+    },
+    {
+      "id": "faq-hairdryer-iron",
+      "category": "house",
+      "question": {
+        "en": "Is there a hair dryer or an iron?",
+        "nl": "Is er een haardroger of een strijkijzer?",
+        "fr": "Y a-t-il un sèche-cheveux ou un fer à repasser ?",
+        "de": "Gibt es einen Haartrockner oder ein Bügeleisen?",
+        "zh": "有吹风机或熨斗吗？",
+        "ko": "헤어드라이어나 다리미가 있나요?",
+        "ja": "ドライヤーやアイロンはありますか？"
+      },
+      "answer": {
+        "pending": true,
+        "status": {
+          "en": "Hair dryer and iron availability — being confirmed by the owners",
+          "nl": "Beschikbaarheid haardroger en strijkijzer — wordt bevestigd door de eigenaars",
+          "fr": "Disponibilité du sèche-cheveux et du fer — en cours de confirmation par les propriétaires",
+          "de": "Verfügbarkeit von Haartrockner und Bügeleisen — wird von den Eigentümern bestätigt",
+          "zh": "吹风机和熨斗的配备情况——房主确认中",
+          "ko": "헤어드라이어·다리미 구비 여부 — 호스트 확인 중",
+          "ja": "ドライヤー・アイロンの有無 — オーナー確認中"
+        },
+        "explanation": {
+          "en": "The owners are confirming which small appliances (hair dryer, iron and ironing board) are provided and where they are kept. In the meantime, just ask the owners next door — they are happy to help.",
+          "nl": "De eigenaars bevestigen nog welke kleine toestellen (haardroger, strijkijzer en strijkplank) aanwezig zijn en waar ze liggen. Vraag het intussen gerust aan de eigenaars hiernaast — zij helpen je graag.",
+          "fr": "Les propriétaires confirment encore quels petits appareils (sèche-cheveux, fer et planche à repasser) sont fournis et où ils se trouvent. En attendant, demandez simplement aux propriétaires d'à côté — ils se feront un plaisir de vous aider.",
+          "de": "Die Eigentümer bestätigen noch, welche Kleingeräte (Haartrockner, Bügeleisen und Bügelbrett) vorhanden sind und wo sie aufbewahrt werden. Fragen Sie in der Zwischenzeit einfach die Eigentümer nebenan — sie helfen gerne.",
+          "zh": "房主正在确认提供哪些小电器（吹风机、熨斗和熨衣板）以及存放位置。在此期间，可直接询问住在隔壁的房主——他们很乐意帮忙。",
+          "ko": "호스트가 어떤 소형 가전(헤어드라이어, 다리미, 다리미판)이 제공되는지와 보관 위치를 확인 중입니다. 그동안은 바로 옆집에 사는 호스트에게 문의해 주세요 — 기꺼이 도와드립니다.",
+          "ja": "どの小型家電（ドライヤー、アイロン、アイロン台）が備え付けられているか、また保管場所についてはオーナーが確認中です。それまでは、隣にお住まいのオーナーに気軽にお尋ねください。"
+        },
+        "expectedUpdate": {
+          "en": "Expected after the owners confirm the details",
+          "nl": "Verwacht zodra de eigenaars de details bevestigen",
+          "fr": "Attendu dès que les propriétaires auront confirmé les détails",
+          "de": "Erwartet, sobald die Eigentümer die Details bestätigen",
+          "zh": "待房主确认细节后更新",
+          "ko": "호스트가 세부사항을 확인하는 대로 업데이트됩니다",
+          "ja": "オーナーの確認が取れ次第更新されます"
+        }
+      }
+    },
+    {
+      "id": "faq-baby-equipment",
+      "category": "house",
+      "question": {
+        "en": "Is there a baby cot or high chair?",
+        "nl": "Is er een babybedje of kinderstoel?",
+        "fr": "Y a-t-il un lit bébé ou une chaise haute ?",
+        "de": "Gibt es ein Babybett oder einen Hochstuhl?",
+        "zh": "有婴儿床或儿童餐椅吗？",
+        "ko": "아기 침대나 유아용 식탁 의자가 있나요?",
+        "ja": "ベビーベッドやハイチェアはありますか？"
+      },
+      "answer": {
+        "pending": true,
+        "status": {
+          "en": "Baby equipment (travel cot, high chair) — being confirmed by the owners",
+          "nl": "Babyuitrusting (reisbedje, kinderstoel) — wordt bevestigd door de eigenaars",
+          "fr": "Équipement bébé (lit parapluie, chaise haute) — en cours de confirmation par les propriétaires",
+          "de": "Babyausstattung (Reisebett, Hochstuhl) — wird von den Eigentümern bestätigt",
+          "zh": "婴儿设备（旅行婴儿床、儿童餐椅）——房主确认中",
+          "ko": "유아용 장비(이동식 침대, 유아 의자) — 호스트 확인 중",
+          "ja": "ベビー用品（トラベルベッド・ハイチェア） — オーナー確認中"
+        },
+        "explanation": {
+          "en": "The owners are confirming what baby equipment (travel cot, high chair, stair gate) is available. If you are travelling with a little one, mention it when booking or ask the owners next door — they live right beside the barn and can usually arrange things quickly.",
+          "nl": "De eigenaars bevestigen nog welke babyuitrusting (reisbedje, kinderstoel, traphekje) beschikbaar is. Reis je met een kleintje, vermeld het dan bij de boeking of vraag het aan de eigenaars hiernaast — zij wonen vlak naast de schuur en kunnen meestal snel iets regelen.",
+          "fr": "Les propriétaires confirment encore quel équipement bébé (lit parapluie, chaise haute, barrière d'escalier) est disponible. Si vous voyagez avec un tout-petit, signalez-le à la réservation ou demandez aux propriétaires d'à côté — ils habitent juste à côté de la grange et peuvent généralement s'organiser rapidement.",
+          "de": "Die Eigentümer bestätigen noch, welche Babyausstattung (Reisebett, Hochstuhl, Treppenschutzgitter) verfügbar ist. Wenn Sie mit einem Kleinkind reisen, erwähnen Sie es bei der Buchung oder fragen Sie die Eigentümer nebenan — sie wohnen direkt neben der Scheune und können meist schnell etwas organisieren.",
+          "zh": "房主正在确认提供哪些婴儿设备（旅行婴儿床、儿童餐椅、楼梯安全门）。如果您带着幼儿出行，请在预订时说明或询问隔壁的房主——他们就住在谷仓旁边，通常能很快安排。",
+          "ko": "호스트가 어떤 유아용 장비(이동식 아기 침대, 유아용 의자, 계단 안전문)를 제공하는지 확인 중입니다. 아기와 함께 여행하신다면 예약 시 알려 주시거나 옆집 호스트에게 문의하세요 — 헛간 바로 옆에 살고 있어 대부분 빠르게 준비해 드릴 수 있습니다.",
+          "ja": "どのベビー用品（トラベルベッド、ハイチェア、階段ゲート）が利用できるかはオーナーが確認中です。小さなお子様連れの場合は、予約時にお知らせいただくか、隣のオーナーにお尋ねください。納屋のすぐ隣に住んでいるので、たいていすぐに用意できます。"
+        },
+        "expectedUpdate": {
+          "en": "Expected after the owners confirm the details",
+          "nl": "Verwacht zodra de eigenaars de details bevestigen",
+          "fr": "Attendu dès que les propriétaires auront confirmé les détails",
+          "de": "Erwartet, sobald die Eigentümer die Details bestätigen",
+          "zh": "待房主确认细节后更新",
+          "ko": "호스트가 세부사항을 확인하는 대로 업데이트됩니다",
+          "ja": "オーナーの確認が取れ次第更新されます"
+        }
+      }
+    },
+    {
+      "id": "faq-early-checkin-luggage",
+      "category": "arrival",
+      "question": {
+        "en": "Can we arrive early or store luggage?",
+        "nl": "Kunnen we vroeger aankomen of bagage stallen?",
+        "fr": "Peut-on arriver plus tôt ou déposer les bagages ?",
+        "de": "Können wir früher anreisen oder Gepäck abstellen?",
+        "zh": "可以提前到达或寄存行李吗？",
+        "ko": "일찍 도착하거나 짐을 맡길 수 있나요?",
+        "ja": "早めの到着や荷物預かりはできますか？"
+      },
+      "answer": {
+        "pending": true,
+        "status": {
+          "en": "Early check-in and luggage policy — being confirmed by the owners",
+          "nl": "Vroeg inchecken en bagageregeling — wordt bevestigd door de eigenaars",
+          "fr": "Arrivée anticipée et dépôt de bagages — en cours de confirmation par les propriétaires",
+          "de": "Früher Check-in und Gepäckregelung — wird von den Eigentümern bestätigt",
+          "zh": "提前入住和行李寄存政策——房主确认中",
+          "ko": "얼리 체크인·짐 보관 정책 — 호스트 확인 중",
+          "ja": "アーリーチェックイン・荷物預かり — オーナー確認中"
+        },
+        "explanation": {
+          "en": "Check-in is from 15:00 so the daily cleaning can finish. Because the owners live right next door, an early arrival or luggage drop-off can often be arranged — just message them in advance. A formal policy will be confirmed by the owners.",
+          "nl": "Inchecken kan vanaf 15:00, zodat de dagelijkse schoonmaak kan worden afgerond. Omdat de eigenaars vlak hiernaast wonen, is vroeger aankomen of bagage afzetten vaak bespreekbaar — stuur hen gewoon vooraf een berichtje. Een formele regeling wordt nog door de eigenaars bevestigd.",
+          "fr": "L'arrivée se fait à partir de 15h00, le temps que le ménage quotidien se termine. Comme les propriétaires habitent juste à côté, une arrivée anticipée ou un dépôt de bagages peut souvent s'arranger — envoyez-leur simplement un message à l'avance. Une politique formelle sera confirmée par les propriétaires.",
+          "de": "Der Check-in ist ab 15:00 Uhr möglich, damit die tägliche Reinigung abgeschlossen werden kann. Da die Eigentümer direkt nebenan wohnen, lässt sich eine frühere Anreise oder Gepäckabgabe oft arrangieren — schreiben Sie ihnen einfach vorab. Eine verbindliche Regelung wird noch von den Eigentümern bestätigt.",
+          "zh": "入住时间为15:00起，以便每日清洁工作完成。由于房主就住在隔壁，提前到达或寄存行李通常可以安排——请提前给他们发消息。正式政策待房主确认。",
+          "ko": "체크인은 매일 청소가 끝나는 15:00부터입니다. 호스트가 바로 옆집에 살기 때문에 이른 도착이나 짐 맡기기는 대개 조율이 가능합니다 — 미리 메시지를 보내 주세요. 공식 정책은 호스트가 확정할 예정입니다.",
+          "ja": "チェックインは毎日の清掃が終わる15:00からです。オーナーがすぐ隣に住んでいるため、早めの到着や荷物のお預かりは相談できることが多いです — 事前にメッセージでご連絡ください。正式なポリシーはオーナーが確認中です。"
+        },
+        "expectedUpdate": {
+          "en": "Expected after the owners confirm the details",
+          "nl": "Verwacht zodra de eigenaars de details bevestigen",
+          "fr": "Attendu dès que les propriétaires auront confirmé les détails",
+          "de": "Erwartet, sobald die Eigentümer die Details bestätigen",
+          "zh": "待房主确认细节后更新",
+          "ko": "호스트가 세부사항을 확인하는 대로 업데이트됩니다",
+          "ja": "オーナーの確認が取れ次第更新されます"
+        }
+      }
+    },
+    {
+      "id": "faq-transport",
+      "category": "area",
+      "question": {
+        "en": "How do we get around without a car — trains, buses, bikes, taxis?",
+        "nl": "Hoe geraken we rond zonder auto — trein, bus, fiets, taxi?",
+        "fr": "Comment se déplacer sans voiture — trains, bus, vélos, taxis ?",
+        "de": "Wie kommen wir ohne Auto herum — Zug, Bus, Fahrrad, Taxi?",
+        "zh": "没有汽车如何出行——火车、公交、自行车、出租车？",
+        "ko": "차 없이 어떻게 이동하나요 — 기차, 버스, 자전거, 택시?",
+        "ja": "車なしでの移動方法は？ — 電車・バス・自転車・タクシー"
+      },
+      "answer": {
+        "en": "Haasdonk is countryside, so a car is easiest — but not essential. The nearest railway stations are Beveren and Sint-Niklaas, with frequent trains to Antwerp and connections to Ghent (check nmbs.be or the SNCB app). De Lijn buses connect Haasdonk with Beveren, Sint-Niklaas and Antwerp (delijn.be or the app). For taxis, booking apps and local firms serve the Waasland region — the owners next door can recommend a reliable number. Flanders is superb cycling country: ask the owners about bike rental nearby and the knooppunten (node network) routes through the polders.",
+        "nl": "Haasdonk is platteland, dus een auto is het makkelijkst — maar niet noodzakelijk. De dichtstbijzijnde stations zijn Beveren en Sint-Niklaas, met frequente treinen naar Antwerpen en verbindingen naar Gent (check nmbs.be of de NMBS-app). Bussen van De Lijn verbinden Haasdonk met Beveren, Sint-Niklaas en Antwerpen (delijn.be of de app). Voor taxi's bedienen boekingsapps en lokale firma's het Waasland — de eigenaars hiernaast kennen een betrouwbaar nummer. Vlaanderen is fantastisch fietsland: vraag de eigenaars naar fietsverhuur in de buurt en de knooppuntenroutes door de polders.",
+        "fr": "Haasdonk est à la campagne, la voiture est donc le plus simple — mais pas indispensable. Les gares les plus proches sont Beveren et Sint-Niklaas, avec des trains fréquents vers Anvers et des correspondances vers Gand (voir sncb.be ou l'app SNCB). Les bus De Lijn relient Haasdonk à Beveren, Sint-Niklaas et Anvers (delijn.be ou l'app). Pour les taxis, des applications et des compagnies locales desservent le Waasland — les propriétaires d'à côté peuvent recommander un numéro fiable. La Flandre est un paradis du vélo : demandez-leur où louer des vélos et les itinéraires à points-nœuds à travers les polders.",
+        "de": "Haasdonk liegt auf dem Land, ein Auto ist daher am einfachsten — aber nicht zwingend. Die nächsten Bahnhöfe sind Beveren und Sint-Niklaas, mit häufigen Zügen nach Antwerpen und Verbindungen nach Gent (siehe belgiantrain.be oder die SNCB-App). De-Lijn-Busse verbinden Haasdonk mit Beveren, Sint-Niklaas und Antwerpen (delijn.be oder App). Für Taxis bedienen Apps und lokale Unternehmen die Region Waasland — die Eigentümer nebenan empfehlen gern eine zuverlässige Nummer. Flandern ist großartiges Radland: Fragen Sie nach Fahrradverleih in der Nähe und den Knotenpunkt-Routen durch die Polder.",
+        "zh": "Haasdonk 地处乡村，开车最方便——但并非必须。最近的火车站是 Beveren 和 Sint-Niklaas，有频繁列车前往安特卫普，并可换乘前往根特（请查看 belgiantrain.be 或 SNCB 应用）。De Lijn 公交连接 Haasdonk 与 Beveren、Sint-Niklaas 和安特卫普（delijn.be 或应用）。出租车方面，打车应用和当地公司服务于 Waasland 地区——隔壁的房主可推荐可靠的电话号码。佛兰德斯是绝佳的骑行胜地：可向房主咨询附近的自行车租赁和穿越圩田的节点骑行路线。",
+        "ko": "Haasdonk는 시골이라 자동차가 가장 편리하지만 필수는 아닙니다. 가장 가까운 기차역은 Beveren과 Sint-Niklaas로, 안트베르펜행 열차가 자주 있고 겐트로도 환승할 수 있습니다(belgiantrain.be 또는 SNCB 앱 참고). De Lijn 버스가 Haasdonk와 Beveren, Sint-Niklaas, 안트베르펜을 연결합니다(delijn.be 또는 앱). 택시는 앱과 지역 업체가 Waasland 지역에서 운행하며 — 옆집 호스트가 믿을 만한 번호를 추천해 줄 수 있습니다. 플랑드르는 자전거 타기 좋은 곳입니다. 근처 자전거 대여와 폴더 지대를 지나는 노드 네트워크(knooppunten) 코스를 호스트에게 문의해 보세요.",
+        "ja": "Haasdonkは田園地帯のため車が最も便利ですが、必須ではありません。最寄り駅はBeverenとSint-Niklaasで、アントワープ行きの電車が頻発しており、ゲントへの乗り継ぎもできます（belgiantrain.beまたはSNCBアプリ参照）。De LijnのバスがHaasdonkとBeveren、Sint-Niklaas、アントワープを結んでいます（delijn.beまたはアプリ）。タクシーは配車アプリや地元会社がWaasland地域をカバーしており、信頼できる番号は隣のオーナーが教えてくれます。フランドルはサイクリング天国です。近くのレンタサイクルやポルダーを巡るノードネットワーク（knooppunten）ルートについてもオーナーにお尋ねください。"
       }
     },
     {
