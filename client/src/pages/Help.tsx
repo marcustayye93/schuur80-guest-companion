@@ -1,7 +1,7 @@
 /**
  * Schuur 80 — Help hub. Emergency, FAQs, host contact, pending register, settings.
  */
-import { Siren, BookOpen, MessageCircle, ClipboardList, Settings, QrCode, Smartphone, Wrench } from "lucide-react";
+import { Siren, BookOpen, MessageCircle, MessageCircleQuestion, ClipboardList, Settings, QrCode, Smartphone, Wrench } from "lucide-react";
 import { Link } from "wouter";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { SectionHeader } from "@/components/companion/Primitives";
@@ -53,6 +53,12 @@ export default function Help() {
           icon={<ClipboardList className="h-5 w-5" aria-hidden />}
           title={t("help.pendingRegister")}
           subtitle={t("help.pendingRegisterSub")}
+        />
+        <ListRow
+          href="/help/owner-questions"
+          icon={<MessageCircleQuestion className="h-5 w-5" aria-hidden />}
+          title={t("help.ownerQuestions")}
+          subtitle={t("help.ownerQuestionsSub")}
         />
         <ListRow
           href="/settings"

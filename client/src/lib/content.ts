@@ -11,6 +11,7 @@ import historyJson from "@/content/history.json";
 import recommendationsJson from "@/content/recommendations.json";
 import mediaJson from "@/content/media.json";
 import pendingRegisterJson from "@/content/pending-register.json";
+import ownerQuestionsJson from "@/content/owner-questions.json";
 import type {
   Cat,
   Device,
@@ -58,6 +59,22 @@ export const mediaAssets = (mediaJson.assets as unknown as MediaAsset[]).map(
 );
 export const pendingRegister =
   pendingRegisterJson.items as unknown as PendingRegisterItem[];
+
+export interface OwnerQuestion {
+  id: string;
+  q: LocalizedString;
+  lands: LocalizedString;
+}
+
+export interface OwnerQuestionGroup {
+  id: string;
+  title: LocalizedString;
+  priority: "high" | "medium" | "low";
+  questions: OwnerQuestion[];
+}
+
+export const ownerQuestions =
+  ownerQuestionsJson.groups as unknown as OwnerQuestionGroup[];
 
 const mediaById = new Map(mediaAssets.map((m) => [m.id, m]));
 

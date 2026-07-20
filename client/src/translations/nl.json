@@ -109,7 +109,9 @@
     "tsHotTubTitle": "De hottub is niet warm",
     "tsHotTubBody": "Een hottub opwarmen duurt enkele uren, dus laat het deksel erop wanneer hij niet gebruikt wordt — dat houdt de warmte vast. Plan je een avondsessie, controleer dan 's ochtends de temperatuur. De bedieningsdetails worden nog bevestigd door de eigenaars; ze wonen hiernaast en maken hem graag voor je klaar.",
     "tsPowerTitle": "De stroom is uitgevallen",
-    "tsPowerBody": "Kijk eerst of de lichten bij de buren ook uit zijn (een lokale stroompanne lost zichzelf meestal op). Is het alleen de schuur, dan is er waarschijnlijk een zekering gesprongen — de eigenaars hiernaast kennen de zekeringkast en lossen het snel op. Houd je telefoonlampje bij de hand; plattelandsnachten zijn donker."
+    "tsPowerBody": "Kijk eerst of de lichten bij de buren ook uit zijn (een lokale stroompanne lost zichzelf meestal op). Is het alleen de schuur, dan is er waarschijnlijk een zekering gesprongen — de eigenaars hiernaast kennen de zekeringkast en lossen het snel op. Houd je telefoonlampje bij de hand; plattelandsnachten zijn donker.",
+    "ownerQuestions": "Vragen voor de eigenaars",
+    "ownerQuestionsSub": "De openstaande vragen waarop we graag uw antwoord krijgen"
   },
   "emergency": {
     "title": "Noodgeval",
@@ -248,5 +250,15 @@
     "wifiQrCaption": "Richt je camera op de code en tik op de melding — verbonden, zonder typen.",
     "network": "Netwerk",
     "password": "Wachtwoord"
+  },
+  "ownerq": {
+    "title": "Vragen voor de eigenaars",
+    "intro": "Beste eigenaars — deze pagina bundelt alles wat de app nog van u nodig heeft. Elk antwoord vervangt een voorlopige vermelding door bevestigde informatie voor uw gasten.",
+    "count": "{n} openstaande vragen.",
+    "priorityHigh": "Hoge prioriteit",
+    "priorityMedium": "Gemiddeld",
+    "priorityLow": "Leuk om te hebben",
+    "landsLabel": "Komt terecht in",
+    "footer": "U mag in willekeurige volgorde en in uw eigen woorden antwoorden — korte notities volstaan. Alles wordt daarna in de app verwerkt, in alle zeven talen."
   }
 }

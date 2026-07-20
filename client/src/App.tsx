@@ -26,6 +26,7 @@ import Arrival from "./pages/Arrival";
 import Help from "./pages/Help";
 import Emergency from "./pages/Emergency";
 import PendingRegister from "./pages/PendingRegister";
+import OwnerQuestions from "./pages/OwnerQuestions";
 import SettingsPage from "./pages/SettingsPage";
 import SearchPage from "./pages/SearchPage";
 import PrintQrCard from "./pages/PrintQrCard";
@@ -63,6 +64,7 @@ function Router() {
         <Route path="/help" component={Help} />
         <Route path="/emergency" component={Emergency} />
         <Route path="/help/pending" component={PendingRegister} />
+        <Route path="/help/owner-questions" component={OwnerQuestions} />
         <Route path="/settings" component={SettingsPage} />
         <Route path="/search" component={SearchPage} />
         <Route path="/print/qr-card" component={PrintQrCard} />

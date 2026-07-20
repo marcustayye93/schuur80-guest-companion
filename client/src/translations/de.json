@@ -109,7 +109,9 @@
     "tsHotTubTitle": "Der Whirlpool ist nicht warm",
     "tsHotTubBody": "Das Aufheizen eines Whirlpools dauert mehrere Stunden — lassen Sie die Abdeckung darauf, wenn er nicht benutzt wird, denn sie hält die Wärme. Für ein Abendbad prüfen Sie die Temperatur am Morgen. Die Bedienungsdetails werden noch von den Eigentümern bestätigt; sie wohnen direkt nebenan und machen ihn gerne für Sie bereit.",
     "tsPowerTitle": "Der Strom ist ausgefallen",
-    "tsPowerBody": "Prüfen Sie zuerst, ob auch bei den Nachbarn das Licht aus ist (ein lokaler Ausfall behebt sich meist von selbst). Ist nur die Scheune betroffen, hat wahrscheinlich eine Sicherung ausgelöst — die Eigentümer nebenan kennen den Sicherungskasten und beheben es schnell. Halten Sie die Handy-Taschenlampe bereit; Landnächte sind dunkel."
+    "tsPowerBody": "Prüfen Sie zuerst, ob auch bei den Nachbarn das Licht aus ist (ein lokaler Ausfall behebt sich meist von selbst). Ist nur die Scheune betroffen, hat wahrscheinlich eine Sicherung ausgelöst — die Eigentümer nebenan kennen den Sicherungskasten und beheben es schnell. Halten Sie die Handy-Taschenlampe bereit; Landnächte sind dunkel.",
+    "ownerQuestions": "Fragen an die Eigentümer",
+    "ownerQuestionsSub": "Die offenen Fragen, auf die wir gern Ihre Antwort hätten"
   },
   "emergency": {
     "title": "Notfall",
@@ -248,5 +250,15 @@
     "wifiQrCaption": "Kamera auf den Code richten und auf die Meldung tippen — verbunden, ohne Tippen.",
     "network": "Netzwerk",
     "password": "Passwort"
+  },
+  "ownerq": {
+    "title": "Fragen an die Eigentümer",
+    "intro": "Liebe Eigentümer — diese Seite bündelt alles, was die App noch von Ihnen braucht. Jede Antwort ersetzt einen Platzhalter durch bestätigte Informationen für Ihre Gäste.",
+    "count": "{n} offene Fragen.",
+    "priorityHigh": "Hohe Priorität",
+    "priorityMedium": "Mittel",
+    "priorityLow": "Optional",
+    "landsLabel": "Erscheint in",
+    "footer": "Sie können in beliebiger Reihenfolge und in Ihren eigenen Worten antworten — kurze Notizen genügen. Alles wird anschließend in allen sieben Sprachen in die App eingearbeitet."
   }
 }

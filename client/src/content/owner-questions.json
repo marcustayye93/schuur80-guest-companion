@@ -1,0 +1,725 @@
+{
+  "_comment": "Owner Questions — the open questions awaiting the owners' answers, shown on the /owner-questions page. Sourced from the owner questions document; answered items are removed.",
+  "groups": [
+    {
+      "id": "safety",
+      "title": {
+        "en": "Safety & emergencies",
+        "nl": "Veiligheid & noodgevallen",
+        "fr": "Sécurité et urgences",
+        "de": "Sicherheit & Notfälle",
+        "zh": "安全与紧急情况",
+        "ko": "안전 및 응급 상황",
+        "ja": "安全と緊急時"
+      },
+      "priority": "high",
+      "questions": [
+        {
+          "id": "q-emergency-contacts",
+          "q": {
+            "en": "Which local emergency contacts should we list — nearest hospital, doctor on call, and a vet (relevant with 14 cats)?",
+            "nl": "Welke lokale noodcontacten mogen we vermelden — dichtstbijzijnd ziekenhuis, huisarts van wacht, en een dierenarts (relevant met 14 katten)?",
+            "fr": "Quels contacts d'urgence locaux devons-nous indiquer — hôpital le plus proche, médecin de garde et vétérinaire (utile avec 14 chats) ?",
+            "de": "Welche lokalen Notfallkontakte sollen wir angeben — nächstes Krankenhaus, Bereitschaftsarzt und ein Tierarzt (relevant bei 14 Katzen)?",
+            "zh": "我们应列出哪些当地紧急联系方式——最近的医院、值班医生和兽医（家有14只猫，很有必要）？",
+            "ko": "가까운 병원, 당직 의사, 수의사(고양이 14마리가 있으니 필요) 등 어떤 지역 응급 연락처를 실어야 할까요?",
+            "ja": "最寄りの病院、当直医、獣医（猫が14匹いるので重要）など、掲載すべき地元の緊急連絡先は？"
+          },
+          "lands": {
+            "en": "Emergency page",
+            "nl": "Noodgevallenpagina",
+            "fr": "Page urgences",
+            "de": "Notfallseite",
+            "zh": "紧急页面",
+            "ko": "응급 페이지",
+            "ja": "緊急ページ"
+          }
+        },
+        {
+          "id": "q-first-aid",
+          "q": {
+            "en": "Where are the first aid kit and (if present) defibrillator located?",
+            "nl": "Waar liggen de EHBO-koffer en (indien aanwezig) de defibrillator?",
+            "fr": "Où se trouvent la trousse de premiers secours et (le cas échéant) le défibrillateur ?",
+            "de": "Wo befinden sich der Erste-Hilfe-Kasten und (falls vorhanden) der Defibrillator?",
+            "zh": "急救箱和除颤器（如有）放在哪里？",
+            "ko": "구급상자와 (있다면) 제세동기는 어디에 있나요?",
+            "ja": "救急箱と（あれば）AEDはどこにありますか？"
+          },
+          "lands": {
+            "en": "Emergency page",
+            "nl": "Noodgevallenpagina",
+            "fr": "Page urgences",
+            "de": "Notfallseite",
+            "zh": "紧急页面",
+            "ko": "응급 페이지",
+            "ja": "緊急ページ"
+          }
+        },
+        {
+          "id": "q-outage",
+          "q": {
+            "en": "What should guests do in a power or water outage — where are the fuse box, main water valve, and a torch for night-time failures?",
+            "nl": "Wat moeten gasten doen bij een stroom- of waterpanne — waar zitten de zekeringkast, de hoofdwaterkraan, en een zaklamp voor pannes 's nachts?",
+            "fr": "Que doivent faire les invités en cas de coupure d'électricité ou d'eau — où se trouvent le tableau électrique, la vanne d'eau principale et une lampe de poche ?",
+            "de": "Was sollen Gäste bei einem Strom- oder Wasserausfall tun — wo sind Sicherungskasten, Hauptwasserhahn und eine Taschenlampe für nächtliche Ausfälle?",
+            "zh": "停电或停水时客人该怎么办——保险丝盒、总水阀在哪里？夜间故障时手电筒放在哪里？",
+            "ko": "정전이나 단수 시 손님이 어떻게 해야 하나요? 두꺼비집, 수도 밸브, 야간용 손전등은 어디에 있나요?",
+            "ja": "停電・断水時にゲストはどうすべきですか？ブレーカー、水道の元栓、夜間用の懐中電灯の場所は？"
+          },
+          "lands": {
+            "en": "Help section",
+            "nl": "Hulpsectie",
+            "fr": "Section aide",
+            "de": "Hilfebereich",
+            "zh": "帮助部分",
+            "ko": "도움말 섹션",
+            "ja": "ヘルプセクション"
+          }
+        }
+      ]
+    },
+    {
+      "id": "amenities",
+      "title": {
+        "en": "Most-used amenities",
+        "nl": "Meest gebruikte voorzieningen",
+        "fr": "Équipements les plus utilisés",
+        "de": "Meistgenutzte Ausstattung",
+        "zh": "最常用设施",
+        "ko": "가장 많이 쓰는 시설",
+        "ja": "よく使う設備"
+      },
+      "priority": "high",
+      "questions": [
+        {
+          "id": "q-hottub",
+          "q": {
+            "en": "How does the hot tub work — heating time, temperature, cover handling, what guests may adjust — and what are the safety rules for children?",
+            "nl": "Hoe werkt de hottub — opwarmtijd, temperatuur, omgaan met het deksel, wat gasten zelf mogen instellen — en wat zijn de veiligheidsregels voor kinderen?",
+            "fr": "Comment fonctionne le jacuzzi — temps de chauffe, température, manipulation de la couverture, réglages autorisés — et quelles sont les règles de sécurité pour les enfants ?",
+            "de": "Wie funktioniert der Whirlpool — Aufheizzeit, Temperatur, Abdeckung, was Gäste einstellen dürfen — und welche Sicherheitsregeln gelten für Kinder?",
+            "zh": "热水浴缸如何使用——加热时间、温度、缸盖处理、客人可以调节什么——以及儿童的安全规则是什么？",
+            "ko": "온수 욕조는 어떻게 사용하나요? 가열 시간, 온도, 덮개 사용법, 손님이 조절할 수 있는 것과 어린이 안전 수칙은?",
+            "ja": "ホットタブの使い方は？加熱時間、温度、カバーの扱い、ゲストが調整できる範囲、子どもの安全ルールは？"
+          },
+          "lands": {
+            "en": "Hot tub guide",
+            "nl": "Hottub-gids",
+            "fr": "Guide jacuzzi",
+            "de": "Whirlpool-Anleitung",
+            "zh": "热水浴缸指南",
+            "ko": "온수 욕조 가이드",
+            "ja": "ホットタブガイド"
+          }
+        },
+        {
+          "id": "q-fireplace",
+          "q": {
+            "en": "How does the fireplace work — where is the wood, how to light it safely, and any rules (flue, spark screen, ash disposal)?",
+            "nl": "Hoe werkt de open haard — waar ligt het hout, hoe steekt men hem veilig aan, en welke regels gelden er (schoorsteenklep, vonkenscherm, as weggooien)?",
+            "fr": "Comment fonctionne la cheminée — où est le bois, comment l'allumer en toute sécurité, et quelles règles (conduit, pare-étincelles, cendres) ?",
+            "de": "Wie funktioniert der Kamin — wo ist das Holz, wie zündet man sicher an, welche Regeln gelten (Klappe, Funkenschutz, Asche)?",
+            "zh": "壁炉如何使用——木柴在哪里、如何安全点燃、有哪些规则（烟道、防火屏、炉灰处理）？",
+            "ko": "벽난로는 어떻게 사용하나요? 장작 위치, 안전한 점화 방법, 규칙(연통, 불꽃 가리개, 재 처리)은?",
+            "ja": "暖炉の使い方は？薪の場所、安全な点火方法、ルール（煙道、火の粉ガード、灰の処理）は？"
+          },
+          "lands": {
+            "en": "Fireplace guide",
+            "nl": "Haardgids",
+            "fr": "Guide cheminée",
+            "de": "Kamin-Anleitung",
+            "zh": "壁炉指南",
+            "ko": "벽난로 가이드",
+            "ja": "暖炉ガイド"
+          }
+        },
+        {
+          "id": "q-bbq",
+          "q": {
+            "en": "How does the BBQ work — gas or charcoal, where are supplies, and what are the cleaning expectations?",
+            "nl": "Hoe werkt de barbecue — gas of houtskool, waar liggen de benodigdheden, en wat verwacht u qua schoonmaak?",
+            "fr": "Comment fonctionne le barbecue — gaz ou charbon, où sont les fournitures, et qu'attendez-vous côté nettoyage ?",
+            "de": "Wie funktioniert der Grill — Gas oder Kohle, wo sind die Vorräte, was wird beim Reinigen erwartet?",
+            "zh": "烧烤炉如何使用——燃气还是木炭、用品在哪里、清洁要求是什么？",
+            "ko": "바비큐는 어떻게 사용하나요? 가스인가요 숯인가요? 용품 위치와 청소 기준은?",
+            "ja": "BBQの使い方は？ガスか炭か、用品の場所、清掃の基準は？"
+          },
+          "lands": {
+            "en": "BBQ guide",
+            "nl": "BBQ-gids",
+            "fr": "Guide BBQ",
+            "de": "Grill-Anleitung",
+            "zh": "烧烤指南",
+            "ko": "바비큐 가이드",
+            "ja": "BBQガイド"
+          }
+        },
+        {
+          "id": "q-projector",
+          "q": {
+            "en": "How does the cinema projector work (remote, inputs, streaming apps)?",
+            "nl": "Hoe werkt de projector in de cinemakamer (afstandsbediening, aansluitingen, streaming-apps)?",
+            "fr": "Comment fonctionne le projecteur du cinéma (télécommande, entrées, applications de streaming) ?",
+            "de": "Wie funktioniert der Kinoprojektor (Fernbedienung, Eingänge, Streaming-Apps)?",
+            "zh": "影院投影仪如何使用（遥控器、输入源、流媒体应用）？",
+            "ko": "시네마 프로젝터는 어떻게 사용하나요(리모컨, 입력, 스트리밍 앱)?",
+            "ja": "シネマプロジェクターの使い方は（リモコン、入力、ストリーミングアプリ）？"
+          },
+          "lands": {
+            "en": "Cinema Room",
+            "nl": "Cinemakamer",
+            "fr": "Salle cinéma",
+            "de": "Kinoraum",
+            "zh": "影院房间",
+            "ko": "시네마 룸",
+            "ja": "シネマルーム"
+          }
+        },
+        {
+          "id": "q-bar",
+          "q": {
+            "en": "Any house rules for the bar and billiards table?",
+            "nl": "Zijn er huisregels voor de bar en de biljarttafel?",
+            "fr": "Y a-t-il des règles pour le bar et le billard ?",
+            "de": "Gibt es Hausregeln für die Bar und den Billardtisch?",
+            "zh": "酒吧和台球桌有什么使用规则吗？",
+            "ko": "바와 당구대 이용 규칙이 있나요?",
+            "ja": "バーとビリヤード台の利用ルールはありますか？"
+          },
+          "lands": {
+            "en": "Bar & Billiards",
+            "nl": "Bar & biljart",
+            "fr": "Bar et billard",
+            "de": "Bar & Billard",
+            "zh": "酒吧与台球",
+            "ko": "바 & 당구",
+            "ja": "バー＆ビリヤード"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "title": {
+        "en": "House rules & logistics",
+        "nl": "Huisregels & praktisch",
+        "fr": "Règles de la maison et logistique",
+        "de": "Hausregeln & Logistik",
+        "zh": "住宿规则与后勤",
+        "ko": "하우스 규칙 및 실무",
+        "ja": "ハウスルールと実務"
+      },
+      "priority": "medium",
+      "questions": [
+        {
+          "id": "q-house-rules",
+          "q": {
+            "en": "What are the full house rules (smoking, parties, guests' pets, shoes indoors, maximum visitors)?",
+            "nl": "Wat zijn de volledige huisregels (roken, feestjes, huisdieren van gasten, schoenen binnen, maximaal aantal bezoekers)?",
+            "fr": "Quelles sont les règles complètes de la maison (fumer, fêtes, animaux des invités, chaussures à l'intérieur, nombre maximal de visiteurs) ?",
+            "de": "Wie lauten die vollständigen Hausregeln (Rauchen, Feiern, mitgebrachte Haustiere, Schuhe im Haus, maximale Besucherzahl)?",
+            "zh": "完整的住宿规则是什么（吸烟、聚会、客人携带宠物、室内穿鞋、访客上限）？",
+            "ko": "전체 하우스 규칙은 무엇인가요(흡연, 파티, 손님 반려동물, 실내 신발, 최대 방문 인원)?",
+            "ja": "ハウスルールの全体は？（喫煙、パーティー、ゲストのペット、室内での靴、最大訪問人数）"
+          },
+          "lands": {
+            "en": "House Rules guide",
+            "nl": "Huisregels-gids",
+            "fr": "Guide des règles",
+            "de": "Hausregeln",
+            "zh": "住宿规则指南",
+            "ko": "하우스 규칙 가이드",
+            "ja": "ハウスルールガイド"
+          }
+        },
+        {
+          "id": "q-quiet",
+          "q": {
+            "en": "What are the quiet hours? The app currently suggests keeping outdoor noise low after 22:00 — please confirm or correct.",
+            "nl": "Wat zijn de stille uren? De app stelt nu voor om buitenlawaai te beperken na 22:00 — graag bevestigen of corrigeren.",
+            "fr": "Quelles sont les heures de calme ? L'app suggère actuellement de limiter le bruit extérieur après 22h00 — merci de confirmer ou corriger.",
+            "de": "Wann sind die Ruhezeiten? Die App empfiehlt derzeit, Außenlärm nach 22:00 Uhr zu vermeiden — bitte bestätigen oder korrigieren.",
+            "zh": "安静时段是什么时候？应用目前建议22:00后降低户外噪音——请确认或更正。",
+            "ko": "정숙 시간은 언제인가요? 앱은 현재 22시 이후 실외 소음 자제를 안내하고 있습니다 — 확인 또는 수정 부탁드립니다.",
+            "ja": "静粛時間は？アプリでは現在22時以降の屋外の騒音を控えるよう案内しています — ご確認・修正をお願いします。"
+          },
+          "lands": {
+            "en": "House Rules · Garden",
+            "nl": "Huisregels · Tuin",
+            "fr": "Règles · Jardin",
+            "de": "Hausregeln · Garten",
+            "zh": "规则 · 花园",
+            "ko": "규칙 · 정원",
+            "ja": "ルール · 庭"
+          }
+        },
+        {
+          "id": "q-beds",
+          "q": {
+            "en": "What are the bed sizes/types in the two remaining upstairs bedrooms? (The layout itself is confirmed.)",
+            "nl": "Welke bedmaten/-types staan er in de twee overige slaapkamers boven? (De indeling zelf is bevestigd.)",
+            "fr": "Quelles sont les tailles/types de lits dans les deux autres chambres à l'étage ? (La disposition est confirmée.)",
+            "de": "Welche Bettgrößen/-typen stehen in den zwei übrigen Schlafzimmern oben? (Die Aufteilung ist bestätigt.)",
+            "zh": "楼上另外两间卧室的床型/尺寸是什么？（布局本身已确认。）",
+            "ko": "위층 나머지 두 침실의 침대 크기/종류는 무엇인가요? (배치 자체는 확인됨.)",
+            "ja": "2階の残り2部屋のベッドのサイズ・種類は？（間取り自体は確認済み。）"
+          },
+          "lands": {
+            "en": "Rooms — Bedrooms",
+            "nl": "Kamers — Slaapkamers",
+            "fr": "Pièces — Chambres",
+            "de": "Räume — Schlafzimmer",
+            "zh": "房间 — 卧室",
+            "ko": "객실 — 침실",
+            "ja": "部屋 — 寝室"
+          }
+        },
+        {
+          "id": "q-recycling",
+          "q": {
+            "en": "Recycling specifics — should guests sort PMD/glass/paper separately, and where do those bags live? (The bread bin and two rubbish bins are already in the app.)",
+            "nl": "Details over recyclage — moeten gasten PMD/glas/papier apart sorteren, en waar staan die zakken? (De broodton en de twee vuilnisbakken staan al in de app.)",
+            "fr": "Détails du tri — les invités doivent-ils trier PMD/verre/papier séparément, et où sont ces sacs ? (La poubelle à pain et les deux poubelles sont déjà dans l'app.)",
+            "de": "Details zum Recycling — sollen Gäste PMD/Glas/Papier getrennt sortieren, und wo stehen die Säcke? (Brottonne und die zwei Mülleimer sind bereits in der App.)",
+            "zh": "回收细节——客人是否需要分类PMD/玻璃/纸张？分类袋放在哪里？（面包桶和两个垃圾桶已在应用中。）",
+            "ko": "재활용 세부사항 — PMD/유리/종이를 분리해야 하나요? 봉투는 어디에 있나요? (빵 통과 쓰레기통 2개는 이미 앱에 있음.)",
+            "ja": "リサイクルの詳細 — PMD・ガラス・紙は分別が必要ですか？袋の場所は？（パン用の丸い容器とゴミ箱2つはアプリに掲載済み。）"
+          },
+          "lands": {
+            "en": "Waste guide · Checkout",
+            "nl": "Afvalgids · Vertrek",
+            "fr": "Guide déchets · Départ",
+            "de": "Abfall · Abreise",
+            "zh": "垃圾指南 · 退房",
+            "ko": "쓰레기 가이드 · 체크아웃",
+            "ja": "ゴミガイド · チェックアウト"
+          }
+        },
+        {
+          "id": "q-checkout-tasks",
+          "q": {
+            "en": "Given the daily cleaning service, should guests still run the dishwasher and take out waste at checkout, or is that handled?",
+            "nl": "Moeten gasten bij vertrek nog de vaatwasser aanzetten en het afval buitenzetten, of wordt dat door de dagelijkse schoonmaak geregeld?",
+            "fr": "Vu le ménage quotidien, les invités doivent-ils encore lancer le lave-vaisselle et sortir les déchets au départ, ou est-ce pris en charge ?",
+            "de": "Sollen Gäste angesichts der täglichen Reinigung beim Auschecken noch die Spülmaschine anstellen und den Müll rausbringen, oder wird das erledigt?",
+            "zh": "既然有每日清洁服务，客人退房时还需要开洗碗机、倒垃圾吗？还是由清洁人员处理？",
+            "ko": "매일 청소 서비스가 있는데, 체크아웃 시 손님이 식기세척기를 돌리고 쓰레기를 버려야 하나요, 아니면 처리되나요?",
+            "ja": "毎日の清掃サービスがある中で、チェックアウト時に食洗機やゴミ出しはゲストがすべきですか？それともお任せですか？"
+          },
+          "lands": {
+            "en": "Checkout checklist",
+            "nl": "Vertrek-checklist",
+            "fr": "Check-list départ",
+            "de": "Abreise-Checkliste",
+            "zh": "退房清单",
+            "ko": "체크아웃 체크리스트",
+            "ja": "チェックアウトリスト"
+          }
+        },
+        {
+          "id": "q-checkout-key",
+          "q": {
+            "en": "Checkout details beyond the times — where to leave the key if you're not home, linen handling, any final walkthrough?",
+            "nl": "Vertrekdetails naast de uren — waar laten gasten de sleutel als u niet thuis bent, wat met het linnengoed, is er een eindcontrole?",
+            "fr": "Détails du départ au-delà des horaires — où laisser la clé si vous êtes absents, gestion du linge, contrôle final ?",
+            "de": "Abreisedetails über die Zeiten hinaus — wo bleibt der Schlüssel, wenn Sie nicht da sind, Umgang mit der Wäsche, Endkontrolle?",
+            "zh": "除时间外的退房细节——您不在家时钥匙放哪里、床品如何处理、是否有最终检查？",
+            "ko": "시간 외 체크아웃 세부사항 — 부재 시 열쇠는 어디에 두나요? 린넨 처리와 최종 점검은?",
+            "ja": "時間以外のチェックアウトの詳細 — 不在時の鍵の置き場所、リネンの扱い、最終確認は？"
+          },
+          "lands": {
+            "en": "Checkout guide",
+            "nl": "Vertrekgids",
+            "fr": "Guide départ",
+            "de": "Abreise-Anleitung",
+            "zh": "退房指南",
+            "ko": "체크아웃 가이드",
+            "ja": "チェックアウトガイド"
+          }
+        },
+        {
+          "id": "q-parking-ev",
+          "q": {
+            "en": "What is the exact parking layout, and how does the EV charger work (type, tariff, how to start a session)?",
+            "nl": "Hoe is de parking precies ingedeeld, en hoe werkt de laadpaal (type, tarief, hoe start men een laadsessie)?",
+            "fr": "Quelle est la disposition exacte du parking, et comment fonctionne la borne de recharge (type, tarif, démarrage) ?",
+            "de": "Wie ist der Parkplatz genau aufgeteilt, und wie funktioniert die Ladestation (Typ, Tarif, Startvorgang)?",
+            "zh": "停车场的具体布局如何？电动车充电桩如何使用（类型、资费、如何启动）？",
+            "ko": "주차장 배치는 정확히 어떻게 되나요? EV 충전기는 어떻게 사용하나요(유형, 요금, 시작 방법)?",
+            "ja": "駐車場の正確なレイアウトは？EV充電器の使い方は（タイプ、料金、開始方法）？"
+          },
+          "lands": {
+            "en": "Arrival guide · EV Charging",
+            "nl": "Aankomstgids · Laadpaal",
+            "fr": "Guide arrivée · Recharge",
+            "de": "Ankunft · Laden",
+            "zh": "到达指南 · 充电",
+            "ko": "도착 가이드 · 충전",
+            "ja": "到着ガイド · 充電"
+          }
+        },
+        {
+          "id": "q-early-checkin",
+          "q": {
+            "en": "What is your policy on early check-in and luggage drop-off?",
+            "nl": "Wat is uw beleid rond vroeger inchecken en bagage afzetten?",
+            "fr": "Quelle est votre politique d'arrivée anticipée et de dépôt des bagages ?",
+            "de": "Wie handhaben Sie frühes Einchecken und Gepäckabgabe?",
+            "zh": "提前入住和寄存行李的政策是什么？",
+            "ko": "얼리 체크인과 짐 보관 정책은 어떻게 되나요?",
+            "ja": "アーリーチェックインと荷物預かりのポリシーは？"
+          },
+          "lands": {
+            "en": "FAQ",
+            "nl": "FAQ",
+            "fr": "FAQ",
+            "de": "FAQ",
+            "zh": "常见问题",
+            "ko": "FAQ",
+            "ja": "FAQ"
+          }
+        },
+        {
+          "id": "q-night-photos",
+          "q": {
+            "en": "For arrivals after dark: could you provide photos of the road approach, gate, parking area and correct entrance door?",
+            "nl": "Voor aankomsten in het donker: kunt u foto's bezorgen van de aanrijroute, de poort, de parking en de juiste toegangsdeur?",
+            "fr": "Pour les arrivées de nuit : pouvez-vous fournir des photos de la route d'accès, du portail, du parking et de la bonne porte d'entrée ?",
+            "de": "Für Ankünfte im Dunkeln: Könnten Sie Fotos von Zufahrt, Tor, Parkplatz und der richtigen Eingangstür bereitstellen?",
+            "zh": "针对天黑后到达：能否提供进场道路、大门、停车区和正确入口门的照片？",
+            "ko": "야간 도착을 위해 진입로, 대문, 주차장, 올바른 출입문 사진을 제공해 주실 수 있나요?",
+            "ja": "夜間到着のために、進入路・門・駐車場・正しい入口ドアの写真をご提供いただけますか？"
+          },
+          "lands": {
+            "en": "Arrival guide",
+            "nl": "Aankomstgids",
+            "fr": "Guide arrivée",
+            "de": "Ankunftsanleitung",
+            "zh": "到达指南",
+            "ko": "도착 가이드",
+            "ja": "到着ガイド"
+          }
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": {
+        "en": "The animals",
+        "nl": "De dieren",
+        "fr": "Les animaux",
+        "de": "Die Tiere",
+        "zh": "动物",
+        "ko": "동물",
+        "ja": "動物たち"
+      },
+      "priority": "medium",
+      "questions": [
+        {
+          "id": "q-feeding",
+          "q": {
+            "en": "Who feeds and cares for the animals (cats, ducks, chickens) and when — should guests ever be involved?",
+            "nl": "Wie voedert en verzorgt de dieren (katten, eenden, kippen) en wanneer — mogen gasten ooit meehelpen?",
+            "fr": "Qui nourrit et soigne les animaux (chats, canards, poules) et quand — les invités peuvent-ils participer ?",
+            "de": "Wer füttert und versorgt die Tiere (Katzen, Enten, Hühner) und wann — dürfen Gäste je mithelfen?",
+            "zh": "谁负责喂养和照顾动物（猫、鸭、鸡）？何时进行？客人可以参与吗？",
+            "ko": "동물(고양이, 오리, 닭)은 누가 언제 돌보나요? 손님이 참여할 수 있나요?",
+            "ja": "動物（猫・アヒル・ニワトリ）の世話は誰がいつしますか？ゲストも関われますか？"
+          },
+          "lands": {
+            "en": "Animals page",
+            "nl": "Dierenpagina",
+            "fr": "Page animaux",
+            "de": "Tierseite",
+            "zh": "动物页面",
+            "ko": "동물 페이지",
+            "ja": "動物ページ"
+          }
+        },
+        {
+          "id": "q-cats-indoors",
+          "q": {
+            "en": "Which indoor spaces are the cats allowed in? The app currently says keep them out of bedrooms and the cinema room — please confirm.",
+            "nl": "In welke binnenruimtes mogen de katten komen? De app zegt nu: houd ze uit de slaapkamers en de cinemakamer — graag bevestigen.",
+            "fr": "Dans quelles pièces les chats sont-ils admis ? L'app dit actuellement de les tenir hors des chambres et du cinéma — merci de confirmer.",
+            "de": "In welche Innenräume dürfen die Katzen? Die App sagt derzeit: nicht in Schlafzimmer und Kinoraum — bitte bestätigen.",
+            "zh": "猫可以进入哪些室内空间？应用目前建议不让它们进卧室和影院房间——请确认。",
+            "ko": "고양이는 어떤 실내 공간에 들어갈 수 있나요? 앱은 현재 침실과 시네마 룸 출입 금지를 안내 중입니다 — 확인 부탁드립니다.",
+            "ja": "猫が入ってよい室内スペースは？アプリでは現在、寝室とシネマルームには入れないよう案内しています — ご確認ください。"
+          },
+          "lands": {
+            "en": "Animals FAQ",
+            "nl": "Dieren-FAQ",
+            "fr": "FAQ animaux",
+            "de": "Tiere-FAQ",
+            "zh": "动物常见问题",
+            "ko": "동물 FAQ",
+            "ja": "動物FAQ"
+          }
+        },
+        {
+          "id": "q-eggs-breakfast",
+          "q": {
+            "en": "Are fresh eggs set out for guests as part of a farm breakfast?",
+            "nl": "Worden er verse eieren klaargezet voor de gasten als boerenontbijt?",
+            "fr": "Des œufs frais sont-ils mis à disposition des invités pour un petit-déjeuner fermier ?",
+            "de": "Werden frische Eier für die Gäste als Bauernfrühstück bereitgestellt?",
+            "zh": "是否会为客人提供新鲜鸡蛋作为农场早餐？",
+            "ko": "손님을 위한 농장 아침식사로 신선한 달걀이 제공되나요?",
+            "ja": "ファーム朝食として新鮮な卵はゲストに用意されますか？"
+          },
+          "lands": {
+            "en": "Kitchen page",
+            "nl": "Keukenpagina",
+            "fr": "Page cuisine",
+            "de": "Küchenseite",
+            "zh": "厨房页面",
+            "ko": "주방 페이지",
+            "ja": "キッチンページ"
+          }
+        },
+        {
+          "id": "q-egg-collection",
+          "q": {
+            "en": "May children watch the egg collection?",
+            "nl": "Mogen kinderen komen kijken bij het eieren rapen?",
+            "fr": "Les enfants peuvent-ils assister au ramassage des œufs ?",
+            "de": "Dürfen Kinder beim Eiersammeln zusehen?",
+            "zh": "孩子们可以观看捡鸡蛋吗？",
+            "ko": "아이들이 달걀 수거를 구경해도 되나요?",
+            "ja": "子どもたちは卵の収集を見学できますか？"
+          },
+          "lands": {
+            "en": "Chickens page",
+            "nl": "Kippenpagina",
+            "fr": "Page poules",
+            "de": "Hühnerseite",
+            "zh": "鸡页面",
+            "ko": "닭 페이지",
+            "ja": "ニワトリページ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "title": {
+        "en": "Practical guest questions",
+        "nl": "Praktische gastenvragen",
+        "fr": "Questions pratiques",
+        "de": "Praktische Gästefragen",
+        "zh": "实用问题",
+        "ko": "실용적 질문",
+        "ja": "実用的な質問"
+      },
+      "priority": "medium",
+      "questions": [
+        {
+          "id": "q-hairdryer",
+          "q": {
+            "en": "Are a hair dryer, iron and ironing board provided, and where are they kept?",
+            "nl": "Zijn er een haardroger, strijkijzer en strijkplank aanwezig, en waar liggen die?",
+            "fr": "Un sèche-cheveux, un fer et une planche à repasser sont-ils fournis, et où sont-ils rangés ?",
+            "de": "Gibt es Haartrockner, Bügeleisen und Bügelbrett, und wo werden sie aufbewahrt?",
+            "zh": "是否提供吹风机、熨斗和熨衣板？放在哪里？",
+            "ko": "헤어드라이어, 다리미, 다리미판이 제공되나요? 어디에 보관되나요?",
+            "ja": "ドライヤー、アイロン、アイロン台はありますか？どこに保管されていますか？"
+          },
+          "lands": {
+            "en": "FAQ",
+            "nl": "FAQ",
+            "fr": "FAQ",
+            "de": "FAQ",
+            "zh": "常见问题",
+            "ko": "FAQ",
+            "ja": "FAQ"
+          }
+        },
+        {
+          "id": "q-baby",
+          "q": {
+            "en": "Is baby equipment available — travel cot, high chair, stair gate?",
+            "nl": "Is er babyuitrusting beschikbaar — reisbedje, kinderstoel, traphekje?",
+            "fr": "Du matériel bébé est-il disponible — lit parapluie, chaise haute, barrière d'escalier ?",
+            "de": "Gibt es Babyausstattung — Reisebett, Hochstuhl, Treppenschutzgitter?",
+            "zh": "是否提供婴儿设备——旅行婴儿床、高脚椅、楼梯护栏？",
+            "ko": "아기 용품이 있나요? 여행용 침대, 유아 의자, 계단 안전문 등이요.",
+            "ja": "ベビー用品はありますか？トラベルベッド、ハイチェア、階段ゲートなど。"
+          },
+          "lands": {
+            "en": "FAQ",
+            "nl": "FAQ",
+            "fr": "FAQ",
+            "de": "FAQ",
+            "zh": "常见问题",
+            "ko": "FAQ",
+            "ja": "FAQ"
+          }
+        },
+        {
+          "id": "q-accessibility",
+          "q": {
+            "en": "Accessibility: is there step-free access, how steep are the stairs, and can less mobile guests stay comfortably using the downstairs bedroom and bathroom?",
+            "nl": "Toegankelijkheid: is er drempelloze toegang, hoe steil is de trap, en kunnen minder mobiele gasten comfortabel logeren met de slaapkamer en badkamer beneden?",
+            "fr": "Accessibilité : y a-t-il un accès sans marches, quelle est la pente de l'escalier, et les personnes à mobilité réduite peuvent-elles séjourner confortablement avec la chambre et la salle de bain du rez-de-chaussée ?",
+            "de": "Barrierefreiheit: Gibt es stufenlosen Zugang, wie steil ist die Treppe, und können weniger mobile Gäste mit Schlafzimmer und Bad im Erdgeschoss komfortabel wohnen?",
+            "zh": "无障碍情况：是否有无台阶入口？楼梯有多陡？行动不便的客人能否使用楼下卧室和浴室舒适入住？",
+            "ko": "접근성: 무단차 출입이 가능한가요? 계단 경사는 어떤가요? 거동이 불편한 손님이 아래층 침실과 욕실로 편히 지낼 수 있나요?",
+            "ja": "バリアフリー：段差のない入口はありますか？階段の勾配は？足の不自由なゲストは1階の寝室・バスルームで快適に滞在できますか？"
+          },
+          "lands": {
+            "en": "Pending register",
+            "nl": "Openstaande info",
+            "fr": "Infos en attente",
+            "de": "Offene Infos",
+            "zh": "待确认信息",
+            "ko": "확인 대기 정보",
+            "ja": "確認待ち情報"
+          }
+        },
+        {
+          "id": "q-taxi",
+          "q": {
+            "en": "A local taxi number you trust, and the nearest bus stop or station guests should use for Antwerp/Ghent?",
+            "nl": "Een lokaal taxinummer dat u vertrouwt, en de dichtstbijzijnde bushalte of het station voor Antwerpen/Gent?",
+            "fr": "Un numéro de taxi local de confiance, et l'arrêt de bus ou la gare la plus proche pour Anvers/Gand ?",
+            "de": "Eine vertrauenswürdige lokale Taxinummer und die nächste Bushaltestelle oder der Bahnhof für Antwerpen/Gent?",
+            "zh": "您信任的当地出租车电话，以及前往安特卫普/根特最近的公交站或车站？",
+            "ko": "신뢰할 수 있는 지역 택시 번호와 안트베르펜/겐트행 가장 가까운 버스 정류장이나 역은?",
+            "ja": "信頼できる地元のタクシー番号と、アントワープ／ゲント方面への最寄りのバス停・駅は？"
+          },
+          "lands": {
+            "en": "Transport FAQ",
+            "nl": "Vervoer-FAQ",
+            "fr": "FAQ transport",
+            "de": "Verkehr-FAQ",
+            "zh": "交通常见问题",
+            "ko": "교통 FAQ",
+            "ja": "交通FAQ"
+          }
+        },
+        {
+          "id": "q-wifi-coverage",
+          "q": {
+            "en": "Has Wi-Fi coverage been tested in the bedrooms, garden and hot tub area?",
+            "nl": "Is het wifi-bereik getest in de slaapkamers, de tuin en bij de hottub?",
+            "fr": "La couverture Wi-Fi a-t-elle été testée dans les chambres, le jardin et près du jacuzzi ?",
+            "de": "Wurde die WLAN-Abdeckung in den Schlafzimmern, im Garten und am Whirlpool getestet?",
+            "zh": "卧室、花园和热水浴缸区域的Wi-Fi覆盖测试过吗？",
+            "ko": "침실, 정원, 온수 욕조 구역의 와이파이 신호를 테스트해 보셨나요?",
+            "ja": "寝室・庭・ホットタブ周辺のWi-Fiの電波状況は確認済みですか？"
+          },
+          "lands": {
+            "en": "Wi-Fi FAQ",
+            "nl": "Wifi-FAQ",
+            "fr": "FAQ Wi-Fi",
+            "de": "WLAN-FAQ",
+            "zh": "Wi-Fi常见问题",
+            "ko": "와이파이 FAQ",
+            "ja": "Wi-Fi FAQ"
+          }
+        },
+        {
+          "id": "q-bedding",
+          "q": {
+            "en": "Are the bedding (natural linen) and rain showers described accurately in the app?",
+            "nl": "Kloppen de beschrijvingen in de app van het beddengoed (natuurlijk linnen) en de regendouches?",
+            "fr": "Les descriptions de la literie (lin naturel) et des douches pluie dans l'app sont-elles exactes ?",
+            "de": "Sind Bettwäsche (Naturleinen) und Regenduschen in der App korrekt beschrieben?",
+            "zh": "应用中对床品（天然亚麻）和雨淋花洒的描述准确吗？",
+            "ko": "앱의 침구(천연 리넨)와 레인 샤워 설명이 정확한가요?",
+            "ja": "アプリのリネン（天然リネン）とレインシャワーの説明は正確ですか？"
+          },
+          "lands": {
+            "en": "Bedrooms · Bathrooms",
+            "nl": "Slaapkamers · Badkamers",
+            "fr": "Chambres · Salles de bain",
+            "de": "Schlafzimmer · Bäder",
+            "zh": "卧室 · 浴室",
+            "ko": "침실 · 욕실",
+            "ja": "寝室 · バスルーム"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": {
+        "en": "Storytelling & favourites (nice-to-have)",
+        "nl": "Verhaal & favorieten (leuk om te hebben)",
+        "fr": "Histoire et favoris (bonus)",
+        "de": "Geschichte & Favoriten (optional)",
+        "zh": "故事与推荐（加分项）",
+        "ko": "이야기와 추천 (선택)",
+        "ja": "ストーリーとおすすめ（あれば嬉しい）"
+      },
+      "priority": "low",
+      "questions": [
+        {
+          "id": "q-story",
+          "q": {
+            "en": "The story of the barn's renovation and craftsmanship — one or two paragraphs in your own words.",
+            "nl": "Het verhaal van de renovatie en het vakmanschap van de schuur — één of twee alinea's in uw eigen woorden.",
+            "fr": "L'histoire de la rénovation et de l'artisanat de la grange — un ou deux paragraphes avec vos propres mots.",
+            "de": "Die Geschichte der Renovierung und Handwerkskunst der Scheune — ein bis zwei Absätze in Ihren eigenen Worten.",
+            "zh": "谷仓翻新与工艺的故事——用您自己的话写一两段即可。",
+            "ko": "헛간 리노베이션과 장인정신 이야기 — 직접 쓰신 한두 문단이면 충분합니다.",
+            "ja": "納屋の改装と職人技の物語 — ご自身の言葉で1〜2段落お願いします。"
+          },
+          "lands": {
+            "en": "Story of the Barn",
+            "nl": "Verhaal van de schuur",
+            "fr": "Histoire de la grange",
+            "de": "Geschichte der Scheune",
+            "zh": "谷仓的故事",
+            "ko": "헛간 이야기",
+            "ja": "納屋の物語"
+          }
+        },
+        {
+          "id": "q-favourites",
+          "q": {
+            "en": "Your personal local favourites — restaurants, cafés, walks, markets, day trips you actually recommend.",
+            "nl": "Uw persoonlijke favorieten in de buurt — restaurants, cafés, wandelingen, markten, daguitstappen die u écht aanraadt.",
+            "fr": "Vos adresses locales préférées — restaurants, cafés, promenades, marchés, excursions que vous recommandez vraiment.",
+            "de": "Ihre persönlichen lokalen Favoriten — Restaurants, Cafés, Spaziergänge, Märkte, Ausflüge, die Sie wirklich empfehlen.",
+            "zh": "您的私藏本地推荐——真心推荐的餐厅、咖啡馆、步道、集市和一日游。",
+            "ko": "직접 추천하시는 지역 명소 — 레스토랑, 카페, 산책로, 시장, 당일치기 여행지.",
+            "ja": "あなたの地元のお気に入り — 本当におすすめのレストラン、カフェ、散歩道、市場、日帰り旅行先。"
+          },
+          "lands": {
+            "en": "Host favourites",
+            "nl": "Favorieten van de gastheer",
+            "fr": "Favoris des hôtes",
+            "de": "Gastgeber-Favoriten",
+            "zh": "房东推荐",
+            "ko": "호스트 추천",
+            "ja": "ホストのおすすめ"
+          }
+        },
+        {
+          "id": "q-floorplans",
+          "q": {
+            "en": "Floor plans (even a rough sketch) so we can add an interactive house map.",
+            "nl": "Plattegronden (zelfs een ruwe schets volstaat) zodat we een interactieve huiskaart kunnen toevoegen.",
+            "fr": "Des plans (même un croquis) pour ajouter une carte interactive de la maison.",
+            "de": "Grundrisse (auch eine grobe Skizze) für eine interaktive Hauskarte.",
+            "zh": "平面图（哪怕是粗略草图）以便添加互动房屋地图。",
+            "ko": "인터랙티브 하우스 맵을 위한 평면도(대략적인 스케치도 좋음).",
+            "ja": "インタラクティブなハウスマップ用の間取り図（ラフスケッチでも可）。"
+          },
+          "lands": {
+            "en": "House map",
+            "nl": "Huiskaart",
+            "fr": "Plan de la maison",
+            "de": "Hauskarte",
+            "zh": "房屋地图",
+            "ko": "하우스 맵",
+            "ja": "ハウスマップ"
+          }
+        }
+      ]
+    }
+  ]
+}

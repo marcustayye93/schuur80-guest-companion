@@ -109,7 +109,9 @@
     "tsHotTubTitle": "The hot tub isn't warm",
     "tsHotTubBody": "Heating a hot tub takes several hours, so keep the cover on whenever it's not in use — that's what holds the heat. If you're planning an evening soak, check the temperature in the morning. Operating details are being confirmed by the owners; they're right next door and happy to get it ready for you.",
     "tsPowerTitle": "The power has gone out",
-    "tsPowerBody": "First check if the neighbours' lights are also off (a local outage usually resolves itself). If it's just the barn, a fuse has probably tripped — the owners next door know the fuse box and will sort it quickly. Keep a phone torch handy; country nights are dark."
+    "tsPowerBody": "First check if the neighbours' lights are also off (a local outage usually resolves itself). If it's just the barn, a fuse has probably tripped — the owners next door know the fuse box and will sort it quickly. Keep a phone torch handy; country nights are dark.",
+    "ownerQuestions": "Questions for the owners",
+    "ownerQuestionsSub": "The open questions we'd love the owners to answer"
   },
   "emergency": {
     "title": "Emergency",
@@ -248,5 +250,15 @@
     "wifiQrCaption": "Point your camera at the code and tap the prompt — connected, no typing.",
     "network": "Network",
     "password": "Password"
+  },
+  "ownerq": {
+    "title": "Questions for the owners",
+    "intro": "Dear owners — this page gathers everything the app still needs from you. Every answer replaces a placeholder with confirmed information for your guests.",
+    "count": "{n} open questions.",
+    "priorityHigh": "High priority",
+    "priorityMedium": "Medium",
+    "priorityLow": "Nice-to-have",
+    "landsLabel": "Where it lands",
+    "footer": "Answers can be given in any order and in your own words — short notes are enough. They will be worked into the app in all seven languages."
   }
 }

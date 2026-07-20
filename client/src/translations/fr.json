@@ -109,7 +109,9 @@
     "tsHotTubTitle": "Le jacuzzi n'est pas chaud",
     "tsHotTubBody": "Chauffer un jacuzzi prend plusieurs heures, alors laissez la couverture dessus quand il n'est pas utilisé — c'est elle qui retient la chaleur. Pour un bain le soir, vérifiez la température le matin. Les détails d'utilisation sont en cours de confirmation par les propriétaires ; ils habitent juste à côté et le prépareront avec plaisir.",
     "tsPowerTitle": "Le courant est coupé",
-    "tsPowerBody": "Vérifiez d'abord si les lumières des voisins sont aussi éteintes (une panne locale se résout généralement d'elle-même). Si c'est seulement la grange, un fusible a probablement sauté — les propriétaires d'à côté connaissent le tableau électrique et régleront ça vite. Gardez la lampe de votre téléphone à portée de main ; les nuits de campagne sont sombres."
+    "tsPowerBody": "Vérifiez d'abord si les lumières des voisins sont aussi éteintes (une panne locale se résout généralement d'elle-même). Si c'est seulement la grange, un fusible a probablement sauté — les propriétaires d'à côté connaissent le tableau électrique et régleront ça vite. Gardez la lampe de votre téléphone à portée de main ; les nuits de campagne sont sombres.",
+    "ownerQuestions": "Questions pour les propriétaires",
+    "ownerQuestionsSub": "Les questions ouvertes auxquelles nous aimerions une réponse"
   },
   "emergency": {
     "title": "Urgence",
@@ -248,5 +250,15 @@
     "wifiQrCaption": "Visez le code avec votre appareil photo et touchez l'invite — connecté, sans rien taper.",
     "network": "Réseau",
     "password": "Mot de passe"
+  },
+  "ownerq": {
+    "title": "Questions pour les propriétaires",
+    "intro": "Chers propriétaires — cette page rassemble tout ce dont l'app a encore besoin de votre part. Chaque réponse remplace une mention provisoire par une information confirmée pour vos invités.",
+    "count": "{n} questions ouvertes.",
+    "priorityHigh": "Priorité haute",
+    "priorityMedium": "Moyenne",
+    "priorityLow": "Bonus",
+    "landsLabel": "Destination",
+    "footer": "Vous pouvez répondre dans n'importe quel ordre et avec vos propres mots — de courtes notes suffisent. Tout sera ensuite intégré à l'app dans les sept langues."
   }
 }
